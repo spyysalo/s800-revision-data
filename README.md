@@ -11,3 +11,11 @@ wget http://species.jensenlab.org/files/S800-1.0.tar.gz
 mkdir original-data
 tar xzf S800-1.0.tar.gz -C original-data
 ```
+
+The original annotations were then converted into standoff as follows:
+
+```
+git clone https://github.com/spyysalo/s800
+cd s800
+./convert_s800.sh ../original-data ../original-standoff
+```

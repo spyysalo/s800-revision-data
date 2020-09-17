@@ -17,7 +17,6 @@ N8	Reference T8 Taxonomy:12721
 T9	Species 737 740	HCV
 N9	Reference T9 Taxonomy:11103
 T10	Species 741 744	HIV
-N10	Reference T10 Taxonomy:12721
 T11	Species 846 849	HIV
 N11	Reference T11 Taxonomy:12721
 T12	Species 943 946	HCV
@@ -34,3 +33,14 @@ T17	Species 2271 2274	HCV
 N17	Reference T17 Taxonomy:11103
 T18	Species 2275 2278	HIV
 N18	Reference T18 Taxonomy:12721
+T19	Species 277 294	hepatitis C virus
+N19	Reference T19 Taxonomy:11103	
+T20	Species 104 107	HCV
+N20	Reference T20 Taxonomy:11103	
+N10	Reference T10 Taxonomy:12721	
+T21	Species 80 83	HIV
+N21	Reference T21 Taxonomy:12721	
+T22	Species 1204 1207	HCV
+N22	Reference T22 Taxonomy:11103	
+T23	Species 443 458	influenza virus
+N23	Reference T23 Taxonomy:11320	Influenza A virus

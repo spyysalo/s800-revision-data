@@ -26,3 +26,12 @@ T13	Species 1240 1247	PemoNPV
 N13	Reference T13 Taxonomy:259389
 T14	Species 1791 1795	IMNV
 N14	Reference T14 Taxonomy:282786
+T15	Species 1250 1281	Penaeus stylirostris densovirus
+T16	Species 1283 1289	PstDNV
+T17	Species 955 971	Penaeus vannamei
+T18	Species 1295 1321	Penaeus monodon densovirus
+T19	Species 1323 1328	PmDNV
+T20	Species 781 791	Swiss mice
+N15	Reference T17 Taxonomy:6689	Penaeus vannamei
+N16	Reference T15 Taxonomy:1593240	Penaeus stylirostris densovirus
+N17	Reference T16 Taxonomy:1593240	Penaeus stylirostris densovirus

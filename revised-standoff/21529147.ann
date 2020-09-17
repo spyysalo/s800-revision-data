@@ -6,8 +6,7 @@ T3	Species 112 127	Dalbulus maidis
 N3	Reference T3 Taxonomy:74065
 T4	Species 149 169	Delphacodes kuscheli
 N4	Reference T4 Taxonomy:1032455
-T5	Species 251 255	corn
-N5	Reference T5 Taxonomy:4577
+T5	Species 251 266	corn leafhopper
 T6	Species 1070 1088	Beauveria bassiana
 N6	Reference T6 Taxonomy:176275
 T7	Species 1215 1224	D. maidis
@@ -38,3 +37,11 @@ T19	Species 1832 1848	B. licheniformis
 N19	Reference T19 Taxonomy:1402
 T20	Species 1890 1901	B. subtilis
 N20	Reference T20 Taxonomy:1423
+T21	Species 268 283	Dalbulus maidis
+T22	Species 353 373	Delphacodes kuscheli
+T23	Species 196 201	maize
+T24	Species 553 557	corn
+N21	Reference T24 Taxonomy:4577	Zea mays
+N22	Reference T22 Taxonomy:1032455	Delphacodes kuscheli
+N23	Reference T21 Taxonomy:74065	Dalbulus maidis
+N5	Reference T5 Taxonomy:74065	Dalbulus maidis

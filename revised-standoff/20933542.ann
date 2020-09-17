@@ -1,5 +1,4 @@
 T1	Species 35 64	porcine endogenous retrovirus
-N1	Reference T1 Taxonomy:369960
 T2	Species 166 197	Porcine endogenous retroviruses
 N2	Reference T2 Taxonomy:369960
 T3	Species 199 204	PERVs
@@ -22,3 +21,6 @@ T11	Species 984 990	PERV-B
 N11	Reference T11 Taxonomy:369960
 T12	Species 1135 1141	PERV-A
 N12	Reference T12 Taxonomy:369960
+T13	Species 65 69	PERV
+N13	Reference T13 Taxonomy:61673	Porcine endogenous retrovirus
+N1	Reference T1 Taxonomy:61673	Porcine endogenous retrovirus

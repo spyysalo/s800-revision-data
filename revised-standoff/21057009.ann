@@ -1,2 +1,8 @@
 T1	Species 281 296	Medicago sativa
 N1	Reference T1 Taxonomy:3879
+T2	Species 116 138	Sinorhizobium meliloti
+T3	Species 87 109	Sinorhizobium meliloti
+T4	Species 1291 1302	S. meliloti
+N2	Reference T3 Taxonomy:382	Sinorhizobium meliloti
+N3	Reference T2 Taxonomy:382	Sinorhizobium meliloti
+N4	Reference T4 Taxonomy:382	Sinorhizobium meliloti

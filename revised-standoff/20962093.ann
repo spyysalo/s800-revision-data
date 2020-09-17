@@ -1,6 +1,6 @@
 T1	Species 0 5	Human
 N1	Reference T1 Taxonomy:9606
-T2	Species 76 81	HIV-1
+T2	Out-of-scope 76 81	HIV-1
 N2	Reference T2 Taxonomy:11676
 T3	Species 431 436	HIV-1
 N3	Reference T3 Taxonomy:11676
@@ -14,5 +14,7 @@ T7	Species 969 974	HIV-1
 N7	Reference T7 Taxonomy:11676
 T8	Species 1071 1076	HIV-1
 N8	Reference T8 Taxonomy:11676
-T9	Species 1376 1381	HIV-1
+T9	Out-of-scope 1376 1381	HIV-1
 N9	Reference T9 Taxonomy:11676
+T10	Species 783 788	human
+T11	Species 984 989	human

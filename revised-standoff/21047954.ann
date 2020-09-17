@@ -2,3 +2,11 @@ T1	Species 246 256	retroviral
 N1	Reference T1 Taxonomy:31931
 T2	Species 640 670	murine leukemia virus (F-MuLV)
 N2	Reference T2 Taxonomy:11786
+T3	Species 214 219	mouse
+T4	Species 33 45	friend virus
+N3	Reference T4 Taxonomy:11786	
+T5	Species 166 178	Friend virus
+N4	Reference T5 Taxonomy:11786	
+T6	Species 180 182	FV
+N5	Reference T6 Taxonomy:11786	
+N6	Reference T3 Taxonomy:10090	Mus musculus

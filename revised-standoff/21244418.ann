@@ -8,11 +8,11 @@ T4	Species 850 865	Accipiter nisus
 N4	Reference T4 Taxonomy:211598
 T5	Species 1001 1009	redshank
 N5	Reference T5 Taxonomy:171271
-T6	Species 1312 1323	Sparrowhawk
-N6	Reference T6 Taxonomy:211598
+T6	Out-of-scope 1312 1323	Sparrowhawk
 T7	Species 1401 1410	redshanks
 N7	Reference T7 Taxonomy:171271
-T8	Species 1412 1423	Sparrowhawk
-N8	Reference T8 Taxonomy:211598
+T8	Out-of-scope 1412 1423	Sparrowhawk
 T9	Species 1720 1729	Redshanks
 N9	Reference T9 Taxonomy:171271
+N10	Reference T6 Taxonomy:8956	Accipiter
+N6	Reference T8 Taxonomy:8956	Accipiter

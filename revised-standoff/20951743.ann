@@ -36,7 +36,7 @@ T18	Species 630 631	A
 N18	Reference T18 Taxonomy:12110
 T19	Species 636 642	Asia 1
 N19	Reference T19 Taxonomy:12110
-T20	Species 1081 1098	FMDV serotypes O,
+T20	Species 1081 1097	FMDV serotypes O
 N20	Reference T20 Taxonomy:12110
 T22	Species 1081 1095;1099 1100	FMDV serotypes A
 N22	Reference T22 Taxonomy:12110
@@ -44,3 +44,6 @@ T23	Species 1081 1095;1105 1111	FMDV serotypes Asia 1
 N23	Reference T23 Taxonomy:12110
 T24	Species 1232 1248	FMDV type Asia 1
 N24	Reference T24 Taxonomy:12110
+#1	AnnotatorNotes T4	TODO check span
+T21	Species 342 353	guinea pigs
+N21	Reference T21 Taxonomy:10141	Cavia porcellus

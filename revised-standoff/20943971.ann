@@ -14,7 +14,7 @@ T7	Species 750 754	mice
 N7	Reference T7 Taxonomy:10090
 T8	Species 807 809	VV
 N8	Reference T8 Taxonomy:10245
-T9	Species 811 813	VV
+T9	Out-of-scope 811 813	VV
 N9	Reference T9 Taxonomy:10245
 T10	Species 870 875	mouse
 N10	Reference T10 Taxonomy:10090
@@ -30,3 +30,6 @@ T15	Species 1335 1339	mice
 N15	Reference T15 Taxonomy:10090
 T16	Species 1485 1490	mouse
 N16	Reference T16 Taxonomy:10090
+#1	AnnotatorNotes T9	TODO check
+T17	Species 838 840	VV
+N17	Reference T17 Taxonomy:10245	

@@ -2,7 +2,7 @@ T1	Species 499 508	leafminer
 N1	Reference T1 Taxonomy:127405
 T2	Species 510 532	Liriomyza huidobrensis
 N2	Reference T2 Taxonomy:127405
-T3	Species 552 556	wasp
+T3	Out-of-scope 552 556	wasp
 N3	Reference T3 Taxonomy:58748
 T4	Species 558 572	Opius dissitus
 N4	Reference T4 Taxonomy:58748
@@ -24,3 +24,10 @@ T12	Species 1063 1072	WT plants
 N12	Reference T12 Taxonomy:4081
 T13	Species 1122 1139	35S::prosys plant
 N13	Reference T13 Taxonomy:4081
+#1	AnnotatorNotes T3	TODO check
+#2	AnnotatorNotes T6	TODO check
+#3	AnnotatorNotes T7	TODO check
+#4	AnnotatorNotes T8	TODO check
+#5	AnnotatorNotes T10	TODO check
+#6	AnnotatorNotes T12	TODO check
+#7	AnnotatorNotes T13	TODO check

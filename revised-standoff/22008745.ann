@@ -2,7 +2,7 @@ T1	Species 153 171	Aspergillus oryzae
 N1	Reference T1 Taxonomy:5062
 T2	Species 706 724	Aspergillus oryzae
 N2	Reference T2 Taxonomy:5062
-T3	Species 1404 1409	Yeast
-N3	Reference T3 Taxonomy:4932
+T3	Out-of-scope 1404 1409	Yeast
 T4	Species 1600 1609	A. oryzae
 N4	Reference T4 Taxonomy:5062
+N3	Reference T3 Taxonomy:147537	Saccharomycotina

@@ -4,8 +4,7 @@ T2	Species 219 225	tomato
 N2	Reference T2 Taxonomy:4081
 T3	Species 380 386	potato
 N3	Reference T3 Taxonomy:4113
-T4	Species 405 410	yeast
-N4	Reference T4 Taxonomy:4932
+T4	Out-of-scope 405 410	yeast
 T5	Species 785 801	Escherichia coli
 N5	Reference T5 Taxonomy:562
 T6	Species 803 825	Pseudomonas aeruginosa
@@ -30,3 +29,6 @@ T15	Species 0 29	Streptomyces lacticiproducens
 N15	Reference T15 Taxonomy:652943	Streptomyces lacticiproducens
 T16	Species 1658 1687	Streptomyces lacticiproducens
 N16	Reference T16 Taxonomy:652943	Streptomyces lacticiproducens
+N4	Reference T4 Taxonomy:147537	Saccharomycotina
+T17	Species 1338 1357	S. lavenduligriseus
+N17	Reference T17 Taxonomy:67315	Streptomyces lavenduligriseus

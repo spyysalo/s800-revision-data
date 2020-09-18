@@ -14,10 +14,7 @@ T7	Species 704 714	ATMT0225B6
 N7	Reference T7 Taxonomy:318829
 T8	Species 716 730	MoCDC15(T-DNA)
 N8	Reference T8 Taxonomy:318829
-T9	Species 811 816	yeast
-N9	Reference T9 Taxonomy:4932
-T10	Species 995 1000	yeast
-N10	Reference T10 Taxonomy:4932
+T10	Out-of-scope 995 1000	yeast
 T11	Species 1173 1182	M. oryzae
 N11	Reference T11 Taxonomy:318829
 T12	Species 1418 1435	wild type MoCDC15
@@ -26,4 +23,8 @@ T13	Species 1579 1588	M. oryzae
 N13	Reference T13 Taxonomy:318829
 T14	Species 142 146	Rice
 N14	Reference T14 Taxonomy:4530	Oryza sativa
-#1	AnnotatorNotes T12	TODO check
+#1	AnnotatorNotes T12	TODO check span
+#2	AnnotatorNotes T1	TODO check
+N10	Reference T10 Taxonomy:147537	Saccharomycotina
+T9	Out-of-scope 803 816	fission yeast
+N9	Reference T9 Taxonomy:4894	Schizosaccharomycetaceae

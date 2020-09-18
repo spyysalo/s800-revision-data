@@ -36,5 +36,11 @@ T18	Species 1512 1524	DSM 21436(T)
 N18	Reference T18 Taxonomy:545537
 T19	Species 1526 1538	JCM 16107(T)
 N19	Reference T19 Taxonomy:545537
-T20	Species 546 551	yeast
-N20	Reference T20 Taxonomy:4932	
+T20	Out-of-scope 546 551	yeast
+N20	Reference T20 Taxonomy:147537	Saccharomycotina
+#1	AnnotatorNotes T5	TODO check specificity
+#2	AnnotatorNotes T6	TODO check span
+#3	AnnotatorNotes T8	TODO check span
+#4	AnnotatorNotes T11	TODO check span
+#5	AnnotatorNotes T13	TODO check span
+#6	AnnotatorNotes T2	TODO check specificity

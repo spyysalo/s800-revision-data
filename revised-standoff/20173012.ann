@@ -1,7 +1,6 @@
 T1	Species 574 606	Clostridiisalibacter paucivorans
 N1	Reference T1 Taxonomy:408753
-T2	Species 1196 1201	yeast
-N2	Reference T2 Taxonomy:4932
+T2	Out-of-scope 1196 1201	yeast
 T3	Species 1728 1760	Clostridiisalibacter paucivorans
 N3	Reference T3 Taxonomy:408753
 T4	Species 1784 1810	Thermohalobacter berrensis
@@ -14,5 +13,9 @@ T7	Species 2026 2055	Sporosalibacterium faouarense
 N7	Reference T7 Taxonomy:516123	Sporosalibacterium faouarense
 T8	Species 2157 2186	Sporosalibacterium faouarense
 N8	Reference T8 Taxonomy:516123	Sporosalibacterium faouarense
-T9	Species 1036 1041	Yeast
-N9	Reference T9 Taxonomy:4932	
+T9	Out-of-scope 1036 1041	Yeast
+N9	Reference T9 Taxonomy:147537	Saccharomycotina
+N2	Reference T2 Taxonomy:147537	Saccharomycotina
+#1	AnnotatorNotes T3	TODO check span
+#2	AnnotatorNotes T4	TODO check span
+#3	AnnotatorNotes T5	TODO check span

@@ -4,8 +4,7 @@ T2	Species 224 244	Aspergillus nidulans
 N2	Reference T2 Taxonomy:162425
 T3	Species 294 310	Escherichia coli
 N3	Reference T3 Taxonomy:562
-T4	Species 465 470	yeast
-N4	Reference T4 Taxonomy:4932
+T4	Out-of-scope 465 470	yeast
 T5	Species 471 495	Saccharomyces cerevisiae
 N5	Reference T5 Taxonomy:4932
 T6	Species 530 541	A. nidulans
@@ -16,3 +15,4 @@ T8	Species 1292 1303	A. nidulans
 N8	Reference T8 Taxonomy:162425
 T9	Species 1307 1328	Aspergillus fumigatus
 N9	Reference T9 Taxonomy:746128
+N4	Reference T4 Taxonomy:147537	Saccharomycotina

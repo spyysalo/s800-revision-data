@@ -6,13 +6,14 @@ T3	Species 161 173	Oryza sativa
 N3	Reference T3 Taxonomy:4530
 T4	Species 175 189	cv Cho-Ko-Koku
 N4	Reference T4 Taxonomy:4530
-T5	Species 852 857	yeast
-N5	Reference T5 Taxonomy:4932
-T6	Species 912 917	yeast
-N6	Reference T6 Taxonomy:4932
-T7	Species 1047 1052	yeast
-N7	Reference T7 Taxonomy:4932
+T5	Out-of-scope 852 857	yeast
+T6	Out-of-scope 912 917	yeast
+T7	Out-of-scope 1047 1052	yeast
 T8	Species 1184 1188	rice
 N8	Reference T8 Taxonomy:4530
 T9	Species 1493 1497	rice
 N9	Reference T9 Taxonomy:4530
+N5	Reference T5 Taxonomy:147537	Saccharomycotina
+N6	Reference T6 Taxonomy:147537	Saccharomycotina
+N7	Reference T7 Taxonomy:147537	Saccharomycotina
+#1	AnnotatorNotes T4	TODO check span

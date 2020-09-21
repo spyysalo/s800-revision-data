@@ -1,11 +1,9 @@
 T1	Species 76 80	rice
 N1	Reference T1 Taxonomy:4530
-T2	Species 155 159	rice
+T2	Species 155 159;175 189	rice cv Cho-Ko-Koku
 N2	Reference T2 Taxonomy:4530
 T3	Species 161 173	Oryza sativa
 N3	Reference T3 Taxonomy:4530
-T4	Species 175 189	cv Cho-Ko-Koku
-N4	Reference T4 Taxonomy:4530
 T5	Out-of-scope 852 857	yeast
 T6	Out-of-scope 912 917	yeast
 T7	Out-of-scope 1047 1052	yeast
@@ -16,4 +14,3 @@ N9	Reference T9 Taxonomy:4530
 N5	Reference T5 Taxonomy:147537	Saccharomycotina
 N6	Reference T6 Taxonomy:147537	Saccharomycotina
 N7	Reference T7 Taxonomy:147537	Saccharomycotina
-#1	AnnotatorNotes T4	TODO check span

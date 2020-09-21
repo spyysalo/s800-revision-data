@@ -1,4 +1,4 @@
-T1	Species 163 185	human immunodeficiency
+T1	Species 163 185;202 209	human immunodeficiency viruses
 N1	Reference T1 Taxonomy:12721
 T2	Species 190 209	hepatitis C viruses
 N2	Reference T2 Taxonomy:11103
@@ -44,7 +44,6 @@ T22	Species 1204 1207	HCV
 N22	Reference T22 Taxonomy:11103	
 T23	Species 443 458	influenza virus
 N23	Reference T23 Taxonomy:11320	Influenza A virus
-#1	AnnotatorNotes T1	TODO check span
 T24	Species 706 709	HCV
 N24	Reference T24 Taxonomy:11103	
 T25	Species 838 841	HCV

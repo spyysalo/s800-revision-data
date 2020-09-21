@@ -1,4 +1,4 @@
-T1	Species 0 7	Variola
+T1	Species 0 7;22 29	Variola viruses
 N1	Reference T1 Taxonomy:10255
 T2	Species 12 29	monkeypox viruses
 N2	Reference T2 Taxonomy:10244
@@ -28,4 +28,3 @@ T14	Species 1325 1328	MPX
 N14	Reference T14 Taxonomy:10244
 T15	Species 1557 1560	MPX
 N15	Reference T15 Taxonomy:10244
-#1	AnnotatorNotes T1	TODO check span

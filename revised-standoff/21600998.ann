@@ -1,5 +1,4 @@
-T1	Species 100 119	rice blast pathogen
-N1	Reference T1 Taxonomy:318829
+T1	Species 100 104	rice
 T2	Species 120 138	Magnaporthe oryzae
 N2	Reference T2 Taxonomy:318829
 T3	Species 177 195	Magnaporthe oryzae
@@ -24,7 +23,7 @@ N13	Reference T13 Taxonomy:318829
 T14	Species 142 146	Rice
 N14	Reference T14 Taxonomy:4530	Oryza sativa
 #1	AnnotatorNotes T12	TODO check span
-#2	AnnotatorNotes T1	TODO check
 N10	Reference T10 Taxonomy:147537	Saccharomycotina
 T9	Out-of-scope 803 816	fission yeast
 N9	Reference T9 Taxonomy:4894	Schizosaccharomycetaceae
+N1	Reference T1 Taxonomy:4530	Oryza sativa

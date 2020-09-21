@@ -1,10 +1,11 @@
 T1	Species 77 95	Apis cerana cerana
-T2	Species 372 396	Apis cerana cerana (Acc)
+T2	Species 372 390	Apis cerana cerana
 T3	Species 701 717	worker honeybees
 N3	Reference T3 Taxonomy:7461
 T4	Species 1072 1081	honeybees
 N4	Reference T4 Taxonomy:7461
-#1	AnnotatorNotes T2	TODO check
 #2	AnnotatorNotes T3	TODO check span
 N1	Reference T1 Taxonomy:94128	Apis cerana cerana
 N2	Reference T2 Taxonomy:94128	Apis cerana cerana
+T5	Species 392 395	Acc
+N5	Reference T5 Taxonomy:94128	Apis cerana cerana

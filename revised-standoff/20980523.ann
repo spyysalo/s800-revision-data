@@ -8,8 +8,6 @@ T4	Species 424 438	H1N1 influenza
 N4	Reference T4 Taxonomy:11320
 T5	Species 524 536	H1N1 viruses
 N5	Reference T5 Taxonomy:11320
-T6	Species 598 617	2009 pandemic virus
-N6	Reference T6 Taxonomy:11320
 T7	Species 797 799	H1
 N7	Reference T7 Taxonomy:11309
 T8	Species 804 822	H3 influenza virus
@@ -32,6 +30,5 @@ N15	Reference T16 Taxonomy:11320
 T17	Species 1674 1691	influenza viruses
 N16	Reference T17 Taxonomy:11320	
 N17	Reference T12 Taxonomy:10090	Mus musculus
-#1	AnnotatorNotes T6	TODO check
-#2	AnnotatorNotes T7	TODO check span
-#3	AnnotatorNotes T8	TODO check span
+#2	AnnotatorNotes T7	TODO check span: virus related
+#3	AnnotatorNotes T8	TODO check span: virus related

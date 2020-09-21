@@ -1,6 +1,6 @@
 T1	Species 87 112	porcine circovirus type 2
 N1	Reference T1 Taxonomy:85708
-T2	Species 233 265	porcine circovirus type 2 (PCV2)
+T2	Species 233 258	porcine circovirus type 2
 N2	Reference T2 Taxonomy:85708
 T3	Species 789 792	pig
 N3	Reference T3 Taxonomy:9823
@@ -10,4 +10,9 @@ T5	Species 1115 1118	pig
 N5	Reference T5 Taxonomy:9823
 T6	Species 1210 1213	pig
 N6	Reference T6 Taxonomy:9823
-#1	AnnotatorNotes T2	TODO check span
+T7	Species 260 264	PCV2
+N7	Reference T7 Taxonomy:85708	
+T8	Species 368 372	PCV2
+N8	Reference T8 Taxonomy:85708	
+T9	Species 1409 1413	PCV2
+N9	Reference T9 Taxonomy:85708	

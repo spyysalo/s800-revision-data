@@ -4,6 +4,11 @@ T2	Species 30 44	Apis mellifera
 N2	Reference T2 Taxonomy:7460
 T3	Species 102 111	Honeybees
 N3	Reference T3 Taxonomy:7460
-T4	Species 711 732	Africanized honeybees
+T4	Species 723 732	honeybees
 N4	Reference T4 Taxonomy:7460
-#1	AnnotatorNotes T4	TODO check span
+T5	Species 410 427	Varroa destructor
+N5	Reference T5 Taxonomy:109461	Varroa destructor
+T6	Species 346 350	bees
+N6	Reference T6 Taxonomy:7460	
+T7	Species 540 544	bees
+N7	Reference T7 Taxonomy:7460	

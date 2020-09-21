@@ -6,8 +6,7 @@ T3	Species 552 575	Marek's disease virus 1
 N3	Reference T3 Taxonomy:10390
 T4	Species 577 581	MDV1
 N4	Reference T4 Taxonomy:10390
-T5	Species 586 593	chicken
-N5	Reference T5 Taxonomy:9031
+T5	Out-of-scope 586 605	chicken herpesvirus
 T6	Species 666 674	chickens
 N6	Reference T6 Taxonomy:9031
 T7	Species 812 816	MDV1
@@ -16,6 +15,5 @@ T8	Species 818 822	MDV1
 N8	Reference T8 Taxonomy:10390
 T9	Species 932 936	MDV1
 N9	Reference T9 Taxonomy:10390
-#1	AnnotatorNotes T5	TODO check span
-#2	AnnotatorNotes T8	TODO check
 #3	AnnotatorNotes T9	TODO check
+N5	Reference T5 Taxonomy:10292	Herpesviridae

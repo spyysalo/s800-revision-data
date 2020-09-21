@@ -1,4 +1,4 @@
-T1	Species 16 52	Fusarium graminearum species complex
+T1	Species 16 36	Fusarium graminearum
 N1	Reference T1 Taxonomy:5518
 T2	Species 58 63	wheat
 N2	Reference T2 Taxonomy:4565
@@ -6,7 +6,7 @@ T3	Species 65 71	barley
 N3	Reference T3 Taxonomy:4513
 T4	Species 76 81	maize
 N4	Reference T4 Taxonomy:4577
-T5	Species 243 279	Fusarium graminearum species complex
+T5	Species 243 263	Fusarium graminearum
 N5	Reference T5 Taxonomy:5518
 T6	Species 281 285	FGSC
 N6	Reference T6 Taxonomy:5518
@@ -54,5 +54,3 @@ T27	Species 1527 1532	maize
 N27	Reference T27 Taxonomy:4577
 T28	Species 1564 1568	FGSC
 N28	Reference T28 Taxonomy:5518
-#1	AnnotatorNotes T1	TODO check span
-#2	AnnotatorNotes T5	TODO check span

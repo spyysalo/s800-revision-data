@@ -1,6 +1,6 @@
 T1	Species 102 129	Aleutian mink disease virus
 N1	Reference T1 Taxonomy:28314
-T2	Species 133 167	Aleutian mink disease virus (AMDV)
+T2	Species 133 160	Aleutian mink disease virus
 N2	Reference T2 Taxonomy:28314
 T3	Species 249 253	mink
 N3	Reference T3 Taxonomy:452646
@@ -12,10 +12,9 @@ T6	Species 841 845	Mink
 N6	Reference T6 Taxonomy:452646
 T7	Species 1054 1058	mink
 N7	Reference T7 Taxonomy:452646
-T8	Species 1311 1323	AMDV strains
+T8	Species 1311 1315	AMDV
 N8	Reference T8 Taxonomy:28314
-T9	Species 1331 1343	AMDV strains
+T9	Species 1331 1335	AMDV
 N9	Reference T9 Taxonomy:28314
-#1	AnnotatorNotes T2	TODO check span
-#2	AnnotatorNotes T8	TODO check span
-#3	AnnotatorNotes T9	TODO check span
+T10	Species 162 166	AMDV
+N10	Reference T10 Taxonomy:28314	

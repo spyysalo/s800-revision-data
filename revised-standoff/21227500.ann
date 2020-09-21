@@ -6,8 +6,8 @@ T3	Species 913 930	Chikungunya virus
 N3	Reference T3 Taxonomy:37124
 T4	Species 1050 1061	hepatitis A
 N4	Reference T4 Taxonomy:12092
-T5	Species 1066 1075	E viruses
+T5	Species 1050 1059;1066 1075	hepatitis E viruses
 N5	Reference T5 Taxonomy:12461
-#1	AnnotatorNotes T4	TODO check span
+#1	AnnotatorNotes T4	TODO check span: virus related
 T6	Species 880 886	dengue
 N6	Reference T6 Taxonomy:12637	Dengue virus

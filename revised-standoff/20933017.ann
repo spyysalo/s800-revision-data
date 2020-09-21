@@ -2,13 +2,13 @@ T1	Species 28 34	canine
 N1	Reference T1 Taxonomy:9612
 T2	Species 200 206	canine
 N2	Reference T2 Taxonomy:9612
-T3	Species 134 155	avian influenza virus
-N3	Reference T3 Taxonomy:11309	unidentified influenza virus
-T4	Species 620 643	avian influenza viruses
-N4	Reference T4 Taxonomy:11309	unidentified influenza virus
-T5	Species 677 698	avian influenza virus
-N5	Reference T5 Taxonomy:11309	unidentified influenza virus
-T6	Species 1411 1426	influenza virus
-N6	Reference T6 Taxonomy:11320	
-T7	Species 610 615;626 643	human influenza viruses
-N7	Reference T7 Taxonomy:11320	Influenza A virus
+T3	Out-of-scope 134 155	avian influenza virus
+T4	Out-of-scope 620 643	avian influenza viruses
+T5	Out-of-scope 677 698	avian influenza virus
+T6	Out-of-scope 1411 1426	influenza virus
+T7	Out-of-scope 610 615;626 643	human influenza viruses
+N3	Reference T3 Taxonomy:11308	Orthomyxoviridae
+N7	Reference T7 Taxonomy:11308	Orthomyxoviridae
+N4	Reference T4 Taxonomy:11308	Orthomyxoviridae
+N6	Reference T6 Taxonomy:11308	Orthomyxoviridae
+N5	Reference T5 Taxonomy:11308	Orthomyxoviridae

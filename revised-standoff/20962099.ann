@@ -1,6 +1,6 @@
 T1	Species 46 63	hepatitis B virus
 N1	Reference T1 Taxonomy:10407
-T2	Species 92 103	hepatitis B
+T2	Species 124 131;92 103	viruses hepatitis B
 N2	Reference T2 Taxonomy:10407
 T3	Species 108 131	hepatitis delta viruses
 N3	Reference T3 Taxonomy:12475
@@ -48,7 +48,6 @@ T24	Species 1772 1775	HBV
 N24	Reference T24 Taxonomy:10407
 T25	Species 1824 1829	human
 N25	Reference T25 Taxonomy:9606
-#1	AnnotatorNotes T2	TODO check span
 T26	Species 1461 1464	HBV
 N26	Reference T26 Taxonomy:10407	
 T27	Species 1486 1489	HBV

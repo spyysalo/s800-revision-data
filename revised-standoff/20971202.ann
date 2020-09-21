@@ -6,7 +6,7 @@ T3	Species 572 596	Saccharomyces cerevisiae
 N3	Reference T3 Taxonomy:4932
 T4	Species 602 615	C. neoformans
 N4	Reference T4 Taxonomy:5207
-T5	Species 834 844	serotype A
+T5	Species 834 844;860 873	serotype A C. neoformans
 N5	Reference T5 Taxonomy:5207
 T6	Species 849 873	serotype D C. neoformans
 N6	Reference T6 Taxonomy:5207
@@ -17,6 +17,4 @@ N8	Reference T8 Taxonomy:5207
 T9	Species 1564 1577	C. neoformans
 N9	Reference T9 Taxonomy:5207
 T10	Out-of-scope 414 419	yeast
-#1	AnnotatorNotes T5	TODO check span
-#2	AnnotatorNotes T6	TODO check span
 N10	Reference T10 Taxonomy:147537	Saccharomycotina

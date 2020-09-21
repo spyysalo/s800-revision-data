@@ -1,14 +1,14 @@
 T1	Species 389 411	Colorado potato beetle
 N1	Reference T1 Taxonomy:7539
-T2	Species 413 444	Leptinotarsa decemlineata (Say)
+T2	Species 413 438	Leptinotarsa decemlineata
 N2	Reference T2 Taxonomy:7539
 T3	Species 461 474	plum curculio
 N3	Reference T3 Taxonomy:122892
-T4	Species 476 507	Conotrachelus nenuphar (Herbst)
+T4	Species 476 498	Conotrachelus nenuphar
 N4	Reference T4 Taxonomy:122892
 T5	Species 528 549	western corn rootworm
 N5	Reference T5 Taxonomy:50389
-T6	Species 551 591	Diabrotica virgifera virgifera (LeConte)
+T6	Species 551 581	Diabrotica virgifera virgifera
 N6	Reference T6 Taxonomy:50389
 T7	Species 708 731	Colorado potato beetles
 N7	Reference T7 Taxonomy:7539
@@ -20,6 +20,3 @@ T10	Species 945 958	plum curculio
 N10	Reference T10 Taxonomy:122892
 T11	Species 1348 1369	western corn rootworm
 N11	Reference T11 Taxonomy:50389
-#1	AnnotatorNotes T6	TODO check span
-#2	AnnotatorNotes T2	TODO check span
-#3	AnnotatorNotes T4	TODO check span

@@ -4,15 +4,11 @@ T2	Species 154 155	A
 N2	Reference T2 Taxonomy:12110
 T3	Species 160 166	Asia 1
 N3	Reference T3 Taxonomy:12110
-T4	Species 242 270	foot-and-mouth disease virus
-N4	Reference T4 Taxonomy:12110
-T5	Species 272 276	FMDV
-N5	Reference T5 Taxonomy:12110
-T6	Species 288 289	O
+T6	Species 242 289	foot-and-mouth disease virus (FMDV) serotypes O
 N6	Reference T6 Taxonomy:12110
-T7	Species 291 292	A
+T7	Species 242 287;291 292	foot-and-mouth disease virus (FMDV) serotypes A
 N7	Reference T7 Taxonomy:12110
-T8	Species 297 303	Asia 1
+T8	Species 242 287;297 303	foot-and-mouth disease virus (FMDV) serotypes Asia 1
 N8	Reference T8 Taxonomy:12110
 T9	Species 330 337	rabbits
 N9	Reference T9 Taxonomy:9986
@@ -44,6 +40,5 @@ T23	Species 1081 1095;1105 1111	FMDV serotypes Asia 1
 N23	Reference T23 Taxonomy:12110
 T24	Species 1232 1248	FMDV type Asia 1
 N24	Reference T24 Taxonomy:12110
-#1	AnnotatorNotes T4	TODO check span
 T21	Species 342 353	guinea pigs
 N21	Reference T21 Taxonomy:10141	Cavia porcellus

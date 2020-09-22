@@ -12,11 +12,11 @@ T6	Species 1038 1052	L. pneumophila
 N6	Reference T6 Taxonomy:446
 T7	Species 1178 1189	S. pyogenes
 N7	Reference T7 Taxonomy:1314
-T8	Species 1332 1353	human influenza virus
-N8	Reference T8 Taxonomy:11320
+T8	Out-of-scope 1332 1353	human influenza virus
 T9	Species 1358 1385	respiratory syncytial virus
 N9	Reference T9 Taxonomy:12814
-T10	Species 427 437	adenovirus
-N10	Reference T10 Taxonomy:10535	
-T11	Species 1057 1067	adenovirus
-N11	Reference T11 Taxonomy:10535	
+T10	Out-of-scope 427 437	adenovirus
+T11	Out-of-scope 1057 1067	adenovirus
+N10	Reference T10 Taxonomy:10508	Adenoviridae
+N11	Reference T11 Taxonomy:10508	Adenoviridae
+N8	Reference T8 Taxonomy:11308	Orthomyxoviridae

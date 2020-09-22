@@ -1,10 +1,10 @@
-T1	Species 60 67	class I
+T1	Species 60 67;81 106	class I Newcastle disease viruses
 N1	Reference T1 Taxonomy:11176
 T2	Species 72 106	class II Newcastle disease viruses
 N2	Reference T2 Taxonomy:11176
-T3	Species 180 187	class I
+T3	Species 180 187;201 235	class I strains of Newcastle disease virus
 N3	Reference T3 Taxonomy:11176
-T4	Species 192 241	class II strains of Newcastle disease virus (NDV)
+T4	Species 192 235	class II strains of Newcastle disease virus
 N4	Reference T4 Taxonomy:11176
 T5	Species 371 374	NDV
 N5	Reference T5 Taxonomy:11176
@@ -18,10 +18,11 @@ T9	Species 738 745	class I
 N9	Reference T9 Taxonomy:11176
 T10	Species 822 831	NDV09-034
 N10	Reference T10 Taxonomy:11176
-T11	Species 869 890	class II NDV isolates
+T11	Species 869 881	class II NDV
 N11	Reference T11 Taxonomy:11176
 T12	Species 1488 1491	NDV
 N12	Reference T12 Taxonomy:11176
-#1	AnnotatorNotes T1	TODO check
-#2	AnnotatorNotes T3	TODO check
-#3	AnnotatorNotes T8	TODO check
+T13	Species 237 240	NDV
+N13	Reference T13 Taxonomy:11176	
+T14	Species 1050 1058	class II
+N14	Reference T14 Taxonomy:11176	

@@ -1,5 +1,4 @@
-T1	Species 0 10	Adenovirus
-N1	Reference T1 Taxonomy:10535
+T1	Out-of-scope 0 10	Adenovirus
 T2	Species 67 84	Adenovirus type 5
 N2	Reference T2 Taxonomy:129951
 T3	Species 86 89	Ad5
@@ -12,11 +11,12 @@ T6	Species 572 577	mouse
 N6	Reference T6 Taxonomy:10090
 T7	Species 639 642	Ad5
 N7	Reference T7 Taxonomy:129951
-T8	Species 940 942	Ad
-N8	Reference T8 Taxonomy:10535
+T8	Out-of-scope 940 942	Ad
 T9	Species 969 972	Ad5
 N9	Reference T9 Taxonomy:129951
-T10	Species 1069 1071	Ad
-N10	Reference T10 Taxonomy:10535
+T10	Out-of-scope 1069 1071	Ad
 T11	Species 1098 1101	Ad5
 N11	Reference T11 Taxonomy:129951
+N1	Reference T1 Taxonomy:10508	Adenoviridae
+N8	Reference T8 Taxonomy:10508	Adenoviridae
+N10	Reference T10 Taxonomy:10508	Adenoviridae

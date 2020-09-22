@@ -42,8 +42,7 @@ T21	Species 80 83	HIV
 N21	Reference T21 Taxonomy:12721	
 T22	Species 1204 1207	HCV
 N22	Reference T22 Taxonomy:11103	
-T23	Species 443 458	influenza virus
-N23	Reference T23 Taxonomy:11320	Influenza A virus
+T23	Out-of-scope 443 458	influenza virus
 T24	Species 706 709	HCV
 N24	Reference T24 Taxonomy:11103	
 T25	Species 838 841	HCV
@@ -58,3 +57,4 @@ T29	Species 1110 1113	HCV
 N29	Reference T29 Taxonomy:11103	
 T30	Species 909 912	HIV
 N30	Reference T30 Taxonomy:12721	
+N23	Reference T23 Taxonomy:11308	Orthomyxoviridae

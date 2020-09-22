@@ -1,10 +1,10 @@
 T1	Species 52 55	HIV
 N1	Reference T1 Taxonomy:12721	Human immunodeficiency virus
-#1	AnnotatorNotes T1	TODO check
 T2	Species 565 568	HIV
 N2	Reference T2 Taxonomy:12721	Human immunodeficiency virus
-#2	AnnotatorNotes T2	TODO check
-T3	Species 339 364	hepatitis B and C viruses
-#3	AnnotatorNotes T3	TODO
+T3	Species 339 350;357 364	hepatitis B viruses
 T4	Species 135 138	HIV
 N3	Reference T4 Taxonomy:12721	Human immunodeficiency virus
+T5	Species 339 348;355 364	hepatitis C viruses
+N4	Reference T3 Taxonomy:10407	Hepatitis B virus
+N5	Reference T5 Taxonomy:11103	Hepacivirus C

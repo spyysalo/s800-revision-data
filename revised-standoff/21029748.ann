@@ -2,7 +2,7 @@ T1	Species 89 105	influenza A/H1N1
 N1	Reference T1 Taxonomy:11320
 T2	Species 121 137	influenza A/H1N1
 N2	Reference T2 Taxonomy:11320
-T3	Species 152 176	influenza A/H3N2 viruses
+T3	Species 152 168	influenza A/H3N2
 N3	Reference T3 Taxonomy:11320
 T4	Species 189 205	influenza A/H1N1
 N4	Reference T4 Taxonomy:11320
@@ -16,7 +16,7 @@ T8	Species 615 621	A/H1N1
 N8	Reference T8 Taxonomy:11320
 T9	Species 645 669	A/H3N2 influenza viruses
 N9	Reference T9 Taxonomy:11320
-T10	Species 992 1018	viral strains of A/H1N1pdm
+T10	Species 1009 1018	A/H1N1pdm
 N10	Reference T10 Taxonomy:11320
 T11	Species 1028 1054	A/Aichi/472/2009 (H1N1)pdm
 N11	Reference T11 Taxonomy:11320
@@ -30,10 +30,27 @@ T15	Species 1397 1401	A/H1
 N15	Reference T15 Taxonomy:11320
 T16	Species 1452 1471	influenza A viruses
 N16	Reference T16 Taxonomy:11320
-T17	Species 1610 1627	influenza viruses
-N17	Reference T17 Taxonomy:11309
-T18	Species 1662 1679	influenza viruses
-N18	Reference T18 Taxonomy:11309
-#1	AnnotatorNotes T3	TODO check span: virus related
+T17	Out-of-scope 1610 1627	influenza viruses
+T18	Out-of-scope 1662 1679	influenza viruses
 T19	Species 212 221	A/H1N1pdm
 N19	Reference T19 Taxonomy:11320	
+T20	Species 623 625	H1
+N20	Reference T20 Taxonomy:11320	
+T21	Species 671 673	H3
+N21	Reference T21 Taxonomy:11320	
+T22	Species 690 695	H1pdm
+N22	Reference T22 Taxonomy:11320	
+T23	Species 697 699	H1
+N23	Reference T23 Taxonomy:11320	
+T24	Species 705 707	H3
+N24	Reference T24 Taxonomy:11320	
+T25	Species 955 960	H1pdm
+N25	Reference T25 Taxonomy:11320	
+T26	Species 1542 1547	H1pdm
+N26	Reference T26 Taxonomy:11320	
+T27	Species 1549 1551	H1
+N27	Reference T27 Taxonomy:11320	
+T28	Species 1557 1559	H3
+N28	Reference T28 Taxonomy:11320	
+N17	Reference T17 Taxonomy:11308	Orthomyxoviridae
+N18	Reference T18 Taxonomy:11308	Orthomyxoviridae

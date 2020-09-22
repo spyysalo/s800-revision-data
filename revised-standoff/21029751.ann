@@ -20,8 +20,7 @@ T10	Species 340 345	sheep
 N10	Reference T10 Taxonomy:9940
 T11	Species 350 355	goats
 N11	Reference T11 Taxonomy:9925
-T12	Species 513 520	goatpox
+T12	Species 513 520;534 541	goatpox viruses
 N12	Reference T12 Taxonomy:186805
 T13	Species 525 541	sheeppox viruses
 N13	Reference T13 Taxonomy:10266
-#1	AnnotatorNotes T12	TODO check span: virus related

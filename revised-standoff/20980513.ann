@@ -8,8 +8,7 @@ T4	Species 163 189	vesicular stomatitis virus
 N4	Reference T4 Taxonomy:11276
 T5	Species 201 204	VSV
 N5	Reference T5 Taxonomy:11276
-T6	Species 234 239	viral
-N6	Reference T6 Taxonomy:12037
+T6	Out-of-scope 234 239	viral
 T7	Species 264 267	HIV
 N7	Reference T7 Taxonomy:12721
 T8	Species 279 282	VSV
@@ -17,15 +16,12 @@ N8	Reference T8 Taxonomy:11276
 T9	Species 346 349	VSV
 N9	Reference T9 Taxonomy:11276
 T10	Out-of-scope 364 369	virus
-N10	Reference T10 Taxonomy:12037
 T11	Out-of-scope 416 421	viral
-N11	Reference T11 Taxonomy:12037
 T12	Species 486 489	HIV
 N12	Reference T12 Taxonomy:12721
 T13	Species 501 504	VSV
 N13	Reference T13 Taxonomy:11276
 T14	Out-of-scope 543 548	viral
-N14	Reference T14 Taxonomy:12037
 T15	Species 608 611	HIV
 N15	Reference T15 Taxonomy:12721
 T16	Species 620 623	VSV
@@ -34,6 +30,7 @@ T17	Species 732 735	HIV
 N17	Reference T17 Taxonomy:12721
 T18	Species 745 748	HIV
 N18	Reference T18 Taxonomy:12721
-#1	AnnotatorNotes T10	TODO check
-#2	AnnotatorNotes T11	TODO check
-#3	AnnotatorNotes T14	TODO check
+N6	Reference T6 Taxonomy:10239	Viruses
+N10	Reference T10 Taxonomy:10239	Viruses
+N11	Reference T11 Taxonomy:10239	Viruses
+N14	Reference T14 Taxonomy:10239	Viruses

@@ -31,11 +31,10 @@ T16	Species 1283 1289	PstDNV
 T17	Species 955 971	Penaeus vannamei
 T18	Species 1295 1321	Penaeus monodon densovirus
 T19	Species 1323 1328	PmDNV
-T20	Species 781 791	Swiss mice
+T20	Species 787 791	mice
 N15	Reference T17 Taxonomy:6689	Penaeus vannamei
 N16	Reference T15 Taxonomy:1593240	Penaeus stylirostris densovirus
 N17	Reference T16 Taxonomy:1593240	Penaeus stylirostris densovirus
-#1	AnnotatorNotes T20	TODO check
-#2	AnnotatorNotes T1	TODO check specificity
-#3	AnnotatorNotes T2	TODO check specificity
-#4	AnnotatorNotes T3	TODO check specificity
+N18	Reference T20 Taxonomy:10090	Mus musculus
+#1	AnnotatorNotes T18	txid:2770846
+#2	AnnotatorNotes T19	txid:2770846

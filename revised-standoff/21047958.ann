@@ -1,15 +1,12 @@
-T1	Species 49 65	human adenovirus
-T2	Species 93 111	Human adenoviruses
-T3	Species 1367 1377	adenovirus
-N3	Reference T3 Taxonomy:10535
-T4	Species 1565 1575	adenovirus
-N4	Reference T4 Taxonomy:10535
-T5	Species 1758 1768	adenoviral
-N5	Reference T5 Taxonomy:10535
-T6	Species 113 116	Ads
-N6	Reference T6 Taxonomy:10535	
-N2	Reference T2 Taxonomy:1907210	Human adenovirus sp.
-N1	Reference T1 Taxonomy:1907210	Human adenovirus sp.
-#1	AnnotatorNotes T3	TODO check
-#2	AnnotatorNotes T4	TODO check
-#3	AnnotatorNotes T5	TODO check
+T1	Out-of-scope 49 65	human adenovirus
+T2	Out-of-scope 93 111	Human adenoviruses
+T3	Out-of-scope 1367 1377	adenovirus
+T4	Out-of-scope 1565 1575	adenovirus
+T5	Out-of-scope 1758 1768	adenoviral
+T6	Out-of-scope 113 116	Ads
+N1	Reference T1 Taxonomy:10508	Adenoviridae
+N2	Reference T2 Taxonomy:10508	Adenoviridae
+N6	Reference T6 Taxonomy:10508	Adenoviridae
+N3	Reference T3 Taxonomy:10508	Adenoviridae
+N4	Reference T4 Taxonomy:10508	Adenoviridae
+N5	Reference T5 Taxonomy:10508	Adenoviridae

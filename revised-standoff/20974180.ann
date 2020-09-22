@@ -1,4 +1,4 @@
-T1	Species 70 79	West Nile
+T1	Species 70 90	West Nile (WN) virus
 N1	Reference T1 Taxonomy:11082
 T2	Species 157 165	WN virus
 N2	Reference T2 Taxonomy:11082
@@ -14,8 +14,6 @@ T7	Species 1265 1268	WNV
 N7	Reference T7 Taxonomy:11082
 T8	Species 1274 1277	JEV
 N8	Reference T8 Taxonomy:11072
-T9	Species 81 83	WN
-N9	Reference T9 Taxonomy:11082	
 T10	Species 266 281	West Nile virus
 N10	Reference T10 Taxonomy:11082	
 T11	Species 283 286	WNV
@@ -34,7 +32,6 @@ T17	Species 908 911	JEV
 N17	Reference T17 Taxonomy:11072	
 T18	Species 96 123	Japanese encephalitis virus
 N18	Reference T18 Taxonomy:11072	
-#1	AnnotatorNotes T1	TODO check span: virus related
 T19	Species 138 144	horses
 N19	Reference T19 Taxonomy:9796	Equus caballus
 T20	Species 443 449	horses

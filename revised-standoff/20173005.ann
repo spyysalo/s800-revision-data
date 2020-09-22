@@ -2,33 +2,37 @@ T1	Species 0 19	Thiomonas islandica
 N1	Reference T1 Taxonomy:545537
 T2	Species 88 107	betaproteobacterium
 N2	Reference T2 Taxonomy:86027
-T3	Species 207 209	6C
+T3	Strain 207 209	6C
 N3	Reference T3 Taxonomy:545537
-T4	Species 941 943	6C
+T4	Strain 941 943	6C
 N4	Reference T4 Taxonomy:545537
 T5	Species 1000 1018	Betaproteobacteria
 N5	Reference T5 Taxonomy:86027
-T7	Species 1050 1080	Thiomonas intermedia DSM 18155
+T7	Species 1050 1070	Thiomonas intermedia
 N7	Reference T7 Taxonomy:926
-T9	Species 1088 1121	Thiomonas perometabolis DSM 18570
+T9	Species 1088 1111	Thiomonas perometabolis
 N9	Reference T9 Taxonomy:928
-T10	Species 1163 1165	6C
+T10	Strain 1163 1165	6C
 N10	Reference T10 Taxonomy:545537
-T12	Species 1173 1203	Thiomonas intermedia DSM 18155
+T12	Species 1173 1193	Thiomonas intermedia
 N12	Reference T12 Taxonomy:926
-T14	Species 1211 1244	Thiomonas perometabolis DSM 18570
+T14	Species 1211 1234	Thiomonas perometabolis
 N14	Reference T14 Taxonomy:928
-T15	Species 1363 1365	6C
+T15	Strain 1363 1365	6C
 N15	Reference T15 Taxonomy:545537
 T16	Species 1443 1462	Thiomonas islandica
 N16	Reference T16 Taxonomy:545537
-T17	Species 1504 1506	6C
+T17	Strain 1504 1506	6C
 N17	Reference T17 Taxonomy:545537
-T18	Species 1512 1521	DSM 21436
+T18	Strain 1512 1521	DSM 21436
 N18	Reference T18 Taxonomy:545537
-T19	Species 1526 1535	JCM 16107
+T19	Strain 1526 1535	JCM 16107
 N19	Reference T19 Taxonomy:545537
 T20	Out-of-scope 546 551	yeast
 N20	Reference T20 Taxonomy:147537	Saccharomycotina
 #1	AnnotatorNotes T5	TODO check specificity
 #6	AnnotatorNotes T2	TODO check specificity
+T6	Strain 1071 1080	DSM 18155
+T8	Strain 1112 1121	DSM 18570
+T11	Strain 1194 1203	DSM 18155
+T13	Strain 1235 1244	DSM 18570

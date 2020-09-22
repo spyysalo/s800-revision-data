@@ -4,9 +4,9 @@ T2	Species 200 217	Aspergillus niger
 N2	Reference T2 Taxonomy:5061
 T3	Species 514 522	A. niger
 N3	Reference T3 Taxonomy:5061
-T4	Species 629 655	A. niger strain ATCC 11414
+T4	Species 629 637	A. niger
 N4	Reference T4 Taxonomy:5061
-T5	Species 678 703	A. niger ATCC strain 1015
+T5	Species 678 686	A. niger
 N5	Reference T5 Taxonomy:5061
 T6	Species 839 860	Aspergillus fumigatus
 N6	Reference T6 Taxonomy:746128
@@ -16,3 +16,6 @@ T8	Species 1190 1198	A. niger
 N8	Reference T8 Taxonomy:5061
 T9	Species 1238 1246	A. niger
 N9	Reference T9 Taxonomy:5061
+T10	Strain 645 655	ATCC 11414
+T11	Strain 687 703	ATCC strain 1015
+#1	AnnotatorNotes T11	TODO check span

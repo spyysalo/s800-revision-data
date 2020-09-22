@@ -1,44 +1,52 @@
-T1	Species 122 152	foot-and-mouth disease virus O
+T1	Strain 154 155	A
 N1	Reference T1 Taxonomy:12110
-T2	Species 154 155	A
+T2	Strain 151 152	O
 N2	Reference T2 Taxonomy:12110
-T3	Species 160 166	Asia 1
+T3	Species 122 150	foot-and-mouth disease virus
 N3	Reference T3 Taxonomy:12110
-T6	Species 242 289	foot-and-mouth disease virus (FMDV) serotypes O
+T6	Strain 291 292	A
 N6	Reference T6 Taxonomy:12110
-T7	Species 242 287;291 292	foot-and-mouth disease virus (FMDV) serotypes A
-N7	Reference T7 Taxonomy:12110
-T8	Species 242 287;297 303	foot-and-mouth disease virus (FMDV) serotypes Asia 1
-N8	Reference T8 Taxonomy:12110
 T9	Species 330 337	rabbits
 N9	Reference T9 Taxonomy:9986
-T10	Species 405 413	O/CHA/99
+T10	Strain 405 413	O/CHA/99
 N10	Reference T10 Taxonomy:12110
-T11	Species 415 425	A/GS/LX/66
+T11	Strain 415 425	A/GS/LX/66
 N11	Reference T11 Taxonomy:12110
-T12	Species 427 440	Asia 1/CHN/05
+T12	Strain 427 440	Asia 1/CHN/05
 N12	Reference T12 Taxonomy:12110
 T13	Species 455 460	mouse
 N13	Reference T13 Taxonomy:10090
-T14	Species 484 493	O/AV99(L)
+T14	Strain 484 493	O/AV99(L)
 N14	Reference T14 Taxonomy:12110
-T15	Species 495 504	A/AV88(L)
+T15	Strain 495 504	A/AV88(L)
 N15	Reference T15 Taxonomy:12110
-T16	Species 506 520	Asia 1/YNBS/58
+T16	Strain 506 520	Asia 1/YNBS/58
 N16	Reference T16 Taxonomy:12110
-T17	Species 627 628	O
+T17	Strain 627 628	O
 N17	Reference T17 Taxonomy:12110
-T18	Species 630 631	A
+T18	Strain 630 631	A
 N18	Reference T18 Taxonomy:12110
-T19	Species 636 642	Asia 1
+T19	Strain 636 642	Asia 1
 N19	Reference T19 Taxonomy:12110
-T20	Species 1081 1097	FMDV serotypes O
+T20	Species 1081 1085	FMDV
 N20	Reference T20 Taxonomy:12110
-T22	Species 1081 1095;1099 1100	FMDV serotypes A
+T22	Strain 1096 1097	O
 N22	Reference T22 Taxonomy:12110
-T23	Species 1081 1095;1105 1111	FMDV serotypes Asia 1
+T23	Strain 1099 1100	A
 N23	Reference T23 Taxonomy:12110
-T24	Species 1232 1248	FMDV type Asia 1
+T24	Species 1232 1236	FMDV
 N24	Reference T24 Taxonomy:12110
 T21	Species 342 353	guinea pigs
 N21	Reference T21 Taxonomy:10141	Cavia porcellus
+T4	Species 242 270	foot-and-mouth disease virus
+N4	Reference T4 Taxonomy:12110	
+T7	Species 272 276	FMDV
+N7	Reference T7 Taxonomy:12110	
+T5	Strain 160 166	Asia 1
+N5	Reference T5 Taxonomy:12110	
+T8	Strain 288 289	O
+N8	Reference T8 Taxonomy:12110	
+T25	Strain 297 303	Asia 1
+N25	Reference T25 Taxonomy:12110	
+T26	Strain 1105 1111	Asia 1
+T27	Strain 1242 1248	Asia 1

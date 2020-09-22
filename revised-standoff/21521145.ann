@@ -4,7 +4,7 @@ T2	Species 477 495	Beauveria bassiana
 N2	Reference T2 Taxonomy:176275
 T3	Species 563 585	Metarhizium anisopliae
 N3	Reference T3 Taxonomy:5530
-T4	Species 660 686	lsaria (=Paecilomyces) sp.
+T4	Out-of-scope 669 681	Paecilomyces
 N4	Reference T4 Taxonomy:40383
 T5	Species 719 730	B. bassiana
 N5	Reference T5 Taxonomy:176275
@@ -28,4 +28,3 @@ N13	Reference T14 Taxonomy:5530	Metarhizium anisopliae
 N14	Reference T13 Taxonomy:176275	Beauveria bassiana
 T15	Species 1065 1084	Gynaikothrips uzeli
 N15	Reference T15 Taxonomy:1422814	Gynaikothrips uzeli
-#1	AnnotatorNotes T4	TODO check

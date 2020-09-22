@@ -2,13 +2,20 @@ T1	Species 75 95	Enterococcus faecium
 N1	Reference T1 Taxonomy:1352
 T2	Species 130 150	Enterococcus faecium
 N2	Reference T2 Taxonomy:1352
-T3	Species 495 511	E. faecium E1162
+T3	Species 495 505	E. faecium
 N3	Reference T3 Taxonomy:1352
-T4	Out-of-scope 513 518	E1162
+T4	Strain 513 527	E1162DeltaintA
 N4	Reference T4 Taxonomy:1352
-T5	Out-of-scope 592 597	E1162
+T5	Strain 592 613	E1162DeltaintA::pEF30
 N5	Reference T5 Taxonomy:1352
 T6	Species 1109 1119	E. faecium
 N6	Reference T6 Taxonomy:1352
-#1	AnnotatorNotes T4	TODO check
-#2	AnnotatorNotes T5	TODO check
+T7	Strain 506 511	E1162
+T8	Strain 747 752	E1162
+T9	Strain 754 767	E1162Deltaesp
+T10	Strain 769 783	E1162DeltaintA
+T11	Strain 789 810	E1162DeltaintA::pEF30
+T12	Strain 815 820	E1162
+T13	Strain 825 838	E1162Deltaesp
+T14	Strain 896 910	E1162DeltaintA
+T15	Strain 945 966	E1162DeltaintA::pEF30

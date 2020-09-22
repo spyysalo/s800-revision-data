@@ -4,12 +4,12 @@ T2	Species 541 557	Escherichia coli
 N2	Reference T2 Taxonomy:562
 T3	Species 858 865	E. coli
 N3	Reference T3 Taxonomy:562
-T4	Species 1230 1241	K-12 strain
+T4	Strain 1230 1234	K-12
 N4	Reference T4 Taxonomy:562
-T5	Species 1270 1278	B strain
+T5	Strain 1270 1271	B
 N5	Reference T5 Taxonomy:562
-T6	Species 1397 1405	B strain
+T6	Strain 1397 1398	B
 N6	Reference T6 Taxonomy:562
-#1	AnnotatorNotes T4	TODO check
-#2	AnnotatorNotes T5	TODO check
-#3	AnnotatorNotes T6	TODO check
+T7	Strain 107 108	B
+T8	Strain 113 117	K-12
+T9	Strain 866 867	B

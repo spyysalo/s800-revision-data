@@ -14,39 +14,41 @@ T8	Species 1647 1650	HIV
 N8	Reference T8 Taxonomy:12721	Human immunodeficiency virus
 N1	Reference T1 Taxonomy:11308	Orthomyxoviridae
 N3	Reference T3 Taxonomy:11308	Orthomyxoviridae
-T9	Species 0 15	Norovirus GII.4
-N9	Reference T9 Taxonomy:11983	Norwalk virus
-T10	Species 186 191	GII.4
+T9	Out-of-scope 0 9	Norovirus
+T10	Strain 186 191	GII.4
 N10	Reference T10 Taxonomy:11983	Norwalk virus
 T11	Out-of-scope 45 56	Noroviruses
-T12	Species 460 465	GII.4
+T12	Strain 460 465	GII.4
 N12	Reference T12 Taxonomy:11983	Norwalk virus
-T13	Species 631 636	GII.4
+T13	Strain 631 636	GII.4
 N13	Reference T13 Taxonomy:11983	Norwalk virus
-T14	Species 663 668	GII.4
+T14	Strain 663 668	GII.4
 N14	Reference T14 Taxonomy:11983	Norwalk virus
-T15	Species 675 680	GII.4
+T15	Strain 675 680	GII.4
 N15	Reference T15 Taxonomy:11983	Norwalk virus
 T16	Out-of-scope 694 699	GII.4
 N16	Reference T16 Taxonomy:11983	Norwalk virus
-T17	Species 760 765	GII.4
+T17	Strain 760 765	GII.4
 N17	Reference T17 Taxonomy:11983	Norwalk virus
-T18	Species 855 860	GII.4
+T18	Strain 855 860	GII.4
 N18	Reference T18 Taxonomy:11983	Norwalk virus
-T19	Species 870 875	GII.4
+T19	Strain 870 875	GII.4
 N19	Reference T19 Taxonomy:11983	Norwalk virus
-T20	Species 896 901	GII.4
+T20	Strain 896 901	GII.4
 N20	Reference T20 Taxonomy:11983	Norwalk virus
 T21	Out-of-scope 913 918	GII.4
 N21	Reference T21 Taxonomy:11983	Norwalk virus
-T22	Species 968 973	GII.4
+T22	Strain 968 973	GII.4
 N22	Reference T22 Taxonomy:11983	Norwalk virus
-T23	Species 1108 1113	GII.4
+T23	Strain 1108 1113	GII.4
 N23	Reference T23 Taxonomy:11983	Norwalk virus
-T24	Species 1177 1182	GII.4
+T24	Strain 1177 1182	GII.4
 N24	Reference T24 Taxonomy:11983	Norwalk virus
-T25	Species 1531 1548	GII.4 noroviruses
-N25	Reference T25 Taxonomy:11983	Norwalk virus
+T25	Out-of-scope 1537 1548	noroviruses
 T26	Out-of-scope 1675 1684	norovirus
 N11	Reference T11 Taxonomy:142786	Norovirus
 N26	Reference T26 Taxonomy:142786	Norovirus
+T27	Strain 10 15	GII.4
+T28	Strain 1531 1536	GII.4
+N9	Reference T9 Taxonomy:142786	Norovirus
+N25	Reference T25 Taxonomy:142786	Norovirus

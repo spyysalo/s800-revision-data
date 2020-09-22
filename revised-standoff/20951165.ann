@@ -1,28 +1,25 @@
-T1	Species 98 114	influenza A H1N1
+T1	Species 98 109	influenza A
 N1	Reference T1 Taxonomy:11320
 T2	Species 724 743	influenza A viruses
 N2	Reference T2 Taxonomy:11320
-T3	Species 772 788	influenza A H1N1
+T3	Species 772 783	influenza A
 N3	Reference T3 Taxonomy:11320
-T4	Species 830 846	influenza A H1N1
+T4	Species 830 841	influenza A
 N4	Reference T4 Taxonomy:11320
 T5	Species 947 958	influenza A
 N5	Reference T5 Taxonomy:11320
-T6	Species 960 976	influenza A H1N1
+T6	Species 960 971	influenza A
 N6	Reference T6 Taxonomy:11320
-T7	Species 1024 1040	influenza A H1N1
+T7	Species 1024 1035	influenza A
 N7	Reference T7 Taxonomy:11320
-T8	Species 183 199	Influenza A H1N1
+T8	Species 183 194	Influenza A
 N8	Reference T8 Taxonomy:11320	
-T9	Species 366 382	influenza A H1N1
+T9	Species 366 377	influenza A
 N9	Reference T9 Taxonomy:11320	
-T10	Species 496 512	influenza A H1N1
+T10	Species 496 507	influenza A
 N10	Reference T10 Taxonomy:11320	
-T11	Species 156 172	influenza A H1N1
+T11	Species 156 167	influenza A
 N11	Reference T11 Taxonomy:11320	
-#1	AnnotatorNotes T11	TODO check span: virus related
-#2	AnnotatorNotes T4	TODO check span: virus related
-#3	AnnotatorNotes T7	TODO check span: virus related
 T12	Species 331 342	influenza A
 N12	Reference T12 Taxonomy:11320	
 T13	Species 403 414	influenza A
@@ -31,3 +28,12 @@ T14	Species 57 68	influenza A
 N14	Reference T14 Taxonomy:11320	
 T15	Species 1264 1275	influenza A
 N15	Reference T15 Taxonomy:11320	
+T16	Strain 110 114	H1N1
+T17	Strain 168 172	H1N1
+T18	Strain 195 199	H1N1
+T19	Strain 378 382	H1N1
+T20	Strain 508 512	H1N1
+T21	Strain 784 788	H1N1
+T22	Strain 842 846	H1N1
+T23	Strain 1036 1040	H1N1
+T24	Strain 972 976	H1N1

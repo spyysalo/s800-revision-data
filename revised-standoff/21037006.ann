@@ -1,8 +1,12 @@
-T1	Species 28 66	Corynebacterium pseudotuberculosis I19
+T1	Species 28 62	Corynebacterium pseudotuberculosis
 N1	Reference T1 Taxonomy:1719
 T2	Species 93 96	cow
 N2	Reference T2 Taxonomy:9913
-T3	Species 205 243	Corynebacterium pseudotuberculosis I19
+T3	Species 205 239	Corynebacterium pseudotuberculosis
 N3	Reference T3 Taxonomy:1719
 T4	Species 276 279	cow
 N4	Reference T4 Taxonomy:9913
+T5	Strain 63 66	I19
+T6	Strain 240 243	I19
+T7	Species 112 118	bovine
+N5	Reference T7 Taxonomy:9913	Bos taurus

@@ -5,8 +5,7 @@ T3	Out-of-scope 737 745	elephant
 T4	Out-of-scope 968 976	elephant
 T5	Out-of-scope 1139 1147	elephant
 T6	Out-of-scope 1252 1260	Elephant
-T7	Species 1437 1445	Elephant
-N7	Reference T7 Taxonomy:9785
+T7	Out-of-scope 1437 1445	Elephant
 T8	Species 1501 1522	Colophospermum mopane
 N8	Reference T8 Taxonomy:162715
 T9	Species 1681 1690	C. mopane
@@ -16,5 +15,6 @@ N11	Reference T1 Taxonomy:9780	Elephantidae
 N1	Reference T3 Taxonomy:9780	Elephantidae
 N3	Reference T4 Taxonomy:9780	Elephantidae
 N4	Reference T5 Taxonomy:9780	Elephantidae
-N5	Reference T6 Taxonomy:9780	Elephantidae
 N6	Reference T10 Taxonomy:9780	Elephantidae
+N5	Reference T6 Taxonomy:9780	Elephantidae
+N7	Reference T7 Taxonomy:9780	Elephantidae

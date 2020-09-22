@@ -4,7 +4,7 @@ T2	Species 210 238	infectious myonecrosis virus
 N2	Reference T2 Taxonomy:282786
 T3	Species 240 244	IMNV
 N3	Reference T3 Taxonomy:282786
-T4	Species 549 561	BL21 E. coli
+T4	Species 554 561	E. coli
 N4	Reference T4 Taxonomy:562
 T5	Species 936 940	IMNV
 N5	Reference T5 Taxonomy:282786
@@ -38,3 +38,4 @@ N17	Reference T16 Taxonomy:1593240	Penaeus stylirostris densovirus
 N18	Reference T20 Taxonomy:10090	Mus musculus
 #1	AnnotatorNotes T18	txid:2770846
 #2	AnnotatorNotes T19	txid:2770846
+T21	Strain 549 553	BL21

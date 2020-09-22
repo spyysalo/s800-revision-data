@@ -2,7 +2,7 @@ T1	Species 55 78	Cryptococcus neoformans
 N1	Reference T1 Taxonomy:5207
 T2	Species 487 510	Cryptococcus neoformans
 N2	Reference T2 Taxonomy:5207
-T3	Species 695 705;712 725	serotype A C. neoformans
+T3	Species 712 725	C. neoformans
 N3	Reference T3 Taxonomy:5207
 T4	Species 835 848	C. neoformans
 N4	Reference T4 Taxonomy:5207
@@ -10,5 +10,7 @@ T5	Species 1427 1440	C. neoformans
 N5	Reference T5 Taxonomy:5207
 T6	Species 1815 1828	C. neoformans
 N6	Reference T6 Taxonomy:5207
-T7	Species 695 703;710 725	serotype D C. neoformans
+T7	Strain 704 705	A
 N7	Reference T7 Taxonomy:5207	
+T8	Strain 710 711	D
+N8	Reference T8 Taxonomy:5207	

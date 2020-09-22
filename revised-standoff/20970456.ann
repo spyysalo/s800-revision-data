@@ -1,12 +1,12 @@
-T1	Species 41 52;70 85	type A H1N1 influenza virus
+T1	Species 41 47;70 85	type A influenza virus
 N1	Reference T1 Taxonomy:11320
 T2	Species 57 85	type B human influenza virus
 N2	Reference T2 Taxonomy:11520
-T3	Species 129 140;158 173	type A H1N1 influenza virus
+T3	Species 129 135;158 173	type A influenza virus
 N3	Reference T3 Taxonomy:11320
 T4	Species 145 173	type B human influenza virus
 N4	Reference T4 Taxonomy:11520
-T5	Species 323 334;346 363	type A H1N1 influenza viruses
+T5	Species 323 329;346 363	type A influenza viruses
 N5	Reference T5 Taxonomy:11320
 T6	Species 339 363	type B influenza viruses
 N6	Reference T6 Taxonomy:11520
@@ -14,3 +14,6 @@ T7	Out-of-scope 668 683	influenza virus
 T8	Species 692 698	humans
 N8	Reference T8 Taxonomy:9606
 N9	Reference T7 Taxonomy:11308	Orthomyxoviridae
+T9	Strain 48 52	H1N1
+T10	Strain 136 140	H1N1
+T11	Strain 330 334	H1N1

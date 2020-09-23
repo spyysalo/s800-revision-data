@@ -2,9 +2,9 @@ T1	Species 138 150	Oryza sativa
 N1	Reference T1 Taxonomy:4530
 T2	Species 158 162	rice
 N2	Reference T2 Taxonomy:4530
-T3	Species 171 211	Oryza sativa short postembryonic roots 1
+T3	Species 171 183	Oryza sativa
 N3	Reference T3 Taxonomy:4530
-T4	Species 213 219	Osspr1
+T4	Out-of-scope 213 219	Osspr1
 N4	Reference T4 Taxonomy:4530
 T5	Out-of-scope 364 370	OsSPR1
 N5	Reference T5 Taxonomy:4530
@@ -17,5 +17,7 @@ N8	Reference T8 Taxonomy:4530	Oryza sativa
 #1	AnnotatorNotes T5	TODO check
 #2	AnnotatorNotes T6	TODO check
 #3	AnnotatorNotes T7	TODO check
-T9	Species 490 496	Osspr1
+T9	Out-of-scope 490 496	Osspr1
 N9	Reference T9 Taxonomy:4530	
+#4	AnnotatorNotes T4	TODO check
+#5	AnnotatorNotes T9	TODO check

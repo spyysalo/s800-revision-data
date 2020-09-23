@@ -6,45 +6,33 @@ T3	Species 152 163	influenza A
 N3	Reference T3 Taxonomy:11320
 T4	Species 189 200	influenza A
 N4	Reference T4 Taxonomy:11320
-T5	Strain 361 368	H1N1pdm
+T5	Strain 359 368	A/H1N1pdm
 N5	Reference T5 Taxonomy:11320
-T6	Strain 536 543	H1N1pdm
+T6	Strain 534 543	A/H1N1pdm
 N6	Reference T6 Taxonomy:11320
 T7	Species 600 605	human
 N7	Reference T7 Taxonomy:9606
-T8	Strain 617 621	H1N1
+T8	Strain 615 621	A/H1N1
 N8	Reference T8 Taxonomy:11320
 T9	Strain 647 651	H3N2
 N9	Reference T9 Taxonomy:11320
-T10	Species 1009 1010	A
-N10	Reference T10 Taxonomy:11320
-T11	Species 1028 1029	A
-N11	Reference T11 Taxonomy:11320
-T12	Species 1059 1060	A
-N12	Reference T12 Taxonomy:11320
-T13	Species 1378 1379	A
-N13	Reference T13 Taxonomy:11320
-T14	Species 1387 1388	A
-N14	Reference T14 Taxonomy:11320
-T15	Species 1397 1398	A
-N15	Reference T15 Taxonomy:11320
 T16	Species 1452 1471	influenza A viruses
 N16	Reference T16 Taxonomy:11320
 T17	Out-of-scope 1610 1627	influenza viruses
 T18	Out-of-scope 1662 1679	influenza viruses
-T19	Strain 214 221	H1N1pdm
+T19	Strain 212 221	A/H1N1pdm
 N19	Reference T19 Taxonomy:11320	
 T20	Strain 623 625	H1
 N20	Reference T20 Taxonomy:11320	
 T21	Strain 671 673	H3
 N21	Reference T21 Taxonomy:11320	
-T22	Species 690 695	H1pdm
+T22	Strain 690 695	H1pdm
 N22	Reference T22 Taxonomy:11320	
-T23	Species 697 699	H1
+T23	Strain 697 699	H1
 N23	Reference T23 Taxonomy:11320	
-T24	Species 705 707	H3
+T24	Strain 705 707	H3
 N24	Reference T24 Taxonomy:11320	
-T25	Species 955 960	H1pdm
+T25	Strain 955 960	H1pdm
 N25	Reference T25 Taxonomy:11320	
 T26	Strain 1542 1547	H1pdm
 N26	Reference T26 Taxonomy:11320	
@@ -61,17 +49,9 @@ T32	Strain 201 205	H1N1
 T33	Strain 376 381	H1pdm
 T34	Species 645 646;652 669	A influenza viruses
 N29	Reference T34 Taxonomy:11320	
-T35	Species 615 616	A
-N30	Reference T35 Taxonomy:11320	
-T36	Species 359 360	A
-N31	Reference T36 Taxonomy:11320	
-T37	Species 534 535	A
-N32	Reference T37 Taxonomy:11320	
-T38	Species 212 213	A
-N33	Reference T38 Taxonomy:11320	
-T39	Strain 1011 1018	H1N1pdm
-T40	Strain 1030 1054	Aichi/472/2009 (H1N1)pdm
-T41	Strain 1061 1084	Sakai/89/2009 (H1N1)pdm
-T42	Strain 1380 1385	H1pdm
-T43	Strain 1389 1391	H3
-T44	Strain 1399 1401	H1
+T39	Strain 1009 1018	A/H1N1pdm
+T40	Strain 1028 1054	A/Aichi/472/2009 (H1N1)pdm
+T41	Strain 1059 1084	A/Sakai/89/2009 (H1N1)pdm
+T42	Strain 1378 1385	A/H1pdm
+T43	Strain 1387 1391	A/H3
+T44	Strain 1397 1401	A/H1

@@ -6,13 +6,13 @@ T3	Species 87 105	Fusarium oxysporum
 N3	Reference T3 Taxonomy:5507
 T4	Species 231 237	humans
 N4	Reference T4 Taxonomy:9606
-T5	Species 239 288	F. oxysporum f. sp. lycopersici isolate FGSC 9935
+T5	Species 239 251	F. oxysporum
 N5	Reference T5 Taxonomy:5507
 T6	Species 312 318	tomato
 N6	Reference T6 Taxonomy:4081
 T7	Species 346 350	mice
 N7	Reference T7 Taxonomy:10090
-T8	Species 483 492	FGSC 9935
+T8	Strain 483 492	FGSC 9935
 N8	Reference T8 Taxonomy:5507
 T9	Species 517 533	greater wax moth
 N9	Reference T9 Taxonomy:7137
@@ -34,3 +34,4 @@ T17	Species 1213 1218	mouse
 N17	Reference T17 Taxonomy:10090
 T18	Species 1329 1341	F. oxysporum
 N18	Reference T18 Taxonomy:5507
+T19	Strain 259 288	lycopersici isolate FGSC 9935

@@ -2,35 +2,37 @@ T1	Species 33 38	wheat
 N1	Reference T1 Taxonomy:4565
 T2	Species 43 49	barley
 N2	Reference T2 Taxonomy:4513
-T3	Species 183 215	Blumeria graminis f. sp. tritici
-T4	Species 217 229	B.g. tritici
-T5	Species 183 207;235 241	Blumeria graminis f. sp. hordei
-T6	Species 243 254	B.g. hordei
+T3	Species 183 200	Blumeria graminis
+T4	Strain 217 229	B.g. tritici
+T5	Strain 235 241	hordei
+T6	Strain 243 254	B.g. hordei
 T7	Species 293 298	wheat
 N7	Reference T7 Taxonomy:4565
 T8	Species 302 308	barley
 N8	Reference T8 Taxonomy:4513
-T9	Species 601 613	B.g. tritici
-T10	Species 682 693	B.g. hordei
-T11	Species 928 940	B.g. tritici
-T12	Species 945 956	B.g. hordei
-T13	Species 1061 1073	B.g. tritici
-T14	Species 1078 1089	B.g. hordei
+T9	Strain 601 613	B.g. tritici
+T10	Strain 682 693	B.g. hordei
+T11	Strain 928 940	B.g. tritici
+T12	Strain 945 956	B.g. hordei
+T13	Strain 1061 1073	B.g. tritici
+T14	Strain 1078 1089	B.g. hordei
 T15	Species 1162 1167	wheat
 N15	Reference T15 Taxonomy:4565
 T16	Species 1172 1178	barley
 N16	Reference T16 Taxonomy:4513
-T17	Species 1213 1225	B.g. tritici
-T18	Species 1230 1241	B.g. hordei
+T17	Strain 1213 1225	B.g. tritici
+T18	Strain 1230 1241	B.g. hordei
 N19	Reference T3 Taxonomy:62690	Blumeria graminis f. sp. tritici
-N20	Reference T4 Taxonomy:62690	Blumeria graminis f. sp. tritici
 N21	Reference T5 Taxonomy:62688	Blumeria graminis f. sp. hordei
 N22	Reference T6 Taxonomy:62688	Blumeria graminis f. sp. hordei
-N23	Reference T9 Taxonomy:62690	Blumeria graminis f. sp. tritici
-N24	Reference T11 Taxonomy:62690	Blumeria graminis f. sp. tritici
-N25	Reference T13 Taxonomy:62690	Blumeria graminis f. sp. tritici
-N26	Reference T17 Taxonomy:62690	Blumeria graminis f. sp. tritici
 N27	Reference T10 Taxonomy:62688	Blumeria graminis f. sp. hordei
 N28	Reference T12 Taxonomy:62688	Blumeria graminis f. sp. hordei
 N29	Reference T14 Taxonomy:62688	Blumeria graminis f. sp. hordei
 N30	Reference T18 Taxonomy:62688	Blumeria graminis f. sp. hordei
+T19	Strain 208 215	tritici
+N3	Reference T19 Taxonomy:62688	Blumeria graminis f. sp. hordei
+N4	Reference T4 Taxonomy:62688	Blumeria graminis f. sp. hordei
+N5	Reference T9 Taxonomy:62688	Blumeria graminis f. sp. hordei
+N6	Reference T11 Taxonomy:62688	Blumeria graminis f. sp. hordei
+N9	Reference T13 Taxonomy:62688	Blumeria graminis f. sp. hordei
+N10	Reference T17 Taxonomy:62688	Blumeria graminis f. sp. hordei

@@ -8,13 +8,11 @@ T6	Species 416 421	human
 N6	Reference T6 Taxonomy:9606
 T7	Species 500 505	swine
 N7	Reference T7 Taxonomy:9823
-T8	Species 756 766	H9N2 virus
+T8	Strain 756 760	H9N2
 T9	Species 890 898	chickens
 N9	Reference T9 Taxonomy:9031
 T10	Species 1043 1048	swine
 N10	Reference T10 Taxonomy:9823
-T11	Species 1072 1073	A
-N11	Reference T11 Taxonomy:11320
 T12	Strain 1334 1338	H1N1
 N12	Reference T12 Taxonomy:11320
 T13	Species 2082 2088	humans
@@ -42,6 +40,8 @@ N1	Reference T1 Taxonomy:11308	Orthomyxoviridae
 N5	Reference T5 Taxonomy:11308	Orthomyxoviridae
 T22	Strain 287 291	H1N1
 T23	Strain 352 359	H1N1pdm
-T24	Strain 1074 1108	turkey/OH/313053/04 (H3N2) (ty/04)
+T24	Strain 1072 1108	A/turkey/OH/313053/04 (H3N2) (ty/04)
 T25	Strain 1961 1966	ty/04
-#1	AnnotatorNotes T11	TODO check
+N11	Reference T24 Taxonomy:11320	Influenza A virus
+T11	Strain 1378 1383	ty/04
+T26	Strain 1627 1632	ty/04

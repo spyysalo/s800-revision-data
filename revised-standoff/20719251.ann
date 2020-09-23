@@ -5,6 +5,6 @@ N2	Reference T2 Taxonomy:4530
 T3	Species 503 521	Magnaporthe oryzae
 N3	Reference T3 Taxonomy:318829
 T4	Species 106 110	Rice
-T5	Species 251 270	rice blast pathogen
-N4	Reference T5 Taxonomy:318829	Pyricularia oryzae
-#1	AnnotatorNotes T5	TODO check
+T5	Species 251 255	rice
+N5	Reference T4 Taxonomy:4530	Oryza sativa
+N4	Reference T5 Taxonomy:4530	Oryza sativa

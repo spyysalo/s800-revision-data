@@ -11,9 +11,7 @@ T7	Species 639 652	duck reovirus
 N7	Reference T7 Taxonomy:38170
 T8	Species 654 677	Newcastle disease virus
 N8	Reference T8 Taxonomy:11176
-T9	Species 683 713	Riemerella anatipestifer 12/19
-N9	Reference T9 Taxonomy:34085
-T10	Species 683 707;726 731	Riemerella anatipestifer 26/51
+T10	Species 683 707	Riemerella anatipestifer
 N10	Reference T10 Taxonomy:34085
 T11	Species 790 795	DAstV
 T12	Species 850 855	DAstV
@@ -28,3 +26,7 @@ N11	Reference T11 Taxonomy:1239439	Avastrovirus 3
 N12	Reference T12 Taxonomy:1239439	Avastrovirus 3
 N13	Reference T13 Taxonomy:1239439	Avastrovirus 3
 N14	Reference T14 Taxonomy:1239439	Avastrovirus 3
+T9	Strain 708 713	12/19
+T16	Strain 726 731	26/51
+#1	AnnotatorNotes T9	TODO check
+#2	AnnotatorNotes T16	TODO check

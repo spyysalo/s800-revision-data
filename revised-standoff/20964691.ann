@@ -4,11 +4,11 @@ T2	Species 207 225	Tuber melanosporum
 N2	Reference T2 Taxonomy:39416
 T3	Species 295 309	black truffles
 N3	Reference T3 Taxonomy:39416
-T4	Out-of-scope 434 441	truffle
-T5	Out-of-scope 567 574	truffle
 T6	Species 1416 1431	T. melanosporum
 N6	Reference T6 Taxonomy:39416
-T7	Out-of-scope 1471 1478	truffle
-N4	Reference T4 Taxonomy:36048	Tuber
-N5	Reference T5 Taxonomy:36048	Tuber
-N7	Reference T7 Taxonomy:36048	Tuber
+T8	Genus 434 441	truffle
+N8	Reference T8 Taxonomy:36048	
+T9	Genus 567 574	truffle
+N9	Reference T9 Taxonomy:36048	
+T10	Genus 1471 1478	truffle
+N10	Reference T10 Taxonomy:36048	

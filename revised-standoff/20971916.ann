@@ -1,5 +1,5 @@
-T1	Out-of-scope 94 107	Synechocystis
-T2	Out-of-scope 375 388	Synechocystis
+T1	Genus 94 107	Synechocystis
+T2	Genus 375 388	Synechocystis
 T3	Strain 119 127	PCC 6803
 N2	Reference T2 Taxonomy:1142	Synechocystis
 N1	Reference T1 Taxonomy:1142	Synechocystis
@@ -9,3 +9,9 @@ T6	Strain 1092 1103	DeltasigBCD
 T7	Strain 1105 1116	DeltasigBCE
 T8	Strain 1122 1133	DeltasigBDE
 T9	Strain 1283 1294	DeltasigBCE
+T1001	Genus 146 159	cyanobacteria
+N1001	Reference T1001 Taxonomy:102234	
+T1002	Genus 476 489	Cyanobacteria
+N1002	Reference T1002 Taxonomy:102234	
+T1003	Genus 646 659	Synechocystis
+N1003	Reference T1003 Taxonomy:1142	

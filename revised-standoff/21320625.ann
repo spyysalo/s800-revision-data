@@ -4,3 +4,9 @@ T2	Species 430 435	human
 N2	Reference T2 Taxonomy:9606
 T3	Species 452 475	Cryptococcus neoformans
 N3	Reference T3 Taxonomy:5207
+T1001	Genus 516 528	Cryptococcus
+N1001	Reference T1001 Taxonomy:5206	
+N1002	Reference T1001 Taxonomy:79213	
+T1002	Genus 704 716	Cryptococcus
+N1003	Reference T1002 Taxonomy:5206	
+N1004	Reference T1002 Taxonomy:79213	

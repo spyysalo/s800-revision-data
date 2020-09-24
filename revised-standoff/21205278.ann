@@ -1,5 +1,4 @@
 T1	Species 76 94	poplar leaf beetle
-N1	Reference T1 Taxonomy:63687
 T2	Species 95 114	Chrysomela tremulae
 N2	Reference T2 Taxonomy:63687
 T3	Species 234 245	C. tremulae
@@ -14,3 +13,11 @@ T7	Species 787 789	Bt
 N7	Reference T7 Taxonomy:1428
 T8	Species 812 814	Bt
 N8	Reference T8 Taxonomy:1428
+N1	Reference T1 Taxonomy:154003	Chrysomela populi
+#1	AnnotatorNotes T1	TODO check
+T9	Class 200 206	insect
+N9	Reference T9 Taxonomy:50557	Insecta
+T10	Order 521 533	lepidopteran
+N10	Reference T10 Taxonomy:7088	Lepidoptera
+T11	Order 538 549	coleopteran
+N11	Reference T11 Taxonomy:7041	Coleoptera

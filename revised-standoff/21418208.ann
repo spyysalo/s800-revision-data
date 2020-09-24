@@ -1,16 +1,16 @@
-T1	Out-of-scope 36 44	elephant
+T1	Family 36 44	elephant
 T2	Species 439 455	African elephant
 N2	Reference T2 Taxonomy:9785
-T3	Out-of-scope 737 745	elephant
-T4	Out-of-scope 968 976	elephant
-T5	Out-of-scope 1139 1147	elephant
-T6	Out-of-scope 1252 1260	Elephant
-T7	Out-of-scope 1437 1445	Elephant
+T3	Family 737 745	elephant
+T4	Family 968 976	elephant
+T5	Family 1139 1147	elephant
+T6	Family 1252 1260	Elephant
+T7	Family 1437 1445	Elephant
 T8	Species 1501 1522	Colophospermum mopane
 N8	Reference T8 Taxonomy:162715
 T9	Species 1681 1690	C. mopane
 N9	Reference T9 Taxonomy:162715
-T10	Out-of-scope 2074 2082	elephant
+T10	Family 2074 2082	elephant
 N11	Reference T1 Taxonomy:9780	Elephantidae
 N1	Reference T3 Taxonomy:9780	Elephantidae
 N3	Reference T4 Taxonomy:9780	Elephantidae
@@ -18,3 +18,9 @@ N4	Reference T5 Taxonomy:9780	Elephantidae
 N6	Reference T10 Taxonomy:9780	Elephantidae
 N5	Reference T6 Taxonomy:9780	Elephantidae
 N7	Reference T7 Taxonomy:9780	Elephantidae
+T11	Out-of-scope 846 851	plant
+N10	Reference T11 Taxonomy:3193	Embryophyta
+T12	Out-of-scope 939 945	plants
+N12	Reference T12 Taxonomy:3193	Embryophyta
+T13	Out-of-scope 1059 1064	plant
+N13	Reference T13 Taxonomy:3193	Embryophyta

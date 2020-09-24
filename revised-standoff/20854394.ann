@@ -20,11 +20,13 @@ T10	Strain 1242 1252	Pst DC3000
 N10	Reference T10 Taxonomy:317
 T11	Species 1428 1434	tomato
 N11	Reference T11 Taxonomy:4081
-T12	Out-of-scope 1033 1044	Arabidopsis
-N12	Reference T12 Taxonomy:3701	Arabidopsis
-T13	Out-of-scope 119 130	Arabidopsis
-N13	Reference T13 Taxonomy:3701	Arabidopsis
-T14	Out-of-scope 1439 1450	Arabidopsis
-N14	Reference T14 Taxonomy:3701	Arabidopsis
 T15	Strain 66 76	pv. tomato
 T16	Strain 157 174	pv. tomato DC3000
+T1001	Genus 119 130	Arabidopsis
+N1001	Reference T1001 Taxonomy:3701	
+T1002	Genus 1033 1044	Arabidopsis
+N1002	Reference T1002 Taxonomy:3701	
+T1003	Genus 1439 1450	Arabidopsis
+N1003	Reference T1003 Taxonomy:3701	
+#1	AnnotatorNotes T15	TODO check span
+#2	AnnotatorNotes T16	TODO check span

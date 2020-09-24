@@ -10,8 +10,6 @@ T7	Species 1496 1515	Mingxiaea foliicola
 N7	Reference T7 Taxonomy:1390521	Bulleribasidium foliicola
 T8	Species 1574 1598	Mingxiaea wuzhishanensis
 N8	Reference T8 Taxonomy:1390527	Bulleribasidium wuzhishanense
-T9	Out-of-scope 12 21	Mingxiaea
-N9	Reference T9 Taxonomy:189446	Bulleribasidium
 N2	Reference T2 Taxonomy:147537	Saccharomycotina
 N1	Reference T1 Taxonomy:147537	Saccharomycotina
 N3	Reference T3 Taxonomy:147537	Saccharomycotina
@@ -30,5 +28,21 @@ T19	Strain 1556 1565	CBS 11407
 T20	Strain 1612 1620	WZS-29.8
 T21	Strain 1625 1634	AS 2.4163
 T22	Strain 1639 1648	CBS 11411
-T23	Out-of-scope 808 817	Mingxiaea
-N11	Reference T23 Taxonomy:189446	Bulleribasidium
+T1001	Genus 12 21	Mingxiaea
+N1001	Reference T1001 Taxonomy:189446	
+T1002	Genus 88 103	Bulleribasidium
+N1002	Reference T1002 Taxonomy:189446	
+T1003	Order 111 122	Tremellales
+N1003	Reference T1003 Taxonomy:5234	
+T1004	Genus 304 319	Bulleribasidium
+N1004	Reference T1004 Taxonomy:189446	
+T1005	Order 339 350	Tremellales
+N1005	Reference T1005 Taxonomy:5234	
+T1006	Order 771 782	Tremellales
+N1006	Reference T1006 Taxonomy:5234	
+T1007	Genus 808 817	Mingxiaea
+N1007	Reference T1007 Taxonomy:189446	
+T1008	Genus 942 957	Bulleribasidium
+N1008	Reference T1008 Taxonomy:189446	
+T1009	Genus 1081 1088	Bullera
+N1009	Reference T1009 Taxonomy:4970	

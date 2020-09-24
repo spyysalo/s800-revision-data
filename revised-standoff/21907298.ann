@@ -34,4 +34,9 @@ T17	Species 1213 1218	mouse
 N17	Reference T17 Taxonomy:10090
 T18	Species 1329 1341	F. oxysporum
 N18	Reference T18 Taxonomy:5507
-T19	Strain 259 288	lycopersici isolate FGSC 9935
+T19	Strain 259 270	lycopersici
+T1001	Genus 1196 1204	Galleria
+N1001	Reference T1001 Taxonomy:7136	
+T1002	Genus 1232 1240	Galleria
+N1002	Reference T1002 Taxonomy:7136	
+T20	Strain 279 288	FGSC 9935

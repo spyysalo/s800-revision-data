@@ -1,32 +1,13 @@
-T1	Species 499 508	leafminer
-N1	Reference T1 Taxonomy:127405
+T1	Out-of-scope 499 508	leafminer
 T2	Species 510 532	Liriomyza huidobrensis
 N2	Reference T2 Taxonomy:127405
-T3	Out-of-scope 552 556	wasp
-N3	Reference T3 Taxonomy:58748
+T3	Family 552 556	wasp
 T4	Species 558 572	Opius dissitus
 N4	Reference T4 Taxonomy:58748
 T5	Species 583 589	tomato
 N5	Reference T5 Taxonomy:4081
-T6	Out-of-scope 603 623	wild-type (WT) plant
-N6	Reference T6 Taxonomy:4081
-T7	Species 627 656	JA biosynthesis (spr2) mutant
-N7	Reference T7 Taxonomy:4081
-T8	Species 664 699	JA-overexpression 35S::prosys plant
-N8	Reference T8 Taxonomy:4081
-T9	Species 839 849	leafminers
-N9	Reference T9 Taxonomy:127405
-T10	Species 895 913	spr2 mutant plants
-N10	Reference T10 Taxonomy:4081
-T11	Species 967 977	leafminers
-N11	Reference T11 Taxonomy:127405
-T12	Species 1063 1072	WT plants
-N12	Reference T12 Taxonomy:4081
-T13	Species 1122 1139	35S::prosys plant
-N13	Reference T13 Taxonomy:4081
-#1	AnnotatorNotes T3	TODO check
-#3	AnnotatorNotes T7	TODO check
-#4	AnnotatorNotes T8	TODO check
-#5	AnnotatorNotes T10	TODO check
-#6	AnnotatorNotes T12	TODO check
-#7	AnnotatorNotes T13	TODO check
+T9	Out-of-scope 839 849	leafminers
+T11	Out-of-scope 967 977	leafminers
+N1	Reference T3 Taxonomy:7438	Vespidae
+T6	Order 1043 1048	flies
+N3	Reference T6 Taxonomy:7147	Diptera

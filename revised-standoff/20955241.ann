@@ -2,3 +2,13 @@ T1	Species 465 482	Spodoptera litura
 N1	Reference T1 Taxonomy:69820
 T2	Species 726 735	S. litura
 N2	Reference T2 Taxonomy:69820
+T3	Order 39 51	Lepidopteran
+N3	Reference T3 Taxonomy:7088	Lepidoptera
+T4	Order 402 414	Lepidopteran
+N4	Reference T4 Taxonomy:7088	Lepidoptera
+T5	Class 1081 1088	insects
+N5	Reference T5 Taxonomy:50557	Insecta
+T6	Class 1952 1958	insect
+N6	Reference T6 Taxonomy:50557	Insecta
+#1	AnnotatorNotes T5	TODO check
+#2	AnnotatorNotes T6	TODO check

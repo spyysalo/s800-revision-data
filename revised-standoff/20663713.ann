@@ -4,7 +4,7 @@ T2	Species 443 447	rice
 N2	Reference T2 Taxonomy:4530
 T3	Species 837 860	Tetrahymena thermophila
 N3	Reference T3 Taxonomy:5911
-T4	Out-of-scope 1208 1219	Arabidopsis
 T5	Species 1281 1284	rat
 N5	Reference T5 Taxonomy:10116
-N4	Reference T4 Taxonomy:3701	Arabidopsis
+T1001	Genus 1208 1219	Arabidopsis
+N1001	Reference T1001 Taxonomy:3701	

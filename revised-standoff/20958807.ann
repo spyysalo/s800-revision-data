@@ -4,5 +4,9 @@ T2	Species 203 220	Bombus terrestris
 N2	Reference T2 Taxonomy:30195
 T3	Species 343 356	B. terrestris
 N3	Reference T3 Taxonomy:30195
-T4	Out-of-scope 57 67	bumble bee
+T4	Genus 57 67	bumble bee
 N4	Reference T4 Taxonomy:28641	Bombus
+T1001	Order 87 98	Hymenoptera
+N1001	Reference T1001 Taxonomy:7399	
+T1002	Family 100 106	Apidae
+N1002	Reference T1002 Taxonomy:7458	

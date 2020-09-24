@@ -2,8 +2,6 @@ T1	Species 117 143	Trichoderma brevicompactum
 N1	Reference T1 Taxonomy:247546
 T2	Species 147 173	Trichoderma brevicompactum
 N2	Reference T2 Taxonomy:247546
-T3	Species 343 355	Fusarium spp
-N3	Reference T3 Taxonomy:29916
 T4	Species 553 570	T. brevicompactum
 N4	Reference T4 Taxonomy:247546
 T5	Species 1111 1128	T. brevicompactum
@@ -22,4 +20,5 @@ T11	Species 1310 1331	Aspergillus fumigatus
 N11	Reference T11 Taxonomy:746128
 T12	Species 1546 1563	T. brevicompactum
 N12	Reference T12 Taxonomy:247546
-#1	AnnotatorNotes T3	TODO check
+T1001	Genus 343 351	Fusarium
+N3	Reference T1001 Taxonomy:5506	Fusarium

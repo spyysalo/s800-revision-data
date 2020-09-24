@@ -3,11 +3,14 @@ N1	Reference T1 Taxonomy:313603
 T2	Strain 126 134	HTCC2170
 N2	Reference T2 Taxonomy:313603
 T3	Out-of-scope 280 296	marine bacterium
-N3	Reference T3 Taxonomy:56765
-T4	Out-of-scope 298 308	Maribacter
+T4	Genus 298 308	Maribacter
 T5	Strain 341 349	HTCC2170
 N5	Reference T5 Taxonomy:313603
-#1	AnnotatorNotes T3	TODO check
 T6	Strain 320 328	HTCC2170
 N6	Reference T6 Taxonomy:313603	
 N4	Reference T4 Taxonomy:252356	Maribacter
+T1001	Genus 73 83	Maribacter
+N1001	Reference T1001 Taxonomy:252356	
+T1002	Family 98 115	Flavobacteriaceae
+N1002	Reference T1002 Taxonomy:49546	
+N3	Reference T3 Taxonomy:2	Bacteria

@@ -1,11 +1,7 @@
-T1	Species 51 64	predatory bug
-N1	Reference T1 Taxonomy:536261
 T2	Species 66 84	Pilophorus typicus
 N2	Reference T2 Taxonomy:536261
 T3	Species 133 151	Pilophorus typicus
 N3	Reference T3 Taxonomy:536261
-T4	Species 190 203	predatory bug
-N4	Reference T4 Taxonomy:536261
 T5	Species 279 289	P. typicus
 N5	Reference T5 Taxonomy:536261
 T6	Species 714 724	P. typicus
@@ -14,5 +10,10 @@ T7	Species 1186 1196	P. typicus
 N7	Reference T7 Taxonomy:536261
 T8	Species 1761 1771	P. typicus
 N8	Reference T8 Taxonomy:536261
-#2	AnnotatorNotes T1	TODO check specificity
-#3	AnnotatorNotes T4	TODO check specificity
+T1001	Family 176 183	Miridae
+N1001	Reference T1001 Taxonomy:30083	
+T1002	Genus 1638 1648	Pilophorus
+N1002	Reference T1002 Taxonomy:51977	
+N1003	Reference T1002 Taxonomy:237084	
+T1	Order 163 174	Heteroptera
+N1	Reference T1 Taxonomy:33345	Heteroptera

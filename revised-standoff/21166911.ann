@@ -4,7 +4,7 @@ T2	Species 188 211	Drosophila melanogaster
 N2	Reference T2 Taxonomy:7227
 T3	Species 319 335	Lucilia sericata
 N3	Reference T3 Taxonomy:13632
-T4	Out-of-scope 351 361	Drosophila
+T4	Genus 351 361	Drosophila
 T5	Species 366 377	L. sericata
 N5	Reference T5 Taxonomy:13632
 T6	Species 498 513	D. melanogaster
@@ -17,6 +17,12 @@ T9	Species 730 745	D. melanogaster
 N9	Reference T9 Taxonomy:7227
 T10	Species 766 777	L. sericata
 N10	Reference T10 Taxonomy:13632
-T11	Out-of-scope 819 829	Drosophila
+T11	Genus 819 829	Drosophila
 N4	Reference T4 Taxonomy:7215	Drosophila
 N11	Reference T11 Taxonomy:7215	Drosophila
+T1001	Family 50 57	blowfly
+N1001	Reference T1001 Taxonomy:7371	
+T1002	Family 311 318	blowfly
+N1002	Reference T1002 Taxonomy:7371	
+T1003	Family 958 967	blowflies
+N1003	Reference T1003 Taxonomy:7371	

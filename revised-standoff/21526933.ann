@@ -8,3 +8,37 @@ T4	Species 853 869	Cotesia sesamiae
 N4	Reference T4 Taxonomy:89807
 T5	Species 884 895	C. flavipes
 N5	Reference T5 Taxonomy:89805
+T6	Order 14 27	lepidopterous
+N6	Reference T6 Taxonomy:7088	Lepidoptera
+T7	Order 219 228	Cyperales
+T8	Family 230 237	Poaceae
+N7	Reference T8 Taxonomy:4479	Poaceae
+T9	Order 265 274	Cyperales
+T10	Family 276 283	Poaceae
+N8	Reference T10 Taxonomy:4479	Poaceae
+T11	Genus 338 345	Cyperus
+N9	Reference T11 Taxonomy:4610	Cyperus
+T12	Genus 352 359	Panicum
+N10	Reference T12 Taxonomy:4539	Panicum
+T13	Genus 366 376	Pennisetum
+N11	Reference T13 Taxonomy:4541	Pennisetum
+T14	Genus 387 394	Sorghum
+N12	Reference T14 Taxonomy:4557	Sorghum
+T15	Out-of-scope 564 569	plant
+N13	Reference T15 Taxonomy:3193	Embryophyta
+T16	Out-of-scope 826 831	plant
+N14	Reference T16 Taxonomy:3193	Embryophyta
+T17	Order 905 916	Hymenoptera
+N15	Reference T17 Taxonomy:7399	Hymenoptera
+T18	Family 918 928	Braconidae
+N16	Reference T18 Taxonomy:7402	Braconidae
+T19	Genus 1094 1101	Cotesia
+N17	Reference T19 Taxonomy:32390	Cotesia
+T20	Out-of-scope 1170 1176	plants
+N18	Reference T20 Taxonomy:3193	Embryophyta
+T21	Out-of-scope 1277 1283	plants
+N19	Reference T21 Taxonomy:3193	Embryophyta
+T22	Out-of-scope 1464 1470	plants
+N20	Reference T22 Taxonomy:3193	Embryophyta
+T23	Out-of-scope 1597 1603	plants
+N21	Reference T23 Taxonomy:3193	Embryophyta

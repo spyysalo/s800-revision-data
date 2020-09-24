@@ -4,3 +4,32 @@ T2	Species 192 205	Mygona irmina
 N2	Reference T2 Taxonomy:669555
 T3	Species 365 387	Chusquea c.f. scandens
 N3	Reference T3 Taxonomy:48992
+T4	Genus 58 64	Mygona
+N4	Reference T4 Taxonomy:442038	Mygona
+T5	Order 217 228	Lepidoptera
+N5	Reference T5 Taxonomy:7088	Lepidoptera
+T6	Family 230 241	Nymphalidae
+N6	Reference T6 Taxonomy:33415	Nymphalidae
+T7	Family 395 402	Poaceae
+N7	Reference T7 Taxonomy:4479	Poaceae
+T8	Family 102 111	butterfly
+N8	Reference T8 Taxonomy:37572	Papilionoidea
+T9	Family 243 252	Satyrinae
+N9	Reference T9 Taxonomy:42282	Satyrinae
+T10	Out-of-scope 254 266	Pronophilina
+N10	Reference T10 Taxonomy:150885	Pronophilina
+T11	Family 404 415	Bambusoidea
+N11	Reference T11 Taxonomy:147366	Bambusoideae
+T12	Genus 787 793	bamboo
+N13	Reference T12 Taxonomy:4581	Bambusa
+T13	Class 704 710	mammal
+N12	Reference T13 Taxonomy:40674	Mammalia
+T14	Genus 357 363	bamboo
+N14	Reference T14 Taxonomy:4581	Bambusa
+#1	AnnotatorNotes T10	TODO check
+T15	Out-of-scope 436 441	plant
+N15	Reference T15 Taxonomy:3193	Embryophyta
+T16	Out-of-scope 498 503	plant
+N16	Reference T16 Taxonomy:3193	Embryophyta
+T17	Out-of-scope 670 675	plant
+N17	Reference T17 Taxonomy:3193	Embryophyta

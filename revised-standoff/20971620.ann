@@ -4,13 +4,21 @@ T2	Species 175 198	Cotterillia bromelicola
 N2	Reference T2 Taxonomy:870602
 T3	Species 274 297	Tillandsia heterophylla
 N3	Reference T3 Taxonomy:294059
-T4	Out-of-scope 377 388	Cotterillia
-T5	Out-of-scope 487 498	Cotterillia
+T4	Genus 377 388	Cotterillia
+T5	Genus 487 498	Cotterillia
 T6	Species 799 822	Cotterillia bromelicola
 N6	Reference T6 Taxonomy:870602
-T7	Out-of-scope 1053 1064	Cotterillia
-T8	Out-of-scope 1290 1301	Cotterillia
+T7	Genus 1053 1064	Cotterillia
+T8	Genus 1290 1301	Cotterillia
 N4	Reference T4 Taxonomy:1825604	Cotterillia
 N5	Reference T5 Taxonomy:1825604	Cotterillia
 N7	Reference T7 Taxonomy:1825604	Cotterillia
 N8	Reference T8 Taxonomy:1825604	Cotterillia
+T9	Genus 1259 1272	Trachelostyla
+N9	Reference T9 Taxonomy:330973	Trachelostyla
+T10	Genus 1274 1284	Gonostomum
+N10	Reference T10 Taxonomy:152444	Gonostomum
+T11	Family 1080 1094	Gonostomatidae
+N11	Reference T11 Taxonomy:2025516	Gonostomatidae
+T12	Family 117 129	Bromeliaceae
+N12	Reference T12 Taxonomy:4613	Bromeliaceae

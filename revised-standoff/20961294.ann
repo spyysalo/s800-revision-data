@@ -4,10 +4,10 @@ T2	Species 110 128	Tuber melanosporum
 N2	Reference T2 Taxonomy:39416
 T3	Species 1119 1134	T. melanosporum
 N3	Reference T3 Taxonomy:39416
-T4	Out-of-scope 658 666	truffles
-T5	Out-of-scope 989 997	truffles
-T6	Out-of-scope 1353 1360	truffle
-N4	Reference T4 Taxonomy:36048	Tuber
-N5	Reference T5 Taxonomy:36048	Tuber
-N6	Reference T6 Taxonomy:36048	Tuber
 T7	Strain 291 296	Mel28
+T1001	Genus 658 666	truffles
+N1001	Reference T1001 Taxonomy:36048	
+T1003	Genus 989 997	truffles
+N1003	Reference T1003 Taxonomy:36048	
+T4	Genus 1353 1360	truffle
+N4	Reference T4 Taxonomy:36048	

@@ -1,7 +1,7 @@
-T1	Out-of-scope 413 428	influenza virus
+T1	Family 413 428	influenza virus
 T2	Species 493 498	human
 N2	Reference T2 Taxonomy:9606
-T3	Out-of-scope 1630 1645	influenza virus
+T3	Family 1630 1645	influenza virus
 T4	Species 1656 1673	hepatitis C virus
 N4	Reference T4 Taxonomy:11103
 T5	Species 1816 1821	human
@@ -14,10 +14,10 @@ T8	Species 1647 1650	HIV
 N8	Reference T8 Taxonomy:12721	Human immunodeficiency virus
 N1	Reference T1 Taxonomy:11308	Orthomyxoviridae
 N3	Reference T3 Taxonomy:11308	Orthomyxoviridae
-T9	Out-of-scope 0 9	Norovirus
+T9	Genus 0 9	Norovirus
 T10	Strain 186 191	GII.4
 N10	Reference T10 Taxonomy:11983	Norwalk virus
-T11	Out-of-scope 45 56	Noroviruses
+T11	Genus 45 56	Noroviruses
 T12	Strain 460 465	GII.4
 N12	Reference T12 Taxonomy:11983	Norwalk virus
 T13	Strain 631 636	GII.4
@@ -26,8 +26,6 @@ T14	Strain 663 668	GII.4
 N14	Reference T14 Taxonomy:11983	Norwalk virus
 T15	Strain 675 680	GII.4
 N15	Reference T15 Taxonomy:11983	Norwalk virus
-T16	Out-of-scope 694 699	GII.4
-N16	Reference T16 Taxonomy:11983	Norwalk virus
 T17	Strain 760 765	GII.4
 N17	Reference T17 Taxonomy:11983	Norwalk virus
 T18	Strain 855 860	GII.4
@@ -36,19 +34,23 @@ T19	Strain 870 875	GII.4
 N19	Reference T19 Taxonomy:11983	Norwalk virus
 T20	Strain 896 901	GII.4
 N20	Reference T20 Taxonomy:11983	Norwalk virus
-T21	Out-of-scope 913 918	GII.4
-N21	Reference T21 Taxonomy:11983	Norwalk virus
+T21	Strain 913 918	GII.4
 T22	Strain 968 973	GII.4
 N22	Reference T22 Taxonomy:11983	Norwalk virus
 T23	Strain 1108 1113	GII.4
 N23	Reference T23 Taxonomy:11983	Norwalk virus
 T24	Strain 1177 1182	GII.4
 N24	Reference T24 Taxonomy:11983	Norwalk virus
-T25	Out-of-scope 1537 1548	noroviruses
-T26	Out-of-scope 1675 1684	norovirus
+T25	Genus 1537 1548	noroviruses
+T26	Genus 1675 1684	norovirus
 N11	Reference T11 Taxonomy:142786	Norovirus
 N26	Reference T26 Taxonomy:142786	Norovirus
 T27	Strain 10 15	GII.4
 T28	Strain 1531 1536	GII.4
 N9	Reference T9 Taxonomy:142786	Norovirus
 N25	Reference T25 Taxonomy:142786	Norovirus
+T16	Strain 694 699	GII.4
+#1	AnnotatorNotes T16	Note: "anti-" prefix
+#2	AnnotatorNotes T21	Note: "anti-" prefix
+T29	Genus 220 229	norovirus
+N16	Reference T29 Taxonomy:142786	Norovirus

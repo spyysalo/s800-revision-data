@@ -6,5 +6,21 @@ T3	Species 1050 1069	Crithidia oncopelti
 N3	Reference T3 Taxonomy:5657
 T4	Species 1074 1097	Blastocrithidia culicis
 N4	Reference T4 Taxonomy:28005
-T5	Out-of-scope 1464 1482	Betaproteobacteria
-N5	Reference T5 Taxonomy:28216	Betaproteobacteria
+T1001	Genus 38 47	Angomonas
+N1001	Reference T1001 Taxonomy:1003337	
+T1002	Genus 52 63	Strigomonas
+N1002	Reference T1002 Taxonomy:1003010	
+T1003	Genus 870 879	Angomonas
+N1003	Reference T1003 Taxonomy:1003337	
+T1004	Genus 884 895	Strigomonas
+N1004	Reference T1004 Taxonomy:1003010	
+T1005	Genus 907 916	Angomonas
+N1005	Reference T1005 Taxonomy:1003337	
+T1006	Genus 1022 1033	Strigomonas
+N1006	Reference T1006 Taxonomy:1003010	
+T1007	Genus 1315 1324	Angomonas
+N1007	Reference T1007 Taxonomy:1003337	
+T1008	Genus 1329 1340	Strigomonas
+N1008	Reference T1008 Taxonomy:1003010	
+T1009	Class 1464 1482	Betaproteobacteria
+N1009	Reference T1009 Taxonomy:28216	

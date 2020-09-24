@@ -1,7 +1,7 @@
-T1	Species 56 76	H1N1 influenza virus
+T1	Strain 56 76	H1N1 influenza virus
 N1	Reference T1 Taxonomy:11320
-T2	Out-of-scope 144 159	influenza virus
-T3	Out-of-scope 309 324	influenza virus
+T2	Family 144 159	influenza virus
+T3	Family 309 324	influenza virus
 T4	Species 424 438	H1N1 influenza
 N4	Reference T4 Taxonomy:11320
 T5	Strain 524 536	H1N1 viruses
@@ -23,8 +23,8 @@ N12	Reference T13 Taxonomy:10090	Mus musculus
 N13	Reference T14 Taxonomy:10090	Mus musculus
 T15	Strain 988 990	H3
 N14	Reference T15 Taxonomy:11320	
-T16	Out-of-scope 955 972	influenza viruses
-T17	Out-of-scope 1674 1691	influenza viruses
+T16	Family 955 972	influenza viruses
+T17	Family 1674 1691	influenza viruses
 N17	Reference T12 Taxonomy:10090	Mus musculus
 N2	Reference T2 Taxonomy:11308	Orthomyxoviridae
 N3	Reference T3 Taxonomy:11308	Orthomyxoviridae
@@ -34,3 +34,8 @@ N15	Reference T6 Taxonomy:11320	Influenza A virus
 N16	Reference T17 Taxonomy:11308	Orthomyxoviridae
 T18	Species 1041 1049	CA/E3/09
 N18	Reference T18 Taxonomy:11320	Influenza A virus
+#1	AnnotatorNotes T5	TODO check span (head "viruses")
+#2	AnnotatorNotes T1	TODO check
+#3	AnnotatorNotes T18	TODO check type
+#4	AnnotatorNotes T6	TODO check type
+#5	AnnotatorNotes T4	TODO check type

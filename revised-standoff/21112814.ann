@@ -10,8 +10,7 @@ T5	Species 885 901	Copromyxa protea
 N5	Reference T5 Taxonomy:931554
 T6	Species 941 969	Hartmannella cantabrigiensis
 N6	Reference T6 Taxonomy:239731
-T7	Species 1006 1031	Hartmannella sp. 4/3Da/10
-N7	Reference T7 Taxonomy:303301
+T7	Genus 1006 1018	Hartmannella
 T8	Species 1064 1082	H. cantabrigiensis
 N8	Reference T8 Taxonomy:239731
 T9	Species 1209 1227	C. cantabrigiensis
@@ -19,3 +18,22 @@ N9	Reference T9 Taxonomy:239731
 T10	Species 1262 1271	C. protea
 N10	Reference T10 Taxonomy:303301
 T11	Species 1187 1205	H. cantabrigiensis
+T1001	Genus 95 104	Copromyxa
+N1001	Reference T1001 Taxonomy:931553	
+T1002	Genus 455 462	amoebae
+N1002	Reference T1002 Taxonomy:5774	
+T1003	Genus 990 996	amoeba
+N1003	Reference T1003 Taxonomy:5774	
+T1004	Genus 1054 1063	Copromyxa
+N1004	Reference T1004 Taxonomy:931553	
+T1005	Genus 1096 1105	Glaeseria
+N1005	Reference T1005 Taxonomy:242546	
+T1006	Family 1140 1149	Amoebidae
+N1006	Reference T1006 Taxonomy:35218	
+T1007	Genus 1151 1157	Amoeba
+N1007	Reference T1007 Taxonomy:5774	
+T1008	Genus 1347 1356	Copromyxa
+N1008	Reference T1008 Taxonomy:931553	
+T12	Strain 1250 1258	4/3Da/10
+N7	Reference T7 Taxonomy:5777	Hartmannella
+T13	Strain 1023 1031	4/3Da/10

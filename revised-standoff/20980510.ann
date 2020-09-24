@@ -22,7 +22,7 @@ T11	Species 764 767	NDV
 N11	Reference T11 Taxonomy:11176
 T12	Species 864 868	mice
 N12	Reference T12 Taxonomy:10090
-T13	Out-of-scope 928 931	RSV
+T13	Species 928 931	RSV
 N13	Reference T13 Taxonomy:11250
 T14	Species 1070 1073	RSV
 N14	Reference T14 Taxonomy:11250
@@ -44,3 +44,4 @@ T22	Species 1520 1524	mice
 N22	Reference T22 Taxonomy:10090
 T23	Species 1562 1565	RSV
 N23	Reference T23 Taxonomy:11250
+#1	AnnotatorNotes T13	Note: "anti-" prefix

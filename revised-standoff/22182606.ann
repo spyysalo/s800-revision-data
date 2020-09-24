@@ -29,26 +29,28 @@ T17	Species 1643 1655	C. adspersus
 T18	Species 1787 1799	C. adspersus
 T19	Species 1951 1963	C. adspersus
 T20	Species 2173 2185	C. adspersus
-T21	Species 452 461	sunflower
-N12	Reference T21 Taxonomy:4232	Helianthus annuus
-T22	Species 1058 1067	sunflower
-N13	Reference T22 Taxonomy:4232	Helianthus annuus
-T23	Species 1132 1141	sunflower
-N14	Reference T23 Taxonomy:4232	Helianthus annuus
-T24	Species 59 69	sunflowers
-N15	Reference T24 Taxonomy:4232	Helianthus annuus
-T25	Species 655 664	sunflower
-N16	Reference T25 Taxonomy:4232	Helianthus annuus
-T26	Species 886 895	sunflower
-N17	Reference T26 Taxonomy:4232	Helianthus annuus
-T27	Species 1395 1404	sunflower
-N18	Reference T27 Taxonomy:4232	Helianthus annuus
-T28	Species 1985 1994	sunflower
-N19	Reference T28 Taxonomy:4232	Helianthus annuus
-T29	Species 2092 2101	sunflower
-N20	Reference T29 Taxonomy:4232	Helianthus annuus
-T30	Species 2196 2206	sunflowers
-N21	Reference T30 Taxonomy:4232	Helianthus annuus
-T31	Species 2259 2268	sunflower
-N22	Reference T31 Taxonomy:4232	Helianthus annuus
+T21	Genus 452 461	sunflower
+T22	Genus 1058 1067	sunflower
+T23	Genus 1132 1141	sunflower
+T25	Genus 655 664	sunflower
+T26	Genus 886 895	sunflower
+T27	Genus 1395 1404	sunflower
+T28	Genus 1985 1994	sunflower
+T29	Genus 2092 2101	sunflower
+T31	Genus 2259 2268	sunflower
 T32	Species 0 21	Sunflower stem weevil
+T1001	Genus 59 69	sunflowers
+N1001	Reference T1001 Taxonomy:4231	
+T1003	Genus 686 696	Helianthus
+N1003	Reference T1003 Taxonomy:4231	
+T1004	Genus 2196 2206	sunflowers
+N1004	Reference T1004 Taxonomy:4231	
+N16	Reference T25 Taxonomy:4231	Helianthus
+N17	Reference T26 Taxonomy:4231	Helianthus
+N13	Reference T22 Taxonomy:4231	Helianthus
+N14	Reference T23 Taxonomy:4231	Helianthus
+N18	Reference T27 Taxonomy:4231	Helianthus
+N12	Reference T21 Taxonomy:4231	Helianthus
+N19	Reference T28 Taxonomy:4231	Helianthus
+N20	Reference T29 Taxonomy:4231	Helianthus
+N22	Reference T31 Taxonomy:4231	Helianthus

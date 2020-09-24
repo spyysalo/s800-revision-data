@@ -1,6 +1,6 @@
 T1	Species 0 18	Oramoeba fumarolia
 N1	Reference T1 Taxonomy:718362
-T2	Out-of-scope 587 599	Stachyamoeba
+T2	Genus 587 599	Stachyamoeba
 T3	Species 659 678	Vrihiamoeba italica
 N3	Reference T3 Taxonomy:660567
 T4	Species 704 708	rice
@@ -9,3 +9,5 @@ T5	Species 1057 1075	Oramoeba fumarolia
 N5	Reference T5 Taxonomy:718362
 T6	Strain 604 613	ATCC50324
 N2	Reference T2 Taxonomy:63594	Stachyamoeba
+T1001	Genus 109 115	amoeba
+N1001	Reference T1001 Taxonomy:5774	

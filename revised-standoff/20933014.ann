@@ -8,7 +8,7 @@ T4	Species 352 356	ORSV
 N4	Reference T4 Taxonomy:12238
 T5	Species 385 401	Escherichia coli
 N5	Reference T5 Taxonomy:562
-T6	Out-of-scope 529 533	ORSV
+T6	Species 529 533	ORSV
 N6	Reference T6 Taxonomy:12238
 T7	Species 754 758	ORSV
 N7	Reference T7 Taxonomy:12238
@@ -18,3 +18,6 @@ T9	Species 1130 1134	ORSV
 N9	Reference T9 Taxonomy:12238
 T10	Species 1282 1286	ORSV
 N10	Reference T10 Taxonomy:12238
+#1	AnnotatorNotes T6	Note: "anti-" prefix
+T11	Species 734 740	murine
+N11	Reference T11 Taxonomy:10090	Mus musculus

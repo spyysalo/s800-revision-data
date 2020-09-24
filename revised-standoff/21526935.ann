@@ -68,5 +68,25 @@ T34	Species 2164 2175	castor bean
 N34	Reference T34 Taxonomy:3988
 T35	Species 2302 2306	corn
 N35	Reference T35 Taxonomy:4577
-T36	Species 506 515	fruit fly
-N36	Reference T36 Taxonomy:7227	Drosophila melanogaster
+T36	Genus 506 515	fruit fly
+T1001	Order 276 283	Diptera
+N1001	Reference T1001 Taxonomy:7147	
+T1002	Family 285 296	Tephritidae
+N1002	Reference T1002 Taxonomy:7211	
+T1004	Order 694 706	Euphorbiales
+N1004	Reference T1004 Taxonomy:3646	
+T1005	Family 708 721	Euphorbiaceae
+N1005	Reference T1005 Taxonomy:3977	
+T1006	Order 1164 1173	Cyperales
+N1006	Reference T1006 Taxonomy:38820	
+T1007	Family 1175 1182	Poaceae
+N1007	Reference T1007 Taxonomy:4479	
+T1008	Order 1357 1365	Violales
+N1008	Reference T1008 Taxonomy:3646	
+T1009	Family 1367 1377	Caricaceae
+N1009	Reference T1009 Taxonomy:3647	
+T1010	Order 1601 1613	Malpighiales
+N1010	Reference T1010 Taxonomy:3646	
+T1011	Family 1615 1628	Euphorbiaceae
+N1011	Reference T1011 Taxonomy:3977	
+N36	Reference T36 Taxonomy:7215	Drosophila

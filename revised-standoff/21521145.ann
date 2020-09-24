@@ -4,8 +4,7 @@ T2	Species 477 495	Beauveria bassiana
 N2	Reference T2 Taxonomy:176275
 T3	Species 563 585	Metarhizium anisopliae
 N3	Reference T3 Taxonomy:5530
-T4	Out-of-scope 669 681	Paecilomyces
-N4	Reference T4 Taxonomy:40383
+T4	Genus 669 681	Paecilomyces
 T5	Species 719 730	B. bassiana
 N5	Reference T5 Taxonomy:176275
 T6	Species 801 814	M. anisopliae
@@ -28,3 +27,36 @@ N13	Reference T14 Taxonomy:5530	Metarhizium anisopliae
 N14	Reference T13 Taxonomy:176275	Beauveria bassiana
 T15	Species 1065 1084	Gynaikothrips uzeli
 N15	Reference T15 Taxonomy:1422814	Gynaikothrips uzeli
+T1001	Order 127 133	thrips
+N1001	Reference T1001 Taxonomy:30262	
+T1002	Family 138 148	whiteflies
+N1002	Reference T1002 Taxonomy:7036	
+T1003	Order 377 387	Coleoptera
+N1003	Reference T1003 Taxonomy:7041	
+T1004	Family 389 402	Tenebrionidae
+N1004	Reference T1004 Taxonomy:7065	
+T1005	Order 517 528	Hypocreales
+N1005	Reference T1005 Taxonomy:5125	
+T1006	Family 530 545	Cordycipitaceae
+N1006	Reference T1006 Taxonomy:474943	
+T1007	Order 610 621	Hypocreales
+N1007	Reference T1007 Taxonomy:5125	
+T1008	Family 623 638	Clavicipitaceae
+N1008	Reference T1008 Taxonomy:34397	
+T1009	Order 688 699	Hypocreales
+N1009	Reference T1009 Taxonomy:5125	
+T1010	Family 701 716	Cordycipitaceae
+N1010	Reference T1010 Taxonomy:474943	
+T1012	Order 1096 1108	Thysanoptera
+N1012	Reference T1012 Taxonomy:30262	
+T1013	Family 1110 1125	Phlaeothripidae
+N1013	Reference T1013 Taxonomy:38137	
+T1014	Order 1194 1203	Hemiptera
+N1014	Reference T1014 Taxonomy:7524	
+T1015	Family 1205 1216	Aleyrodidae
+N1015	Reference T1015 Taxonomy:7036	
+T1016	Order 1272 1278	thrips
+N1016	Reference T1016 Taxonomy:30262	
+T1017	Family 1389 1399	whiteflies
+N1017	Reference T1017 Taxonomy:7036	
+N4	Reference T4 Taxonomy:33202	Paecilomyces

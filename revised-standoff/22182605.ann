@@ -3,14 +3,24 @@ N1	Reference T1 Taxonomy:41139
 T2	Species 558 579	Hippodamia convergens
 N2	Reference T2 Taxonomy:64696
 T3	Species 621 638	Geocoris bullatus
-T4	Out-of-scope 884 892	Geocoris
-T5	Out-of-scope 1030 1038	Geocoris
-T6	Out-of-scope 1198 1206	Geocoris
-T7	Out-of-scope 1480 1488	Geocoris
 T8	Species 649 665	Nabis alternatus
 N8	Reference T8 Taxonomy:1656820	Nabis alternatus
-N4	Reference T4 Taxonomy:236434	Geocoris
-N5	Reference T5 Taxonomy:236434	Geocoris
-N6	Reference T6 Taxonomy:236434	Geocoris
-N7	Reference T7 Taxonomy:236434	Geocoris
 N3	Reference T3 Taxonomy:881457	Geocoris bullatus
+T1001	Family 512 524	lady beetles
+N1001	Reference T1001 Taxonomy:7080	
+T1002	Genus 884 892	Geocoris
+N1002	Reference T1002 Taxonomy:236434	
+T1003	Genus 1030 1038	Geocoris
+N1003	Reference T1003 Taxonomy:236434	
+T1004	Genus 1198 1206	Geocoris
+N1004	Reference T1004 Taxonomy:236434	
+T1005	Family 1314 1326	lady beetles
+N1005	Reference T1005 Taxonomy:7080	
+T1006	Order 1427 1434	beetles
+N1006	Reference T1006 Taxonomy:7041	
+T1007	Genus 1480 1488	Geocoris
+N1007	Reference T1007 Taxonomy:236434	
+T4	Genus 742 747	Nabis
+N4	Reference T4 Taxonomy:58007	Nabis
+T5	Genus 1401 1406	Nabis
+N5	Reference T5 Taxonomy:58007	Nabis

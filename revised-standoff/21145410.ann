@@ -8,3 +8,19 @@ T4	Species 1267 1275	wax moth
 N4	Reference T4 Taxonomy:7137
 T5	Strain 804 813	CBS118893
 T6	Strain 864 873	CBS118892
+T7	Family 10 22	dermatophyte
+N5	Reference T7 Taxonomy:34384	Arthrodermataceae
+T8	Family 132 145	dermatophytes
+N6	Reference T8 Taxonomy:34384	Arthrodermataceae
+T9	Family 326 338	dermatophyte
+N7	Reference T9 Taxonomy:34384	Arthrodermataceae
+T10	Family 647 660	dermatophytes
+N8	Reference T10 Taxonomy:34384	Arthrodermataceae
+T11	Family 1008 1021	dermatophytes
+N9	Reference T11 Taxonomy:34384	Arthrodermataceae
+T12	Family 1414 1426	dermatophyte
+N10	Reference T12 Taxonomy:34384	Arthrodermataceae
+T13	Family 1500 1513	dermatophytes
+N11	Reference T13 Taxonomy:34384	Arthrodermataceae
+T14	Out-of-scope 175 181	fungal
+N12	Reference T14 Taxonomy:4751	Fungi

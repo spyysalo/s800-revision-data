@@ -6,11 +6,15 @@ T3	Species 817 831	F. graminearum
 N3	Reference T3 Taxonomy:5518
 T4	Species 858 863	wheat
 N4	Reference T4 Taxonomy:4565	Triticum aestivum
-T5	Out-of-scope 69 77	Fusarium
-N5	Reference T5 Taxonomy:5506	Fusarium
-T6	Out-of-scope 502 510	Fusarium
-N6	Reference T6 Taxonomy:5506	Fusarium
-T7	Out-of-scope 1192 1200	Fusarium
-N7	Reference T7 Taxonomy:5506	Fusarium
-T8	Out-of-scope 1535 1543	Fusarium
-N8	Reference T8 Taxonomy:5506	Fusarium
+T1001	Genus 69 77	Fusarium
+N1001	Reference T1001 Taxonomy:5506	
+T1002	Genus 88 96	Fusarium
+N1002	Reference T1002 Taxonomy:5506	
+T1003	Genus 305 312	fusaria
+N1003	Reference T1003 Taxonomy:5506	
+T1004	Genus 502 510	Fusarium
+N1004	Reference T1004 Taxonomy:5506	
+T1005	Genus 1192 1200	Fusarium
+N1005	Reference T1005 Taxonomy:5506	
+T1006	Genus 1535 1543	Fusarium
+N1006	Reference T1006 Taxonomy:5506	

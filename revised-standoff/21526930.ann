@@ -24,19 +24,35 @@ T12	Species 1971 1993	red imported fire ants
 N12	Reference T12 Taxonomy:13686
 T13	Species 145 162	imported fire ant
 N13	Reference T13 Taxonomy:13686	Solenopsis invicta
-T14	Species 375 383	fire ant
-N14	Reference T14 Taxonomy:13686	Solenopsis invicta
-T15	Species 0 8	Fire ant
-N15	Reference T15 Taxonomy:13686	Solenopsis invicta
 T16	Species 235 253	imported fire ants
 N16	Reference T16 Taxonomy:13686	Solenopsis invicta
-T17	Species 1401 1409	fire ant
-N17	Reference T17 Taxonomy:13686	Solenopsis invicta
-T18	Species 1521 1529	fire ant
-N18	Reference T18 Taxonomy:13686	Solenopsis invicta
-T19	Species 1679 1687	fire ant
-N19	Reference T19 Taxonomy:13686	Solenopsis invicta
+T17	Out-of-scope 1401 1409	fire ant
+T18	Out-of-scope 1521 1529	fire ant
+T19	Out-of-scope 1679 1687	fire ant
 T20	Species 1925 1943	imported fire ants
 N20	Reference T20 Taxonomy:13686	Solenopsis invicta
-T21	Species 2021 2029	fire ant
-N21	Reference T21 Taxonomy:13686	Solenopsis invicta
+T21	Out-of-scope 2021 2029	fire ant
+T1001	Genus 72 83	Pseudacteon
+N1001	Reference T1001 Taxonomy:378799	
+T1002	Order 299 310	Hymenoptera
+N1002	Reference T1002 Taxonomy:7399	
+T1003	Family 312 322	Formicidae
+N1003	Reference T1003 Taxonomy:36668	
+T1005	Genus 442 453	Pseudacteon
+N1005	Reference T1005 Taxonomy:378799	
+T1006	Order 666 671	flies
+N1006	Reference T1006 Taxonomy:7147	
+T1007	Order 732 739	Diptera
+N1007	Reference T1007 Taxonomy:7147	
+T1008	Family 741 749	Phoridae
+N1008	Reference T1008 Taxonomy:36164	
+T1009	Order 939 944	flies
+N1009	Reference T1009 Taxonomy:7147	
+T1010	Order 1231 1236	flies
+N1010	Reference T1010 Taxonomy:7147	
+T1011	Order 2374 2379	flies
+N1011	Reference T1011 Taxonomy:7147	
+T22	Genus 0 25	Fire ant decapitating fly
+N22	Reference T22 Taxonomy:378799	Pseudacteon
+T14	Genus 375 409	fire ant decapitating phorid flies
+N14	Reference T14 Taxonomy:378799	Pseudacteon

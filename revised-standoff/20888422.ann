@@ -1,7 +1,3 @@
-T1	Species 46 52	morels
-N1	Reference T1 Taxonomy:39407
-T2	Species 173 179	morels
-N2	Reference T2 Taxonomy:39407
 T3	Species 1219 1240	Morchella rufobrunnea
 N3	Reference T3 Taxonomy:368404
 T4	Species 1279 1291	black morels
@@ -10,4 +6,21 @@ T5	Species 1322 1335	yellow morels
 N5	Reference T5 Taxonomy:39407
 T6	Species 1842 1848	Morels
 N6	Reference T6 Taxonomy:39407
-#1	AnnotatorNotes T1	TODO check specificity of all mentions in this document
+T1001	Genus 54 63	Morchella
+N1001	Reference T1001 Taxonomy:5193	
+T1002	Genus 181 190	Morchella
+N1002	Reference T1002 Taxonomy:5193	
+T1003	Family 665 678	Morchellaceae
+N1003	Reference T1003 Taxonomy:5192	
+T1004	Family 819 832	Morchellaceae
+N1004	Reference T1004 Taxonomy:5192	
+T1005	Genus 971 980	Morchella
+N1005	Reference T1005 Taxonomy:5193	
+T1006	Genus 1167 1176	Morchella
+N1006	Reference T1006 Taxonomy:5193	
+T1007	Genus 1367 1376	Morchella
+N1007	Reference T1007 Taxonomy:5193	
+T1	Genus 41 52	true morels
+N1	Reference T1 Taxonomy:5193	
+T7	Genus 168 179	True morels
+N7	Reference T7 Taxonomy:5193	

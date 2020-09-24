@@ -1,13 +1,16 @@
-T1	Out-of-scope 31 46	Amoebophrya sp.
-N1	Reference T1 Taxonomy:88552
 T2	Species 113 136	Scrippsiella trochoidea
 N2	Reference T2 Taxonomy:71861
-T3	Out-of-scope 350 366	Amoebophrya spp.
-N3	Reference T3 Taxonomy:88552
-T4	Out-of-scope 750 765	Amoebophrya sp.
-N4	Reference T4 Taxonomy:88552
 T5	Species 797 820	Scrippsiella trochoidea
 N5	Reference T5 Taxonomy:71861
-#1	AnnotatorNotes T1	TODO check
-#2	AnnotatorNotes T3	TODO check
-#3	AnnotatorNotes T4	TODO check
+T1001	Order 140 151	Syndiniales
+N1001	Reference T1001 Taxonomy:88547	
+T1002	Order 255 266	Syndiniales
+N1002	Reference T1002 Taxonomy:88547	
+T1003	Genus 350 361	Amoebophrya
+N1003	Reference T1003 Taxonomy:88551	
+T1004	Class 377 392	dinoflagellates
+N1004	Reference T1004 Taxonomy:2864	
+T3	Genus 750 761	Amoebophrya
+N3	Reference T3 Taxonomy:88551	
+T4	Genus 31 42	Amoebophrya
+N4	Reference T4 Taxonomy:88551	

@@ -1,2 +1,6 @@
 T1	Species 204 235	Populus trichocarpa x deltoides
 N1	Reference T1 Taxonomy:3695
+T1001	Genus 196 202	poplar
+T1002	Genus 1290 1296	poplar
+N3	Reference T1002 Taxonomy:3689	Populus
+N2	Reference T1001 Taxonomy:3689	Populus

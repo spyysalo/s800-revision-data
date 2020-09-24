@@ -1,14 +1,14 @@
 T1	Species 384 388	Mice
 N1	Reference T1 Taxonomy:10090
-T2	Out-of-scope 83 98	Cytomegalovirus
-N2	Reference T2 Taxonomy:10358	Cytomegalovirus
-T3	Out-of-scope 100 103	CMV
+T3	Genus 100 103	CMV
 N3	Reference T3 Taxonomy:10358	Cytomegalovirus
-T4	Out-of-scope 52 67	cytomegalovirus
-N4	Reference T4 Taxonomy:10358	Cytomegalovirus
-T5	Out-of-scope 562 565	CMV
+T5	Genus 562 565	CMV
 N5	Reference T5 Taxonomy:10358	Cytomegalovirus
-T6	Out-of-scope 450 453	CMV
+T6	Genus 450 453	CMV
 N6	Reference T6 Taxonomy:10358	Cytomegalovirus
-T7	Out-of-scope 870 873	CMV
+T7	Genus 870 873	CMV
 N7	Reference T7 Taxonomy:10358	Cytomegalovirus
+T1001	Genus 52 67	cytomegalovirus
+N1001	Reference T1001 Taxonomy:10358	
+T1002	Genus 83 98	Cytomegalovirus
+N1002	Reference T1002 Taxonomy:10358	

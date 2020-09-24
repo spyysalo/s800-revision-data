@@ -22,11 +22,13 @@ T11	Species 1250 1258	SARS-CoV
 N11	Reference T11 Taxonomy:694009
 T12	Species 1916 1931	West Nile virus
 N12	Reference T12 Taxonomy:11082
-T13	Out-of-scope 84 99	influenza virus
-T14	Out-of-scope 461 476	influenza virus
-T15	Out-of-scope 1433 1448	influenza virus
-T16	Out-of-scope 1933 1948	influenza virus
+T13	Family 84 99	influenza virus
+T14	Family 461 476	influenza virus
+T15	Family 1433 1448	influenza virus
+T16	Family 1933 1948	influenza virus
 N13	Reference T13 Taxonomy:11308	Orthomyxoviridae
 N14	Reference T14 Taxonomy:11308	Orthomyxoviridae
 N15	Reference T15 Taxonomy:11308	Orthomyxoviridae
 N16	Reference T16 Taxonomy:11308	Orthomyxoviridae
+T1001	Genus 1950 1959	norovirus
+N1001	Reference T1001 Taxonomy:142786	

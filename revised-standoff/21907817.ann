@@ -2,7 +2,25 @@ T1	Species 95 114	Glomus intraradices
 N1	Reference T1 Taxonomy:4876
 T2	Species 371 390	Glomus intraradices
 N2	Reference T2 Taxonomy:4876
-T3	Species 539 559	G. intraradicesNH(4)
+T3	Species 539 554	G. intraradices
 N3	Reference T3 Taxonomy:4876
 T4	Out-of-scope 592 597	Yeast
 N4	Reference T4 Taxonomy:147537	Saccharomycotina
+T5	Out-of-scope 88 94	fungus
+N5	Reference T5 Taxonomy:4751	Fungi
+T6	Out-of-scope 189 194	fungi
+N6	Reference T6 Taxonomy:4751	Fungi
+T7	Out-of-scope 200 206	fungus
+N7	Reference T7 Taxonomy:4751	Fungi
+T8	Out-of-scope 364 370	fungus
+N8	Reference T8 Taxonomy:4751	Fungi
+T9	Out-of-scope 852 858	fungal
+N9	Reference T9 Taxonomy:4751	Fungi
+T10	Out-of-scope 1001 1007	fungal
+N10	Reference T10 Taxonomy:4751	Fungi
+T11	Out-of-scope 1336 1342	fungal
+N11	Reference T11 Taxonomy:4751	Fungi
+T12	Out-of-scope 274 279	plant
+N12	Reference T12 Taxonomy:3193	Embryophyta
+T13	Out-of-scope 150 156	plants
+N13	Reference T13 Taxonomy:3193	Embryophyta

@@ -18,8 +18,8 @@ T9	Strain 647 651	H3N2
 N9	Reference T9 Taxonomy:11320
 T16	Species 1452 1471	influenza A viruses
 N16	Reference T16 Taxonomy:11320
-T17	Out-of-scope 1610 1627	influenza viruses
-T18	Out-of-scope 1662 1679	influenza viruses
+T17	Family 1610 1627	influenza viruses
+T18	Family 1662 1679	influenza viruses
 T19	Strain 212 221	A/H1N1pdm
 N19	Reference T19 Taxonomy:11320	
 T20	Strain 623 625	H1
@@ -55,3 +55,5 @@ T41	Strain 1059 1084	A/Sakai/89/2009 (H1N1)pdm
 T42	Strain 1378 1385	A/H1pdm
 T43	Strain 1387 1391	A/H3
 T44	Strain 1397 1401	A/H1
+#1	AnnotatorNotes T9	TODO check
+#2	AnnotatorNotes T34	TODO check

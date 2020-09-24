@@ -2,19 +2,27 @@ T1	Species 706 720	common cuckoos
 N1	Reference T1 Taxonomy:55661
 T2	Species 721 736	Cuculus canorus
 N2	Reference T2 Taxonomy:55661
-T3	Species 888 894	cuckoo
-N3	Reference T3 Taxonomy:55661
-T4	Species 1005 1011	cuckoo
-N4	Reference T4 Taxonomy:55661
-T5	Species 1251 1257	cuckoo
-N5	Reference T5 Taxonomy:55661
-T6	Species 1385 1392	cuckoos
-N6	Reference T6 Taxonomy:55661
-T7	Species 1499 1505	cuckoo
-N7	Reference T7 Taxonomy:55661
-T8	Species 1634 1640	cuckoo
-N8	Reference T8 Taxonomy:55661
-T9	Species 1805 1811	cuckoo
-N9	Reference T9 Taxonomy:55661
+T3	Family 888 894	cuckoo
+T4	Family 1005 1011	cuckoo
+T5	Family 1251 1257	cuckoo
+T7	Family 1499 1505	cuckoo
+T8	Family 1634 1640	cuckoo
+T9	Family 1805 1811	cuckoo
 T10	Out-of-scope 1534 1540	chicks
 #1	AnnotatorNotes T10	TODO revisit decision on whether and how to annotate "non-official" terms for young animals
+T1001	Class 45 50	birds
+N1001	Reference T1001 Taxonomy:8782	
+T1002	Class 299 304	birds
+N1002	Reference T1002 Taxonomy:8782	
+T1003	Genus 658 664	Turdus
+N1003	Reference T1003 Taxonomy:9186	
+T1005	Family 1385 1392	cuckoos
+N1005	Reference T1005 Taxonomy:8941	
+T1006	Class 2001 2006	birds
+N1006	Reference T1006 Taxonomy:8782	
+N3	Reference T3 Taxonomy:8941	Cuculidae
+N4	Reference T4 Taxonomy:8941	Cuculidae
+N5	Reference T5 Taxonomy:8941	Cuculidae
+N7	Reference T7 Taxonomy:8941	Cuculidae
+N8	Reference T8 Taxonomy:8941	Cuculidae
+N9	Reference T9 Taxonomy:8941	Cuculidae

@@ -12,38 +12,32 @@ T6	Species 866 877	brown trout
 N6	Reference T6 Taxonomy:8032
 T7	Species 918 936	roundhead galaxias
 N7	Reference T7 Taxonomy:126302
-T8	Species 1035 1043	galaxias
-N8	Reference T8 Taxonomy:126302
-T9	Species 1097 1102	trout
-N9	Reference T9 Taxonomy:8032
-T10	Species 1181 1186	trout
-N10	Reference T10 Taxonomy:8032
-T11	Species 1328 1333	trout
-N11	Reference T11 Taxonomy:8032
-T12	Species 1477 1485	galaxias
-N12	Reference T12 Taxonomy:126302
-T13	Species 1557 1562	trout
-N13	Reference T13 Taxonomy:8032
-T14	Species 1622 1630	galaxias
-N14	Reference T14 Taxonomy:126302
-T15	Species 1655 1663	galaxias
-N15	Reference T15 Taxonomy:126302
-T16	Species 1727 1735	galaxias
-N16	Reference T16 Taxonomy:126302
-T17	Species 1740 1745	trout
-N17	Reference T17 Taxonomy:8032
-T18	Species 1754 1759	trout
-N18	Reference T18 Taxonomy:8032
-T19	Species 1808 1816	galaxias
-N19	Reference T19 Taxonomy:126302
-T20	Species 1836 1844	galaxias
-N20	Reference T20 Taxonomy:126302
-T21	Species 1868 1876	galaxias
-N21	Reference T21 Taxonomy:126302
+T9	Out-of-scope 1097 1102	trout
+T10	Out-of-scope 1181 1186	trout
+T11	Out-of-scope 1328 1333	trout
+T13	Out-of-scope 1557 1562	trout
+T17	Out-of-scope 1740 1745	trout
+T18	Out-of-scope 1754 1759	trout
 T22	Species 827 850	Acanthocephalus galaxii
-#1	AnnotatorNotes T8	TODO check
 T23	Species 1070 1080	A. galaxii
 T24	Species 1151 1161	A. galaxii
 T25	Species 1445 1455	A. galaxii
-T26	Species 1014 1019	trout
-N22	Reference T26 Taxonomy:8032	
+T26	Out-of-scope 1014 1019	trout
+T1004	Genus 1035 1043	galaxias
+N1006	Reference T1004 Taxonomy:51242	
+T1005	Genus 1477 1485	galaxias
+N1008	Reference T1005 Taxonomy:51242	
+T1006	Genus 1622 1630	galaxias
+N1010	Reference T1006 Taxonomy:51242	
+T1007	Genus 1655 1663	galaxias
+N1012	Reference T1007 Taxonomy:51242	
+T1008	Order 1686 1695	amphipods
+N1014	Reference T1008 Taxonomy:6821	
+T1009	Genus 1727 1735	galaxias
+N1015	Reference T1009 Taxonomy:51242	
+T1010	Genus 1808 1816	galaxias
+N1017	Reference T1010 Taxonomy:51242	
+T1011	Genus 1836 1844	galaxias
+N1019	Reference T1011 Taxonomy:51242	
+T1012	Genus 1868 1876	galaxias
+N1021	Reference T1012 Taxonomy:51242	

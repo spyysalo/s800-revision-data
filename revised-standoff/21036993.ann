@@ -1,7 +1,7 @@
 T1	Strain 26 34	HTCC2083
 T2	Strain 93 101	HTCC2083
 T3	Strain 260 268	HTCC2083
-T4	Out-of-scope 71 82	Roseobacter
-N1	Reference T4 Taxonomy:2433	Roseobacter
-T5	Out-of-scope 212 223	Roseobacter
-N2	Reference T5 Taxonomy:2433	Roseobacter
+T1001	Genus 71 82	Roseobacter
+N1001	Reference T1001 Taxonomy:2433	
+T1002	Genus 212 223	Roseobacter
+N1002	Reference T1002 Taxonomy:2433	

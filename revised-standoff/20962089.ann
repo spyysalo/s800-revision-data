@@ -1,7 +1,5 @@
 T1	Species 154 189	Theiler's murine encephalitis virus
-N1	Reference T1 Taxonomy:204711
 T2	Species 191 195	TMEV
-N2	Reference T2 Taxonomy:204711
 T3	Species 277 281	mice
 N3	Reference T3 Taxonomy:10090
 T4	Species 382 386	mice
@@ -10,3 +8,13 @@ T5	Species 514 518	mice
 N5	Reference T5 Taxonomy:10090
 T6	Species 860 864	mice
 N6	Reference T6 Taxonomy:10090
+N1	Reference T1 Taxonomy:12124	Theilovirus
+N2	Reference T2 Taxonomy:12124	Theilovirus
+T7	Family 295 307	picornavirus
+N7	Reference T7 Taxonomy:12058	Picornaviridae
+T8	Out-of-scope 323 339	alphaherpesvirus
+N8	Reference T8 Taxonomy:10293	Alphaherpesvirinae
+T9	Family 346 357	rhabdovirus
+N9	Reference T9 Taxonomy:11270	Rhabdoviridae
+T10	Family 670 682	picornaviral
+N10	Reference T10 Taxonomy:12058	Picornaviridae

@@ -14,7 +14,7 @@ T7	Species 750 754	mice
 N7	Reference T7 Taxonomy:10090
 T8	Species 807 809	VV
 N8	Reference T8 Taxonomy:10245
-T9	Out-of-scope 811 813	VV
+T9	Strain 811 821	VVDeltaK3L
 N9	Reference T9 Taxonomy:10245
 T10	Species 870 875	mouse
 N10	Reference T10 Taxonomy:10090
@@ -30,7 +30,16 @@ T15	Species 1335 1339	mice
 N15	Reference T15 Taxonomy:10090
 T16	Species 1485 1490	mouse
 N16	Reference T16 Taxonomy:10090
-#1	AnnotatorNotes T9	TODO check
 T17	Species 838 840	VV
 N17	Reference T17 Taxonomy:10245	
 T18	Strain 107 114	C57BL/6
+T19	Strain 826 836	VVDeltaE3L
+N18	Reference T19 Taxonomy:10245	
+T20	Strain 1023 1033	VVDeltaE3L
+N19	Reference T20 Taxonomy:10245	
+T21	Strain 1408 1418	VVDeltaK3L
+N20	Reference T21 Taxonomy:10245	
+T22	Strain 1573 1583	VVDeltaK3L
+N21	Reference T22 Taxonomy:10245	
+T23	Strain 1369 1379	VVDeltaE3L
+N22	Reference T23 Taxonomy:10245	

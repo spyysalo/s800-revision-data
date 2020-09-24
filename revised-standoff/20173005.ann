@@ -1,11 +1,11 @@
 T1	Species 0 19	Thiomonas islandica
 N1	Reference T1 Taxonomy:545537
-T2	Out-of-scope 88 107	betaproteobacterium
+T2	Class 88 107	betaproteobacterium
 T3	Strain 207 209	6C
 N3	Reference T3 Taxonomy:545537
 T4	Strain 941 943	6C
 N4	Reference T4 Taxonomy:545537
-T5	Out-of-scope 1000 1018	Betaproteobacteria
+T5	Class 1000 1018	Betaproteobacteria
 T7	Species 1050 1070	Thiomonas intermedia
 N7	Reference T7 Taxonomy:926
 T9	Species 1088 1111	Thiomonas perometabolis
@@ -34,3 +34,5 @@ T11	Strain 1194 1203	DSM 18155
 T13	Strain 1235 1244	DSM 18570
 N2	Reference T2 Taxonomy:28216	Betaproteobacteria
 N5	Reference T5 Taxonomy:28216	Betaproteobacteria
+T21	Genus 1413 1422	Thiomonas
+N6	Reference T21 Taxonomy:32012	Thiomonas

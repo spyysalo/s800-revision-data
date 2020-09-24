@@ -18,3 +18,20 @@ T9	Species 1352 1362	P. gemmata
 N9	Reference T9 Taxonomy:749231
 T10	Species 1367 1378	A. whisleri
 N10	Reference T10 Taxonomy:749232
+T1001	Class 223 236	ichthyosporea
+N1001	Reference T1001 Taxonomy:127916	
+T1002	Class 238 252	Mesomycetozoea
+N1002	Reference T1002 Taxonomy:127916	
+T1003	Genus 886 893	amoebae
+N1003	Reference T1003 Taxonomy:5774	
+T1004	Genus 939 946	amoebae
+N1004	Reference T1004 Taxonomy:5774	
+T1005	Class 1247 1260	ichthyosporea
+N1005	Reference T1005 Taxonomy:127916	
+T11	Genus 872 881	plasmodia
+N11	Reference T11 Taxonomy:5820	Plasmodium
+#1	AnnotatorNotes T11	TODO check
+#2	AnnotatorNotes T1003	TODO check
+T12	Genus 1061 1071	plasmodial
+N12	Reference T12 Taxonomy:5820	Plasmodium
+#3	AnnotatorNotes T12	TODO check

@@ -15,3 +15,18 @@ N7	Reference T7 Taxonomy:110769
 T8	Species 1082 1096	Entamoeba coli
 N8	Reference T8 Taxonomy:110766
 T9	Out-of-scope 302 320	non-human primates
+T10	Genus 45 54	Entamoeba
+N9	Reference T10 Taxonomy:5758	Entamoeba
+T11	Genus 231 240	Entamoeba
+N10	Reference T11 Taxonomy:5758	Entamoeba
+T12	Genus 626 635	Entamoeba
+N11	Reference T12 Taxonomy:5758	Entamoeba
+T13	Genus 888 897	Entamoeba
+N12	Reference T13 Taxonomy:5758	Entamoeba
+T14	Genus 977 986	Entamoeba
+N13	Reference T14 Taxonomy:5758	Entamoeba
+T15	Genus 1411 1420	Entamoeba
+N14	Reference T15 Taxonomy:5758	Entamoeba
+#1	AnnotatorNotes T9	TODO check
+T16	Family 335 343	tortoise
+N15	Reference T16 Taxonomy:8487	Testudinidae

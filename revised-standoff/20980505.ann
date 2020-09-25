@@ -22,11 +22,13 @@ T11	Species 1777 1781	HCMV
 N11	Reference T11 Taxonomy:10359
 T12	Species 1867 1871	HCMV
 N12	Reference T12 Taxonomy:10359
-T13	Out-of-scope 231 247	alphaherpesvirus
+T13	Family 231 247	alphaherpesvirus
 N13	Reference T13 Taxonomy:10293	Alphaherpesvirinae
-T14	Out-of-scope 296 312	gammaherpesvirus
+T14	Family 296 312	gammaherpesvirus
 N14	Reference T14 Taxonomy:10374	Gammaherpesvirinae
-T15	Out-of-scope 366 381	betaherpesvirus
+T15	Family 366 381	betaherpesvirus
 N15	Reference T15 Taxonomy:10357	Betaherpesvirinae
-T16	Out-of-scope 1658 1684	alpha- or gammaherpesvirus
-#1	AnnotatorNotes T16	TODO
+T16	Family 1668 1684	gammaherpesvirus
+N16	Reference T16 Taxonomy:10374	Gammaherpesvirinae
+T17	Family 1658 1663;1673 1684	alpha herpesvirus
+N17	Reference T17 Taxonomy:10293	Alphaherpesvirinae

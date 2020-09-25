@@ -16,9 +16,39 @@ T1005	Genus 456 466	Acromyrmex
 N1005	Reference T1005 Taxonomy:64782	
 T1006	Genus 468 478	Pseudoatta
 N1006	Reference T1006 Taxonomy:230680	
-T1007	Genus 783 793	gongylidia
-N1007	Reference T1007 Taxonomy:1907092	
+T1007	Out-of-scope 783 793	gongylidia
 T1009	Genus 1178 1190	Trachymyrmex
 N1009	Reference T1009 Taxonomy:34717	
 T1010	Genus 1195 1207	Sericomyrmex
 N1010	Reference T1010 Taxonomy:34715	
+T4	Family 40 58	fungus-growing ant
+N4	Reference T4 Taxonomy:143999	Attini
+#1	AnnotatorNotes T4	TODO check
+T5	Family 201 219	fungus-growing ant
+N5	Reference T5 Taxonomy:143999	Attini
+#2	AnnotatorNotes T5	TODO check
+T6	Family 335 354	fungus-growing ants
+N6	Reference T6 Taxonomy:143999	Attini
+#3	AnnotatorNotes T6	TODO check
+T7	Family 415 426	attine ants
+N7	Reference T7 Taxonomy:143999	Attini
+#4	AnnotatorNotes T7	TODO check
+T8	Family 944 950	attine
+N8	Reference T8 Taxonomy:143999	Attini
+#5	AnnotatorNotes T8	TODO check
+T9	Family 978 984	attine
+N9	Reference T9 Taxonomy:143999	Attini
+#6	AnnotatorNotes T9	TODO check
+T10	Family 1063 1069	attine
+N10	Reference T10 Taxonomy:143999	Attini
+#7	AnnotatorNotes T10	TODO check
+#8	AnnotatorNotes T1007	anatomy
+T11	Family 121 127	attine
+N11	Reference T11 Taxonomy:143999	Attini
+#9	AnnotatorNotes T11	TODO check
+T12	Family 581 587	attine
+N12	Reference T12 Taxonomy:143999	Attini
+#10	AnnotatorNotes T12	TODO check
+T13	Family 834 840	attine
+N13	Reference T13 Taxonomy:143999	Attini
+#11	AnnotatorNotes T13	TODO check

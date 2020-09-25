@@ -1,9 +1,9 @@
 T1	Species 10 20	wSinvictaA
 N1	Reference T1 Taxonomy:400223
-T2	Out-of-scope 62 70	fire ant
+T2	Genus 62 70	fire ant
 T3	Species 71 89	Solenopsis invicta
 N3	Reference T3 Taxonomy:13686
-T4	Out-of-scope 960 968	fire ant
+T4	Genus 960 968	fire ant
 T5	Species 969 987	Solenopsis invicta
 N5	Reference T5 Taxonomy:13686
 T6	Species 1116 1126	S. invicta
@@ -12,7 +12,7 @@ T7	Species 1191 1201	S. invicta
 N7	Reference T7 Taxonomy:13686
 T8	Species 1361 1371	wSinvictaA
 N8	Reference T8 Taxonomy:400223
-T9	Out-of-scope 1439 1447	fire ant
+T9	Genus 1439 1447	fire ant
 T10	Species 1517 1527	wSinvictaA
 N10	Reference T10 Taxonomy:400223
 T11	Species 1066 1076	wSinvictaA
@@ -31,3 +31,8 @@ T17	Genus 1619 1628	Wolbachia
 N14	Reference T17 Taxonomy:953	Wolbachia
 T18	Family 759 763	ants
 N15	Reference T18 Taxonomy:36668	Formicidae
+T19	Family 1392 1396	ants
+N16	Reference T19 Taxonomy:36668	Formicidae
+N17	Reference T2 Taxonomy:13685	Solenopsis
+N18	Reference T4 Taxonomy:13685	Solenopsis
+N19	Reference T9 Taxonomy:13685	Solenopsis

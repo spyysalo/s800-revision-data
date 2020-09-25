@@ -37,3 +37,50 @@ T19	Species 1300 1318	Rudenia leguminana
 N18	Reference T19 Taxonomy:1026946	Rudenia leguminana
 T20	Species 1437 1450	R. leguminana
 N19	Reference T20 Taxonomy:1026946	Rudenia leguminana
+T21	Family 406 417	Tortricidae
+N20	Reference T21 Taxonomy:7139	Tortricidae
+T22	Order 419 430	Lepidoptera
+N21	Reference T22 Taxonomy:7088	Lepidoptera
+T23	Family 618 629	Tortricinae
+N22	Reference T23 Taxonomy:7139	Tortricidae
+T24	Out-of-scope 631 644	Sparganothini
+N23	Reference T24 Taxonomy:533180	Sparganothini
+#1	AnnotatorNotes T24	TODO check tribe
+T25	Genus 675 683	Cochylis
+N24	Reference T25 Taxonomy:688931	Cochylis
+T26	Genus 781 790	Ofatulena
+N25	Reference T26 Taxonomy:581587	Ofatulena
+T27	Out-of-scope 1098 1111	Sparganothini
+N26	Reference T27 Taxonomy:533180	Sparganothini
+#2	AnnotatorNotes T27	TODO check
+T28	Family 1209 1220	Leguminosae
+N27	Reference T28 Taxonomy:3803	Fabaceae
+T29	Family 279 290	Leguminosae
+N28	Reference T29 Taxonomy:3803	Fabaceae
+T30	Family 292 308	Caesalpinioideae
+N29	Reference T30 Taxonomy:3804	Caesalpinioideae
+T31	Family 694 705	Tortricinae
+N30	Reference T31 Taxonomy:65022	Tortricinae
+T32	Out-of-scope 707 716	Cochylini
+N31	Reference T32 Taxonomy:572921	Cochylini
+#3	AnnotatorNotes T32	TODO check tribe
+T33	Out-of-scope 1150 1159	Cochylini
+N32	Reference T33 Taxonomy:572921	Cochylini
+#4	AnnotatorNotes T33	TODO check
+T34	Family 800 813	Olethreutinae
+N33	Reference T34 Taxonomy:81687	Olethreutinae
+T35	Out-of-scope 815 827	Grapholitini
+N34	Reference T35 Taxonomy:581387	Grapholitini
+#5	AnnotatorNotes T35	TODO check tribe
+T36	Family 861 874	Olethreutinae
+N35	Reference T36 Taxonomy:81687	Olethreutinae
+T37	Out-of-scope 876 885	Eucosmini
+N36	Reference T37 Taxonomy:581385	Eucosmini
+#6	AnnotatorNotes T37	TODO check tribe
+T38	Out-of-scope 1170 1182	Grapholitini
+N37	Reference T38 Taxonomy:581387	Grapholitini
+#7	AnnotatorNotes T38	TODO check
+T39	Order 10 15	moths
+N38	Reference T39 Taxonomy:7088	
+T40	Family 0 9	Tortricid
+N39	Reference T40 Taxonomy:7139	Tortricidae

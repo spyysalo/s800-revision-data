@@ -12,9 +12,11 @@ N1	Reference T1 Taxonomy:12124	Theilovirus
 N2	Reference T2 Taxonomy:12124	Theilovirus
 T7	Family 295 307	picornavirus
 N7	Reference T7 Taxonomy:12058	Picornaviridae
-T8	Out-of-scope 323 339	alphaherpesvirus
+T8	Family 323 339	alphaherpesvirus
 N8	Reference T8 Taxonomy:10293	Alphaherpesvirinae
 T9	Family 346 357	rhabdovirus
 N9	Reference T9 Taxonomy:11270	Rhabdoviridae
 T10	Family 670 682	picornaviral
 N10	Reference T10 Taxonomy:12058	Picornaviridae
+T11	Family 200 212	picornavirus
+N11	Reference T11 Taxonomy:12058	Picornaviridae

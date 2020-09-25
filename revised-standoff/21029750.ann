@@ -39,3 +39,12 @@ N18	Reference T20 Taxonomy:10090	Mus musculus
 #1	AnnotatorNotes T18	txid:2770846
 #2	AnnotatorNotes T19	txid:2770846
 T21	Strain 549 553	BL21
+T22	Family 1065 1071	shrimp
+N19	Reference T22 Taxonomy:111520	Penaeoidea
+#3	AnnotatorNotes T22	TODO check
+T23	Family 1090 1096	shrimp
+N20	Reference T23 Taxonomy:111520	Penaeoidea
+#4	AnnotatorNotes T23	TODO check
+T24	Family 1805 1811	shrimp
+N21	Reference T24 Taxonomy:111520	Penaeoidea
+#5	AnnotatorNotes T24	TODO check

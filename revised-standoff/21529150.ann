@@ -2,10 +2,19 @@ T1	Species 46 64	Solenopsis invicta
 N1	Reference T1 Taxonomy:13686
 T2	Species 401 419	Solenopsis invicta
 N2	Reference T2 Taxonomy:13686
-T4	Out-of-scope 36 44	fire ant
-T5	Out-of-scope 391 399	fire ant
-T6	Out-of-scope 1661 1670	fire ants
+T4	Genus 36 44	fire ant
+T5	Genus 391 399	fire ant
+T6	Genus 1661 1670	fire ants
 T1001	Order 427 438	Hymenoptera
 N1001	Reference T1001 Taxonomy:7399	
 T1002	Family 440 450	Formicidae
 N1002	Reference T1002 Taxonomy:36668	
+N3	Reference T4 Taxonomy:13685	Solenopsis
+N4	Reference T5 Taxonomy:13685	Solenopsis
+N5	Reference T6 Taxonomy:13685	Solenopsis
+T3	Family 98 102	ants
+N6	Reference T3 Taxonomy:36668	Formicidae
+T7	Family 1626 1630	ants
+N7	Reference T7 Taxonomy:36668	Formicidae
+T8	Family 2664 2668	ants
+N8	Reference T8 Taxonomy:36668	Formicidae

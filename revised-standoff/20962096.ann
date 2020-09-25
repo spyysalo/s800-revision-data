@@ -1,13 +1,18 @@
-T1	Species 83 122	simian immunodeficiency virus SIVmac239
+T1	Species 83 112	simian immunodeficiency virus
 N1	Reference T1 Taxonomy:11723
-T2	Species 127 138	SIVagmTan-1
+T2	Strain 127 138	SIVagmTan-1
 N2	Reference T2 Taxonomy:11723
 T3	Family 142 152	Retroviral
 T4	Species 409 438	simian immunodeficiency virus
 N4	Reference T4 Taxonomy:11723
 T5	Species 440 443	SIV
 N5	Reference T5 Taxonomy:11723
-T6	Species 634 647	SIV(agmTan-1)
+T6	Strain 634 647	SIV(agmTan-1)
 N6	Reference T6 Taxonomy:11723
-T7	Species 587 598	SIV(mac239)
+T7	Strain 587 598	SIV(mac239)
 N3	Reference T3 Taxonomy:11632	Retroviridae
+T8	Genus 832 844	lentiviruses
+N7	Reference T8 Taxonomy:11646	Lentivirus
+T9	Strain 113 122	SIVmac239
+N8	Reference T9 Taxonomy:11723	
+N9	Reference T7 Taxonomy:11723	

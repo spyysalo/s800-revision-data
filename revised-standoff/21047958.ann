@@ -1,5 +1,5 @@
-T1	Family 49 65	human adenovirus
-T2	Family 93 111	Human adenoviruses
+T1	Family 55 65	adenovirus
+T2	Family 99 111	adenoviruses
 T3	Family 1367 1377	adenovirus
 T4	Family 1565 1575	adenovirus
 T5	Family 1758 1768	adenoviral
@@ -10,3 +10,7 @@ N6	Reference T6 Taxonomy:10508	Adenoviridae
 N3	Reference T3 Taxonomy:10508	Adenoviridae
 N4	Reference T4 Taxonomy:10508	Adenoviridae
 N5	Reference T5 Taxonomy:10508	Adenoviridae
+T7	Species 49 54	human
+N7	Reference T7 Taxonomy:9606	Homo sapiens
+T8	Species 93 98	Human
+N8	Reference T8 Taxonomy:9606	Homo sapiens

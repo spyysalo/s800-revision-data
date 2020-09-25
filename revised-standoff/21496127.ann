@@ -14,3 +14,17 @@ T1003	Genus 564 574	alphavirus
 N1003	Reference T1003 Taxonomy:11019	
 T1004	Family 638 649	Togaviridae
 N1004	Reference T1004 Taxonomy:11018	
+T5	Family 61 71	mosquitoes
+N5	Reference T5 Taxonomy:7157	Culicidae
+T6	Family 212 222	mosquitoes
+N6	Reference T6 Taxonomy:7157	Culicidae
+T7	Family 369 379	mosquitoes
+N7	Reference T7 Taxonomy:7157	Culicidae
+T8	Family 523 533	mosquitoes
+N8	Reference T8 Taxonomy:7157	Culicidae
+T9	Out-of-scope 158 167	arbovirus
+#1	AnnotatorNotes T9	TODO check non-taxonomy
+T10	Out-of-scope 457 466	arbovirus
+#2	AnnotatorNotes T10	TODO check non-taxonomy
+T11	Out-of-scope 135 156	arthropod-borne virus
+#3	AnnotatorNotes T11	TODO check non-taxonomy

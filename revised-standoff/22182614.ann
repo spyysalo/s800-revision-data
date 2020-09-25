@@ -8,8 +8,8 @@ T4	Species 1237 1249	P. tricuspis
 N4	Reference T4 Taxonomy:378805
 T5	Species 1580 1592	P. tricuspis
 N5	Reference T5 Taxonomy:378805
-T6	Out-of-scope 751 759	fire ant
-T7	Out-of-scope 1665 1673	fire ant
+T6	Genus 751 759	fire ant
+T7	Genus 1665 1673	fire ant
 T1001	Order 63 70	Diptera
 N1001	Reference T1001 Taxonomy:7147	
 T1002	Family 72 80	Phoridae
@@ -20,3 +20,7 @@ T1004	Order 1037 1042	flies
 N1004	Reference T1004 Taxonomy:7147	
 T1005	Order 1424 1429	flies
 N1005	Reference T1005 Taxonomy:7147	
+T8	Family 983 987	ants
+N6	Reference T8 Taxonomy:36668	Formicidae
+N7	Reference T6 Taxonomy:13685	Solenopsis
+N8	Reference T7 Taxonomy:13685	Solenopsis

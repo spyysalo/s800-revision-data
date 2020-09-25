@@ -5,8 +5,11 @@ N3	Reference T3 Taxonomy:4932
 T4	Out-of-scope 404 409	yeast
 T5	Out-of-scope 903 908	yeast
 T6	Family 89 99	adenovirus
-T7	Family 122 138	human adenovirus
+T7	Family 128 138	adenovirus
 N4	Reference T4 Taxonomy:147537	Saccharomycotina
 N5	Reference T5 Taxonomy:147537	Saccharomycotina
 N1	Reference T6 Taxonomy:10508	Adenoviridae
+N7	Reference T7 Taxonomy:1907210	Human adenovirus sp.
 N6	Reference T7 Taxonomy:10508	Adenoviridae
+T1	Species 122 127	human
+N8	Reference T1 Taxonomy:9606	Homo sapiens

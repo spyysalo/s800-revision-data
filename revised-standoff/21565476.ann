@@ -9,3 +9,11 @@ T1001	Order 66 78	Cyrtophorida
 N1001	Reference T1001 Taxonomy:37472	
 T1002	Family 80 91	Dysteriidae
 N1002	Reference T1002 Taxonomy:238903	
+T5	Out-of-scope 54 64	Ciliophora
+N4	Reference T5 Taxonomy:5878	Ciliophora
+T6	Out-of-scope 44 52	ciliates
+N5	Reference T6 Taxonomy:5878	Ciliophora
+T7	Out-of-scope 177 185	ciliates
+N6	Reference T7 Taxonomy:5878	Ciliophora
+T8	Genus 391 403	Mirodysteria
+N7	Reference T8 Taxonomy:1170557	Microdysteria

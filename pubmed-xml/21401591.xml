@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21401591</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Beyond phytohaemagglutinin: assessing vertebrate immune function across ecological contexts.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>710-30</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2011.01813.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Over the past decade, there has been a substantial increase in interest in the immune system and the role it plays in the regulation of disease susceptibility, giving rise to the field of eco-immunology. 2. Eco-immunology aims to understand changes in host immune responses in the broader framework of an organism's evolutionary, ecological and life-history contexts. 3. The immune system, however, is complex and multifaceted and can be intimidating for the nonimmunologist interested in incorporating immunological questions into their research. Which immune responses should one measure and what is the biological significance of these measures? 4. The focus of this review is to describe a wide range of eco-immunology techniques, from the simple to the sophisticated, with the goal of providing researchers with a range of options to consider incorporating in their own research programs. 5. These techniques were chosen because they provide relatively straightforward, biologically meaningful assessments of immune function, many of which can be performed across a range of ecological contexts (i.e. field vs. laboratory) and in a wide range of vertebrate animals without relying on species-specific reagents. 6. By incorporating assessments of immune function into their specific research questions, animal ecologists will gain a more comprehensive understanding of organism-environment interactions.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Journal of Animal Ecology © 2011 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Demas</LastName>
+                    <ForeName>Gregory E</ForeName>
+                    <Initials>GE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Center for the Integrative Study of Animal Behavior, Indiana University, 1001 E. 3rd St., Bloomington, IN 47405, USA. gdemas@indiana.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zysling</LastName>
+                    <ForeName>Devin A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beechler</LastName>
+                    <ForeName>Brianna R</ForeName>
+                    <Initials>BR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muehlenbein</LastName>
+                    <ForeName>Michael P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>French</LastName>
+                    <ForeName>Susannah S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D056704" MajorTopicYN="N">Adaptive Immunity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004463" MajorTopicYN="N">Ecology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056724" MajorTopicYN="N">Immunity, Humoral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007113" MajorTopicYN="N">Immunity, Innate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007158" MajorTopicYN="Y">Immunologic Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014714" MajorTopicYN="N">Vertebrates</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21401591</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2011.01813.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

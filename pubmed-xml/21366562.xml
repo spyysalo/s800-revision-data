@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21366562</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>06</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Scales of orientation, directed walks and movement path structure in sharks.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>864-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2011.01815.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Animal search patterns reflect sensory perception ranges combined with memory and knowledge of the surrounding environment. 2. Random walks are used when the locations of resources are unknown, whereas directed walks should be optimal when the location of favourable habitats is known. However, directed walks have been quantified for very few species. 3. We re-analysed tracking data from three shark species to determine whether they were using directed walks, and if so, over which spatial scales. Fractal analysis was used to quantify how movement structure varied with spatial scale and determine whether the sharks were using patches. 4. Tiger sharks performed directed walks at large spatial scales (at least 6-8 km). Thresher sharks also showed directed movement (at scales of 400-1900 m), and adult threshers were able to orient at greater scales than juveniles, which may suggest that learning improves the ability to perform directed walks. Blacktip reef sharks had small home ranges, high site fidelity and showed no evidence of oriented movements at large scales. 5. There were inter- and intraspecific differences in path structure and patch size, although most individuals showed scale-dependent movements. Furthermore, some individuals of each species performed movements similar to a correlated random walk. 6. Sharks can perform directed walks over large spatial scales, with scales of movements reflecting site fidelity and home range size. Understanding when and where directed walks occur is crucial for developing more accurate population-level dispersal models.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Journal of Animal Ecology © 2011 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Papastamatiou</LastName>
+                    <ForeName>Yannis P</ForeName>
+                    <Initials>YP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Florida Museum of Natural History, University of Florida, 280 Dickinson Hall Museum Road and Newell Drive, Gainesville, FL 32611, USA. ypapastamatiou@gmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cartamil</LastName>
+                    <ForeName>Daniel P</ForeName>
+                    <Initials>DP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lowe</LastName>
+                    <ForeName>Christopher G</ForeName>
+                    <Initials>CG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meyer</LastName>
+                    <ForeName>Carl G</ForeName>
+                    <Initials>CG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wetherbee</LastName>
+                    <ForeName>Brad M</ForeName>
+                    <Initials>BM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holland</LastName>
+                    <ForeName>Kim N</ForeName>
+                    <Initials>KN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004777" MajorTopicYN="N">Environment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017709" MajorTopicYN="N">Fractals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009068" MajorTopicYN="Y">Movement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009949" MajorTopicYN="Y">Orientation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010140" MajorTopicYN="N" Type="Geographic">Pacific Ocean</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012754" MajorTopicYN="N">Sharks</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013028" MajorTopicYN="N">Space Perception</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21366562</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2011.01815.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

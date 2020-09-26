@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21699595</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2583</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Insect molecular biology</Title>
+                <ISOAbbreviation>Insect Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Host translational control of a polydnavirus, Cotesia plutellae bracovirus, by sequestering host eIF4A to prevent formation of a translation initiation complex.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>609-18</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2583.2011.01091.x</ELocationID>
+            <Abstract>
+                <AbstractText>Host translational control is a viral strategy to exploit host cellular resources. Parasitization by some endoparasitoids containing polydnaviruses inhibits the synthesis of specific host proteins at post-transcriptional level. Two host translation inhibitory factors (HTIFs) have been proposed in Cotesia plutellae bracovirus (CpBV). Parasitization by C. plutellae inhibited storage protein 1 (SP1) synthesis of Plutella xylostella at post-transcriptional level. One HTIF, CpBV15β, inhibited the translation of SP1 mRNA in an in vitro translation assay using rabbit reticulocyte lysate, but did not inhibit its own mRNA. To further analyse the discrimination of target and nontarget mRNAs of the inhibitory effect of HTIF, 5' untranslated regions (UTRs) of SP1 and CpBV15β mRNA were reciprocally exchanged. In the presence of HTIFs, the chimeric CpBV15β mRNA that contained SP1 5' UTR was not translated, whereas the chimeric SP1 mRNA that contained CpBV15β 5' UTR was translated. There was a difference in the 5' UTR secondary structures between target (SP1) and nontarget (CpBV15α and CpBV15β) mRNAs in terms of thermal stability. Different mutant 5' UTRs of SP1 mRNA were prepared by point mutations to modify their secondary structures. The constructs containing 5' UTRs of high thermal stability in their secondary structures were inhibited by HTIF, but those of low thermal stability were not. Immunoprecipitation with CpBV15β antibody coprecipitated eIF4A, which would be required for unwinding the secondary structure of the 5' UTR. These results indicate that the viral HTIF discriminates between host mRNAs according to their dependency on eIF4A to form a functional initiation complex for translation.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Insect Molecular Biology © 2011 The Royal Entomological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Surakasi</LastName>
+                    <ForeName>V P</ForeName>
+                    <Initials>VP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioresource Sciences, Andong National University, Andong, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nalini</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Yonggyun</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Insect Mol Biol</MedlineTA>
+            <NlmUniqueID>9303579</NlmUniqueID>
+            <ISSNLinking>0962-1075</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020121">5' Untranslated Regions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019476">Insect Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C041137">storage proteins, Insecta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D039601">Eukaryotic Initiation Factor-4A</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D020121" MajorTopicYN="N">5' Untranslated Regions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D039601" MajorTopicYN="N">Eukaryotic Initiation Factor-4A</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054884" MajorTopicYN="Y">Host-Pathogen Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047468" MajorTopicYN="N">Immunoprecipitation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019476" MajorTopicYN="N">Insect Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010442" MajorTopicYN="Y">Peptide Chain Initiation, Translational</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018071" MajorTopicYN="N">Polydnaviridae</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014863" MajorTopicYN="N">Wasps</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21699595</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2583.2011.01091.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

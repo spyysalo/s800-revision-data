@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21198590</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Predicting the post-fire responses of animal assemblages: testing a trait-based approach using spiders.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>558-68</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01795.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Developing a predictive understanding of how species assemblages respond to fire is a key conservation goal. In moving from solely describing patterns following fire to predicting changes, plant ecologists have successfully elucidated generalizations based on functional traits. Using species traits might also allow better predictions for fauna, but there are few empirical tests of this approach. 2. We examined whether species traits changed with post-fire age for spiders in 27 sites, representing a chronosequence of 0-20 years post-fire. We predicted a priori whether spiders with ten traits associated with survival, dispersal, reproduction, resource-utilization and microhabitat occupation would increase or decrease with post-fire age. We then tested these predictions using a direct (fourth-corner on individual traits and composite traits) and an indirect (emergent groups) approach, comparing the benefits of each and also examining the degree to which traits were intercorrelated. 3. For the seven individual traits that were significant, three followed predictions (body size, abundance of burrow ambushers and burrowers was greater in recently burnt sites); two were opposite (species with heavy sclerotisation of the cephalothorax and longer time to maturity were in greater abundance in long unburnt and recently burnt sites respectively); and two displayed response patterns more complex than predicted (abdominal scutes displayed a U-shaped response and dispersal ability a hump shaped curve). However, within a given trait, there were few significant differences among post-fire ages. 4. Several traits were intercorrelated and scores based on composite traits used in a fourth-corner analysis found significant patterns, but slightly different to those using individual traits. Changes in abundance with post-fire age were significant for three of the five emergent groups. The fourth-corner analysis yielded more detailed results, but overall we consider the two approaches complementary. 5. While we found significant differences in traits with post-fire age, our results suggest that a trait-based approach may not increase predictive power, at least for the assemblages of spiders we studied. That said, there are many refinements to faunal traits that could increase predictive power.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Journal of Animal Ecology © 2011 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Langlands</LastName>
+                    <ForeName>Peter R</ForeName>
+                    <Initials>PR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Animal Biology MO92, University of Western Australia, Crawley, WA 6009, Australia. peter.langlands@grs.uwa.edu.au</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brennan</LastName>
+                    <ForeName>Karl E C</ForeName>
+                    <Initials>KE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Framenau</LastName>
+                    <ForeName>Volker W</ForeName>
+                    <Initials>VW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Main</LastName>
+                    <ForeName>Barbara Y</ForeName>
+                    <Initials>BY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000220" MajorTopicYN="Y">Adaptation, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058448" MajorTopicYN="Y">Biota</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003247" MajorTopicYN="N">Conservation of Natural Resources</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="N">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005390" MajorTopicYN="Y">Fires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025341" MajorTopicYN="N">Principal Component Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012098" MajorTopicYN="N">Reproduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013112" MajorTopicYN="N">Spiders</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016019" MajorTopicYN="N">Survival Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014904" MajorTopicYN="N" Type="Geographic">Western Australia</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21198590</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01795.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

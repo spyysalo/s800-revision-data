@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20650683</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1618-0941</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>162</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Protist</Title>
+                <ISOAbbreviation>Protist</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Stress-induced pseudocyst formation--a newly identified mechanism of protection against organic solvents in acanthamoebae of the T4 genotype.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>58-69</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.protis.2010.03.006</ELocationID>
+            <Abstract>
+                <AbstractText>Differentiation into highly resistant double-walled cysts is a major mechanism allowing amphizoic acanthamoebae to survive under long-lasting, unfavourable environmental conditions. We found that relatively low concentrations of methanol, acetone or DMSO stimulate promptAcanthamoebadifferentiation into a rounded cyst-like stage with a single envelope. To address whether this rapid response differs from the encystment, time-dependent changes in cell surface characteristics and cyst-specific gene expression were monitored in encystating cells and cells differentiating under methanol treatment using microscopic, lectin-binding, PCR and resistance studies. In contrast to the encystment: (1) a single-layered amorphous mannose/glucose coat was the only envelope assembled on the surface of the solvent-treated cells, (2) the cyst-specific protein (CSP21) was not expressed, (3) the coat did not protect cells against acidic pH and (4) in solvent-free encystment medium, the coated cells did not assemble the double-layered wall, thus indicating that these cells were not immature cysts. These findings lead us to specify a terminal stage of rapidAcanthamoebadifferentiation elicited by acute organic solvent stress as &quot;pseudocyst&quot;, and to suggest that encystation and pseudocyst formation are distinct stress responses. Moreover, the possibility exists that pseudocysts might form in response to certain contact lens solutions thus increasing resistance of acanthamoebae to disinfecting agents.</AbstractText>
+                <CopyrightInformation>2010 Elsevier GmbH. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kliescikova</LastName>
+                    <ForeName>Jarmila</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropical Medicine, 1(st) Medical Faculty, Charles University in Prague and Faculty Hospital Bulovka, Studnickova 7, Prague 2, 128 00, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kulda</LastName>
+                    <ForeName>Jaroslav</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nohynkova</LastName>
+                    <ForeName>Eva</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>07</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Protist</MedlineTA>
+            <NlmUniqueID>9806488</NlmUniqueID>
+            <ISSNLinking>1434-4610</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012997">Solvents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3K9958V90M</RegistryNumber>
+                <NameOfSubstance UI="D000431">Ethanol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Y4S76JWI15</RegistryNumber>
+                <NameOfSubstance UI="D000432">Methanol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>YOW8V9698H</RegistryNumber>
+                <NameOfSubstance UI="D004121">Dimethyl Sulfoxide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000048" MajorTopicYN="N">Acanthamoeba</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName UI="Q000648" MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000222" MajorTopicYN="Y">Adaptation, Physiological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002473" MajorTopicYN="N">Cell Wall</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+                <QualifierName UI="Q000648" MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004121" MajorTopicYN="N">Dimethyl Sulfoxide</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000431" MajorTopicYN="N">Ethanol</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000432" MajorTopicYN="N">Methanol</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012997" MajorTopicYN="N">Solvents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013312" MajorTopicYN="Y">Stress, Physiological</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20650683</ArticleId>
+            <ArticleId IdType="pii">S1434-4610(10)00049-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.protis.2010.03.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

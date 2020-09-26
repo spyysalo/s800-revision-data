@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20958305</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-8137</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>189</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The New phytologist</Title>
+                <ISOAbbreviation>New Phytol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Can we predict carbon stocks in tropical ecosystems from tree diversity? Comparing species and functional diversity in a plantation and a natural forest.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>978-87</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1469-8137.2010.03501.x</ELocationID>
+            <Abstract>
+                <AbstractText>• Linking tree diversity to carbon storage can provide further motivation to conserve tropical forests and to design carbon-enriched plantations. Here, we examine the role of tree diversity and functional traits in determining carbon storage in a mixed-species plantation and in a natural tropical forest in Panama. • We used species richness, functional trait diversity, species dominance and functional trait dominance to predict tree carbon storage across these two forests. Then we compared the species ranking based on wood density, maximum diameter, maximum height, and leaf mass per area (LMA) between sites to reveal how these values changed between different forests. • Increased species richness, a higher proportion of nitrogen fixers and species with low LMA increased carbon storage in the mixed-species plantation, while a higher proportion of large trees and species with high LMA increased tree carbon storage in the natural forest. Furthermore, we found that tree species varied greatly in their absolute and relative values between study sites. • Different results in different forests mean that we cannot easily predict carbon storage capacity in natural forests using data from experimental plantations. Managers should be cautious when applying functional traits measured in natural populations in the design of carbon-enriched plantations.</AbstractText>
+                <CopyrightInformation>© The Authors (2010). Journal compilation © New Phytologist Trust (2010).</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ruiz-Jaen</LastName>
+                    <ForeName>Maria C</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, McGill University, 1205 Dr Penfield, Montréal H3A-1B1, QC, Canada. maria.ruizjaen@mail.mcgill.ca</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Potvin</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>New Phytol</MedlineTA>
+            <NlmUniqueID>9882884</NlmUniqueID>
+            <ISSNLinking>0028-646X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>7440-44-0</RegistryNumber>
+                <NameOfSubstance UI="D002244">Carbon</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D044822" MajorTopicYN="Y">Biodiversity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002244" MajorTopicYN="N">Carbon</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="N">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018547" MajorTopicYN="N">Plant Stems</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014197" MajorTopicYN="N">Trees</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014329" MajorTopicYN="Y">Tropical Climate</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20958305</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1469-8137.2010.03501.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

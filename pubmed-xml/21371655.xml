@@ -1,0 +1,393 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21371655</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>05</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-4457</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Infectious diseases</Title>
+                <ISOAbbreviation>Lancet Infect Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical management of Staphylococcus aureus bacteraemia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>208-22</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1473-3099(10)70285-1</ELocationID>
+            <Abstract>
+                <AbstractText>Staphylococcus aureus bacteraemia is one of the most common serious bacterial infections worldwide. In the UK alone, around 12,500 cases each year are reported, with an associated mortality of about 30%, yet the evidence guiding optimum management is poor. To date, fewer than 1500 patients with S aureus bacteraemia have been recruited to 16 controlled trials of antimicrobial therapy. Consequently, clinical practice is driven by the results of observational studies and anecdote. Here, we propose and review ten unanswered clinical questions commonly posed by those managing S aureus bacteraemia. Our findings define the major areas of uncertainty in the management of S aureus bacteraemia and highlight just two key principles. First, all infective foci must be identified and removed as soon as possible. Second, long-term antimicrobial therapy is required for those with persistent bacteraemia or a deep, irremovable focus. Beyond this, the best drugs, dose, mode of delivery, and duration of therapy are uncertain, a situation compounded by emerging S aureus strains that are resistant to old and new antibiotics. We discuss the consequences on clinical practice, and how these findings define the agenda for future clinical research.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thwaites</LastName>
+                    <ForeName>Guy E</ForeName>
+                    <Initials>GE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Molecular Microbiology and Infection, Imperial College, London, UK. guy.thwaites@btinternet.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edgeworth</LastName>
+                    <ForeName>Jonathan D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gkrania-Klotsas</LastName>
+                    <ForeName>Effrossyni</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kirby</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tilley</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Török</LastName>
+                    <ForeName>M Estée</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walker</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wertheim</LastName>
+                    <ForeName>Heiman Fl</ForeName>
+                    <Initials>HF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Llewelyn</LastName>
+                    <ForeName>Martin J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>UK Clinical Infection Research Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Lancet Infect Dis</MedlineTA>
+            <NlmUniqueID>101130150</NlmUniqueID>
+            <ISSNLinking>1473-3099</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000900" MajorTopicYN="N">Anti-Bacterial Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016470" MajorTopicYN="N">Bacteremia</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004452" MajorTopicYN="N">Echocardiography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013203" MajorTopicYN="N">Staphylococcal Infections</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013211" MajorTopicYN="Y">Staphylococcus aureus</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>Thwaites</LastName>
+                <ForeName>Guy</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Beeching</LastName>
+                <ForeName>Nicholas</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Kirby</LastName>
+                <ForeName>Andrew</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Silva</LastName>
+                <ForeName>Chanaka</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Parry</LastName>
+                <ForeName>Chris</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Scarborough</LastName>
+                <ForeName>Matthew</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Crook</LastName>
+                <ForeName>Derrick</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Peto</LastName>
+                <ForeName>Tim</ForeName>
+                <Initials>T</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Goodwin</LastName>
+                <ForeName>Heather</ForeName>
+                <Initials>H</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>O'Connor</LastName>
+                <ForeName>Lily</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Paul</LastName>
+                <ForeName>John</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Price</LastName>
+                <ForeName>James</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Llewelyn</LastName>
+                <ForeName>Martin</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Morris-Jones</LastName>
+                <ForeName>Steve</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Wilson</LastName>
+                <ForeName>Peter</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Gothard</LastName>
+                <ForeName>Philip</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Macrae</LastName>
+                <ForeName>Bruce</ForeName>
+                <Initials>B</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Whitehorn</LastName>
+                <ForeName>Jamie</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Eziefula</LastName>
+                <ForeName>Chi</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Hopkins</LastName>
+                <ForeName>Susan</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Satta</LastName>
+                <ForeName>Giovanni</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Klein</LastName>
+                <ForeName>John</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Edgeworth</LastName>
+                <ForeName>Jonathan</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Hemsley</LastName>
+                <ForeName>Carolyn</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Bicanic</LastName>
+                <ForeName>Tihana</ForeName>
+                <Initials>T</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Morgan</LastName>
+                <ForeName>Marina</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Tilley</LastName>
+                <ForeName>Robert</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Török</LastName>
+                <ForeName>M Estée</ForeName>
+                <Initials>ME</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Peacock</LastName>
+                <ForeName>Sharon</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Cooke</LastName>
+                <ForeName>Fiona</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Gkrania-Klotsas</LastName>
+                <ForeName>Effrossyni</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Jeyaratnam</LastName>
+                <ForeName>Dakshika</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Farrar</LastName>
+                <ForeName>Jeremy</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Chau</LastName>
+                <ForeName>Vinh</ForeName>
+                <Initials>V</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Diep</LastName>
+                <ForeName>To Song</ForeName>
+                <Initials>TS</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Nghia</LastName>
+                <ForeName>Ho Dang Trung</ForeName>
+                <Initials>HD</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Hien</LastName>
+                <ForeName>Tran Tinh</ForeName>
+                <Initials>TT</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Wertheim</LastName>
+                <ForeName>Heiman</ForeName>
+                <Initials>H</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Basnyat</LastName>
+                <ForeName>Bhuhha</ForeName>
+                <Initials>B</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ariyal</LastName>
+                <ForeName>Amit</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Koirala</LastName>
+                <ForeName>Samir</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Walker</LastName>
+                <ForeName>Sarah</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Duong</LastName>
+                <ForeName>Trinh</ForeName>
+                <Initials>T</Initials>
+            </Investigator>
+        </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21371655</ArticleId>
+            <ArticleId IdType="pii">S1473-3099(10)70285-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/S1473-3099(10)70285-1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

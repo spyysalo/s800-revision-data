@@ -1,0 +1,356 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21037014</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of the Bacteroides CTnDOT regulatory protein RteC.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>91-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01015-10</ELocationID>
+            <Abstract>
+                <AbstractText>Excision of the Bacteroides conjugative transposon CTnDOT is stimulated by tetracycline. It was shown previously that a gene, rteC, is necessary for tetracycline-stimulated transcriptional regulation of the orf2c operon, which contains the excision genes. The protein encoded by this gene, RteC, did not have primary amino acid sequence homology to any known proteins in the databases. Accordingly, we sought structural homologs of RteC. A three-dimensional structure prediction by Robetta suggested that RteC might have two domains and that the C-terminal domain might have a winged helix motif. Based on the Robetta prediction, the human transcriptional factors E2F-4 and DP2 were identified as the most likely structural homologs of RteC. We made alanine substitutions within the putative DNA binding helix 3 region of RteC. Assays of orf2c::uidA activation by alanine mutants indicated that residues 174, 175, 178, 180, and 184 in helix 3 might contact the upstream region of P(E). The upstream region of orf2c contained two inverted-repeat half sites. Mutational analysis of these half sites showed that both half sites are important for activity. Thus, we have identified the DNA binding portion of RteC and the DNA site to which it binds.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Jiyeon</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, University of Illinois, Urbana, Illinois 61801, USA. park49@illinois.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salyers</LastName>
+                    <ForeName>Abigail A</ForeName>
+                    <Initials>AA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI022383</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 AI022383</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI/GM 22383</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004251">DNA Transposable Elements</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019943" MajorTopicYN="N">Amino Acid Substitution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001439" MajorTopicYN="N">Bacteroides</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004251" MajorTopicYN="N">DNA Transposable Elements</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004269" MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004268" MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016297" MajorTopicYN="N">Mutagenesis, Site-Directed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21037014</ArticleId>
+            <ArticleId IdType="pii">JB.01015-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01015-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019952</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2000 Dec 1;193(1):149-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11094294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2001 Feb;67(2):561-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11157217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2001 Aug;41(3):625-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11532130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2002 Dec;59(12):2044-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12568330</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2003;53 Suppl 6:524-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14579342</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Feb;186(4):1147-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14762010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 May;186(9):2548-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15090494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004 Jul 1;32(Web Server issue):W526-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15215442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 2004 Sep;12(9):412-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15337162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Microbiol. 1974 May;27(5):961-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4598229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1987 Jul;169(7):3160-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3036772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1990 Aug;172(8):4271-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2165473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1991 Jul;173(14):4540-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2066346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1993 Oct;175(19):6134-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8407786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Apr;187(8):2673-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15805513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Aug;187(16):5732-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16077120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2000 Feb;10(1):110-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10679470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Jul;182(14):4035-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10869083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2000 Apr;16(4):404-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10869041</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1994 Sep 1;13(17):3936-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8076591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1994 Nov 11;22(22):4673-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7984417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 Oct;177(20):5727-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7592315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Rev. 1995 Dec;59(4):579-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8531886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1996 Jan;62(1):196-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8572695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9254694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1999 Mar 15;13(6):666-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10090723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1951 Nov;193(1):265-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14907713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

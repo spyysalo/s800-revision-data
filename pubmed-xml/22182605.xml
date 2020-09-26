@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22182605</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1938-2936</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental entomology</Title>
+                <ISOAbbreviation>Environ. Entomol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cannibalism and intraguild predation of eggs within a diverse predator assemblage.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8-14</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1603/EN10047</ELocationID>
+            <Abstract>
+                <AbstractText>Greater biodiversity among aphid predators sometimes leads to greater predator reproductive success. This could occur if cannibalism of predator eggs is consistently stronger than intraguild predation, such that diversity dilutes cannibalism risk when total predator densities remain constant across diversity levels. We compared the frequency of cannibalism versus intraguild predation by adult predators of four species [the lady beetles Coccinella septempunctata L. and Hippodamia convergens Guerin-Meneville, and the predatory bugs Geocoris bullatus (Say) and Nabis alternatus Parshley] on the eggs of three predator species (all of these predators but Nabis). For both coccinellid species, egg predation averaged across all intraguild predators was less frequent than cannibalism. In contrast, Geocoris eggs were generally more likely to be consumed by intraguild predators than by conspecifics. Closer inspection of the data revealed that Geocoris consistently consumed fewer eggs than the other species, regardless of egg species. Indeed, for lady beetle eggs it was relatively infrequent egg predation by Geocoris that brought down the average across all heterospecific predators, masking the fact that adults of the two lady beetles were no more likely to act as egg cannibals than as intraguild predators. Nabis ate eggs of the two beetles at approximately equal rates, but rarely ate Geocoris eggs. Female predators generally consumed more eggs than did males, but this did not alter any of the patterns described above. Altogether, our results suggest that species-specific differences in egg predation rates determined the relative intensity of egg intraguild-predation versus cannibalism, rather than any more general trend for egg cannibalism to always exceed intraguild predation.</AbstractText>
+                <CopyrightInformation>© 2011 Entomological Society of America</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Takizawa</LastName>
+                    <ForeName>Tadashi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology, Washington State University, Pullman, WA 99164, USA. takizawa@mail.wsu.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Snyder</LastName>
+                    <ForeName>William E</ForeName>
+                    <Initials>WE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Environ Entomol</MedlineTA>
+            <NlmUniqueID>7502320</NlmUniqueID>
+            <ISSNLinking>0046-225X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000704" MajorTopicYN="N">Analysis of Variance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001042" MajorTopicYN="N">Aphids</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058448" MajorTopicYN="N">Biota</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002190" MajorTopicYN="Y">Cannibalism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001517" MajorTopicYN="N">Coleoptera</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020387" MajorTopicYN="Y">Food Chain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020062" MajorTopicYN="N">Heteroptera</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010063" MajorTopicYN="N">Ovum</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011235" MajorTopicYN="N">Predatory Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014861" MajorTopicYN="N">Washington</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22182605</ArticleId>
+            <ArticleId IdType="doi">10.1603/EN10047</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

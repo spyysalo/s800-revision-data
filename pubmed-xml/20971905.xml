@@ -1,0 +1,548 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971905</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The nodulation of alfalfa by the acid-tolerant Rhizobium sp. strain LPU83 does not require sulfated forms of lipochitooligosaccharide nodulation signals.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>30-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01009-10</ELocationID>
+            <Abstract>
+                <AbstractText>The induction of root nodules by the majority of rhizobia has a strict requirement for the secretion of symbiosis-specific lipochitooligosaccharides (nodulation factors [NFs]). The nature of the chemical substitution on the NFs depends on the particular rhizobium and contributes to the host specificity imparted by the NFs. We present here a description of the genetic organization of the nod gene cluster and the characterization of the chemical structure of the NFs associated with the broad-host-range Rhizobium sp. strain LPU83, a bacterium capable of nodulating at least alfalfa, bean, and Leucena leucocephala. The nod gene cluster was located on the plasmid pLPU83b. The organization of the cluster showed synteny with those of the alfalfa-nodulating rhizobia, Sinorhizobium meliloti and Sinorhizobium medicae. Interestingly, the strongest sequence similarity observed was between the partial nod sequences of Rhizobium mongolense USDA 1844 and the corresponding LPU83 nod genes sequences. The phylogenetic analysis of the intergenic region nodEG positions strain LPU83 and the type strain R. mongolense 1844 in the same branch, which indicates that Rhizobium sp. strain LPU83 might represent an early alfalfa-nodulating genotype. The NF chemical structures obtained for the wild-type strain consist of a trimeric, tetrameric, and pentameric chitin backbone that shares some substitutions with both alfalfa- and bean-nodulating rhizobia. Remarkably, while in strain LPU83 most of the NFs were sulfated in their reducing terminal residue, none of the NFs isolated from the nodH mutant LPU83-H were sulfated. The evidence obtained supports the notion that the sulfate decoration of NFs in LPU83 is not necessary for alfalfa nodulation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Torres Tejerizo</LastName>
+                    <ForeName>Gonzalo</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IBBM-Instituto de Biotecnología y Biología Molecular, CCT-CONICET-La Plata, Departamento de Ciencias Biológicas, Facultad de Ciencias Exactas, Universidad Nacional de La Plata, Calles 47 y 115 (1900), La Plata, Argentina. pistorio@biol.unlp.edu.ar</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Del Papa</LastName>
+                    <ForeName>María Florencia</ForeName>
+                    <Initials>MF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soria-Diaz</LastName>
+                    <ForeName>M Eugenia</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Draghi</LastName>
+                    <ForeName>Walter</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lozano</LastName>
+                    <ForeName>Mauricio</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giusti</LastName>
+                    <ForeName>María de los Ángeles</ForeName>
+                    <Initials>Mde L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manyani</LastName>
+                    <ForeName>Hamid</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Megías</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gil Serrano</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pühler</LastName>
+                    <ForeName>Alfred</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niehaus</LastName>
+                    <ForeName>Karsten</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lagares</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pistorio</LastName>
+                    <ForeName>Mariano</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C023023">lipid-linked oligosaccharides</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006863" MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008070" MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000455" MajorTopicYN="N">Medicago sativa</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055170" MajorTopicYN="N">Plant Root Nodulation</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012231" MajorTopicYN="N">Rhizobium</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013559" MajorTopicYN="N">Symbiosis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971905</ArticleId>
+            <ArticleId IdType="pii">JB.01009-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01009-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019937</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Gene. 1994 Jul 22;145(1):69-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8045426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 1996 Nov;9(8):720-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8870271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1995 Feb;15(4):627-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7783635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plasmid. 1978 Sep;1(4):584-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">107540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1996 Sep 16;393(2-3):273-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8814304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2007 Aug;5(8):619-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17632573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Jul;189(14):5223-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17496100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1995 Mar 28;92(7):2706-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7708710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1991 Nov 14;354(6349):125-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1944592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1990 Apr 19;344(6268):781-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2330031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2001 Apr;147(Pt 4):981-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11283294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2009 May 8;324(5928):753-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19423817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1992 Jun;58(6):1809-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1377901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2002 May;129(1):211-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12011352</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 1996 Apr;9(3):151-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8850086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plasmid. 2010 Nov;64(3):177-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20621118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1998 Jun 23;37(25):9024-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9636046</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1985 Dec;50(6):1422-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16346942</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1997 May;179(9):3079-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9139935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 2005 Nov;14(13):4033-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16262857</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 1992 Jan-Feb;5(1):72-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1600238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2007 Feb;20(2):138-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17313165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biotechnol. 2003 Sep 4;104(1-3):287-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12948646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1992 Dec;6(23):3575-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1474899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1995 Mar 17;270(11):6050-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7890737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Plant Biol. 2008;59:519-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18444906</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Syst Appl Microbiol. 2006 Nov;29(7):526-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16413160</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1995 Jul;17(2):387-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7494487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Mol Biol. 1992 Dec;20(5):977-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1463833</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Microbiol. 2002 Sep;48(9):765-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12455608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1994 May 1;13(9):2139-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8187767</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 1996 Aug;9(6):523-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8755627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 2002 Jun;12(6):79R-105R</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12107077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1995 Mar 21;34(11):3832-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7893680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2001 Mar;14(3):349-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11277432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Microbiol. 1974 Sep;84(1):188-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4612098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1992 Sep 15;89(18):8789-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1528893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2009 May;22(5):575-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19348575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Soc Trans. 1992 May;20(2):288-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1397613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1995 Aug 30;162(1):37-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7557413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Plant Biol. 2005 Aug;8(4):346-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15955723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1984 Sep;29(3):303-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6237955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1992 Feb 14;201(1):134-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1621951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1989 May;122(1):7-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2731734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1993 Oct 5;32(39):10430-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8399187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 2000 Mar;64(1):180-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10704479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1999 Apr;65(4):1420-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10103231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1988 Dec;170(12):5489-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3056902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2007 Aug;24(8):1596-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17488738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1995 Feb;61(2):507-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7574588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1992 Nov;6(22):3321-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1484488</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 1994 Oct;6(10):1357-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7994171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Mol Biol. 1989 Jan;12(1):59-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24272718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Aug 14;98(17):9883-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11481432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

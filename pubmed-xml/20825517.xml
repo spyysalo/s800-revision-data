@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20825517</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterizing demographic variation and contributions to population growth rate in a declining population.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>159-70</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01750.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Understanding how demographic variation translates into variation in population growth rate (λ) is central to understanding population dynamics. Such understanding ideally requires knowledge of the mean, variance and covariance among all demographic rates, allowing the potential and realized contribution of each rate to λ to be estimated. Such studies require integrated monitoring of all demographic rates across multiple years and are consequently rare, particularly in declining populations and for species with less tractable life histories. 2. We used 12 years of comprehensive demographic data from a declining ring ouzel (Turdus torquatus) population to estimate the mean, variance and covariance in all major demographic rates and estimate potential and realized demographic contributions to λ. 3. Population size decreased from 39 to 13 breeding pairs (-67%) and mean λ was 0·91 during 1998-2009. This decrease did not reflect a substantial concurrent decrease in any single key demographic rate, but reflected varying combinations of demographic rates that consistently produced λ &lt; 1. 4. Basic prospective elasticity analysis indicated that λ was most sensitive to adult survival, closely followed by early season reproductive success and early brood first-year survival. In contrast, integrated elasticity analysis, accounting for estimated demographic covariance, indicated that λ was most sensitive to early brood first-year survival, closely followed by re-nesting rate, early season reproductive success, late-brood first-year survival and adult survival. 5. Retrospective decomposition of variance suggested that first-year survival contributed most to observed variation in λ. 6. However, demographic comparison with other related species suggested that adult survival, but not reproductive success or post-fledging survival, averaged lower than expected throughout the 12-year study. 7. These data demonstrate that multiple approaches, including comprehensive demographic and comparative analyses and due consideration of conflicting answers, may be necessary to accurately diagnose the demographic basis of population change.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal compilation © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sim</LastName>
+                    <ForeName>Innes M W</ForeName>
+                    <Initials>IM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>RSPB Scotland, Dunedin House, 25 Ravelston Terrace, Edinburgh EH4 3TP, UK. innes.sim@rspb.org.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rebecca</LastName>
+                    <ForeName>Graham W</ForeName>
+                    <Initials>GW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ludwig</LastName>
+                    <ForeName>Sonja C</ForeName>
+                    <Initials>SC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grant</LastName>
+                    <ForeName>Murray C</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reid</LastName>
+                    <ForeName>Jane M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>09</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046109" MajorTopicYN="N">Passeriformes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012098" MajorTopicYN="N">Reproduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016019" MajorTopicYN="N">Survival Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20825517</ArticleId>
+            <ArticleId IdType="pii">JAE1750</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01750.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

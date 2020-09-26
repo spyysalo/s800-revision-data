@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22182612</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1938-2936</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental entomology</Title>
+                <ISOAbbreviation>Environ. Entomol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparative impact of artificial selection for fungicide resistance on Beauveria bassiana and Metarhizium brunneum.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>59-65</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1603/EN10214</ELocationID>
+            <Abstract>
+                <AbstractText>Hypocreales fungi such as Beauveria bassiana (Balsamo) Vuillemin and Metarhizium brunneum Petch can be negatively affected by fungicides thereby reducing their biocontrol potential. In a previous study, we demonstrated enhanced fungicide resistance in B. bassiana through artificial selection. However, it is not clear if the enhanced resistance was because of improved germination, vegetative growth, or both. Additionally, the enhanced fungicide resistance has only been demonstrated in B. bassiana, and therefore it is of interest to investigate the potential to enhance resistance in other fungi. Thus, the objectives in this study were to determine the potential to enhance fungicide resistance in M. brunneum through artificial selection, and investigate if selection is based on germination, vegetative growth, or both in B. bassiana and M. brunneum. Selection for resistance to fenbuconazole, and triphenyltin hydroxide was assessed through inhibition evaluations on solid media, and germination and mycelial growth in liquid media. Increased resistance after selection was observed for all fungicide-fungus combinations on solid and or liquid media. Selection resulted in increased resistance to fenbuconazole in both fungi in solid and liquid media; in liquid culture fungicide resistance in B. bassiana was manifested by increased germination and mycelial growth, whereas in M. brunneum fungicide resistance concerned only mycelial growth. Selection for resistance to triphenyltin hydroxide varied in the different media. For B. bassiana, triphenyltin hydroxide resistance was enhanced on solid media but not in liquid, whereas enhanced resistance of M. brunneum was detected in both media. Fungicide sensitivity and selection potential differs based on the medium and fungal species. Selection for fungicide resistance, had negative effects on other beneficial traits when fungicide pressure was removed, for example, some selected populations showed decreased germination or growth, relative to their nonselected control populations. Additionally, reduced virulence to the greater wax moth, Galleria mellonella (L.), was observed in all fungal populations that were exposed to fungicide resistance regimes. We conclude that it is possible to use genetic selection to enhance fungicide resistance in B. bassiana and M. brunneum, but before use the resulting populations should be screened for inadvertent negative impacts on beneficial traits.</AbstractText>
+                <CopyrightInformation>© 2011 Entomological Society of America</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shapiro-Ilan</LastName>
+                    <ForeName>David I</ForeName>
+                    <Initials>DI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USDA-ARS, SE Fruit and Tree Nut Research Laboratory, Byron, GA 31008, USA. David.Shapiro@ars.usda.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reilly</LastName>
+                    <ForeName>Charles C</ForeName>
+                    <Initials>CC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hotchkiss</LastName>
+                    <ForeName>Michael W</ForeName>
+                    <Initials>MW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Environ Entomol</MedlineTA>
+            <NlmUniqueID>7502320</NlmUniqueID>
+            <ISSNLinking>0046-225X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005659">Fungicides, Industrial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009570">Nitriles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009947">Organotin Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014230">Triazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>KKL46V5313</RegistryNumber>
+                <NameOfSubstance UI="C007567">triphenyltin hydroxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>P9P3C2AL0Z</RegistryNumber>
+                <NameOfSubstance UI="C504383">fenbuconazole</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052982" MajorTopicYN="N">Beauveria</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025141" MajorTopicYN="Y">Drug Resistance, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005659" MajorTopicYN="N">Fungicides, Industrial</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052981" MajorTopicYN="N">Metarhizium</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009036" MajorTopicYN="N">Moths</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009570" MajorTopicYN="N">Nitriles</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009947" MajorTopicYN="N">Organotin Compounds</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010572" MajorTopicYN="N">Pest Control, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012641" MajorTopicYN="Y">Selection, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014230" MajorTopicYN="N">Triazoles</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014774" MajorTopicYN="N">Virulence</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22182612</ArticleId>
+            <ArticleId IdType="doi">10.1603/EN10214</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20831729</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bird community specialization, bird conservation and disturbance: the role of wildfires.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>128-36</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01748.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Although niche theory predicts that disturbance should favour generalist species, the community-level implications of this pattern have been sparsely analysed. Here, we test the hypothesis that disturbance favours generalist species within communities, analysing effects of wildfires in bird communities in a Mediterranean climate area as a case study. 2. We use bird occurrence data in more than 500 1 × 1 km squares forming a gradient running from forest to completely burnt areas. The level of specialization of bird communities was estimated by means of three complementary species specialization indices, calculated for different landscape gradients and averaged at the community level (i.e. 1 × 1 km squares), and mean species rarity. 3. We also calculated mean habitat preferences along landscape gradients, as well as an index of conservation value and total species richness. 4. Different estimators of bird community specialization varied in contrasting fashion along the wildfire disturbance gradient, and thus we conclude that it is not justified to expect unique community responses to the sharp variations in habitat characteristics brought by wildfire disturbances. 5. Burnt areas tended to have rarer and urban-avoider bird species, whereas unburnt forests tended to have larger proportions of forest specialist species. 6. The mean conservation value of communities clearly increased towards the burnt extreme of the wildfire disturbance gradient, while this had a negligible effect on species richness. 7. Wildfires seem to play an important role for the maintenance of open-habitat, urban-avoider bird populations in Mediterranean landscapes and also to benefit a set of bird species of unfavourable European conservation status. 8. In this context, it cannot be unambiguously concluded that fire disturbance, even in a context in which fires are greatly favoured by human-related activities, leads to more functionally simplified communities dominated by generalist species.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal compilation © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Clavero</LastName>
+                    <ForeName>Miguel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Grup d'Ecologia del Paisatge, Àrea de Biodiversitat, Centre Tecnològic Forestal de Catalunya, Carretera vella de Sant Llorenç de Morunys, Solsona, Catalonia, Spain. miguelito.clavero@gmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brotons</LastName>
+                    <ForeName>Lluís</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herrando</LastName>
+                    <ForeName>Sergi</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>09</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001717" MajorTopicYN="N">Birds</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003247" MajorTopicYN="Y">Conservation of Natural Resources</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005390" MajorTopicYN="Y">Fires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20831729</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01748.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

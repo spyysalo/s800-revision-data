@@ -1,0 +1,308 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20980518</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Upregulation of CXCL10 in human dorsal root ganglia during experimental and natural varicella-zoster virus infection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>626-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01816-10</ELocationID>
+            <Abstract>
+                <AbstractText>Varicella-zoster virus (VZV) reactivation causes herpes zoster, which is accompanied by an influx of lymphocytes into affected ganglia, but the stimulus for this infiltrate is not known. We report that VZV infection of ganglia leads to increased CXCL10 production in vitro, in an explant ganglion model and in naturally infected dorsal root ganglia (DRG) during herpes zoster. Lymphocytes expressing the receptor for CXCL10, CXCR3, were also observed throughout naturally infected ganglia during herpes zoster, including immediately adjacent to neurons. This study identifies VZV-induced CXCL10 as a potential driver of T lymphocyte recruitment into DRG during herpes zoster.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Steain</LastName>
+                    <ForeName>Megan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Diseases and Immunology, The University of Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gowrishankar</LastName>
+                    <ForeName>Kavitha</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Slobedman</LastName>
+                    <ForeName>Barry</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abendroth</LastName>
+                    <ForeName>Allison</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C114753">CXCL10 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054357">Chemokine CXCL10</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D054357" MajorTopicYN="N">Chemokine CXCL10</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002644" MajorTopicYN="N">Chickenpox</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005333" MajorTopicYN="N">Fetus</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005727" MajorTopicYN="N">Ganglia, Spinal</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006562" MajorTopicYN="N">Herpes Zoster</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014645" MajorTopicYN="N">Herpesvirus 3, Human</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013601" MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046509" MajorTopicYN="N">Tissue Culture Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015854" MajorTopicYN="Y">Up-Regulation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20980518</ArticleId>
+            <ArticleId IdType="pii">JVI.01816-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01816-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014188</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Arch Pathol Lab Med. 2001 Jun;125(6):770-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11371229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 Sep;84(17):8861-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20573825</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1992 Aug;166 Suppl 1:S35-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1320649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1993 Jun 1;177(6):1809-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8496693</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1996 Sep 1;184(3):963-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9064356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytokine Growth Factor Rev. 1997 Sep;8(3):207-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9462486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosci Lett. 2005 Feb 21;374(3):197-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15663962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res Brain Res Rev. 2005 Jun;48(3):457-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15914252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Sep;79(17):11457-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16103196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Sep;79(18):11801-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16140757</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2006 Apr 15;176(8):4716-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16585565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Jun;81(12):6752-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17409155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Aug 28;104(35):14086-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17709745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Neurol. 2007 Nov;6(11):1015-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17945155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Biotechnol. 2008;8:10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18254955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biotechniques. 2008 Mar;44(3):417-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18361796</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurol Clin. 2008 Aug;26(3):675-97, viii</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18657721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2008 Sep 1;378(2):214-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18614194</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 Apr;84(7):3421-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20106930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2010 May 15;184(10):5705-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20400703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropathol Appl Neurobiol. 2010 Aug;36(5):368-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20487305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1985 Jun 20-26;315(6021):672-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3925348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

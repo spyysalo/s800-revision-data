@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21227500</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-547X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>377</Volume>
+                    <Issue>9761</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lancet (London, England)</Title>
+                <ISOAbbreviation>Lancet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Continuing challenge of infectious diseases in India.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>252-69</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S0140-6736(10)61265-2</ELocationID>
+            <Abstract>
+                <AbstractText>In India, the range and burden of infectious diseases are enormous. The administrative responsibilities of the health system are shared between the central (federal) and state governments. Control of diseases and outbreaks is the responsibility of the central Ministry of Health, which lacks a formal public health department for this purpose. Tuberculosis, malaria, filariasis, visceral leishmaniasis, leprosy, HIV infection, and childhood cluster of vaccine-preventable diseases are given priority for control through centrally managed vertical programmes. Control of HIV infection and leprosy, but not of tuberculosis, seems to be on track. Early success of malaria control was not sustained, and visceral leishmaniasis prevalence has increased. Inadequate containment of the vector has resulted in recurrent outbreaks of dengue fever and re-emergence of Chikungunya virus disease and typhus fever. Other infectious diseases caused by faecally transmitted pathogens (enteric fevers, cholera, hepatitis A and E viruses) and zoonoses (rabies, leptospirosis, anthrax) are not in the process of being systematically controlled. Big gaps in the surveillance and response system for infectious diseases need to be addressed. Replication of the model of vertical single-disease control for all infectious diseases will not be efficient or viable. India needs to rethink and revise its health policy to broaden the agenda of disease control. A comprehensive review and redesign of the health system is needed urgently to ensure equity and quality in health care. We recommend the creation of a functional public health infrastructure that is shared between central and state governments, with professional leadership and a formally trained public health cadre of personnel who manage an integrated control mechanism of diseases in districts that includes infectious and non-infectious diseases, and injuries.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>John</LastName>
+                    <ForeName>T Jacob</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology, Christian Medical College, Vellore, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dandona</LastName>
+                    <ForeName>Lalit</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharma</LastName>
+                    <ForeName>Vinod P</ForeName>
+                    <Initials>VP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kakkar</LastName>
+                    <ForeName>Manish</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet</MedlineTA>
+            <NlmUniqueID>2985213R</NlmUniqueID>
+            <ISSNLinking>0140-6736</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 2011 Feb 26;377(9767):702-3</RefSource>
+                <PMID Version="1">21227495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 2011 Jan 15;377(9761):181-3</RefSource>
+                <PMID Version="1">21227502</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003141" MajorTopicYN="N">Communicable Diseases</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003695" MajorTopicYN="N">Delivery of Health Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006291" MajorTopicYN="N">Health Policy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007194" MajorTopicYN="N" Type="Geographic">India</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011634" MajorTopicYN="Y">Public Health</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21227500</ArticleId>
+            <ArticleId IdType="pii">S0140-6736(10)61265-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0140-6736(10)61265-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

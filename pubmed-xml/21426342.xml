@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21426342</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Introduced brown trout alter native acanthocephalan infections in native fish.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>990-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2011.01834.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Native parasite acquisition provides introduced species with the potential to modify native host-parasite dynamics by acting as parasite reservoirs (with the 'spillback' of infection increasing the parasite burdens of native hosts) or sinks (with the 'dilution' of infection decreasing the parasite burdens of native hosts) of infection. 2. In New Zealand, negative correlations between the presence of introduced brown trout (Salmo trutta) and native parasite burdens of the native roundhead galaxias (Galaxias anomalus) have been observed, suggesting that parasite dilution is occurring. 3. We used a multiple-scale approach combining field observations, experimental infections and dynamic population modelling to investigate whether native Acanthocephalus galaxii acquisition by brown trout alters host-parasite dynamics in native roundhead galaxias. 4. Field observations demonstrated higher infection intensity in introduced trout than in native galaxias, but only small, immature A. galaxii were present in trout. Experimental infections also demonstrated that A. galaxii does not mature in trout, although parasite establishment and initial growth were similar in the two hosts. Taken together, these results support the hypothesis that trout may serve as an infection sink for the native parasite. 5. However, dynamic population modelling predicts that A. galaxii infections in native galaxias should at most only be slightly reduced by dilution in the presence of trout. Rather, model exploration indicates parasite densities in galaxias are highly sensitive to galaxias predation on infected amphipods, and to relative abundances of galaxias and trout. Hence, trout presence may instead reduce parasite burdens in galaxias by either reducing galaxias density or by altering galaxias foraging behaviour.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Journal of Animal Ecology © 2011 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Paterson</LastName>
+                    <ForeName>Rachel A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Otago, PO Box 56, Dunedin 9054, New Zealand. patra374@student.otago.ac.nz</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Townsend</LastName>
+                    <ForeName>Colin R</ForeName>
+                    <Initials>CR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poulin</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tompkins</LastName>
+                    <ForeName>Daniel M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000049" MajorTopicYN="N">Acanthocephala</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006374" MajorTopicYN="N">Helminthiasis, Animal</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006790" MajorTopicYN="Y">Host-Parasite Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058865" MajorTopicYN="Y">Introduced Species</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009520" MajorTopicYN="N" Type="Geographic">New Zealand</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036441" MajorTopicYN="N">Osmeriformes</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059208" MajorTopicYN="N">Parasite Load</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014337" MajorTopicYN="N">Trout</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21426342</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2011.01834.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

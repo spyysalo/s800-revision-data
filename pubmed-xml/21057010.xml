@@ -1,0 +1,401 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21057010</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Biochemical characterization of UDP-Gal:GlcNAc-pyrophosphate-lipid β-1,4-Galactosyltransferase WfeD, a new enzyme from Shigella boydii type 14 that catalyzes the second step in O-antigen repeating-unit synthesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>449-59</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00737-10</ELocationID>
+            <Abstract>
+                <AbstractText>The O antigen is the outer part of the lipopolysaccharide (LPS) in the outer membrane of Gram-negative bacteria and contains many repeats of an oligosaccharide unit. It contributes to antigenic variability and is essential to the full function and virulence of bacteria. Shigella is a Gram-negative human pathogen that causes diarrhea in humans. The O antigen of Shigella boydii type 14 consists of repeating oligosaccharide units with the structure [→6-d-Galpα1→4-d-GlcpAβ1→6-d-Galpβ1→4-d-Galpβ1→4-d-GlcpNAcβ1→]n. The wfeD gene in the O-antigen gene cluster of Shigella boydii type 14 was proposed to encode a galactosyltransferase (GalT) involved in O-antigen synthesis. We confirmed here that the wfeD gene product is a β4-GalT that synthesizes the Galβ1-4GlcNAcα-R linkage. WfeD was expressed in Escherichia coli, and the activity was characterized by using UDP-[³H]Gal as the donor substrate as well as the synthetic acceptor substrate GlcNAcα-pyrophosphate-(CH₂)₁₁-O-phenyl. The enzyme product was analyzed by liquid chromatography-mass spectrometry (LC-MS), high-performance liquid chromatography (HPLC), nuclear magnetic resonance (NMR), and galactosidase digestion. The enzyme was shown to be specific for the UDP-Gal donor substrate and required pyrophosphate in the acceptor substrate. Divalent metal ions such as Mn²(+), Ni²(+), and, surprisingly, also Pb²(+) enhanced the enzyme activity. Mutational analysis showed that the Glu101 residue within a DxD motif is essential for activity, possibly by forming the catalytic nucleophile. The Lys211 residue was also shown to be required for activity and may be involved in the binding of the negatively charged acceptor substrate. Our study revealed that the β4-GalT WfeD is a novel enzyme that has virtually no sequence similarity to mammalian β4-GalT, although it catalyzes a similar reaction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Changchang</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Queen's University, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Yanfang</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allingham</LastName>
+                    <ForeName>John S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Szarek</LastName>
+                    <ForeName>Walter A</ForeName>
+                    <Initials>WA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brockhausen</LastName>
+                    <ForeName>Inka</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AA020703</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002413">Cations, Divalent</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020536">Enzyme Activators</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008670">Metals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019081">O Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2956-16-3</RegistryNumber>
+                <NameOfSubstance UI="D014531">Uridine Diphosphate Galactose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.4.1.-</RegistryNumber>
+                <NameOfSubstance UI="D005700">Galactosyltransferases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.-</RegistryNumber>
+                <NameOfSubstance UI="D005696">Galactosidases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002413" MajorTopicYN="N">Cations, Divalent</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002853" MajorTopicYN="N">Chromatography, Liquid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004252" MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020536" MajorTopicYN="N">Enzyme Activators</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005696" MajorTopicYN="N">Galactosidases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005700" MajorTopicYN="N">Galactosyltransferases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009682" MajorTopicYN="N">Magnetic Resonance Spectroscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008670" MajorTopicYN="N">Metals</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019081" MajorTopicYN="N">O Antigens</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011994" MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012761" MajorTopicYN="N">Shigella boydii</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013379" MajorTopicYN="N">Substrate Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014531" MajorTopicYN="N">Uridine Diphosphate Galactose</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21057010</ArticleId>
+            <ArticleId IdType="pii">JB.00737-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00737-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019819</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2000 Oct;10(5):510-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11042447</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carbohydr Res. 2010 Mar 30;345(5):586-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20096402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2003 May 30;1648(1-2):62-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12758148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carbohydr Res. 2003 Nov 14;338(23):2503-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14670712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Apr;52(2):451-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15066033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Indian J Cancer. 2004 Jan-Mar;41(1):47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15105580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Khim. 1987 Sep;13(9):1256-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2447897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1994 Jan 14;269(2):834-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8288636</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1994 Nov;176(22):7079-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7525537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 1995 May;3(5):178-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7542987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1999 Aug;263(3):656-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10469128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 1999 Sep;63(3):523-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10477307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem Lett. 2005 Feb 15;15(4):1205-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15686943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2005 Feb 25;307(5713):1313-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15731456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 2005 Jun;15(6):605-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15625181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 2006 Feb;16(2):29R-37R</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16037492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2006 Jun 2;344(2):631-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16630548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycoconj J. 2006 Nov;23(7-8):525-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17006644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drug News Perspect. 2006 Sep;19(7):401-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17080203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2007 Jan;75(1):536-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17030571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem Lett. 2008 Jan 15;18(2):804-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18042382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Drug Targets. 2008 Apr;9(4):292-309</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18393823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 2008 Jul;32(4):627-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18422615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Jul;190(14):4922-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18487334</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycoconj J. 2008 Oct;25(7):663-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18536883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2002;71:635-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12045108</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

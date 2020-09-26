@@ -1,0 +1,425 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21097631</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of nocobactin NA biosynthetic gene clusters in Nocardia farcinica.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>441-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00897-10</ELocationID>
+            <Abstract>
+                <AbstractText>We identified the biosynthetic gene clusters of the siderophore nocobactin NA. The nbt clusters, which were discovered as genes highly homologous to the mycobactin biosynthesis genes by the genomic sequencing of Nocardia farcinica IFM 10152, consist of 10 genes separately located at two genomic regions. The gene organization of the nbt clusters and the predicted functions of the nbt genes, particularly the cyclization and epimerization domains, were in good agreement with the chemical structure of nocobactin NA. Disruptions of the nbtA and nbtE genes, respectively, reduced and abolished the productivity of nocobactin NA. The heterologous expression of the nbtS gene revealed that this gene encoded a salicylate synthase. These results indicate that the nbt clusters are responsible for the biosynthesis of nocobactin NA. We also found putative IdeR-binding sequences upstream of the nbtA, -G, -H, -S, and -T genes, whose expression was more than 10-fold higher in the low-iron condition than in the high-iron condition. These results suggest that nbt genes are regulated coordinately by IdeR protein in an iron-dependent manner. The ΔnbtE mutant was found to be impaired in cytotoxicity against J774A.1 cells, suggesting that nocobactin NA production is required for virulence of N. farcinica.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hoshino</LastName>
+                    <ForeName>Yasutaka</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioactive Molecules, National Institute of Infectious Diseases, Shinjuku, Tokyo 162-8640, Japan. hyasu@nih.go.jp</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chiba</LastName>
+                    <ForeName>Kazuhiro</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ishino</LastName>
+                    <ForeName>Keiko</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukai</LastName>
+                    <ForeName>Toshio</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Igarashi</LastName>
+                    <ForeName>Yasuhiro</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yazawa</LastName>
+                    <ForeName>Katsukiyo</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikami</LastName>
+                    <ForeName>Yuzuru</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ishikawa</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007502">Iron Chelating Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010080">Oxazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>53571-21-4</RegistryNumber>
+                <NameOfSubstance UI="C008662">nocobactins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053898" MajorTopicYN="N">Biosynthetic Pathways</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055786" MajorTopicYN="N">Gene Knockout Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D023061" MajorTopicYN="N">Gene Order</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005798" MajorTopicYN="N">Genes, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007502" MajorTopicYN="N">Iron Chelating Agents</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008264" MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005810" MajorTopicYN="Y">Multigene Family</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009615" MajorTopicYN="N">Nocardia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010080" MajorTopicYN="N">Oxazoles</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014774" MajorTopicYN="N">Virulence</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21097631</ArticleId>
+            <ArticleId IdType="pii">JB.00897-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00897-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019813</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Oct 26;96(22):12844-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10536010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Feb 9;107(6):2646-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20133795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Feb 1;97(3):1252-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10655517</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2000 Apr 25;39(16):4729-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10769129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2000 Aug;68(8):4452-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10899842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antibiot (Tokyo). 2000 May;53(5):484-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10908112</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 2001 Feb;8(2):207-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11251294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2002 Jul;70(7):3371-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12065475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antibiot (Tokyo). 2002 Jun;55(6):593-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12195966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Oct 29;99(22):14083-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12384573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Jan 23;303(5657):527-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14739458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Oct;186(19):6367-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15375116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Oct 12;101(41):14925-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15466710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1974 May;139(2):407-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4614794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1986 Jul;167(1):350-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3087960</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1989 Aug 22;28(17):6827-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2531000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1991 Nov 5;266(31):20946-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1939144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1994 Jul 22;145(1):69-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8045426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antibiot (Tokyo). 1996 Sep;49(9):839-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8931715</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 1998 May;169(5):404-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9560421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 1998 Nov;5(11):631-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9831524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 1999 May;6(5):287-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10322123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 1999 Aug;6(8):493-505</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10421756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nat Prod. 2005 Mar;68(3):462-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15787462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Aug;187(15):5061-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16030197</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2005 Oct;1(5):265-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16408055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Feb 14;103(7):2069-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16461464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2006 Apr;50(4):1342-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16569850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2006 Jun;9(3):252-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16651020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2006 Sep;188(17):6081-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16923875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Jpn J Infect Dis. 2007 Feb;60(1):45-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17314425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Evol Biol. 2007;7:78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17506888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Oct 7;105(40):15311-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18832174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS J. 2010 Feb;277(3):663-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20050920</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1999 Dec;67(12):6496-509</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10569768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

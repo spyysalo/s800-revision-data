@@ -1,0 +1,450 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20980501</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A nuclear inhibitor of NF-kappaB encoded by a poxvirus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>264-75</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01149-10</ELocationID>
+            <Abstract>
+                <AbstractText>Poxviruses have evolved various strategies to inhibit cytoplasmic events leading to activation of the nuclear factor κB (NF-κB) signaling pathway, with individual viruses often encoding multiple NF-κB inhibitors. Here, the novel orf virus (ORFV)-encoded protein ORFV002 was shown to inhibit nuclear events regulating NF-κB transcriptional activity. ORFV002 expression in cell cultures significantly decreased wild-type-virus-, tumor necrosis factor alpha (TNF-α)-, and lipopolysaccharide (LPS)-induced NF-κB-mediated gene expression. Expression of ORFV002 in cells, while not affecting phosphorylation or nuclear translocation of NF-κB-p65, markedly decreased TNF-α- and wild-type-virus-induced acetylation of NF-κB-p65, a p300-mediated nuclear modification of NF-κB-p65 that regulates its transactivating activity. ORFV002 was shown to colocalize and interact with NF-κB-p65, and expression of ORFV002 in cell cultures resulted in a reduced interaction of NF-κB-p65 with p300, suggesting that ORFV002 interferes with NF-κB-p65/p300 association. Deletion of ORFV002 from the OV-IA82 genome had no significant effect on ORFV pathogenesis in sheep, indicating that ORFV002 is nonessential for virus virulence in the natural host. This represents the first description of a nuclear inhibitor of NF-κB encoded by a poxvirus.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Diel</LastName>
+                    <ForeName>D G</ForeName>
+                    <Initials>DG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathobiology, College of Veterinary Medicine, University of Illinois, MC-002, 2001 S. Lincoln Avenue, Urbana, IL 61802, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delhon</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flores</LastName>
+                    <ForeName>E F</ForeName>
+                    <Initials>EF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rock</LastName>
+                    <ForeName>D L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014764">Viral Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002467" MajorTopicYN="N">Cell Nucleus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004474" MajorTopicYN="N">Ecthyma, Contagious</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009923" MajorTopicYN="N">Orf virus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012756" MajorTopicYN="N">Sheep</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014764" MajorTopicYN="N">Viral Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20980501</ArticleId>
+            <ArticleId IdType="pii">JVI.01149-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01149-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014193</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Annu Rev Immunol. 2000;18:621-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10837071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Aug 29;97(18):10162-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10920188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virus Genes. 2000;21(1-2):85-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11022792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Immunol. 2002;46(4):285-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12061631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2002 Aug;83(Pt 8):1965-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12124460</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2002 Dec 2;21(23):6539-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12456660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Jan 24;278(4):2758-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12419806</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2003 Feb 3;197(3):343-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12566418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plasmid. 2003 Jan;49(1):9-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12583996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Med (Berl). 2003 Sep;81(9):549-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12920522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Jan;78(1):168-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14671098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Mar;78(5):2510-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14963153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Apr;78(7):3553-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15016878</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2004 May;5(5):392-401</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15122352</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Aug 27;279(35):36570-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15215253</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Vet Med Assoc. 1975 Feb 1;166(3):262-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1094013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Pathol Lab Med. 1985 Feb;109(2):166-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3883947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br Dent J. 1992 Dec 5-19;173(10):343-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1467011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Rec. 1996 Oct 12;139(15):364-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8903019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Res. 1998 May-Aug;29(3-4):311-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9689744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2005 Mar 21;201(6):1007-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15767367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2005 Sep;25(18):7966-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16135789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2005 Sep 30;340(2):255-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16040075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2006 Jan 1;176(1):451-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16365438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2006 Jun;87(Pt 6):1451-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16690909</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Sep;80(17):8676-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16912315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Nov;80(21):10487-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17041221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2006 Oct 30;25(51):6717-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17072324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Jul;81(13):7178-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17475653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2007 Aug;27(2):296-307</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17692539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2008 Mar;36(5):1665-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18263619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008 Feb 8;4(2):e22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18266467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2009 Mar;29(5):1375-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19103749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Apr;83(7):3162-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19158250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Immunol. 2009;27:693-733</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19302050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 May;83(9):4140-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19211746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Jul;83(13):6757-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19369349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Sep;83(18):9223-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19570875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2009 Oct 1;8(19):3125-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19738427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2009 Nov;9(11):778-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19855404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2009 Oct;9(10):679-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19763149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Nov 10;106(45):18972-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19864627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Res. 2010 Jan;20(1):24-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19997086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2010 Mar 19;140(6):833-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20303874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 Apr;84(8):3962-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20147406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

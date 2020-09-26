@@ -1,0 +1,518 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21097627</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fur and the novel regulator YqjI control transcription of the ferric reductase gene yqjH in Escherichia coli.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>563-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01062-10</ELocationID>
+            <Abstract>
+                <AbstractText>Iron acquisition in aerobic habitats is complicated by the low solubility of ferric hydroxides. Siderophores that bind ferric iron with high affinity are used to mobilize iron. The reduction of ferric iron to the ferrous form can be coupled to the release of iron from siderophores. Iron is also stored intracellularly as a ferric mineral in proteins, such as ferritin, and must be reduced during release. In Escherichia coli, the yqjH gene encodes a putative ferric siderophore reductase that is also part of the Fur regulon. Here we show that YqjH has ferric reductase activity and is required for iron homeostasis in E. coli. Divergently transcribed from yqjH is the yqjI gene, which encodes a novel member of the winged-helix family of transcriptional regulators and also contains an N-terminal extension similar to the Ni(2+)-binding C-terminal tail of SlyD. Deletion of yqjI leads to constitutive high-level activity of the yqjH and yqjI promoters. Purified YqjI binds inverted repeat target sequences within the yqjH and yqjI promoters. We also observed that YqjI-dependent transcriptional repression is reduced when cells are exposed to elevated nickel levels, resulting in increased expression of yqjH and yqjI. YqjI binding to nickel or iron reduces YqjI DNA-binding activity in vitro. Furthermore, we found that elevated nickel stress levels disrupt iron homeostasis in E. coli and that deletion of yqjH increases nickel toxicity. Our results suggest that the YqjI protein controls expression of yqjH to help maintain iron homeostasis under conditions (such as elevated cellular nickel levels) that disrupt iron metabolism.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Suning</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, University of South Carolina, Columbia, SC 29208, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Yun</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Outten</LastName>
+                    <ForeName>F Wayne</ForeName>
+                    <Initials>FW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029968">Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012097">Repressor Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C555356">YqjI protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C068477">ferric uptake regulating proteins, bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7OV03QG267</RegistryNumber>
+                <NameOfSubstance UI="D009532">Nickel</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E1UOL152H7</RegistryNumber>
+                <NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.5.1.38</RegistryNumber>
+                <NameOfSubstance UI="D038181">FMN Reductase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.6.-</RegistryNumber>
+                <NameOfSubstance UI="D009247">NADH, NADPH Oxidoreductases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.6.99.-</RegistryNumber>
+                <NameOfSubstance UI="C555355">YqjH protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.6.99.-</RegistryNumber>
+                <NameOfSubstance UI="C023903">ferric citrate iron reductase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000332" MajorTopicYN="N">Aerobiosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029968" MajorTopicYN="N">Escherichia coli Proteins</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D038181" MajorTopicYN="N">FMN Reductase</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="Y">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007501" MajorTopicYN="N">Iron</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009247" MajorTopicYN="N">NADH, NADPH Oxidoreductases</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009532" MajorTopicYN="N">Nickel</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012097" MajorTopicYN="N">Repressor Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="Y">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21097627</ArticleId>
+            <ArticleId IdType="pii">JB.01062-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01062-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019823</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Res Microbiol. 1999 Nov-Dec;150(9-10):627-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10673002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Mar 5;285(10):7374-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20042601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Jun 6;97(12):6640-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10829079</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2001 Apr;4(2):172-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11282473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comput Methods Programs Biomed. 2001 Jun;65(3):191-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11339981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2001 Jun 29;292(5526):2488-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11397910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Apr 2;99(7):4620-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11917098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 2003 Jun;27(2-3):215-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12829269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 2003 Jun;27(2-3):427-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12829278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2003 Aug;49(4):947-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12890020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Aug 8;278(32):29478-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12746439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2004 Feb 10;43(5):1386-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14756576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2004 Apr;70(4):2146-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15066807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 May;52(3):861-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15101990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1974 Nov;143(2):311-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4462557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1978 Sep 19;17(19):4011-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">708692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1981 Nov 10;20(23):6659-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6272845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 1984;197(2):337-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6097798</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1987 Jun;169(6):2624-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3294800</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1987 Aug 25;26(17):5471-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2823881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1991 Jan 25;266(3):1478-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1846355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1994 Jan 28;269(4):2895-901</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8300624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1994;235:329-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8057905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1994 Sep;176(18):5631-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8083157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 1997 Jan;40(1):25-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9155571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1997 Jun 20;272(25):15697-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9188461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 1999;131:1-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10494538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 1999;131:181-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10494550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Feb;187(3):1135-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15659690</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Feb 11;280(6):4360-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15569666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Apr;187(8):2912-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15805538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Apr 8;280(14):13779-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15647287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicol Appl Pharmacol. 2005 Aug 15;206(3):275-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16039939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2005 Aug 10;127(31):11075-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16076215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Feb 24;281(8):4802-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16377617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 May;60(4):1058-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16677314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 Oct;62(1):252-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16956381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Mar;189(5):1616-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17189367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometals. 2007 Oct;20(5):759-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17120142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 2007 Sep;71(3):413-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17804665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Oct 19;282(42):30442-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17642475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Nov;189(21):7774-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17720790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2007;35(20):6762-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17921503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2008 Jun 18;130(24):7592-606</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18505253</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr Sect F Struct Biol Cryst Commun. 2008 Sep 1;64(Pt 9):792-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18765906</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2009 Jan;37(Database issue):D347-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18948282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2009 Jan;37(Database issue):D205-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18984618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 May 19;106(20):8344-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19416816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Struct Biol. 2009;9:51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19646261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009;4(10):e7526</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19838305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2009 Dec 30;131(51):18489-500</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19947632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Inorg Chem. 2000 Feb;5(1):93-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10766441</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

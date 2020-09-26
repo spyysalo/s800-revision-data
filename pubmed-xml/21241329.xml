@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21241329</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-3040</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant, cell &amp; environment</Title>
+                <ISOAbbreviation>Plant Cell Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The effect of competition from neighbours on stomatal conductance in lettuce and tomato plants.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>729-37</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-3040.2011.02277.x</ELocationID>
+            <Abstract>
+                <AbstractText>Competition decreased transpiration from young lettuce plants after 2 days, before any reductions in leaf area became apparent, and stomatal conductance (g(s) ) of lettuce and tomato plants was also reduced. Stomatal closure was not due to hydraulic signals or competition for nutrients, as soil water content, leaf water status and leaf nitrate concentrations were unaffected by neighbours. Competition-induced stomatal closure was absent in an abscisic acid (ABA)-deficient tomato mutant, flacca, indicating a fundamental involvement of ABA. Although tomato xylem sap ABA concentrations were unaffected by the presence of neighbours, ABA/pH-based stomatal modulation is still likely to underlie the response to competition, as soil and xylem sap alkalization was observed in competing plants. Competition also modulated leaf ethylene production, and treatment of lettuce plants with an ethylene perception inhibitor (1-methylcyclopropene) diminished the difference in g(s) between single and competing plants grown in a controlled environment room, but increased it in plants grown in the greenhouse: ethylene altered the extent of the stomatal response to competition. Effects of competition on g(s) are discussed in terms of the detection of the absence of neighbours: increases in g(s) and carbon fixation may allow faster initial space occupancy within an emerging community/crop.</AbstractText>
+                <CopyrightInformation>© 2011 Blackwell Publishing Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vysotskaya</LastName>
+                    <ForeName>Lidiya</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biology, Ufa Scientific Center, Russian Academy of Sciences, pr. Oktyabrya 69, 450054 Ufa, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilkinson</LastName>
+                    <ForeName>Sally</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davies</LastName>
+                    <ForeName>William J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arkhipova</LastName>
+                    <ForeName>Tatyana</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kudoyarova</LastName>
+                    <ForeName>Guzel</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Plant Cell Environ</MedlineTA>
+            <NlmUniqueID>9309004</NlmUniqueID>
+            <ISSNLinking>0140-7791</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003521">Cyclopropanes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005030">Ethylenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009566">Nitrates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012987">Soil</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>72S9A8J5GW</RegistryNumber>
+                <NameOfSubstance UI="D000040">Abscisic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>91GW059KN7</RegistryNumber>
+                <NameOfSubstance UI="C036216">ethylene</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>J6UJO23JGU</RegistryNumber>
+                <NameOfSubstance UI="C412563">1-methylcyclopropene</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000040" MajorTopicYN="N">Abscisic Acid</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003521" MajorTopicYN="N">Cyclopropanes</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005030" MajorTopicYN="N">Ethylenes</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006863" MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018545" MajorTopicYN="N">Lettuce</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018551" MajorTopicYN="N">Lycopersicon esculentum</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009566" MajorTopicYN="N">Nitrates</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054046" MajorTopicYN="N">Plant Stomata</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018526" MajorTopicYN="N">Plant Transpiration</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012987" MajorTopicYN="N">Soil</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052584" MajorTopicYN="N">Xylem</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21241329</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-3040.2011.02277.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

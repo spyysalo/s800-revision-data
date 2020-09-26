@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21401593</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Behaviour during elevated water temperatures: can physiology explain movement of juvenile Atlantic salmon to cool water?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>844-53</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2011.01828.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Temperature governs most physiological processes in animals. Ectotherms behaviourally thermoregulate by selecting habitats with temperatures regulating their body temperature for optimal physiological functioning. However, ectotherms can experience temperature extremes forcing the organisms to seek temperature refuge. 2. Fish actively avoid potentially lethal temperatures by moving to cool-water sites created by inflowing tributaries and groundwater seeps. Juvenile Atlantic salmon (Salmo salar) of different age classes exhibit different behavioural responses to elevated temperatures (&gt;23 °C). Yearling (1+) and 2-year-old (2+) Atlantic salmon often cease feeding, abandon territorial behaviour and swim continuously in aggregations in cool-water sites; whereas young-of-the-year (0+) fish continue defending territories and foraging. 3. This study determined whether the behavioural shift in older individuals (2+) occurred when basal metabolic rate, driven by increasing water temperature, reached the maximum metabolic rate such that anaerobic pathways were recruited to provide energy to support vital processes. Behaviour (feeding and stress responses), oxygen consumption, muscle lactate and glycogen, and circulating blood lactate and glucose concentrations were measured in wild 0+ and 2+ Atlantic salmon acclimated to water temperatures between 16 and 28 °C. 4. Results indicate that oxygen consumption of the 2+ fish increased with temperature and reached a plateau at 24 °C, a temperature that corresponded to cessation of feeding and a significant increase in muscle and blood lactate levels. By contrast, oxygen consumption in 0+ fish did not reach a plateau, feeding continued and muscle lactate did not increase, even at the highest temperatures tested (28 °C). 5. To conclude, the experiment demonstrated that the 0+ and 2+ fish had different physiological responses to the elevated water temperatures. The results suggest that wild 2+ Atlantic salmon employ behavioural responses (e.g. movement to cool-water sites) at elevated temperatures in an effort to mitigate physiological imbalances associated with an inability to support basal metabolism through aerobic metabolic processes.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Journal of Animal Ecology © 2011 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Breau</LastName>
+                    <ForeName>Cindy</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Canadian Rivers Institute and Department of Biology, University of New Brunswick, PO Box 4400, 10 Bailey Avenue, Fredericton, New Brunswick E3B 5A3, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cunjak</LastName>
+                    <ForeName>Richard A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peake</LastName>
+                    <ForeName>Stephan J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>33X04XA5AT</RegistryNumber>
+                <NameOfSubstance UI="D019344">Lactic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9005-79-2</RegistryNumber>
+                <NameOfSubstance UI="D006003">Glycogen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D017677" MajorTopicYN="N">Age Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001481" MajorTopicYN="N">Basal Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001786" MajorTopicYN="N">Blood Glucose</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005247" MajorTopicYN="Y">Feeding Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006003" MajorTopicYN="N">Glycogen</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019344" MajorTopicYN="N">Lactic Acid</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009509" MajorTopicYN="N" Type="Geographic">New Brunswick</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010101" MajorTopicYN="N">Oxygen Consumption</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020317" MajorTopicYN="N">Salmo salar</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013312" MajorTopicYN="Y">Stress, Physiological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013550" MajorTopicYN="Y">Swimming</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21401593</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2011.01828.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

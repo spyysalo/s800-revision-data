@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22182620</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1938-2936</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental entomology</Title>
+                <ISOAbbreviation>Environ. Entomol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Influence of sticky trap color and height above ground on capture of alate Elatobium abietinum (Hemiptera: Aphididae) in Sitka spruce plantations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>120-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1603/EN09344</ELocationID>
+            <Abstract>
+                <AbstractText>A series of field trials were used to assess the practicality of using sticky traps to monitor populations of green spruce aphid, Elatobium abietinum (Walker), in plantations of Sitka spruce. The highest numbers of alate E. abietinum were caught on sticky traps placed in the upper third of the live canopy at 9-17 m above the ground, whereas low numbers of aphids were caught just below the live canopy or at 2 m above the ground. Trials in 2005 with sticky traps of different colors showed that significantly more alate E. abietinum were caught on yellow, red, and green sticky traps than on white, blue, and black traps. A repeat trial in 2007 resulted in significantly more alate aphids being caught on red sticky traps than on traps of any other color except for green. Attraction to red is unusual among aphids, as aphids are thought not to possess a red-sensitive photoreceptor. The attraction of E. abietinum to red-colored sticky traps suggests that conifer-feeding aphids might have a fundamentally different color response compared with aphids that live on cereals, grasses, or herbaceous plants. Alternatively, the attraction to red might be a physiological artifact related to the presence of red-screening pigments in the aphid's compound eye.</AbstractText>
+                <CopyrightInformation>© 2011 Entomological Society of America</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Straw</LastName>
+                    <ForeName>Nigel A</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Forestry &amp; Climate Change, Forest Research, Alice Holt Lodge, Wrecclesham, Farnham, Surrey, GU10 4LH, UK. nigel.straw@forestry.gsi.gov.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>David T</ForeName>
+                    <Initials>DT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Green</LastName>
+                    <ForeName>Gillian</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Environ Entomol</MedlineTA>
+            <NlmUniqueID>7502320</NlmUniqueID>
+            <ISSNLinking>0046-225X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000531" MajorTopicYN="N">Altitude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001042" MajorTopicYN="N">Aphids</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003116" MajorTopicYN="N">Color</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007300" MajorTopicYN="N">Insect Control</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D028222" MajorTopicYN="N">Picea</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014852" MajorTopicYN="N" Type="Geographic">Wales</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22182620</ArticleId>
+            <ArticleId IdType="doi">10.1603/EN09344</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

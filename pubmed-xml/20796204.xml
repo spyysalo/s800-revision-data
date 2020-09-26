@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20796204</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Can we predict indirect interactions from quantitative food webs?--an experimental approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>108-18</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01744.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Shared enemies may link the dynamics of their prey. Recently, quantitative food webs have been used to infer that herbivorous insect species attacked by the same major parasitoid species will affect each other negatively through apparent competition. Nonetheless, theoretical work predicts several alternative outcomes, including positive effects. 2. In this paper, we use an experimental approach to link food web patterns to realized population dynamics. First, we construct a quantitative food web for three dominant leaf miner species on the oak Quercus robur. We then measure short- and long-term indirect effects by increasing leaf miner densities on individual trees. Finally, we test whether experimental results are consistent with natural leaf miner dynamics on unmanipulated trees. 3. The quantitative food web shows that all leaf miner species share a minimum of four parasitoid species. While only a small fraction of the parasitoid pool is shared among Tischeria ekebladella and each of two Phyllonorycter species, the parasitoid communities of the congeneric Phyllonorycter species overlap substantially. 4. Based on the structure of the food web, we predict strong short- and long-term indirect interactions between the Phyllonorycter species, and limited interactions between them and T. ekebladella. As T. ekebladella is the main source of its own parasitoids, we expect to find intraspecific density-dependent parasitism in this species. 5. Consistent with these predictions, parasitism in T. ekebladella was high on trees with high densities of conspecifics in the previous generation. Among leaf miner species sharing more parasitoids, we found positive rather than negative interactions among years. No short-term indirect interactions (i.e. indirect interactions within a single generation) were detected. 6. Overall, this study is the first to experimentally demonstrate that herbivores with overlapping parasitoid communities may exhibit independent population dynamics - or even apparent mutualism. Hence, it proves the potential for versatile indirect interactions in nature, and suggests that the link between patterns in food web structure and realized population dynamics should be verified by rigorous experiments.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal compilation © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tack</LastName>
+                    <ForeName>Ayco J M</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Metapopulation Research Group, Department of Biosciences, University of Helsinki, Viikinkaari 1, P.O. Box 65, Helsinki FI-00014, Finland. ayco.tack@helsinki.fi</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gripenberg</LastName>
+                    <ForeName>Sofia</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roslin</LastName>
+                    <ForeName>Tomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020387" MajorTopicYN="Y">Food Chain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007915" MajorTopicYN="N">Lepidoptera</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="N">parasitology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011156" MajorTopicYN="N">Population Density</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029963" MajorTopicYN="N">Quercus</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014863" MajorTopicYN="N">Wasps</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20796204</ArticleId>
+            <ArticleId IdType="pii">JAE1744</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01744.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

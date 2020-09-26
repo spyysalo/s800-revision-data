@@ -1,0 +1,680 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21097626</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Altered regulation of the OmpF porin by Fis in Escherichia coli during an evolution experiment and between B and K-12 strains.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>429-40</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01341-10</ELocationID>
+            <Abstract>
+                <AbstractText>The phenotypic plasticity of global regulatory networks provides bacteria with rapid acclimation to a wide range of environmental conditions, while genetic changes in those networks provide additional flexibility as bacteria evolve across long time scales. We previously identified mutations in the global regulator-encoding gene fis that enhanced organismal fitness during a long-term evolution experiment with Escherichia coli. To gain insight into the effects of these mutations, we produced two-dimensional protein gels with strains carrying different fis alleles, including a beneficial evolved allele and one with an in-frame deletion. We found that Fis controls the expression of the major porin-encoding gene ompF in the E. coli B-derived ancestral strain used in the evolution experiment, a relationship that has not been described before. We further showed that this regulatory connection evolved over two different time scales, perhaps explaining why it was not observed before. On the longer time scale, we showed that this regulation of ompF by Fis is absent from the more widely studied K-12 strain and thus is specific to the B strain. On a shorter time scale, this regulatory linkage was lost during 20,000 generations of experimental evolution of the B strain. Finally, we mapped the Fis binding sites in the ompF regulatory region, and we present a hypothetical model of ompF expression that includes its other known regulators.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Crozat</LastName>
+                    <ForeName>Estelle</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Adaptation et Pathogénie des Microorganismes, Institut Jean Roget, Université Joseph Fourier, Campus Santé, Domaine de la Merci, BP170, 38042 Grenoble Cedex 9, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hindré</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kühn</LastName>
+                    <ForeName>Lauriane</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garin</LastName>
+                    <ForeName>Jérome</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lenski</LastName>
+                    <ForeName>Richard E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>Dominique</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029968">Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035021">Factor For Inversion Stimulation Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C501034">Fis protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C109237">OmpF protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018272">Porins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020543">Proteome</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015180" MajorTopicYN="N">Electrophoresis, Gel, Two-Dimensional</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029968" MajorTopicYN="N">Escherichia coli Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D035021" MajorTopicYN="N">Factor For Inversion Stimulation Protein</DescriptorName>
+                <QualifierName UI="Q000172" MajorTopicYN="N">deficiency</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018272" MajorTopicYN="N">Porins</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020543" MajorTopicYN="N">Proteome</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21097626</ArticleId>
+            <ArticleId IdType="pii">JB.01341-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01341-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019833</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Jun 23;281(25):17114-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16618701</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2006 Aug;188(16):5775-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16885445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2006 Aug;173(4):1851-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16702438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 Nov;62(3):869-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16999831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2006 Dec 13;25(24):5942-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17110926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Feb;63(4):1008-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17233825</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Feb;63(3):859-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17181781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioessays. 2007 Sep;29(9):846-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17691099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2007 Sep;153(Pt 9):2922-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17768236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2007 Oct 1;21(19):2473-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17908933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Dec;66(6):1474-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18028311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2008 Feb;4(2):e35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18282111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Oct 29;461(7268):1243-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19838166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2009 Dec 11;394(4):634-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19765591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2009 Dec 11;394(4):653-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19765592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2009 Dec 11;394(4):644-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19786035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Jan;186(1):122-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14679232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Mar;51(5):1347-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14982629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2004 Apr;36(4):423-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15072075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Apr 23;279(17):17697-706</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14960595</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2004 May;2(5):391-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15100692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2004 Jul;150(Pt 7):2037-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15256548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 Aug 18;23(16):3375-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15297874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1966 Mar;91(3):1029-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5326091</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1970 Aug 15;227(5259):680-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5432063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1977 Feb;74(2):560-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">265521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1985 Jul;41(3):771-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3159478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1986 Aug 15;46(4):531-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3524854</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1986 Dec;168(3):1309-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3536870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1987;53(1):85-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3596251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1990 Mar;9(3):727-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1690124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 1990 Mar 15;56(3):289-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2160395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1990 Aug 27;1050(1-3):293-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2145039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1990 Nov;9(11):3733-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2209559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1992 Jan;174(2):398-407</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1309527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1992 Dec;174(24):8043-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1459953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1992 Nov;6(22):3257-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1484481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1994 Apr 1;269(13):9460-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7511587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1994 Aug;13(3):435-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7997160</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1994 Dec 25;22(25):5765-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7838735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1995 Jan 20;245(3):197-207</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7844812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1996 Mar;19(5):965-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8830277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1996 Jun;20(5):911-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8809744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2010 Sep;27(9):2113-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20392810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 Sep;177(18):5222-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7545153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1999 Dec;34(5):953-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10594821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2000 Mar;35(6):1413-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10760142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2000 Oct;38(1):167-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11029698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochimie. 2001 Feb;83(2):213-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11278071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2001 Sep;55(9):1746-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11681730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2001 Dec 15;29(24):5107-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11812843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2002 Mar;184(5):1359-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11844765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Microbiol. 2002 Jul 9;2:18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12106505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2002 Oct;46(1):281-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12366850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Biosci. 2003 Jan 1;8:d279-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12456360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Feb 4;100(3):1072-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12538876</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Evol. 2003 Apr;56(4):498-508</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12664169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Apr 25;278(17):14776-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12588863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2003 Sep 26;226(2):391-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14553938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1996 Oct 11;262(5):615-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8876642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1996 Oct;22(1):21-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8899705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1996 Dec 13;264(4):675-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8980678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1997 Sep 25;389(6649):403-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9311785</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1997 Oct;179(20):6228-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9335267</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1997 Dec;179(23):7410-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9393706</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Dec 15;25(24):4994-5002</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9396807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1997 Nov;26(3):519-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9402022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1997 Nov 17;417(3):409-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9409762</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Cells. 1998 Dec;3(12):777-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10096019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1999 Oct;181(20):6361-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10515926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2004 Nov;2(11):e336</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15502870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2005 Jan 1;385(Pt 1):255-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15357641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Mar;187(5):1568-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15716427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2005 Feb;169(2):523-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15489515</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Sep;57(6):1636-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16135230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 2005 Nov 11;95(20):208101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16384101</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2006 Mar;188(6):2081-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16513738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Microbiol. 2005 Dec;8(4):271-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16562379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Apr 11;103(15):5977-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16585510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Jun 13;103(24):9107-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16751270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

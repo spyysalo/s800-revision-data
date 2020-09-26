@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21155772</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Serengeti food web: empirical quantification and analysis of topological changes under increasing human impact.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>484-94</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01787.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. To address effects of land use and human overexploitation on wildlife populations, it is essential to better understand how human activities have changed species composition, diversity and functioning. Theoretical studies modelled how network properties change under human-induced, non-random species loss. However, we lack data on realistic species-loss sequences in threatened, real-world food webs to parameterize these models. 2. Here, we present a first size-structured topological food web of one of the most pristine terrestrial ecosystems in the world, the Serengeti ecosystem (Tanzania). The food web consists of 95 grouped nodes and includes both invertebrates and vertebrates ranging from body masses between 10(-7) and 10(4) kg. 3. We study the topological changes in this food web that result from the simulated IUCN-based species-loss sequence representing current species vulnerability to human disturbances in and around this savanna ecosystem. We then compare this realistic extinction scenario with other extinction sequences based on body size and connectance and perform an analysis of robustness of this savanna food web. 4. We demonstrate that real-world species loss in this case starts with the biggest (mega) herbivores and top predators, causing higher predator-prey mass ratios. However, unlike theoretically modelled linear species deletion sequences, this causes poor-connected species to be lost first, while more highly connected species become lost as human impact progresses. This food web shows high robustness to decreasing body size and increasing connectance deletion sequences compared with a high sensitivity to the decreasing connectance deletion scenario. 5. Furthermore, based on the current knowledge of the Serengeti ecosystem, we discuss how the focus on food web topology alone, disregarding nontrophic interactions, may lead to an underestimation of human impacts on wildlife communities, with the number of trophic links affected by a factor of two. 6. This study underlines the importance of integrative efforts between the development of food web theory and basic field work approaches in the quantification of the structure of interaction networks to sustain natural ecosystems in a changing world.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal of Animal Ecology © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Visser</LastName>
+                    <ForeName>Sara N</ForeName>
+                    <Initials>SN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Community and Conservation Ecology Group, Centre for Ecological and Evolutionary Studies, University of Groningen, PO Box 11103, 9700 CC Groningen, The Netherlands. sndevisser@hotmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freymann</LastName>
+                    <ForeName>Bernd P</ForeName>
+                    <Initials>BP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olff</LastName>
+                    <ForeName>Han</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044822" MajorTopicYN="N">Biodiversity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003247" MajorTopicYN="N">Conservation of Natural Resources</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053476" MajorTopicYN="Y">Extinction, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020387" MajorTopicYN="Y">Food Chain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006802" MajorTopicYN="N">Human Activities</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013636" MajorTopicYN="N" Type="Geographic">Tanzania</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21155772</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01787.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

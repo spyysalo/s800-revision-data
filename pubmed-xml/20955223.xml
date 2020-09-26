@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20955223</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-3040</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant, cell &amp; environment</Title>
+                <ISOAbbreviation>Plant Cell Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A new filter that accurately mimics the solar UV-B spectrum using standard UV lamps: the photochemical properties, stabilization and use of the urate anion liquid filter.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>261-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-3040.2010.02240.x</ELocationID>
+            <Abstract>
+                <AbstractText>The physiological effects unique to solar ultraviolet (UV)-B exposure (280-315 nm) are difficult to accurately replicate in the laboratory. This study evaluates the effectiveness of the sodium urate anion in a liquid filter that yields a spectrum nearly indistinguishable from the solar UV-B spectrum while filtering the emissions of widely used UV-B lamps. The photochemical properties and stability of this filter are examined and weighed against a typical spectrum of ground-level solar UV-B radiation. To test the effectiveness of this filter, light-saturated photosynthetic oxygen evolution rates were measured following exposure to UV-B filtered either by this urate filter or the widely used cellulose acetate (CA) filter. The ubiquitous marine Chlorophyte alga Dunaliella tertiolecta was tested under identical UV-B flux densities coupled with ecologically realistic fluxes of UV-A and visible radiation for 6 and 12 h exposures. These results indicate that the urate-filtered UV-B radiation yields minor photosynthetic inhibition when compared with exposures lacking in UV-B. This is in agreement with published experiments using solar radiation. In sharp contrast, radiation filtered by CA filters produced large inhibition of photosynthesis.</AbstractText>
+                <CopyrightInformation>© 2010 Blackwell Publishing Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sampath-Wiley</LastName>
+                    <ForeName>Priya</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of New Hampshire, Durham, NH 03824, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jahnke</LastName>
+                    <ForeName>Leland S</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Plant Cell Environ</MedlineTA>
+            <NlmUniqueID>9309004</NlmUniqueID>
+            <ISSNLinking>0140-7791</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000975">Antioxidants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007202">Indicators and Reagents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012996">Solutions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>268B43MJ25</RegistryNumber>
+                <NameOfSubstance UI="D014527">Uric Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3J2P07GVB6</RegistryNumber>
+                <NameOfSubstance UI="C005062">acetylcellulose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9004-34-6</RegistryNumber>
+                <NameOfSubstance UI="D002482">Cellulose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>968JJ8C9DV</RegistryNumber>
+                <NameOfSubstance UI="D019810">Sodium Azide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000975" MajorTopicYN="N">Antioxidants</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002482" MajorTopicYN="N">Cellulose</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000460" MajorTopicYN="N">Chlorophyta</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005374" MajorTopicYN="N">Filtration</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007202" MajorTopicYN="N">Indicators and Reagents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010084" MajorTopicYN="N">Oxidation-Reduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010782" MajorTopicYN="N">Photolysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010788" MajorTopicYN="N">Photosynthesis</DescriptorName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019810" MajorTopicYN="N">Sodium Azide</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012996" MajorTopicYN="N">Solutions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013056" MajorTopicYN="N">Spectrophotometry, Ultraviolet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014466" MajorTopicYN="Y">Ultraviolet Rays</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014527" MajorTopicYN="N">Uric Acid</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20955223</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-3040.2010.02240.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

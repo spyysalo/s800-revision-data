@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21435601</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>06</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-4465</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Neurology</Title>
+                <ISOAbbreviation>Lancet Neurol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Induced pluripotent stem cells: a new revolution for clinical neurology?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>383-94</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1474-4422(11)70022-9</ELocationID>
+            <Abstract>
+                <AbstractText>Why specific neuronal populations are uniquely susceptible in neurodegenerative diseases remains a mystery. Brain tissue samples from patients are rarely available for testing, and animal models frequently do not recapitulate all features of a specific disorder; therefore, pathophysiological investigations are difficult. An exciting new avenue for neurological research and drug development is the discovery that patients' somatic cells can be reprogrammed to a pluripotent state; these cells are known as induced pluripotent stem cells. Once pluripotency is reinstated, cell colonies can be expanded and differentiated into specific neural populations. The availability of these cells enables the monitoring in vitro of temporal features of disease initiation and progression, and testing of new drug treatments on the patient's own cells. Hence, this swiftly growing area of research has the potential to contribute greatly to our understanding of the pathophysiology of neurodegenerative and neurodevelopmental diseases.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mattis</LastName>
+                    <ForeName>Virginia B</ForeName>
+                    <Initials>VB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regenerative Medicine Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Svendsen</LastName>
+                    <ForeName>Clive N</ForeName>
+                    <Initials>CN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet Neurol</MedlineTA>
+            <NlmUniqueID>101139309</NlmUniqueID>
+            <ISSNLinking>1474-4422</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057026" MajorTopicYN="Y">Induced Pluripotent Stem Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009422" MajorTopicYN="N">Nervous System Diseases</DescriptorName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21435601</ArticleId>
+            <ArticleId IdType="pii">S1474-4422(11)70022-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/S1474-4422(11)70022-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

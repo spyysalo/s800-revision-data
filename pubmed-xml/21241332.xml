@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21241332</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-3040</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant, cell &amp; environment</Title>
+                <ISOAbbreviation>Plant Cell Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The rate-limiting step for CO(2) assimilation at different temperatures is influenced by the leaf nitrogen content in several C(3) crop species.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>764-77</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-3040.2011.02280.x</ELocationID>
+            <Abstract>
+                <AbstractText>Effects of nitrogen (N) supply on the limiting step of CO(2) assimilation rate (A) at 380 µmol mol(-1) CO(2) concentration (A(380) ) at several leaf temperatures were studied in several crops, since N nutrition alters N allocation between photosynthetic components. Contents of leaf N, ribulose 1·5-bisphosphate carboxylase/oxygenase (Rubisco) and cytochrome f (cyt f) increased with increasing N supply, but the cyt f/Rubisco ratio decreased. Large leaf N content was linked to a high stomatal (g(s) ) and mesophyll conductance (g(m) ), but resulted in a lower intercellular (C(i) ) and chloroplast CO(2) concentration (C(c) ) because the increase in g(s) and g(m) was insufficient to compensate for change in A(380) . The A-C(c) response was used to estimate the maximum rate of RuBP carboxylation (V(cmax) ) and chloroplast electron transport (J(max) ). The J(max) /V(cmax) ratio decreased with reductions in leaf N content, which was consistent with the results of the cyt f/Rubisco ratio. Analysis using the C(3) photosynthesis model indicated that A(380) tended to be limited by RuBP carboxylation in plants grown at low N concentration, whereas it was limited by RuBP regeneration in plants grown at high N concentration. We conclude that the limiting step of A(380) depends on leaf N content and is mainly determined by N partitioning between Rubisco and electron transport components.</AbstractText>
+                <CopyrightInformation>© 2011 Blackwell Publishing Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yamori</LastName>
+                    <ForeName>Wataru</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Plant Science, Graduate School of Agricultural Science, Tohoku University, 1-1 Tsutsumidori-Amamiyamachi, Aoba-ku, Sendai 981-8555, Japan. wataru.yamori@biochem.tohoku.ac.jp</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nagai</LastName>
+                    <ForeName>Takeshi</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Makino</LastName>
+                    <ForeName>Amane</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Plant Cell Environ</MedlineTA>
+            <NlmUniqueID>9309004</NlmUniqueID>
+            <ISSNLinking>0140-7791</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>142M471B3J</RegistryNumber>
+                <NameOfSubstance UI="D002245">Carbon Dioxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9035-46-5</RegistryNumber>
+                <NameOfSubstance UI="D045348">Cytochromes f</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.1.1.39</RegistryNumber>
+                <NameOfSubstance UI="D012273">Ribulose-Bisphosphate Carboxylase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N762921K75</RegistryNumber>
+                <NameOfSubstance UI="D009584">Nitrogen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002245" MajorTopicYN="N">Carbon Dioxide</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002736" MajorTopicYN="N">Chloroplasts</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018556" MajorTopicYN="N">Crops, Agricultural</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045348" MajorTopicYN="N">Cytochromes f</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004579" MajorTopicYN="N">Electron Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009584" MajorTopicYN="N">Nitrogen</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010788" MajorTopicYN="N">Photosynthesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018515" MajorTopicYN="N">Plant Leaves</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012273" MajorTopicYN="N">Ribulose-Bisphosphate Carboxylase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="Y">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21241332</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-3040.2011.02280.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

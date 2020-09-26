@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21029117</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-3040</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant, cell &amp; environment</Title>
+                <ISOAbbreviation>Plant Cell Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dynamic changes of canopy-scale mesophyll conductance to CO₂ diffusion of sunflower as affected by CO₂ concentration and abscisic acid.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>127-36</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-3040.2010.02230.x</ELocationID>
+            <Abstract>
+                <AbstractText>Leaf-level measurements have shown that mesophyll conductance (g(m)) can vary rapidly in response to CO₂ and other environmental factors, but similar studies at the canopy-scale are missing. Here, we report the effect of short-term variation of CO₂ concentration on canopy-scale g(m) and other CO₂ exchange parameters of sunflower (Helianthus annuus L.) stands in the presence and absence of abscisic acid (ABA) in their nutrient solution. g(m) was estimated from gas exchange and on-line carbon isotope discrimination (Δ(obs)) in a ¹³CO₂/¹²CO₂) gas exchange mesocosm. The isotopic contribution of (photo)respiration to stand-scale Δ(obs) was determined with the experimental approach of Tcherkez et al. Without ABA, short-term exposures to different CO₂ concentrations (C(a) 100 to 900 µmol mol⁻¹) had little effect on canopy-scale g(m) . But, addition of ABA strongly altered the CO₂-response: g(m) was high (approx. 0.5 mol CO₂ m⁻² s⁻¹) at C(a) &lt;200 µmol mol⁻¹ and decreased to &lt;0.1 mol CO₂ m⁻² s⁻¹ at C(a) &gt;400 µmol mol⁻¹. In the absence of ABA, the contribution of (photo)respiration to stand-scale Δ(obs) was high at low C(a) (7.2 ‰) and decreased to &lt;2 ‰ at C(a) &gt; 400 µmol mol⁻¹. Treatment with ABA halved this effect at all C(a) .</AbstractText>
+                <CopyrightInformation>© 2010 Blackwell Publishing Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schäufele</LastName>
+                    <ForeName>Rudi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lehrstuhl für Grünlandlehre, Technische Universität München, Alte Akademie 12, D-85350, Freising-Weihenstephan, Germany. schaeufele@wzw.tum.de</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santrucek</LastName>
+                    <ForeName>Jiri</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schnyder</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Plant Cell Environ</MedlineTA>
+            <NlmUniqueID>9309004</NlmUniqueID>
+            <ISSNLinking>0140-7791</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002247">Carbon Isotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>142M471B3J</RegistryNumber>
+                <NameOfSubstance UI="D002245">Carbon Dioxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>72S9A8J5GW</RegistryNumber>
+                <NameOfSubstance UI="D000040">Abscisic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000040" MajorTopicYN="N">Abscisic Acid</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002245" MajorTopicYN="N">Carbon Dioxide</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002247" MajorTopicYN="N">Carbon Isotopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004058" MajorTopicYN="N">Diffusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006368" MajorTopicYN="N">Helianthus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058503" MajorTopicYN="N">Mesophyll Cells</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010788" MajorTopicYN="N">Photosynthesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018515" MajorTopicYN="N">Plant Leaves</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21029117</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-3040.2010.02230.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

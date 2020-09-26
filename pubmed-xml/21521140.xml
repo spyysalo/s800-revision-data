@@ -1,0 +1,599 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21521140</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-2442</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of insect science (Online)</Title>
+                <ISOAbbreviation>J. Insect Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of nonjunctional hemichannels in caterpillar cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1673/031.011.0106</ELocationID>
+            <Abstract>
+                <AbstractText>Recent studies have demonstrated that hemichannels, which form gap junctions when paired from apposing cells, may serve additional roles when unpaired including cell adhesion and paracrine communication. Hemichannels in mammals are formed by connexins or pannexins, while in insects they are formed by pannexin homologues termed innexins. The formation of functional gap junctions by insect innexins has been established, although their ability to form functional nonjunctional hemichannels has not been reported. Here the characteristics of nonjunctional hemichannels were examined in three lepidopteran cell types, two cell lines (High Five and Sf9) and explanted hemocytes from Heliothis virescens (Fabricius) (Lepidoptera: Noctuidae). Selective fluorescent dye uptake by hemichannels was observed in a significant minority of cells, using fluorescence microscopy and flow cytometry. Carbenoxelone, an inhibitor of mammalian junctions, disrupted dye uptake, while flufenamic acid and mefloquine did not. The presence of Ca(2+) and Mg(2+) in the media increased hemichannel activity. Additionally, lipopolysaccharide, a stimulator of immune activity in lepidopterans, decreased dye uptake. These results demonstrate for the first time the activity of nonjunctional hemichannels in insect cells, as well as pharmacological tools to manipulate them. These results will facilitate the further examination of the role of innexins and nonjunctional hemichannels in insect cell biology, including paracrine signaling, and comparative studies of mammalian pannexins and insect innexins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Kaijun</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology, Soils, and Plant Sciences, Clemson University, Clemson, South Carolina 29634-03 15, USA. kaijun_luo@ynu.edu.cn</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turnbull</LastName>
+                    <ForeName>Matthew W</ForeName>
+                    <Initials>MW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Insect Sci</MedlineTA>
+            <NlmUniqueID>101096396</NlmUniqueID>
+            <ISSNLinking>1536-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017630">Connexins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>60GCX7Y6BH</RegistryNumber>
+                <NameOfSubstance UI="D005439">Flufenamic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>I38ZP9992A</RegistryNumber>
+                <NameOfSubstance UI="D008274">Magnesium</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>MM6384NG73</RegistryNumber>
+                <NameOfSubstance UI="D002229">Carbenoxolone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>TML814419R</RegistryNumber>
+                <NameOfSubstance UI="D015767">Mefloquine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002229" MajorTopicYN="N">Carbenoxolone</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017630" MajorTopicYN="N">Connexins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005434" MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005439" MajorTopicYN="N">Flufenamic Acid</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005456" MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017629" MajorTopicYN="N">Gap Junctions</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007814" MajorTopicYN="N">Larva</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008070" MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008274" MajorTopicYN="N">Magnesium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015767" MajorTopicYN="N">Mefloquine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008856" MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009036" MajorTopicYN="N">Moths</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21521140</ArticleId>
+            <ArticleId IdType="doi">10.1673/031.011.0106</ArticleId>
+            <ArticleId IdType="pmc">PMC3281302</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Cell Sci. 1967 Jun;2(2):281-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4104129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2003 Sep 30;314(2):521-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14554081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1996 Feb 1;16(3):1101-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8558239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Chem. 2002 May;383(5):725-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12108537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2002 May 1;115(Pt 9):1859-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11956317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Jan 17;278(3):1807-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12384501</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2007 Dec 11;581(29):5703-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18035059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Mar 3;434(7029):83-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15744304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Neurosci. 2003 Nov;26(11):610-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14585601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2005 Jul 12;15(13):R491-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16005277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IUBMB Life. 2006 Jul;58(7):409-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16801216</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Biol. 2008 Feb;211(Pt 3):409-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18203997</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shock. 2000 Jul;14(1):53-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10909894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glia. 2008 Dec;56(16):1791-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18649405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Mar 24;281(12):7994-8009</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16407179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mech Dev. 2002 May;113(2):197-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11960713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiology (Bethesda). 2006 Apr;21:103-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16565476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2007 Aug 23;448(7156):901-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17713529</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Physiol. 1996 Feb;166(2):461-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8592007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Braz J Med Biol Res. 2000 Apr;33(4):447-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10775310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vis Neurosci. 2007 Jul-Aug;24(4):609-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17711600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1977 Dec;75(3):769-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">562887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Biophys Mol Biol. 2007 May-Jun;94(1-2):5-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17507077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1996 Aug;134(4):1019-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8769424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2003 Dec;130(26):6625-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14660550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Jan 8;391(6663):181-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9428764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2006 Nov 1;25(21):5071-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17036048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Biophys Mol Biol. 2007 May-Jun;94(1-2):186-206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17481700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2004 Jun;15(6):2992-3004</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15047872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2000 Jun 29;10(13):R473-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10898987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Feb 19;283(5405):1176-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10024245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Jan 8;99(1):495-500</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11756680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1993 Jun 4;73(5):967-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8500183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Commun Adhes. 2008 May;15(1):207-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18649191</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 1994 Aug;75(2):335-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8033344</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Physiol. 2010 Oct;136(4):425-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20876360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2002 May;129(10):2529-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11973283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Commun Adhes. 2001;8(4-6):307-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12064608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1995 Mar 24;270(12):6768-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7896822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 1998 Nov 1;203(1):90-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9806775</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biochem. 1995 Feb 9;143(1):81-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7776963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Pharmacol. 2003 Oct 15;66(8):1661-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14555247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Insect Physiol. 2008 Aug;54(8):1293-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18691596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2002 Sep 1;115(Pt 17):3379-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12154069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2006 Apr;17(4):1676-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16436513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 2007 Oct;19(5):521-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17945477</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 1997 Mar 15;499 ( Pt 3):701-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9130166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2007 Jan;18(1):34-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17079735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2006 Jan 11;25(1):34-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16341088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Q Rev Biophys. 2001 Aug;34(3):325-472</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11838236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Physiol. 2002 Feb;119(2):147-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11815665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Insect Physiol. 2002 Jun;48(6):667-675</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12770077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Biophys Mol Biol. 2007 May-Jun;94(1-2):207-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17467043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pflugers Arch. 1999 Feb;437(3):345-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9914390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Dec 20;102(51):18724-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16344488</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 May 16;103(20):7655-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16682648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Insect Biochem Physiol. 2003 Aug;53(4):158-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12886514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Mar 22;277(12):10482-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11790776</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 2004 Apr;83(4):706-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15028292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2002 Oct;32(10):1295-309</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12225920</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytokine. 1999 Mar;11(3):216-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10209069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Chem. 2006 May;387(5):595-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16740131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunology. 2000 Apr;99(4):578-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10792506</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Physiol. 2008 Sep;132(3):315-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18695008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Tissue Res. 2000 Apr;300(1):111-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10805080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 May 15;104(20):8322-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17494739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Genet. 1998 Sep;14(9):348-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9769729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

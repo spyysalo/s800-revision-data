@@ -1,0 +1,339 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21029748</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0984</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>171</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virological methods</Title>
+                <ISOAbbreviation>J. Virol. Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>One-step real-time reverse transcription-PCR assays for detecting and subtyping pandemic influenza A/H1N1 2009, seasonal influenza A/H1N1, and seasonal influenza A/H3N2 viruses.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>156-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jviromet.2010.10.018</ELocationID>
+            <Abstract>
+                <AbstractText>Pandemic influenza A/H1N1 2009 (A/H1N1pdm) virus has caused significant outbreaks worldwide. A previous one-step real-time reverse transcription-PCR (rRT-PCR) assay for detecting A/H1N1pdm virus (H1pdm rRT-PCR assay) was improved since the former probe had a low melting temperature and low tolerance to viral mutation. To help with the screening of the A/H1N1pdm virus, rRT-PCR assays were also developed for detecting human seasonal A/H1N1 (H1 rRT-PCR assay) and A/H3N2 influenza viruses (H3 rRT-PCR assay). H1pdm, H1, and H3 rRT-PCR assays were evaluated using in vitro-transcribed control RNA, isolated viruses, and other respiratory pathogenic viruses, and were shown to have high sensitivity, good linearity (R(2)=0.99), and high specificity. In addition, the improved H1pdm rRT-PCR assay could detect two viral strains of A/H1N1pdm, namely, A/Aichi/472/2009 (H1N1)pdm and A/Sakai/89/2009 (H1N1)pdm, which have mutation(s) in the probe-binding region of the hemagglutinin gene, without loss of sensitivity. Using the three rRT-PCR assays developed, 90 clinical specimens collected between May and October 2009 were then tested. Of these, 26, 20, and 2 samples were identified as positive for A/H1pdm, A/H3, and A/H1, respectively, while 42 samples were negative for influenza A viruses. The present results suggest that these highly sensitive and specific H1pdm, H1, and H3 rRT-PCR assays are useful not only for diagnosing influenza viruses, but also for the surveillance of influenza viruses.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakauchi</LastName>
+                    <ForeName>Mina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Influenza Virus Research Center, National Institute of Infectious Diseases, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yasui</LastName>
+                    <ForeName>Yoshihiro</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyoshi</LastName>
+                    <ForeName>Tatsuya</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Minagawa</LastName>
+                    <ForeName>Hiroko</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanaka</LastName>
+                    <ForeName>Tomoyuki</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tashiro</LastName>
+                    <ForeName>Masato</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kageyama</LastName>
+                    <ForeName>Tsutomu</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Virol Methods</MedlineTA>
+            <NlmUniqueID>8005839</NlmUniqueID>
+            <ISSNLinking>0166-0934</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053118" MajorTopicYN="N">Influenza A Virus, H1N1 Subtype</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053122" MajorTopicYN="N">Influenza A Virus, H3N2 Subtype</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007251" MajorTopicYN="N">Influenza, Human</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020133" MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014773" MajorTopicYN="N">Virology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>07</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21029748</ArticleId>
+            <ArticleId IdType="pii">S0166-0934(10)00389-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jviromet.2010.10.018</ArticleId>
+            <ArticleId IdType="pmc">PMC7173154</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Wkly Epidemiol Rec. 2009 May 15;84(20):173-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19445090</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 Nov 1;23(21):2947-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17846036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Aug;47(8):2675-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19553589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Virol. 2009 Jul;45(3):196-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19540799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Jul;47(7):2344-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19474268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2010 Mar;48(3):862-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20071557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2010 Mar;48(3):728-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20071551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol Methods. 2009 Dec;162(1-2):184-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19682498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Nov;47(11):3454-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19726603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol Methods. 2010 Feb;163(2):495-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19883690</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virus Res. 2010 Jan;147(1):85-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19883704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Dec;47(12):3805-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19794033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Sep;47(9):2779-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19641066</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2009 Dec;55(12):2218-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19797710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Virol. 2009 Jul;45(3):203-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19515611</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wkly Epidemiol Rec. 2009 Sep 4;84(36):361-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19764123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol Methods. 2010 Feb;163(2):258-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19854220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Sep;47(9):3053-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19587304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Euro Surveill. 2009 Jun 18;14(24):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19555600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Sep;47(9):2772-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19641063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol Methods. 2010 Feb;163(2):470-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19815030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Virol. 2001 Dec;146(12):2275-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11811679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Nov;47(11):3714-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19741076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Diagn. 2010 Jan;12(1):74-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19959800</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2009 Aug;55(8):1555-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19439731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol Methods. 2010 May;165(2):294-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19963010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

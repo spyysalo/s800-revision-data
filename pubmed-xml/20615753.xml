@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20615753</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-5488</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Oncology</Title>
+                <ISOAbbreviation>Lancet Oncol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Isocitrate dehydrogenase-1 mutations: a fundamentally new understanding of diffuse glioma?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>83-91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1470-2045(10)70053-X</ELocationID>
+            <Abstract>
+                <AbstractText>The discovery of somatic mutations in the gene encoding isocitrate dehydrogenase-1 (IDH1) in glioblastomas was remarkable because the enzyme was not previously identified with any known oncogenic pathway. IDH1 is mutated in up to 75% of grade II and grade III diffuse gliomas. Apart from acute myeloid leukaemia, other tumour types do not carry IDH1 mutations. Mutations in a homologous gene, IDH2, have also been identified, although they are much rarer. Although TP53 mutations and 1p/19q codeletions are mutually exclusive in gliomas, in both of these genotypes IDH1 mutations are common. IDH1 and IDH2 mutations are early events in the development of gliomas. Moreover, IDH1 and IDH2 mutations are a major prognostic marker for overall and progression-free survival in grade II-IV gliomas. Mutated IDH1 has an altered catalytic activity that results in the accumulation of 2-hydroxyglutarate. Molecularly, IDH1 and IDH2 mutations are heterozygous, affect only a single codon, and rarely occur together. Because IDH1 does not belong to a traditional oncogenic pathway and is specifically and commonly mutated in gliomas, the altered enzymatic activity of IDH1 may provide a fundamentally new understanding of diffuse glioma.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kloosterhof</LastName>
+                    <ForeName>Nanne K</ForeName>
+                    <Initials>NK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology and Neuro-Oncology, Daniel den Hoed Cancer Center, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bralten</LastName>
+                    <ForeName>Linda B C</ForeName>
+                    <Initials>LB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dubbink</LastName>
+                    <ForeName>Hendrikus J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>French</LastName>
+                    <ForeName>Pim J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van den Bent</LastName>
+                    <ForeName>Martin J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>07</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet Oncol</MedlineTA>
+            <NlmUniqueID>100957246</NlmUniqueID>
+            <ISSNLinking>1470-2045</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003062">Codon</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.41</RegistryNumber>
+                <NameOfSubstance UI="D007521">Isocitrate Dehydrogenase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.41</RegistryNumber>
+                <NameOfSubstance UI="C538784">isocitrate dehydrogenase 2, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.42.</RegistryNumber>
+                <NameOfSubstance UI="C543588">IDH1 protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001932" MajorTopicYN="N">Brain Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003062" MajorTopicYN="N">Codon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005910" MajorTopicYN="N">Glioma</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007521" MajorTopicYN="N">Isocitrate Dehydrogenase</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="Y">Mutation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20615753</ArticleId>
+            <ArticleId IdType="pii">S1470-2045(10)70053-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/S1470-2045(10)70053-X</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

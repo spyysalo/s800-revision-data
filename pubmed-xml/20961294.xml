@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20961294</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-8137</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>189</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The New phytologist</Title>
+                <ISOAbbreviation>New Phytol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Isolation and characterization of MAT genes in the symbiotic ascomycete Tuber melanosporum.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>710-22</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1469-8137.2010.03492.x</ELocationID>
+            <Abstract>
+                <AbstractText>• The genome of Tuber melanosporum has recently been sequenced. Here, we used this information to identify genes involved in the reproductive processes of this edible fungus. The sequenced strain (Mel28) possesses only one of the two master genes required for mating, that is, the gene that codes for the high mobility group (HMG) transcription factor (MAT1-2-1), whereas it lacks the gene that codes for the protein containing the α-box- domain (MAT1-1-1), suggesting that this fungus is heterothallic. • A PCR-based approach was initially employed to screen truffles for the presence of the MAT1-2-1 gene and amplify the conserved regions flanking the mating type (MAT) locus. The MAT1-1-1 gene was finally identified using primers designed from the conserved regions of strains that lack the MAT1-2-1 gene. • Mating type-specific primer pairs were developed to screen asci and gleba from truffles of different origins and to genotype single ascospores within the asci. These analyses provided definitive evidence that T. melanosporum is a heterothallic species with a MAT locus that is organized similarly to those of ancient fungal lineages. • A greater understanding of the reproductive mechanisms that exist in Tuber spp. allows for optimization of truffle plantation management strategies.</AbstractText>
+                <CopyrightInformation>© The Authors (2010). Journal compilation © New Phytologist Trust (2010).</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rubini</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Research Council, Plant Genetics Institute, Perugia Division, Perugia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Belfiori</LastName>
+                    <ForeName>Beatrice</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Riccioni</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tisserant</LastName>
+                    <ForeName>Emilie</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arcioni</LastName>
+                    <ForeName>Sergio</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Francis</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paolocci</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>New Phytol</MedlineTA>
+            <NlmUniqueID>9882884</NlmUniqueID>
+            <ISSNLinking>0028-646X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017931">DNA Primers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001203" MajorTopicYN="N">Ascomycota</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017931" MajorTopicYN="N">DNA Primers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005800" MajorTopicYN="Y">Genes, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049770" MajorTopicYN="Y">Genes, Mating Type, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012098" MajorTopicYN="N">Reproduction</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013559" MajorTopicYN="N">Symbiosis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20961294</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1469-8137.2010.03492.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

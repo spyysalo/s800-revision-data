@@ -1,0 +1,514 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21067947</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>47</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal genetics and biology : FG &amp; B</Title>
+                <ISOAbbreviation>Fungal Genet. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterizing the role of RNA silencing components in Cryptococcus neoformans.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1070-80</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fgb.2010.10.005</ELocationID>
+            <Abstract>
+                <AbstractText>The RNA interference (RNAi) mediated by homology-dependent degradation of the target mRNA with small RNA molecules plays a key role in controlling transcription and translation processes in a number of eukaryotic organisms. The RNAi machinery is also evolutionarily conserved in a wide variety of fungal species, including pathogenic fungi. To elucidate the physiological functions of the RNAi pathway in Cryptococcus neoformans that causes fungal meningitis, here we performed genetic analyses for genes encoding Argonaute (AGO1 and AGO2), RNA-dependent RNA polymerase (RDP1), and Dicers (DCR1 and DCR2) in both serotype A and D C. neoformans. The present study shows that Ago1, Rdp1, and Dcr2 are the major components of the RNAi process occurring in C. neoformans. However, the RNAi machinery is not involved in regulation of production of two virulence factors (capsule and melanin), sexual differentiation, and diverse stress response. Comparative transcriptome analysis of the serotype A and D RNAi mutants revealed that only modest changes occur in the genome-wide transcriptome profiles when the RNAi process was perturbed. Notably, the serotype D rdp1Δ mutants showed an increase in transcript abundance of active retrotransposons and transposons, such as T2 and T3, the latter of which is a novel serotype D-specific transposon of C. neoformans. In a wild type background both T2 and T3 were found to be weakly active mobile elements, although we found no evidence of Cnl1 retrotransposon mobility. In contrast, all three transposable elements exhibited enhanced mobility in the rdp1Δ mutant strain. In conclusion, the RNAi pathway plays an important role in controlling transposon activity and genome integrity of C. neoformans.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Janbon</LastName>
+                    <ForeName>Guilhem</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unité des Aspergillus, Institut Pasteur, Paris Cedex 15, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maeng</LastName>
+                    <ForeName>Shinae</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Dong-Hoon</ForeName>
+                    <Initials>DH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ko</LastName>
+                    <ForeName>Young-Joon</ForeName>
+                    <Initials>YJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jung</LastName>
+                    <ForeName>Kwang-Woo</ForeName>
+                    <Initials>KW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moyrand</LastName>
+                    <ForeName>Frédérique</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Floyd</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heitman</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bahn</LastName>
+                    <ForeName>Yong-Sun</ForeName>
+                    <Initials>YS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI039115</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI039115-13</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 AI039115</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI39115</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Fungal Genet Biol</MedlineTA>
+            <NlmUniqueID>9607601</NlmUniqueID>
+            <ISSNLinking>1087-1845</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004251">DNA Transposable Elements</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005656">Fungal Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.48</RegistryNumber>
+                <NameOfSubstance UI="D012324">RNA Replicase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003455" MajorTopicYN="N">Cryptococcus neoformans</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004251" MajorTopicYN="N">DNA Transposable Elements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005656" MajorTopicYN="N">Fungal Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015966" MajorTopicYN="N">Gene Expression Regulation, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034622" MajorTopicYN="Y">RNA Interference</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012324" MajorTopicYN="N">RNA Replicase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21067947</ArticleId>
+            <ArticleId IdType="pii">S1087-1845(10)00190-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fgb.2010.10.005</ArticleId>
+            <ArticleId IdType="pmc">PMC3021383</ArticleId>
+            <ArticleId IdType="mid">NIHMS247505</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Science. 2009 Oct 23;326(5952):544-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19745116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2010 Mar;9(3):360-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20097740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1999 Dec 1;13(23):3070-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10601033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Dec 17;286(5448):2342-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10600745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Mar 16;404(6775):293-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10749213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2001 Jan 18;409(6818):363-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11201747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 2001 Jun 30;18(9):865-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11427969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2001 Oct;42(2):453-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11703667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2001 Dec 28;107(7):905-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11779466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2002 Feb;160(2):463-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11861553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2002 Aug;148(Pt 8):2607-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12177355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Sep 13;297(5588):1833-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12193640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2003 Nov;149(Pt 11):3099-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14600222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2004 Jan;24(1):420-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14673174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Jan 30;303(5658):672-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14704433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2004 Feb;3(1):14-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14871933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2004 Mar;15(3):1425-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14699070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Jun 25;304(5679):1939</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15218142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004;32(14):4237-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15302921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2004 Oct 1;18(19):2359-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15371329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2004 Nov;36(11):1174-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15475954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1985 Aug;76(2):508-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3928681</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1992 May;12(5):2331-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1314954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1992 Nov;6(22):3343-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1484489</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1995 Jun;16(6):1099-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8577246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1997 Dec 1;11(23):3206-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9389652</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1999 May 13;399(6732):166-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10335848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2004 Dec;3(6):1476-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15590822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2004 Dec;3(6):1513-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15590825</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2005 Feb 25;307(5713):1321-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15653466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2005 May;16(5):2285-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15728721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2005 Oct;3(10):753-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16132036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2005 Oct 31;579(26):5950-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16137680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Evol. 2006 Jul;63(1):127-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16786437</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2006;60:69-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16704346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Evol Biol. 2006;6:89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17090310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Dec 8;281(49):37646-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17043360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 May;64(3):771-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17462022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2007 Jun;44(6):504-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17074518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2007 Jun 7;447(7145):735-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17554311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2008 Feb;36(2):532-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18048414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2008 Nov;28(21):6594-608</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18725402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2008 Dec;11(6):494-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18955156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Apr;47(4):1244-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19171681</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 May 14;459(7244):274-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19444217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2009 Aug;8(8):1197-217</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19542307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2010 Aug;185(4):1207-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20516494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22182614</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1938-2936</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental entomology</Title>
+                <ISOAbbreviation>Environ. Entomol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Short-term population redistribution of Pseudacteon tricuspis (Diptera: Phoridae) from point source releases.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>73-81</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1603/EN10067</ELocationID>
+            <Abstract>
+                <AbstractText>There is a need for quantitative data on patterns and rates of movement of organisms to understand their movement behavior and predict their rates of spread. Opportunities for studying movement of biological control agents are presented during release programs. However, despite these opportunities, patterns and range of dispersal are often not considered. For example, information about effects of wind on dispersal patterns and heterogeneities in rates of movement is critical to predicting future range expansion of biological control agents and determining proximity of multiple releases. Here, the pattern and range of movement of a fire ant parasitoid, Pseudacteon tricuspis Borgmeier, was investigated by performing a series of mass-release-resighting experiments. Flies were released at a central location surrounded by radial transects containing trays of host ants at variable distances along four axes. Resighted flies were censused at these trays at 30 min intervals, up to 2 h postrelease. The dispersal pattern of P. tricuspis in the short term was consistent with a simple diffusion model. On average, 50% of P. tricuspis dispersed ≤10 m, and 95% dispersed ≤29 m. Diffusion rates were variable, depending on release densities, but tended to decline over time after release. Drift of dispersing flies was detected in several trials, and was attributed to prevailing wind dynamics. Data from this assessment of the short term redistribution pattern of P. tricuspis could be useful in determining proximity of releases of this, and other fire ant parasitoids.</AbstractText>
+                <CopyrightInformation>© 2011 Entomological Society of America</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Henne</LastName>
+                    <ForeName>Donald C</ForeName>
+                    <Initials>DC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology, 404 Life Sciences Building, Louisiana State University Agricultural Center, Baton Rouge, LA 70803, USA. dchenne@ag.tamu.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Seth J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Environ Entomol</MedlineTA>
+            <NlmUniqueID>7502320</NlmUniqueID>
+            <ISSNLinking>0046-225X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D061046">Biological Control Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001000" MajorTopicYN="N">Ants</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061046" MajorTopicYN="N">Biological Control Agents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004175" MajorTopicYN="N">Diptera</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008145" MajorTopicYN="N" Type="Geographic">Louisiana</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010572" MajorTopicYN="Y">Pest Control, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011156" MajorTopicYN="N">Population Density</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22182614</ArticleId>
+            <ArticleId IdType="doi">10.1603/EN10067</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

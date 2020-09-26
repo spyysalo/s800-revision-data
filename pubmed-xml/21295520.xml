@@ -1,0 +1,329 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21295520</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1618-0941</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>162</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Protist</Title>
+                <ISOAbbreviation>Protist</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Increased sampling reveals novel lineages of Entamoeba: consequences of genetic diversity and host specificity for taxonomy and molecular detection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>525-41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.protis.2010.11.002</ELocationID>
+            <Abstract>
+                <AbstractText>To expand the representation for phylogenetic analysis, ten additional complete Entamoeba small-subunit rRNA gene sequences were obtained from humans, non-human primates, cattle and a tortoise. For some novel sequences no corresponding morphological data were available, and we suggest that these organisms should be referred to as ribosomal lineages (RL) rather than being assigned species names at present. To investigate genetic diversity and host specificity of selected Entamoeba species, a total of 91 new partial small subunit rRNA gene sequences were obtained, including 49 from Entamoeba coli, 18 from Entamoeba polecki, and 17 from Entamoeba hartmanni. We propose a new nomenclature for significant variants within established Entamoeba species. Based on current data we propose that the uninucleated-cyst-producing Entamoeba infecting humans is called Entamoeba polecki and divided into four subtypes (ST1-ST4) and that Entamoeba coli is divided into two subtypes (ST1-ST2). New hosts for several species were detected and, while host specificity and genetic diversity of several species remain to be clarified, it is clear that previous reliance on cultivated material has given us a misleading and incomplete picture of variation within the genus Entamoeba.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier GmbH. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stensvold</LastName>
+                    <ForeName>C Rune</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiological Diagnostics, Statens Serum Institut, Artillerivej 3, DK-2300 Copenhagen S, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lebbad</LastName>
+                    <ForeName>Marianne</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Victory</LastName>
+                    <ForeName>Emma L</ForeName>
+                    <Initials>EL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verweij</LastName>
+                    <ForeName>Jaco J</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tannich</LastName>
+                    <ForeName>Egbert</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alfellani</LastName>
+                    <ForeName>Mohammed</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Legarraga</LastName>
+                    <ForeName>Paulette</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>C Graham</ForeName>
+                    <Initials>CG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>FR686356</AccessionNumber>
+                        <AccessionNumber>FR686357</AccessionNumber>
+                        <AccessionNumber>FR686358</AccessionNumber>
+                        <AccessionNumber>FR686359</AccessionNumber>
+                        <AccessionNumber>FR686360</AccessionNumber>
+                        <AccessionNumber>FR686361</AccessionNumber>
+                        <AccessionNumber>FR686362</AccessionNumber>
+                        <AccessionNumber>FR686363</AccessionNumber>
+                        <AccessionNumber>FR686364</AccessionNumber>
+                        <AccessionNumber>FR686365</AccessionNumber>
+                        <AccessionNumber>FR686366</AccessionNumber>
+                        <AccessionNumber>FR686367</AccessionNumber>
+                        <AccessionNumber>FR686368</AccessionNumber>
+                        <AccessionNumber>FR686369</AccessionNumber>
+                        <AccessionNumber>FR686370</AccessionNumber>
+                        <AccessionNumber>FR686371</AccessionNumber>
+                        <AccessionNumber>FR686372</AccessionNumber>
+                        <AccessionNumber>FR686373</AccessionNumber>
+                        <AccessionNumber>FR686374</AccessionNumber>
+                        <AccessionNumber>FR686375</AccessionNumber>
+                        <AccessionNumber>FR686376</AccessionNumber>
+                        <AccessionNumber>FR686377</AccessionNumber>
+                        <AccessionNumber>FR686378</AccessionNumber>
+                        <AccessionNumber>FR686379</AccessionNumber>
+                        <AccessionNumber>FR686380</AccessionNumber>
+                        <AccessionNumber>FR686381</AccessionNumber>
+                        <AccessionNumber>FR686382</AccessionNumber>
+                        <AccessionNumber>FR686383</AccessionNumber>
+                        <AccessionNumber>FR686384</AccessionNumber>
+                        <AccessionNumber>FR686385</AccessionNumber>
+                        <AccessionNumber>FR686386</AccessionNumber>
+                        <AccessionNumber>FR686387</AccessionNumber>
+                        <AccessionNumber>FR686388</AccessionNumber>
+                        <AccessionNumber>FR686389</AccessionNumber>
+                        <AccessionNumber>FR686390</AccessionNumber>
+                        <AccessionNumber>FR686391</AccessionNumber>
+                        <AccessionNumber>FR686392</AccessionNumber>
+                        <AccessionNumber>FR686393</AccessionNumber>
+                        <AccessionNumber>FR686394</AccessionNumber>
+                        <AccessionNumber>FR686395</AccessionNumber>
+                        <AccessionNumber>FR686396</AccessionNumber>
+                        <AccessionNumber>FR686397</AccessionNumber>
+                        <AccessionNumber>FR686398</AccessionNumber>
+                        <AccessionNumber>FR686399</AccessionNumber>
+                        <AccessionNumber>FR686400</AccessionNumber>
+                        <AccessionNumber>FR686401</AccessionNumber>
+                        <AccessionNumber>FR686402</AccessionNumber>
+                        <AccessionNumber>FR686403</AccessionNumber>
+                        <AccessionNumber>FR686404</AccessionNumber>
+                        <AccessionNumber>FR686405</AccessionNumber>
+                        <AccessionNumber>FR686406</AccessionNumber>
+                        <AccessionNumber>FR686407</AccessionNumber>
+                        <AccessionNumber>FR686408</AccessionNumber>
+                        <AccessionNumber>FR686409</AccessionNumber>
+                        <AccessionNumber>FR686410</AccessionNumber>
+                        <AccessionNumber>FR686411</AccessionNumber>
+                        <AccessionNumber>FR686412</AccessionNumber>
+                        <AccessionNumber>FR686413</AccessionNumber>
+                        <AccessionNumber>FR686414</AccessionNumber>
+                        <AccessionNumber>FR686415</AccessionNumber>
+                        <AccessionNumber>FR686416</AccessionNumber>
+                        <AccessionNumber>FR686417</AccessionNumber>
+                        <AccessionNumber>FR686418</AccessionNumber>
+                        <AccessionNumber>FR686419</AccessionNumber>
+                        <AccessionNumber>FR686420</AccessionNumber>
+                        <AccessionNumber>FR686421</AccessionNumber>
+                        <AccessionNumber>FR686422</AccessionNumber>
+                        <AccessionNumber>FR686423</AccessionNumber>
+                        <AccessionNumber>FR686424</AccessionNumber>
+                        <AccessionNumber>FR686425</AccessionNumber>
+                        <AccessionNumber>FR686426</AccessionNumber>
+                        <AccessionNumber>FR686427</AccessionNumber>
+                        <AccessionNumber>FR686428</AccessionNumber>
+                        <AccessionNumber>FR686429</AccessionNumber>
+                        <AccessionNumber>FR686430</AccessionNumber>
+                        <AccessionNumber>FR686431</AccessionNumber>
+                        <AccessionNumber>FR686432</AccessionNumber>
+                        <AccessionNumber>FR686433</AccessionNumber>
+                        <AccessionNumber>FR686434</AccessionNumber>
+                        <AccessionNumber>FR686435</AccessionNumber>
+                        <AccessionNumber>FR686436</AccessionNumber>
+                        <AccessionNumber>FR686437</AccessionNumber>
+                        <AccessionNumber>FR686438</AccessionNumber>
+                        <AccessionNumber>FR686439</AccessionNumber>
+                        <AccessionNumber>FR686440</AccessionNumber>
+                        <AccessionNumber>FR686441</AccessionNumber>
+                        <AccessionNumber>FR686442</AccessionNumber>
+                        <AccessionNumber>FR686443</AccessionNumber>
+                        <AccessionNumber>FR686444</AccessionNumber>
+                        <AccessionNumber>FR686445</AccessionNumber>
+                        <AccessionNumber>FR686446</AccessionNumber>
+                        <AccessionNumber>FR686447</AccessionNumber>
+                        <AccessionNumber>FR686448</AccessionNumber>
+                        <AccessionNumber>FR686449</AccessionNumber>
+                        <AccessionNumber>FR686450</AccessionNumber>
+                        <AccessionNumber>FR686451</AccessionNumber>
+                        <AccessionNumber>FR686452</AccessionNumber>
+                        <AccessionNumber>FR686453</AccessionNumber>
+                        <AccessionNumber>FR686454</AccessionNumber>
+                        <AccessionNumber>FR686455</AccessionNumber>
+                        <AccessionNumber>FR686456</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>02</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Protist</MedlineTA>
+            <NlmUniqueID>9806488</NlmUniqueID>
+            <ISSNLinking>1434-4610</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016054">DNA, Protozoan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004275">DNA, Ribosomal</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Protist. 2016 Feb;167(1):31</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002417" MajorTopicYN="N">Cattle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016054" MajorTopicYN="N">DNA, Protozoan</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004275" MajorTopicYN="N">DNA, Ribosomal</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004747" MajorTopicYN="N">Entamoeba</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004749" MajorTopicYN="N">Entamoebiasis</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="N">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014644" MajorTopicYN="N">Genetic Variation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058507" MajorTopicYN="N">Host Specificity</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011323" MajorTopicYN="N">Primates</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054679" MajorTopicYN="N">Ribosome Subunits, Small</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014426" MajorTopicYN="N">Turtles</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21295520</ArticleId>
+            <ArticleId IdType="pii">S1434-4610(10)00124-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.protis.2010.11.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

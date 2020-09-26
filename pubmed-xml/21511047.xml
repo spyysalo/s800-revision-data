@@ -1,0 +1,661 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21511047</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal genetics and biology : FG &amp; B</Title>
+                <ISOAbbreviation>Fungal Genet. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Milestones in Candida albicans gene manipulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>858-65</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fgb.2011.04.003</ELocationID>
+            <Abstract>
+                <AbstractText>In the United States, candidemia is one of the most common hospital-acquired infections and is estimated to cause 10,000 deaths per year. The species Candida albicans is responsible for the majority of these cases. As C. albicans is capable of developing resistance against the currently available drugs, understanding the molecular basis of drug resistance, finding new cellular targets, and further understanding the overall mechanism of C. albicans pathogenesis are important goals. To study this pathogen it is advantageous to manipulate its genome. Numerous strategies of C. albicans gene manipulation have been introduced. This review evaluates a majority of these strategies and should be a helpful guide for researchers to identify gene targeting strategies to suit their requirements.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Samaranayake</LastName>
+                    <ForeName>Dhanushki P</ForeName>
+                    <Initials>DP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences, School of Public Health, State University of New York, Albany, NY 12208, USA. ds116682@albany.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanes</LastName>
+                    <ForeName>Steven D</ForeName>
+                    <Initials>SD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM055108-11</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM055108-12</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01-GM055108</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM055108-13</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM055108-10</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM055108</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Fungal Genet Biol</MedlineTA>
+            <NlmUniqueID>9607601</NlmUniqueID>
+            <ISSNLinking>1087-1845</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005656">Fungal Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002176" MajorTopicYN="N">Candida albicans</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002177" MajorTopicYN="N">Candidiasis</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005656" MajorTopicYN="N">Fungal Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015966" MajorTopicYN="N">Gene Expression Regulation, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21511047</ArticleId>
+            <ArticleId IdType="pii">S1087-1845(11)00082-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fgb.2011.04.003</ArticleId>
+            <ArticleId IdType="pmc">PMC3143290</ArticleId>
+            <ArticleId IdType="mid">NIHMS289501</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Jan;51(2):551-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14756793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 May 11;101(19):7329-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15123810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Rev Med Pharmacol Sci. 2004 Mar-Apr;8(2):69-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15267120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2004 Aug;3(4):900-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15302823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2004 Aug 15;237(2):317-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15321679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2004 Oct 27;341:119-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15474295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1989 Dec;123(4):667-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2575557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Genet. 1992 Aug;22(2):93-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1423721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1993 Jul;134(3):717-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8349105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1995 May 11;23(9):1481-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7784200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1995 Jun 23;268(5218):1766-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7792603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Jan;178(1):121-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8550405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Vet Mycol. 1995 Nov-Dec;33(6):361-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8683403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1997 Feb;143 ( Pt 2):297-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9043106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Drug Targets. 2006 Apr;7(4):495-504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16611037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2006 May;117(5):1680-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16651324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 2006;409:329-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16793410</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycologia. 2006 May-Jun;98(3):393-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17040068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycopathologia. 2006 Dec;162(6):401-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17146584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Yeast Res. 2007 Jan;7(1):2-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17311580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Diagn Lab Immunol. 2000 Jan;7(1):125-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10618292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 2000 Jan 15;16(1):65-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10620776</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 2000 Mar 15;16(4):325-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10669870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2000 May 12;288(5468):1062-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10807578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2000 May;36(4):856-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10844673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2000 Oct;68(10):5953-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10992507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Oct;182(20):5730-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11004171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2000;54:463-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11018135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2000 Oct;3(5):468-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11050444</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 2001 Mar 15;18(4):301-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11223939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2001 Apr 1;32(7):1110</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11264044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Mycol. 2001 Feb;39(1):151-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11270405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2001 Aug;19(8):773-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11479573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2002 Jan;160(1):37-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11805043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2002 Feb;160(2):463-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11861553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1997 Apr;179(7):2331-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9079920</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 1998 Feb;257(4):412-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9529522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1998 Nov;66(11):5301-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9784536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1999 Mar;181(6):1868-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10074081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pediatr. 1999 Mar;158(3):187-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10094436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1999 May;32(3):547-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10320577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 1999 Nov;29(5):1164-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10524958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2005 Jan 1;33(Database issue):D353-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15608215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2005 Feb;73(2):1239-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15664973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2005 Feb;4(2):298-309</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15701792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Mar;55(5):1553-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15720560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2005 Aug;4(8):1328-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16087738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2005 Sep;42(9):737-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16043373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microb Pathog. 2006 Feb;40(2):69-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16427765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2002 Jun;70(6):3281-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12011025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2002;56:433-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12142473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Genet. 2002;36:557-615</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12429703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2003 May;71(5):2299-309</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12704098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2003 Aug;2(4):718-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12912891</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2003 Aug;96(2):154-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12931087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2007 Oct;153(Pt 10):3211-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17906120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Antimicrob Agents. 2007 Dec;30(6):487-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17961990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Biotechnol. 2007;7:59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17875218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Genet. 2007;41:193-211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17614788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2008;416:251-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18392972</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 2008 Jun;25(6):385-417</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18509848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Chemother. 2008 Apr;14(2):77-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18622668</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2008 Nov;7(11):2004-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18757565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2009 Jun 15;48(12):1695-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19441981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Minerva Anestesiol. 2009 Jul-Aug;75(7-8):453-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19078900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2009 Oct;8(10):1554-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19700634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Yeast Res. 2009 Oct;9(7):1070-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19732157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2009 Oct 23;326(5952):544-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19745116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2010 Jan;54(1):353-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19884367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2009 Dec;5(12):e1000783</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20041210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2010 Jul;42(7):590-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20543849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Microbiol. 2010;10:209</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20682065</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010;6(10):e1001140</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20949076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 2011 Jan;28(1):1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20737430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Oral Pathol Med. 2011 Jan;40(1):83-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20923440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Infect Dis. 2011 Feb;11(2):142-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21272794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2003 Oct;71(10):6101-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14500538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2003 Oct;50(1):167-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14507372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

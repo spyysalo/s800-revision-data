@@ -1,0 +1,515 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20980515</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reverse genetics generation of chimeric infectious Junin/Lassa virus is dependent on interaction of homologous glycoprotein stable signal peptide and G2 cytoplasmic domains.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>112-22</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01837-10</ELocationID>
+            <Abstract>
+                <AbstractText>The Arenaviridae are a diverse and globally distributed collection of viruses that are maintained primarily by rodent reservoirs. Junin virus (JUNV) and Lassa virus (LASV) can both cause significant outbreaks of severe and often fatal human disease throughout their respective areas of endemicity. In an effort to improve upon the existing live attenuated JUNV Candid1 vaccine, we generated a genetically homogenous stock of this virus from cDNA copies of the virus S and L segments by using a reverse genetics system. Further, these cDNAs were used in combination with LASV cDNAs to successfully generate two recombinant Candid1 JUNV/LASV chimeric viruses (via envelope glycoprotein [GPC] exchange). It was found that while the GPC extravirion domains were readily exchangeable, homologous stable signal peptide (SSP) and G2 transmembrane and cytoplasmic tail domains were essential for correct GPC maturation and production of infectious chimeric viruses. The switching of the JUNV and LASV G1/G2 ectodomains within the Candid1 vaccine background did not alter the attenuated phenotype of the vaccine strain in a lethal mouse model. These recombinant chimeric viruses shed light on the fundamental requirements of arenavirus GPC maturation and may serve as a strategy for the development of bivalent JUNV and LASV vaccine candidates.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Albariño</LastName>
+                    <ForeName>César G</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Viral Special Pathogens Branch, Division of High Consequence Pathogens and Pathology, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA 30329, USA. bwu4@cdc.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bird</LastName>
+                    <ForeName>Brian H</ForeName>
+                    <Initials>BH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chakrabarti</LastName>
+                    <ForeName>Ayan K</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dodd</LastName>
+                    <ForeName>Kimberly A</ForeName>
+                    <Initials>KA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>White</LastName>
+                    <ForeName>David M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bergeron</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shrivastava-Ranjan</LastName>
+                    <ForeName>Punya</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nichol</LastName>
+                    <ForeName>Stuart T</ForeName>
+                    <Initials>ST</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006023">Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D021382">Protein Sorting Signals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014759">Viral Envelope Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014765">Viral Vaccines</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001117" MajorTopicYN="N">Arenaviridae Infections</DescriptorName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002522" MajorTopicYN="N">Chlorocebus aethiops</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006023" MajorTopicYN="N">Glycoproteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018051" MajorTopicYN="N">Junin virus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007836" MajorTopicYN="N">Lassa virus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021382" MajorTopicYN="N">Protein Sorting Signals</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011995" MajorTopicYN="Y">Recombination, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014709" MajorTopicYN="N">Vero Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014759" MajorTopicYN="N">Viral Envelope Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014765" MajorTopicYN="Y">Viral Vaccines</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20980515</ArticleId>
+            <ArticleId IdType="pii">JVI.01837-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01837-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014187</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Science. 1974 Jul 19;185(4147):263-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4833828</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Oct;77(19):10700-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12970458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1986 Jan 2;314(1):20-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3940312</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1987 Mar;155(3):465-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3543155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 1988 Oct;26(2):127-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3183637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2003 Mar 13;538(1-3):203-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12633879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 Mar 15;170(6):2797-801</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12626527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2003 Sep 15;314(1):168-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14517070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Oct 28;100(22):12978-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14563923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virus Res. 2004 Mar 15;100(2):249-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15019244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Oct;78(19):10783-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15367645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Clin Lab Sci. 2004;41(4):339-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15487592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 1970 Jul;19(4):670-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4246571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Infect Dis. 1989 May-Jun;11 Suppl 4:S743-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2665011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Haematol. 1989 Oct;73(2):152-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2554951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 1991 Mar;72 ( Pt 3):549-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1706408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull Pan Am Health Organ. 1991;25(2):118-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1654168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Intervirology. 1992;34(3):154-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1338783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Virol. 1993 Feb;37(1):41-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8105651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 1994 Nov;51(5):554-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7985747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1998 Feb;177(2):277-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9466512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1998 Dec 11;282(5396):2079-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9851928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dia Med. 1958 Sep 4;30(62):2300-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13586110</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prensa Med Argent. 1961 Aug 18;48:2321-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14484008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2005 Jun;2(6):e183</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15971954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2005 Oct;11(10):1642-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16355508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Jun;80(11):5189-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16698999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2006 Jun;2(6):e51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16751848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Viral Immunol. 2006 Summer;19(2):196-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16817762</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2007 Mar 1;446(7131):92-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17287727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Sep;81(17):9451-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17581989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Dec;81(24):13385-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17928348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Mar;82(6):2681-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18199647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Jun;82(12):6045-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18400865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Nov;82(21):10932-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18768973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antiviral Res. 2008 Dec;80(3):239-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18782590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Jun;83(11):5606-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19321606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2010 Nov 5;584(21):4379-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20875414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Rev Immunol. 2000;19(2-3):157-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10763707</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Rev Immunol. 2000;19(2-3):173-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10763708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2000 Aug;74(15):6777-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10888616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Res. 2000;22(2-3):177-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11339354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Oct 23;98(22):12701-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11606739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbes Infect. 2002 Jan;4(1):43-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11825774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2002 May;76(10):5140-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11967329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Top Microbiol Immunol. 2002;263:239-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11987817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2002 Jul;76(13):6678-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12050381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Mar;77(5):2866-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12584310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yale J Biol Med. 1975 May;48(2):115-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">168692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

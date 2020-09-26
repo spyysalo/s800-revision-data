@@ -1,0 +1,473 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20962083</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Small-molecule inhibition of human immunodeficiency virus type 1 infection by virus capsid destabilization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>542-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01406-10</ELocationID>
+            <Abstract>
+                <AbstractText>Human immunodeficiency virus type 1 (HIV-1) infection is dependent on the proper disassembly of the viral capsid, or &quot;uncoating,&quot; in target cells. The HIV-1 capsid consists of a conical multimeric complex of the viral capsid protein (CA) arranged in a hexagonal lattice. Mutations in CA that destabilize the viral capsid result in impaired infection owing to defects in reverse transcription in target cells. We describe here the mechanism of action of a small molecule HIV-1 inhibitor, PF-3450074 (PF74), which targets CA. PF74 acts at an early stage of HIV-1 infection and inhibits reverse transcription in target cells. We show that PF74 binds specifically to HIV-1 particles, and substitutions in CA that confer resistance to the compound prevent binding. A single point mutation in CA that stabilizes the HIV-1 core also conferred strong resistance to the virus without inhibiting compound binding. Treatment of HIV-1 particles or purified cores with PF74 destabilized the viral capsid in vitro. Furthermore, the compound induced the rapid dissolution of the HIV-1 capsid in target cells. PF74 antiviral activity was promoted by binding of the host protein cyclophilin A to the HIV-1 capsid, and PF74 and cyclosporine exhibited mutual antagonism. Our data suggest that PF74 triggers premature HIV-1 uncoating in target cells, thereby mimicking the activity of the retrovirus restriction factor TRIM5α. This study highlights uncoating as a step in the HIV-1 life cycle that is susceptible to small molecule intervention.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Jiong</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, Vanderbilt University School of Medicine, A-5301 Medical Center North, Nashville, TN 37232-2363, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shah</LastName>
+                    <ForeName>Vaibhav B</ForeName>
+                    <Initials>VB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aiken</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Whitby</LastName>
+                    <ForeName>Kevin</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI076121</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI089401</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI076121</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI089401</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019380">Anti-HIV Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D036022">Capsid Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C000591221">PF-3450074</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>47E5O17Y3R</RegistryNumber>
+                <NameOfSubstance UI="D010649">Phenylalanine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 5.2.1.-</RegistryNumber>
+                <NameOfSubstance UI="D021984">Cyclophilin A</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019380" MajorTopicYN="N">Anti-HIV Agents</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002213" MajorTopicYN="N">Capsid</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036022" MajorTopicYN="N">Capsid Proteins</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021984" MajorTopicYN="N">Cyclophilin A</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015497" MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006367" MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007211" MajorTopicYN="N">Indoles</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010649" MajorTopicYN="N">Phenylalanine</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048348" MajorTopicYN="N">Reverse Transcription</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014771" MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019065" MajorTopicYN="N">Virus Assembly</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20962083</ArticleId>
+            <ArticleId IdType="pii">JVI.01406-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01406-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014163</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Virology. 2000 Mar 15;268(2):294-307</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10704338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2000 Aug;74(16):7422-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10906195</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2001 Oct;75(19):9357-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11533199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2002 Jun;76(11):5667-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11991995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2002 Jun;46(6):1896-905</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12019106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2003 Apr 11;327(5):1013-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12662926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 May;77(9):5439-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12692245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2003 Sep;9(9):1138-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12897779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2004 Feb 26;427(6977):848-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14985764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1992 May;66(5):2814-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1560526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Cell Biol. 1994;43 Pt A:99-112</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7823872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1996 Aug;70(8):5701-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8764092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Sep 2;94(18):9825-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9275210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1999 Oct;73(10):8824-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10482638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Feb;79(3):1470-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15650173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antiviral Res. 2005 Feb;65(2):107-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15708637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2005 Aug;12(8):671-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16041387</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Oct 11;102(41):14849-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16203999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Mar;80(6):2855-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16501094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Apr;80(8):3712-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16571788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5514-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16540544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2008 Feb;52(2):655-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18056282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2008 Apr;18(2):203-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18406133</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2008 May 2;378(3):565-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18374356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2009;485:41-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19020817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Dec;82(24):12001-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18829762</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2009 Jun;53(6):2424-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19289522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Nov;83(21):10951-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19656870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Host Microbe. 2010 Mar 18;7(3):221-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20227665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2010 Oct;54(10):4451-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20660667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010;6(12):e1001220</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21170360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 May;80(10):4683-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16641261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2006 Jul 20;351(1):112-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16643975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Feb;81(3):1054-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16956947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Mar;81(5):2138-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17135314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Apr;81(8):3749-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17267487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Retrovirology. 2007;4:40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17565686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2007 Oct 19;373(2):355-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17826792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2007 Oct 26;3(10):1502-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17967060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

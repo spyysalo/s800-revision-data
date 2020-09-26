@@ -1,0 +1,417 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21039561</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-8137</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>189</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The New phytologist</Title>
+                <ISOAbbreviation>New Phytol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ecological trade-offs between jasmonic acid-dependent direct and indirect plant defences in tritrophic interactions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>557-67</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1469-8137.2010.03491.x</ELocationID>
+            <Abstract>
+                <AbstractText>Recent studies on plants genetically modified in jasmonic acid (JA) signalling support the hypothesis that the jasmonate family of oxylipins plays an important role in mediating direct and indirect plant defences. However, the interaction of two modes of defence in tritrophic systems is largely unknown. In this study, we examined the preference and performance of a herbivorous leafminer (Liriomyza huidobrensis) and its parasitic wasp (Opius dissitus) on three tomato genotypes: a wild-type (WT) plant, a JA biosynthesis (spr2) mutant, and a JA-overexpression 35S::prosys plant. Their proteinase inhibitor production and volatile emission were used as direct and indirect defence factors to evaluate the responses of leafminers and parasitoids. Here, we show that although spr2 mutant plants are compromised in direct defence against the larval leafminers and in attracting parasitoids, they are less attractive to adult flies compared with WT plants. Moreover, in comparison to other genotypes, the 35S::prosys plant displays greater direct and constitutive indirect defences, but reduced success of parasitism by parasitoids. Taken together, these results suggest that there are distinguished ecological trade-offs between JA-dependent direct and indirect defences in genetically modified plants whose fitness should be assessed in tritrophic systems and under natural conditions.</AbstractText>
+                <CopyrightInformation>© The Authors (2010). Journal compilation © New Phytologist Trust (2010).</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Jianing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Integrated Management of Pest Insects and Rodents, Institute of Zoology, Chinese Academy of Sciences, Beijing 100080, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Lizhong</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Jiuhai</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Chuanyou</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ge</LastName>
+                    <ForeName>Feng</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Le</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>New Phytol</MedlineTA>
+            <NlmUniqueID>9882884</NlmUniqueID>
+            <ISSNLinking>0028-646X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003517">Cyclopentanes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054883">Oxylipins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D055549">Volatile Organic Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6RI5N05OWW</RegistryNumber>
+                <NameOfSubstance UI="C011006">jasmonic acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003517" MajorTopicYN="N">Cyclopentanes</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004175" MajorTopicYN="N">Diptera</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005247" MajorTopicYN="N">Feeding Behavior</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018551" MajorTopicYN="N">Lycopersicon esculentum</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010058" MajorTopicYN="N">Oviposition</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054883" MajorTopicYN="N">Oxylipins</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010271" MajorTopicYN="N">Parasites</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018515" MajorTopicYN="N">Plant Leaves</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000469" MajorTopicYN="N">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010940" MajorTopicYN="N">Plant Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055549" MajorTopicYN="N">Volatile Organic Compounds</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014863" MajorTopicYN="N">Wasps</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21039561</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1469-8137.2010.03491.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3039750</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Plant Cell. 2003 Jul;15(7):1646-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12837953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Chem Ecol. 2004 Jan;30(1):69-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15074658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Jul 30;305(5684):665-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15232071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Jul 30;305(5684):618-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15286351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2004 Aug;135(4):2025-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15310835</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1967 Jun;19(3):434-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4963354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1994 Sep 26;352(2):146-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7925964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1995 May 9;92(10):4169-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7753779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2005 Mar;17(3):971-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15722469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 2005;50:271-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15355241</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Plant Biol. 2005 Aug;8(4):369-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15939667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2005 Sep 23;309(5743):2070-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16179482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Jan 24;103(4):1129-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16418295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vitam Horm. 2005;72:431-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16492478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Senses. 2006 Jun;31(5):467-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16621971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Planta. 2006 Jul;224(2):279-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16404576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Plant Biol. 2006 Aug;9(4):421-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16723271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell Environ. 2006 Apr;29(4):546-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17080606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Nov 7;103(45):16672-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17075049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Chem Ecol. 2007 Apr;33(4):669-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17333376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2007;2(9):e852</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17786223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecol Lett. 2008 Jan;11(1):24-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17961175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>New Phytol. 2008;178(1):41-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18086230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1999 Nov;153(3):1411-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10545469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant J. 2002 Aug;31(4):387-406</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12182699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Plant Biol. 2002;53:299-328</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12221978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Mar 25;105(12):4553-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18356298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2008;3(4):e1904</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18382679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 2009;54:127-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18710304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Aug 11;106(32):13213-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19666594</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biotechnol. 2009 Nov;27(11):621-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19783315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>New Phytol. 2009 Nov;184(3):644-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19703113</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2009 May;5(5):317-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19377458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

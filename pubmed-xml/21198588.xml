@@ -1,0 +1,639 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21198588</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Spatio-temporal variation in territory quality and oxidative status: a natural experiment in the Seychelles warbler (Acrocephalus sechellensis).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>668-80</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01792.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Fluctuations in the quality of the habitat in which an animal lives can have major consequences for its behaviour and physiological state. In poor-quality habitat with low food availability, metabolically intensive foraging activity is likely to result in increased generation of reactive oxygen species, while scarcity of food can lead to a weakening of exogenously derived antioxidant defences. The consequent oxidant/antioxidant imbalance may lead to elevated oxidative stress. 2. Although the link between food availability and oxidative stress has been studied in the laboratory, very little is known about this relationship in the wild. Here, we investigate the association between territory quality (measured through food availability) and oxidative stress in the Seychelles warbler (Acrocephalus sechellensis). 3. Seychelles warblers are insectivorous birds that inhabit a fixed feeding territory year round. Individuals experience profound and rapid local fluctuations in territory quality within these territories, owing to changing patterns of vegetation defoliation resulting from seasonal changes in prevailing wind direction and wind-borne salt spray. 4. As expected, oxidant generation (measured as reactive oxygen metabolites; ROMs) was higher when territory quality was low, but there was no correlation between territory quality and antioxidant capacity (OXY). The negative correlation between territory quality and ROMs was significant between individuals and approached significance within individuals, indicating that the pattern resulted from individual responses to environmental variation. 5. ROMs and OXY levels within individuals were positively correlated, but the relationship between territory quality and ROMs persisted after including OXY as a covariate, implying that oxidative stress occurs in low territory quality conditions. 6. Our results indicate that the oxidative stress balance of an individual is sensitive to relatively short-term changes in territory quality, which may have consequences for the birds' fitness.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Journal of Animal Ecology © 2011 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>van de Crommenacker</LastName>
+                    <ForeName>Janske</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Ecology Group/Behavioural Ecology and Self-Organisation Group, Centre for Ecological and Evolutionary Studies, University of Groningen, PO Box 11103, 9700 CC, Groningen, The Netherlands. j.van.de.crommenacker@rug.nl</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Komdeur</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burke</LastName>
+                    <ForeName>Terry</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Richardson</LastName>
+                    <ForeName>David S</ForeName>
+                    <Initials>DS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000975">Antioxidants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017382">Reactive Oxygen Species</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000975" MajorTopicYN="N">Antioxidants</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005247" MajorTopicYN="N">Feeding Behavior</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005502" MajorTopicYN="N">Food</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007313" MajorTopicYN="N">Insecta</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016014" MajorTopicYN="N">Linear Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009425" MajorTopicYN="N">Nesting Behavior</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018384" MajorTopicYN="N">Oxidative Stress</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017382" MajorTopicYN="N">Reactive Oxygen Species</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012621" MajorTopicYN="N">Seasons</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012737" MajorTopicYN="N">Sex Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012750" MajorTopicYN="N">Seychelles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020308" MajorTopicYN="N">Songbirds</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21198588</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01792.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3107423</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Comp Biochem Physiol A Mol Integr Physiol. 2006 Sep;145(1):137-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16872854</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Res Commun. 1992;16(2):89-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1628859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vasc Res. 2002 Jan-Feb;39(1):41-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11844936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2002 Nov;56(11):2313-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12487360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Appl Physiol (1985). 1999 Dec;87(6):2032-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10601146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 2001 Sep;10(9):2263-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11555268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gerontol. 1956 Jul;11(3):298-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13332224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Age (Dordr). 2008 Sep;30(2-3):75-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19424858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 1998 Aug;7(8):1071-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9711866</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 1994 May;8(8):534-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8181672</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mech Ageing Dev. 2004 Jan;125(1):11-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14706233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Biol Markers. 2004 Jul-Sep;19(3):250-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15503829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol C Toxicol Pharmacol. 2004 Oct;139(1-3):153-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15556078</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chronobiol Int. 2002 Mar;19(2):423-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12025934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 2009 Oct;161(4):673-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19669166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Med A Physiol Pathol Clin Med. 2001 Feb;48(1):33-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11515310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol C Toxicol Pharmacol. 2007 Jan;144(4):363-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17218158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Anat. 2000 Nov;197 Pt 4:539-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11197526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Biol. 2004 Oct;207(Pt 22):3959-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15472026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Nat. 1998 Oct;152(4):543-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18811363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comp Physiol B. 2006 Sep;176(7):653-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16705445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Surg Res. 1997 May;69(2):325-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9224401</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comp Physiol B. 1998 Apr;168(3):149-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9591361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Nat. 2005 Dec;166(6):686-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16475085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2004;10(14):1677-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15134565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Soc Exp Biol Med. 1999 Dec;222(3):283-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10601887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1981 Nov;78(11):6858-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6947260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Biol. 2000 May;203(Pt 10):1561-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10769218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Biol. 2007 Apr;210(Pt 7):1238-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17371922</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2007 Oct;87(4):1175-213</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17928583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol Interact. 1996 Sep 27;102(1):17-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8827060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biogerontology. 2005;6(1):71-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15834665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chronobiol Int. 2003 Nov;20(6):921-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14680136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1982 Aug 31;107(4):1198-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6291524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Nov 9;408(6809):239-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11089981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Biol Med. 2008 Jan 15;44(2):126-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18191748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecol Lett. 2009 Jan;12(1):75-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19016828</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Biol Med. 2002 Sep 1;33(5):573-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12208342</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2003 Apr 10;422(6932):580</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12686989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Biol. 2005 Nov;208(Pt 21):4099-108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16244169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Biol. 2008 Sep;211(Pt 17):2859-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18723545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2005 Feb 25;120(4):483-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15734681</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Gerontol. 2000 Sep;35(6-7):811-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11053672</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 2010 Aug;19(16):3444-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20670363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecol Lett. 2008 Nov;11(11):1238-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18803642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Med Chem. 2001 Jun;8(7):829-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11375753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Domest Anim Endocrinol. 2002 Jul;23(1-2):67-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12142227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Ecol Evol. 2004 May;19(5):249-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16701264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 2002 May 15;401(2):255-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12054476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol B Biochem Mol Biol. 2007 May;147(1):110-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17303461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Res Commun. 2008 Feb;32(2):137-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17846911</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rejuvenation Res. 2007 Jun;10(2):215-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17523876</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Insect Biochem Physiol. 1995;29(2):187-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7606043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol A Mol Integr Physiol. 2002 May;132(1):205-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12062211</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 1998 Apr;78(2):547-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9562038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Lett. 2008 Feb 23;4(1):119-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18042511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gerontol A Biol Sci Med Sci. 2006 Feb;61(2):136-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16510857</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aging Cell. 2004 Jun;3(3):87-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15153176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sports Med. 2005;35(12):1045-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16336008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comp Physiol B. 2010 Jun;180(5):731-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20213178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem Lab Med. 2002 Jul;40(7):673-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12241012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecology. 2009 Mar;90(3):729-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19341143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Evol Biol. 2008 Nov;21(6):1789-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18713241</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Behav. 2005 Jan 31;84(1):1-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15642600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Gerontol. 2008 Jun;43(6):538-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18342467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2006 Sep;60(9):1913-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17089975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2003 Jun 6;305(3):754-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12763057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol A Mol Integr Physiol. 2009 Jul;153(3):339-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19303455</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Biol. 2008 Feb;211(Pt 3):377-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18203993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecology. 2008 Sep;89(9):2584-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18831179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med Sci. 1999 May;317(5):295-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10334116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2003 Nov;14(11):2775-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14569087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mech Ageing Dev. 2006 Dec;127(12):897-904</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17092545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Genomics. 2001 Apr 2;5(3):137-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11285367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Anim Ecol. 2006 Nov;75(6):1321-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17032364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

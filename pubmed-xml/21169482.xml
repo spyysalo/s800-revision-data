@@ -1,0 +1,449 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21169482</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of missing genes and enzymes for autotrophic carbon fixation in crenarchaeota.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1201-11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01156-10</ELocationID>
+            <Abstract>
+                <AbstractText>Two autotrophic carbon fixation cycles have been identified in Crenarchaeota. The dicarboxylate/4-hydroxybutyrate cycle functions in anaerobic or microaerobic autotrophic members of the Thermoproteales and Desulfurococcales. The 3-hydroxypropionate/4-hydroxybutyrate cycle occurs in aerobic autotrophic Sulfolobales; a similar cycle may operate in autotrophic aerobic marine Crenarchaeota. Both cycles form succinyl-coenzyme A (CoA) from acetyl-CoA and two molecules of inorganic carbon, but they use different means. Both cycles have in common the (re)generation of acetyl-CoA from succinyl-CoA via identical intermediates. Here, we identified several missing enzymes/genes involved in the seven-step conversion of succinyl-CoA to two molecules of acetyl-CoA in Thermoproteus neutrophilus (Thermoproteales), Ignicoccus hospitalis (Desulfurococcales), and Metallosphaera sedula (Sulfolobales). The identified enzymes/genes include succinyl-CoA reductase, succinic semialdehyde reductase, 4-hydroxybutyrate-CoA ligase, bifunctional crotonyl-CoA hydratase/(S)-3-hydroxybutyryl-CoA dehydrogenase, and beta-ketothiolase. 4-Hydroxybutyryl-CoA dehydratase, which catalyzes a mechanistically intriguing elimination of water, is well conserved and rightly can be considered the key enzyme of these two cycles. In contrast, several of the other enzymes evolved from quite different sources, making functional predictions based solely on genome interpretation difficult, if not questionable.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ramos-Vera</LastName>
+                    <ForeName>W Hugo</ForeName>
+                    <Initials>WH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mikrobiologie, Fakultät Biologie, Freiburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiss</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strittmatter</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kockelkorn</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fuchs</LastName>
+                    <ForeName>Georg</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019843">Archaeal Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.30</RegistryNumber>
+                <NameOfSubstance UI="D006884">Hydroxybutyrate Dehydrogenase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.61</RegistryNumber>
+                <NameOfSubstance UI="C019416">4-hydroxybutyrate dehydrogenase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.3.99.1</RegistryNumber>
+                <NameOfSubstance UI="D013385">Succinate Dehydrogenase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.16</RegistryNumber>
+                <NameOfSubstance UI="D000102">Acetyl-CoA C-Acyltransferase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000102" MajorTopicYN="N">Acetyl-CoA C-Acyltransferase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019843" MajorTopicYN="N">Archaeal Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052818" MajorTopicYN="N">Autotrophic Processes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057486" MajorTopicYN="N">Carbon Cycle</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019615" MajorTopicYN="N">Crenarchaeota</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019848" MajorTopicYN="N">Gene Expression Regulation, Archaeal</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006884" MajorTopicYN="N">Hydroxybutyrate Dehydrogenase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013385" MajorTopicYN="N">Succinate Dehydrogenase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21169482</ArticleId>
+            <ArticleId IdType="pii">JB.01156-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01156-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3067573</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Eur J Biochem. 1992 Apr 15;205(2):853-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1572376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2010 May;76(4):874-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20345662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 1994;161(3):239-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8161284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1994 Nov 11;22(22):4673-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7984417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 Jun 25;93(13):6241-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8692799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Nov 2;101(44):15645-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15496473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2005 Jan 17;579(2):477-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15642362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Sep 22;437(7058):543-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16177789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Oct;192(20):5329-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20693323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microb Biotechnol. 2010 Sep;3(5):595-606</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21255356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2011 Mar;193(5):1191-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21169486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2006 Apr;4(4):e95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16533068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2006;60:27-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16704345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Nov 28;103(48):18296-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17114289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2006 Dec;188(24):8551-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17041055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2007 Apr;57(Pt 4):803-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17392210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Jun;189(11):4108-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17400748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Jun 19;104(25):10631-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17548827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ISME J. 2007 May;1(1):19-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18043610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 Dec 14;318(5857):1782-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18079405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Feb;190(4):1383-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18165310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2008 Feb;74(3):682-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18083856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Jun 3;105(22):7851-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18511565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Nov;190(21):7170-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18757546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Jul;191(13):4286-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19411323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Jul;191(14):4572-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19429610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2000 Sep;174(3):189-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11041350</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 2003 Feb;270(4):736-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12581213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2003 Mar;179(3):160-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12610721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1970 Aug 15;227(5259):680-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5432063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Z Klin Chem Klin Biochem. 1975 Nov;13(11):507-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1976 May 7;72:248-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">942051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bacteriol Rev. 1977 Mar;41(1):100-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">860983</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1985 Feb;82(4):1074-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3156376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1989 Sep 1;184(1):151-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2506014</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1989 Dec 22;186(3):695-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2514097</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1990 Oct 5;215(3):403-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2231712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Oct;191(20):6352-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19684143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2010 Jan;156(Pt 1):256-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19850614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Jan 1;285(1):655-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19864421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2010 Feb;76(3):931-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20008169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 May 11;107(19):8818-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20421470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2010 Jun;8(6):447-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20453874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1993 Feb 15;212(1):121-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8444151</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

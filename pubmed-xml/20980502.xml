@@ -1,0 +1,616 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20980502</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cytomegalovirus microRNA expression is tissue specific and is associated with persistence.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>378-89</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01900-10</ELocationID>
+            <Abstract>
+                <AbstractText>MicroRNAs (miRNAs) are a class of small noncoding RNAs involved in posttranscriptional regulation. miRNAs are utilized in organisms ranging from plants to higher mammals, and data have shown that DNA viruses also use this method for host and viral gene regulation. Here, we report the sequencing of the small RNAs in rat cytomegalovirus (RCMV)-infected fibroblasts and persistently infected salivary glands. We identified 24 unique miRNAs that mapped to hairpin structures found within the viral genome. While most miRNAs were detected in both samples, four were detected exclusively in the infected fibroblasts and two were specific for the infected salivary glands. The RCMV miRNAs are distributed across the viral genome on both the positive and negative strands, with clusters of miRNAs at a number of locations, including near viral genes r1 and r111. The RCMV miRNAs have a genomic positional orientation similar to that of the miRNAs described for mouse cytomegalovirus, but they do not share any substantial sequence conservation. Similar to other reported miRNAs, the RCMV miRNAs had considerable variation at their 3' and 5' ends. Interestingly, we found a number of specific examples of differential isoform usage between the fibroblast and salivary gland samples. We determined by real-time PCR that expression of the RCMV miRNA miR-r111.1-2 is highly expressed in the salivary glands and that miR-R87-1 is expressed in most tissues during the acute infection phase. Our study identified the miRNAs expressed by RCMV in vitro and in vivo and demonstrated that expression is tissue specific and associated with a stage of viral infection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Meyer</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Microbiology and Immunology and The Vaccine and Gene Therapy Institute, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grey</LastName>
+                    <ForeName>Finn</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kreklywich</LastName>
+                    <ForeName>Craig N</ForeName>
+                    <Initials>CN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andoh</LastName>
+                    <ForeName>Takeshi F</ForeName>
+                    <Initials>TF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tirabassi</LastName>
+                    <ForeName>Rebecca S</ForeName>
+                    <Initials>RS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orloff</LastName>
+                    <ForeName>Susan L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Streblow</LastName>
+                    <ForeName>Daniel N</ForeName>
+                    <Initials>DN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 HL083194</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL085451</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL083194</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL085451</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005347" MajorTopicYN="N">Fibroblasts</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016027" MajorTopicYN="N">Heart Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006566" MajorTopicYN="N">Herpesviridae Infections</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D035683" MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018146" MajorTopicYN="N">Muromegalovirus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009928" MajorTopicYN="N">Organ Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012469" MajorTopicYN="N">Salivary Glands</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014184" MajorTopicYN="N">Transplantation, Homologous</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20980502</ArticleId>
+            <ArticleId IdType="pii">JVI.01900-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01900-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014154</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Transpl Int. 1994;7 Suppl 1:S383-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11271259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2007 Jun 29;129(7):1401-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17604727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J RNAi Gene Silencing. 2010 May 24;6(1):379-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20628498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2002 Mar 15;73(5):679-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11907411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2010;64:123-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20477536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 1989 Jun 23-30;261(24):3561-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2542633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1994 Oct;90(4):1969-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7923687</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Microbiol. 2005 Nov;7(11):1684-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16207254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Sep;79(18):12095-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16140786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2006 May;12(5):733-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16540699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Dec;81(24):13771-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17942535</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transpl Int. 2005 Jun;18(6):735-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15910303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbes Infect. 2005 Feb;7(2):164-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15716015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010;6(6):e1000967</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20585629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2006 Mar;2(3):e23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16557291</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2009 Apr 10;386(2):387-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19217135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Jul;79(14):9301-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15994824</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 Jan;8(1):23-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17183358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scand J Infect Dis Suppl. 1995;99:58-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8668943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2010 May 15;24(10):992-1009</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20413612</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Feb;77(3):2182-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12525653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2005 Apr;2(4):269-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15782219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2009 Jan;41(1):130-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19098914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2008 Feb;8(2):277-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18093265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Top Microbiol Immunol. 2008;325:397-415</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18637518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1983 Sep 17;2(8351):644-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6136795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2001 Aug;75(16):7592-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11462031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2008 Oct 15;22(20):2773-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18923076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Apr;81(8):3816-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17251289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leuk Res. 2006 May;30(5):643-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16226311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Microbiol Immunol. 2008 Jun;197(2):261-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18087721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 1999 Dec 15;68(11):1753-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10609953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Apr 30;304(5671):734-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15118162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2010 Jun 18;328(5985):1534-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20558712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2007 Nov;3(11):e163</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17983268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1993 Dec 3;75(5):843-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8252621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2005 Mar;5(3):436-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15707397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2004 May;5(5):396-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15143321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2008 Nov;18(11):1787-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18849523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Mar;83(5):2357-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19091858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Jan 23;116(2):281-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14744438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplant Proc. 2006 Dec;38(10):3214-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17175227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virchows Arch. 2000 Oct;437(4):413-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11097367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2009 May;37(8):2461-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19255090</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Dec;81(24):13761-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17928340</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2007 Jul 20;364(1):21-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17451774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transpl Int. 1996;9 Suppl 1:S3-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8959777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transpl Infect Dis. 1999;1 Suppl 1:3-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11565584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Res. 1997 Nov;36(2):282-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9463640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 1993 Sep;56(3):535-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8212146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb. 1994 Dec;14(12):2043-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7981194</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2010 Jan;16(1):43-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19917635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Transplant. 1996 Dec;10(6 Pt 1):487-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8996768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Aug;78(15):8382-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15254210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1994 Jul 15;265(5170):391-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8023160</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2008 Mar 1;68(5):1436-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18316607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Oct;83(20):10684-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19656885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1998 Mar;72(3):2352-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9499096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 1998 Apr;26(4):865-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9564465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2008 Oct 27;205(11):2551-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18838543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antiviral Res. 1983 Dec;3(5-6):315-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6200067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 Jul 20;317(5836):376-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17641203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Silence. 2010 Jun 09;1(1):12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20534119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2008 Nov 19;27(22):3024-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18946490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Apr 8;105(14):5453-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18378902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jul 1;31(13):3406-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12824337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Mar;80(5):2234-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16474131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

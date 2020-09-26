@@ -1,0 +1,1137 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20519149</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal genetics and biology : FG &amp; B</Title>
+                <ISOAbbreviation>Fungal Genet. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Compartmentalization and molecular traffic in secondary metabolism: a new understanding of established cellular processes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>35-48</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fgb.2010.05.006</ELocationID>
+            <Abstract>
+                <AbstractText>Great progress has been made in understanding the regulation of expression of genes involved in secondary metabolism. Less is known about the mechanisms that govern the spatial distribution of the enzymes, cofactors, and substrates that mediate catalysis of secondary metabolites within the cell. Filamentous fungi in the genus Aspergillus synthesize an array of secondary metabolites and provide useful systems to analyze the mechanisms that mediate the temporal and spatial regulation of secondary metabolism in eukaryotes. For example, aflatoxin biosynthesis in Aspergillus parasiticus has been studied intensively because this mycotoxin is highly toxic, mutagenic, and carcinogenic in humans and animals. Using aflatoxin synthesis to illustrate key concepts, this review focuses on the mechanisms by which sub-cellular compartmentalization and intra-cellular molecular traffic contribute to the initiation and completion of secondary metabolism within the cell. We discuss the recent discovery of aflatoxisomes, specialized trafficking vesicles that participate in the compartmentalization of aflatoxin synthesis and export of the toxin to the cell exterior; this work provides a new and clearer understanding of how cells integrate secondary metabolism into basic cellular metabolism via the intra-cellular trafficking machinery.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roze</LastName>
+                    <ForeName>Ludmila V</ForeName>
+                    <Initials>LV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Food Science and Human Nutrition, Michigan State University, East Lansing, MI-48824, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chanda</LastName>
+                    <ForeName>Anindya</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Linz</LastName>
+                    <ForeName>John E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA052003</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA052003-19</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA052003-20</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 52003-18</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Fungal Genet Biol</MedlineTA>
+            <NlmUniqueID>9607601</NlmUniqueID>
+            <ISSNLinking>1087-1845</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000348">Aflatoxins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001688">Biological Products</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000348" MajorTopicYN="N">Aflatoxins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001230" MajorTopicYN="N">Aspergillus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001688" MajorTopicYN="N">Biological Products</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053898" MajorTopicYN="N">Biosynthetic Pathways</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015966" MajorTopicYN="Y">Gene Expression Regulation, Fungal</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20519149</ArticleId>
+            <ArticleId IdType="pii">S1087-1845(10)00096-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fgb.2010.05.006</ArticleId>
+            <ArticleId IdType="pmc">PMC2949687</ArticleId>
+            <ArticleId IdType="mid">NIHMS212489</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochem J. 2009 Feb 15;418(1):113-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18840096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Bot. 2009;60(3):719-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19213811</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Struct Funct. 2002 Dec;27(6):409-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12576634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Sep 21;101(38):13957-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15353584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2003 Nov;165(3):1095-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14668367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Cell Dev Biol. 2000 Jun;11(3):173-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10906274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2005 Aug;18(8):783-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16134890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Biochem Eng Biotechnol. 2004;88:111-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15719554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2004 Sep;182(1):67-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15258720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 Jun;177(12):3504-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7768860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Immunol Ther Exp (Warsz). 1987;35(5):699-724</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3138964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Planta. 1984 Sep;162(3):250-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24253097</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Plant Biol. 2004;55:85-107</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15725058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycopathologia. 2004 Aug;158(2):219-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15518351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Rev. 1990 Sep;54(3):266-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2215422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Microbiol. 1969 Sep;18(3):517-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5373682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2002 May 29;291(1-2):77-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12095681</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Genet Genomics. 2003 Mar;268(6):711-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12655397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Aug 25;106(34):14558-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19666480</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2009 Mar;8(3):421-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19151327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2002 Oct;130(2):740-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12376641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2004 Aug;70(8):4733-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15294809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Jun 22;101(25):9497-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15190181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Autophagy. 2008 Jan;4(1):5-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17932463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 1989 Jul;218(1):87-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2571070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Nov;66(3):713-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17919289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2004 Mar;181(3):204-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14722624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2004 Nov;70(11):6518-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15528514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1999 Nov 1;18(21):5843-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10545096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1996 Jun 7;271(23):13600-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8662689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytochemistry. 2007 Nov-Dec;68(22-24):2881-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17910964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Sep;189(17):6372-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17526704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 1988 Jun;87(2):402-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16666154</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1995 Jun 1;375(6530):397-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7760932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Microbiol Biotechnol. 2004 Jun;64(6):745-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15022028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Planta. 1986 Jan;167(1):44-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24241730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1994 Jul;60(7):2408-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8074521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 1998 Jul;10(7):1135-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9668133</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycopathologia. 2006 Sep;162(3):155-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16944283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1993 Jan;59(1):156-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8439147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2000 Sep;37(5):989-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10972818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Plant Physiol Plant Mol Biol. 2001 Jun;52:29-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11337391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytochemistry. 2009 Oct-Nov;70(15-16):1645-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19577780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1987 Dec;84(24):8966-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3321063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Microbiol Biotechnol. 2003 Apr;61(2):83-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12655449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2004 Jul;16(7):1812-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15208386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Nov 17;106(46):19533-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19889978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pest Manag Sci. 2007 Apr;63(4):308-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17195966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Jan 1;285(1):265-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19858196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Integr Plant Biol. 2010 Jan;52(1):98-111</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20074144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2005 Dec;71(12):8963-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16332900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell Physiol. 2005 Sep;46(9):1578-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16024552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycopathologia. 2006 Sep;162(3):179-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16944285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Prod Rep. 2007 Feb;24(1):31-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17268607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1999 Jul 23;274(30):21044-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10409655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Genet Genomics. 2009 Sep;282(3):257-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19529962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2001 Jun;126(2):485-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11402179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1993 Jan 5;268(1):665-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8416970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Soc Trans. 2000 Dec;28(6):593-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11171137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2008 Jul;45(7):1053-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18457967</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Agric Food Chem. 2009 Jun 10;57(11):4478-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19385595</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1985;110:253-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3160913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2002 Nov;68(11):5718-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12406770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2008 Jan 22;18(2):102-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18207745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 2000 Nov;264(4):514-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11129056</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epigenetics. 2009 Aug 16;4(6):399-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19755853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2008 Apr;74(8):2259-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18281432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Food Microbiol. 2009 Mar 15;130(1):17-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19162358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycotoxin Res. 2006 Mar;22(1):9-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23605495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2005 May;138(1):173-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15849302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2006 Feb;2(2):71-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16421586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1992 Jun 15;115(1-2):135-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1612428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Plant Sci. 2007 Dec;12(12):556-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18198522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2009 Feb;46(2):113-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19010433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2009 Dec;46(12):909-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19715768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2004 Apr;3(2):527-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15075281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 2001 Oct;268(19):5057-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11589696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2005 Aug;138(4):1939-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16024684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1977 Jul;34(1):88-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">329764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2002 Jul 19;1576(3):316-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12084578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Bot. 2007;58(1):35-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17030538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2008 Jun 13;320(5882):1504-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18556559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Prod Rep. 2001 Aug;18(4):380-416</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11548049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2007 Jun;19(6):2023-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17601828</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Plant Biol. 2005 Jun;8(3):292-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15860426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2010 Jun;76(6):1376-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20132440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Microbiol Biotechnol. 2002 Oct;60(1-2):174-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12382060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 2002 Sep;66(3):447-59, table of contents</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12208999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 1990 May;57(1-2):165-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2199302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1993 Oct;12(10):3947-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8404862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 Sep 7;317(5843):1400-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17823352</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 1999 May;11(5):887-900</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10330473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Food Microbiol. 2007 Oct 20;119(1-2):47-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17707105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2002 May 20;1597(1):36-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12009400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1997 Aug 15;16(16):4916-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9305634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Prod Rep. 2010 Apr;27(4):529-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20336236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Plant Biol. 2005 Jun;8(3):280-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15860425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1988 Jun;170(6):2683-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3131304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant J. 2008 May;54(4):733-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18476875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1996 Mar;132(6):999-1010</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8601598</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Jun 27;103(26):9826-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16785438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 1998 Dec;14(16):1471-510</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9885152</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycol Res. 2009 May;113(5):591-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19217941</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycologia. 1978 Jan-Feb;70(1):104-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">692544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2008 Aug 29;321(5893):1203-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18755976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2002 Oct;37(1):49-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12223189</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2005 Dec;3(12):937-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16322742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Prod Rep. 2002 Feb;19(1):70-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11902441</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2009 May 22;324(5930):1076-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19461003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ind Microbiol Biotechnol. 2009 Jan;36(1):129-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18841403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1992 Dec 24;71(7):1131-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1473149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2002 Jul 1;115(Pt 13):2627-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12077354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1997 Jan 10;272(2):804-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8995367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Plant Biol. 2006;6:29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17173704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Genet. 1994 Aug;26(2):120-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8001164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Plant Biol. 2005 Dec;8(6):657-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16182601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Jun 25;279(26):27428-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15054098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2007 Sep;6(9):1656-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17616629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IUBMB Life. 2008 Aug;60(8):519-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18459165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Biochim Pol. 2001;48(4):1025-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11995965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2009 Oct;46(10):782-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19563902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Dec 23;100(26):15670-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14676319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1997 Dec 29;139(7):1687-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9412464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biochem. 2004 Jan-Feb;256-257(1-2):5-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14977166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycologia. 2007 Jul-Aug;99(4):562-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18065007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Prod Rep. 2007 Apr;24(2):393-416</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17390002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2004 Oct;41(10):911-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15341913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Lett. 2007 Oct 22;3(5):523-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17686752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2010 Nov;9(11):1724-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20870882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant J. 2004 Jan;37(1):104-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14675436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2006 Jul 21;23(2):207-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16857587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2009 Jul;5(7):462-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19448638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1992 Apr 22;1116(2):210-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1581347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 1979 Jul;64(1):74-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16660918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biotechnol. 2004 Feb 5;107(3):245-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14736460</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med. 1987;18(1):23-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3036991</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2006 Feb;72(2):1096-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16461654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2002 May;68(5):2101-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11976077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 1996 Dec;12(16):1607-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9123965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Dec;54(5):1173-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15554960</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2008 Oct;74(20):6385-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18757582</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Biochem Cell Biol. 2009 Dec;41(12):2546-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19712748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Food Microbiol. 2008 Feb 29;122(1-2):49-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18166238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Oct 26;96(22):12929-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10536025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Biochem Eng Biotechnol. 2004;88:45-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15719552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1995 Apr;141 ( Pt 4):755-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7773383</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Biochem. 2010;11:33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20735852</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Plant Biol. 2008;59:735-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18251710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2000;69:303-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10966461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2008 Dec;7(12):2052-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18849468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 2008 May;32(3):409-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18221488</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 May 1;273(18):10807-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9556549</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antonie Van Leeuwenhoek. 1999 Jan-Feb;75(1-2):41-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10422581</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1996 Jan;62(1):191-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8572694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Mol Biol. 1999 May;40(1):45-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10394944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2001 Oct;176(4):285-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11685373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2001 Feb;157(2):591-600</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11156981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Health Perspect. 2001 May;109 Suppl 2:245-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11359692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20796205</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of spatial niche structure in coexisting tidepool fishes: null models based on multi-scale experiments.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>137-47</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01749.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Fundamental and realized spatial niches were investigated through a combination of laboratory and mesocosm experiments, field observations and null model analysis in three intertidal gobiid species (Bathygobius fuscus, Chaenogobius annularis and C. gulosus). Null models based on the results of single-species experiments were used to assess interspecific spatial use and coexistence on two different scales: (i) microhabitats within a tidepool ('microhabitat' scale); and (ii) distribution among a set of tidepools ('habitat-wide' scale). 2. Patterns of microhabitat use varied from single to paired treatments, depending on paired species. Realized overlap of microhabitat use was smaller than would be expected from single-individual situations for intraspecific combinations, but not for interspecific ones. 3. Patterns of tidepool occupancy (a measure of spatial niche breadth) in the mesocosm were influenced by interspecific interactions. Two Chaenogobius species, but not B. fuscus, decreased tidepool occupancy in the hetero-specific treatments compared with the mono-specific ones. For all interspecific combinations, spatial overlap (habitat-wide scale) was significantly lower than the values expected from mono-specific situations. The results also indicated a possible trade-off between competitiveness and growth efficiency in these fishes. 4. Interspecific spatial overlap in the field was similar to that in the mesocosm experiment and the pattern of coexistence of gobiids can be explained by the results of our experiments. 5. This study demonstrates that niches of intertidal fishes may experience modifications under the influence of species interactions and that null models based on controlled experiments can greatly facilitate the deciphering of such changes in niche structure.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal compilation © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Arakaki</LastName>
+                    <ForeName>Seiji</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AMBL, Kyushu University, Amakusa 863-2507, Japan. arakaki@ambl-ku.jp</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tokeshi</LastName>
+                    <ForeName>Mutsunori</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003710" MajorTopicYN="N">Demography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010473" MajorTopicYN="N">Perciformes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20796205</ArticleId>
+            <ArticleId IdType="pii">JAE1749</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01749.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

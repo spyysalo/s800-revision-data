@@ -1,0 +1,277 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21036997</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Distinct roles of multiple NDH-1 complexes in the cyanobacterial electron transport network as revealed by kinetic analysis of P700+ reduction in various Ndh-deficient mutants of Synechocystis sp. strain PCC6803.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>292-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00984-10</ELocationID>
+            <Abstract>
+                <AbstractText>While methyl viologen had only a small effect on P700(+) rereduction kinetics after far-red pulses in KCN-treated wild-type Synechocystis sp. strain PCC6803 and an NdhF3/NdhF4 (NdhF3/F4)-defective mutant, it involved a rather slow P700(+) rereduction in an NdhF1-defective mutant. This strongly indicates that (i) active electron flow from metabolites to plastoquinone is suppressed upon deletion of ndhF1 and (ii) photosystem 1-mediated cyclic electron transport is dependent on NdhF3/F4-type NDH-1 complexes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bernát</LastName>
+                    <ForeName>Gábor</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Plant Biochemistry, Ruhr University Bochum, D-44780 Bochum, Germany. gabor.bernat@rub.de</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Appel</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ogawa</LastName>
+                    <ForeName>Teruo</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rögner</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.6.99.1</RegistryNumber>
+                <NameOfSubstance UI="D009252">NADPH Dehydrogenase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>PLG39H7695</RegistryNumber>
+                <NameOfSubstance UI="D010269">Paraquat</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019069" MajorTopicYN="N">Cell Respiration</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004579" MajorTopicYN="N">Electron Transport</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009252" MajorTopicYN="N">NADPH Dehydrogenase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010084" MajorTopicYN="N">Oxidation-Reduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010269" MajorTopicYN="N">Paraquat</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046939" MajorTopicYN="N">Synechocystis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21036997</ArticleId>
+            <ArticleId IdType="pii">JB.00984-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00984-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019951</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Bacteriol. 2001 Jul;183(14):4251-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11418566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 1993 Sep;103(1):171-180</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12231924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Photosynth Res. 2009 Mar;99(3):205-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19137411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Plant. 2007 Sep;131(1):22-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18251921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11789-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11562454</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2004 Dec;16(12):3326-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15548742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Photosynth Res. 2007 Jul-Sep;93(1-3):69-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17279442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Feb;182(3):714-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10633105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bacteriol Rev. 1971 Jun;35(2):171-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4998365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1991 May 15;88(10):4275-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1903537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2009 Oct 9;284(41):27875-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19674969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Metab Eng. 2002 Jul;4(3):202-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12616690</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2007 Feb;1767(2):161-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17274945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Feb 9;282(6):3730-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17166849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell Physiol. 2008 Nov;49(11):1672-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18784196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Oct 13;275(41):31630-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10906128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell Physiol. 2005 Aug;46(8):1433-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15946981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

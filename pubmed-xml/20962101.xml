@@ -1,0 +1,476 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20962101</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hepatitis C virus NS2 protein serves as a scaffold for virus assembly by interacting with both structural and nonstructural proteins.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>86-97</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01070-10</ELocationID>
+            <Abstract>
+                <AbstractText>Many aspects of the assembly of hepatitis C virus (HCV) remain incompletely understood. To characterize the role of NS2 in the production of infectious virus, we determined NS2 interaction partners among other HCV proteins during productive infection. Pulldown assays showed that NS2 forms complexes with both structural and nonstructural proteins, including E1, E2, p7, NS3, and NS5A. Confocal microscopy also demonstrated that NS2 colocalizes with E1, E2, and NS5A in dot-like structures near lipid droplets. However, NS5A did not coprecipitate with E2 and interacted only weakly with NS3 in pulldown assays. Also, there was no demonstrable interaction between p7 and E2 or NS3 in such assays. Therefore, NS2 is uniquely capable of interacting with both structural and nonstructural proteins. Among mutations in p7, NS2, and NS3 that prevent production of infectious virus, only p7 mutations significantly reduced NS2-mediated protein interactions. These p7 mutations altered the intracellular distribution of NS2 and E2 and appeared to modulate the membrane topology of the C-terminal domain of NS2. These results suggest that NS2 acts to coordinate virus assembly by mediating interactions between envelope proteins and NS3 and NS5A within replication complexes adjacent to lipid droplets, where virus particle assembly is thought to occur. p7 may play an accessory role by regulating NS2 membrane topology, which is important for NS2-mediated protein interactions and therefore NS2 function.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Yinghong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, The University of Texas Medical Branch at Galveston, 301 University Boulevard, Galveston, TX 77555-0610, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anantpadma</LastName>
+                    <ForeName>Manu</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Timpe</LastName>
+                    <ForeName>Jennifer M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shanmugam</LastName>
+                    <ForeName>Saravanabalaji</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Sher M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lemon</LastName>
+                    <ForeName>Stanley M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yi</LastName>
+                    <ForeName>Minkyung</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U19 AI040035</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>N01AI25488</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19-AI40035</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI075090</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01-AI075090</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C097010">NS2 protein, Hepatitis C virus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017361">Viral Nonstructural Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014764">Viral Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015678">Viral Structural Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C088369">p7 protein, Hepatitis C virus</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016174" MajorTopicYN="N">Hepacivirus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017361" MajorTopicYN="N">Viral Nonstructural Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014764" MajorTopicYN="N">Viral Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015678" MajorTopicYN="N">Viral Structural Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019065" MajorTopicYN="N">Virus Assembly</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20962101</ArticleId>
+            <ArticleId IdType="pii">JVI.01070-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01070-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014171</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 2006 Aug 17;442(7104):831-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16862121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Feb 14;103(7):2310-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16461899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Jan;81(2):629-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17079282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Aug;81(16):8374-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17537845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2007 Sep;9(9):1089-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17721513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2006 Mar;87(Pt 3):635-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16476985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2002 Dec;76(24):13001-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12438626</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protoc Cell Biol. 2001 Apr;Chapter 11:Unit11.3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18228308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008 Mar;4(3):e1000032</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18369478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008 Mar;4(3):e1000035</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18369481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2007 Jul;3(7):e103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17658949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Aug;82(15):7624-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18508894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Aug;82(16):7964-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18524832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Oct 17;283(42):28546-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18644781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Nov;82(21):10519-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18715913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2009 May;5(5):e1000403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19412343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Sep;83(17):8379-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19515772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Aug 4;106(31):12712-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19590017</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Dec;83(24):12702-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19812162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2006 Mar;3(3):205-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16489338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virus Res. 2006 May;117(2):264-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16324764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 May 9;103(19):7408-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16651538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 May;77(9):5401-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12692242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2004 Feb;85(Pt 2):451-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14769903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 2004 Feb;12(2):96-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15036326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Jul;78(14):7400-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15220413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1995 Jul;69(7):4127-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7769671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hepatol. 1995;22(1 Suppl):87-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7602084</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1995 Dec;69(12):7461-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7494252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1996 Oct 4;271(40):24449-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8798703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Nov 27;273(48):32088-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9822684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Jul 2;285(5424):110-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10390360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1999 Sep;73(9):7138-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10438800</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1999 Oct;73(10):8798-807</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10482634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Jun 28;102(26):9294-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15939869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2005 Jul;11(7):791-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15951748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2005 Jul 22;309(5734):623-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15947137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hepatol. 2005 Oct;43(4):550-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16099527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1999 Dec;73(12):9984-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10559312</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Viral Hepat. 1999 May;6(3):165-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10607229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Sep 6;277(36):33228-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12082096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Dec 1;281(48):37057-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17032656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,470 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21097623</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Contributions of multiple binding sites and effector-independent binding to CodY-mediated regulation in Bacillus subtilis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>473-84</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01151-10</ELocationID>
+            <Abstract>
+                <AbstractText>CodY is a branched-chain amino acid-responsive transcriptional regulator that controls, directly or indirectly, the expression of more than 100 genes and operons in Bacillus subtilis. Using DNase I footprinting and gel-shift experiments, we identified two CodY-binding regions upstream of a B. subtilis gene (bcaP, previously known as yhdG) that encodes a transporter of branched-chain amino acids. Mutational analysis revealed that both CodY-binding regions contribute to repression in vivo and do so independently of each other. Thus, a single CodY-binding site is apparently sufficient for substantial CodY-dependent regulation. By analyzing affinities of wild-type and mutant CodY-binding sites for CodY and their regulation by wild-type CodY and forms of CodY with various levels of activation by branched-chain amino acids, we concluded that unliganded CodY cannot repress transcription in vivo and that the level of endogenously produced effectors is sufficient for CodY-mediated regulation of promoters with stronger sites. Because the sites with higher affinity apparently respond to lower concentrations of CodY effectors and saturate faster as the concentrations of effectors increase, having two sites of binding with different affinities for CodY permits a promoter to respond to a wider range of intracellular concentrations of effectors.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Belitsky</LastName>
+                    <ForeName>Boris R</ForeName>
+                    <Initials>BR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology and Microbiology, Tufts University School of Medicine, Boston, MA 02111, USA. Boris.Belitsky@tufts.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sonenshein</LastName>
+                    <ForeName>Abraham L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM042219</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM042219</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000597">Amino Acids, Branched-Chain</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D026901">Membrane Transport Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012097">Repressor Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.21.1</RegistryNumber>
+                <NameOfSubstance UI="D003850">Deoxyribonuclease I</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000597" MajorTopicYN="N">Amino Acids, Branched-Chain</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001412" MajorTopicYN="N">Bacillus subtilis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018983" MajorTopicYN="N">DNA Footprinting</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004252" MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003850" MajorTopicYN="N">Deoxyribonuclease I</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D024202" MajorTopicYN="N">Electrophoretic Mobility Shift Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="Y">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D026901" MajorTopicYN="N">Membrane Transport Proteins</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018085" MajorTopicYN="N">Regulon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012097" MajorTopicYN="N">Repressor Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21097623</ArticleId>
+            <ArticleId IdType="pii">JB.01151-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01151-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019828</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004;32(3):1166-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14973248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Oct;192(20):5350-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20709897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Jul;53(2):613-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15228538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1981 May;146(2):605-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6111556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 1982 May;131(3):247-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6808962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1985;33(1):103-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2985470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1990 Feb;172(2):835-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2105305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1990 Sep;172(9):4758-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2118500</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1991 Aug;5(8):1915-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1766371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1995 Feb;15(4):689-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7783641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 Jul;177(14):4121-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7608087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1995 Jul 11;23(13):2351-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7630711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Jul;178(13):3779-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8682780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1996 May;20(4):843-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8793880</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1997 Sep;179(17):5636-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9287030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1997 Nov 20;390(6657):249-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9384377</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1998 Dec;180(23):6298-305</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9829940</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1999 Apr;32(2):223-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10231480</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Jan;187(2):512-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15629923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2005 Apr;8(2):203-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15802253</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Jun;56(6):1560-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15916606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Jun;187(12):4127-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15937175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Oct 7;280(40):34332-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16040604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2005 Dec;151(Pt 12):3895-909</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16339935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Apr 21;281(16):11366-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16488888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2006 May;188(9):3280-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16621821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Oct;66(1):206-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17725558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biosci Biotechnol Biochem. 2000 Mar;64(3):484-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10803944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2001 May 1;15(9):1093-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11331605</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2001 Jun;40(5):1227-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11401725</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2003 Mar;185(5):1672-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12591885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2003 Mar;185(6):1911-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12618455</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2003 Sep-Oct;2(5):488-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14582645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2007 Dec;5(12):917-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17982469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Jan;190(2):590-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18024519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Feb;190(3):798-806</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17993518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Feb;190(4):1224-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18083814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Apr;190(7):2257-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18156263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2008 Jun;189(6):557-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18214442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Aug;190(15):5291-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18539745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Nov;190(21):6983-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18723616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 May;191(9):2953-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19251851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2009 Jul 31;390(5):1007-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19500589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2009 Oct;77(10):4437-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19651859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Nov;191(22):6865-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19749041</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Jun;192(11):2861-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20363936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Jul;53(2):599-611</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15228537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

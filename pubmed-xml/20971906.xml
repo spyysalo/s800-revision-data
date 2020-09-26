@@ -1,0 +1,430 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971906</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Plantazolicin, a novel microcin B17/streptolysin S-like natural product from Bacillus amyloliquefaciens FZB42.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>215-24</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00784-10</ELocationID>
+            <Abstract>
+                <AbstractText>Here we report on a novel thiazole/oxazole-modified microcin (TOMM) from Bacillus amyloliquefaciens FZB42, a Gram-positive soil bacterium. This organism is well known for stimulating plant growth and biosynthesizing complex small molecules that suppress the growth of bacterial and fungal plant pathogens. Like microcin B17 and streptolysin S, the TOMM from B. amyloliquefaciens FZB42 undergoes extensive posttranslational modification to become a bioactive natural product. Our data show that the modified peptide bears a molecular mass of 1,335 Da and displays antibacterial activity toward closely related Gram-positive bacteria. A cluster of 12 genes that covers ∼10 kb is essential for the production, modification, export, and self-immunity of this natural product. We have named this compound plantazolicin (PZN), based on the association of several producing organisms with plants and the incorporation of azole heterocycles, which derive from Cys, Ser, and Thr residues of the precursor peptide.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Scholz</LastName>
+                    <ForeName>Romy</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut für Biologie/Bakteriengenetik, Humboldt-Universita¨t zu Berlin, 10115 Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Molohon</LastName>
+                    <ForeName>Katie J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nachtigall</LastName>
+                    <ForeName>Jonny</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vater</LastName>
+                    <ForeName>Joachim</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Markley</LastName>
+                    <ForeName>Andrew L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Süssmuth</LastName>
+                    <ForeName>Roderich D</ForeName>
+                    <Initials>RD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitchell</LastName>
+                    <ForeName>Douglas A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borriss</LastName>
+                    <ForeName>Rainer</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM097142</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 CA009523</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001430">Bacteriocins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.-</RegistryNumber>
+                <NameOfSubstance UI="D000429">Alcohol Oxidoreductases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.99.7</RegistryNumber>
+                <NameOfSubstance UI="C021496">lactate-malate transhydrogenase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000429" MajorTopicYN="N">Alcohol Oxidoreductases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001407" MajorTopicYN="N">Bacillus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001430" MajorTopicYN="N">Bacteriocins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016296" MajorTopicYN="N">Mutagenesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009876" MajorTopicYN="N">Operon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011499" MajorTopicYN="N">Protein Processing, Post-Translational</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019032" MajorTopicYN="N">Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971906</ArticleId>
+            <ArticleId IdType="pii">JB.00784-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00784-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019963</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biotechniques. 1990 May;8(5):528-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2357375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1987 Nov 1;166(2):368-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2449095</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 May;177(9):2403-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7730271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1996 Nov 15;274(5290):1188-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8895467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1997 Mar;23(6):1293-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9106219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9254694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Prod Rep. 1999 Apr;16(2):249-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10331285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Histochem Cytochem. 1964 Oct;12:748-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14221056</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 May;56(3):681-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15819624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 May 17;102(20):7315-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15883371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2006 Jan 10;45(1):1-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16388575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2006 Jan;72(1):327-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16391061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 May;60(3):765-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16629676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2007 Sep;25(9):1007-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17704766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2007 Nov;73(21):6953-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17827323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Apr 15;105(15):5879-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18375757</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2008 Aug 1;24(15):1662-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18474507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008;4(9):e1000144</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18787690</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Microbiol Biotechnol. 2009;16(1-2):14-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18957859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ACS Chem Biol. 2009 Oct 16;4(10):865-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19678697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Biol. 2010;8:70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20500830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2011 Aug;61(Pt 8):1786-801</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20817842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2001 May;26(5):275-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11343912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2002 Jul;148(Pt 7):2097-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12101298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2002 Dec;68(12):6210-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12450846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 2003 Jun;27(2-3):131-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12829264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 2009 Feb 27;16(2):141-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19246004</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Feb 24;106(8):2549-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19196969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Feb;186(4):1084-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14762003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biotechnol. 2009 Mar 10;140(1-2):27-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19041913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biotechnol. 2009 Mar 10;140(1-2):38-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19061923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2009 Apr 1;131(12):4327-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19265401</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2009 Apr 29;131(16):5946-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19338336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2009 May 8;284(19):13004-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19286651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 2009 Jun;63(6):1128-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19357158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Res. 2009;164(5):493-513</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18845426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2004 May;150(Pt 5):1121-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15133070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1994 Nov 11;22(22):4673-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7984417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

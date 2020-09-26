@@ -1,0 +1,553 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20962095</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Role of RNase MRP in viral RNA degradation and RNA recombination.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>243-53</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01749-10</ELocationID>
+            <Abstract>
+                <AbstractText>RNA degradation, together with RNA synthesis, controls the steady-state level of viral RNAs in infected cells. The endoribonucleolytic cleavage of viral RNA is important not only for viral RNA degradation but for RNA recombination as well, due to the participation of some RNA degradation products in the RNA recombination process. To identify host endoribonucleases involved in degradation of Tomato bushy stunt virus (TBSV) in a Saccharomyces cerevisiae model host, we tested eight known endoribonucleases. Here we report that downregulation of SNM1, encoding a component of the RNase MRP, and a temperature-sensitive mutation in the NME1 gene, coding for the RNA component of RNase MRP, lead to reduced production of the endoribonucleolytically cleaved TBSV RNA in yeast. We also show that the highly purified yeast RNase MRP cleaves the TBSV RNA in vitro, resulting in TBSV RNA degradation products similar in size to those observed in yeast cells. Knocking down the NME1 homolog in Nicotiana benthamiana also led to decreased production of the cleaved TBSV RNA, suggesting that in plants, RNase MRP is involved in TBSV RNA degradation. Altogether, this work suggests a role for the host endoribonuclease RNase MRP in viral RNA degradation and recombination.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jaag</LastName>
+                    <ForeName>Hannah M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Pathology, University of Kentucky, 201F Plant Science Building, Lexington, KY 40546-0091, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Qiasheng</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmitt</LastName>
+                    <ForeName>Mark E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nagy</LastName>
+                    <ForeName>Peter D</ForeName>
+                    <Initials>PD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM063798</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5R01GM063798</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5R21A1072170</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009687">Nuclear Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012367">RNA, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012261">Ribonucleoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029701">Saccharomyces cerevisiae Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance UI="D004706">Endodeoxyribonucleases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance UI="D004722">Endoribonucleases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance UI="C090162">PSO2 protein, S cerevisiae</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance UI="C058330">mitochondrial RNA-processing endoribonuclease</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004268" MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004706" MajorTopicYN="N">Endodeoxyribonucleases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004722" MajorTopicYN="N">Endoribonucleases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009687" MajorTopicYN="N">Nuclear Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010940" MajorTopicYN="N">Plant Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012367" MajorTopicYN="N">RNA, Viral</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011995" MajorTopicYN="Y">Recombination, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012261" MajorTopicYN="N">Ribonucleoproteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012441" MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029701" MajorTopicYN="N">Saccharomyces cerevisiae Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014026" MajorTopicYN="N">Tobacco</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017864" MajorTopicYN="N">Tombusvirus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20962095</ArticleId>
+            <ArticleId IdType="pii">JVI.01749-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01749-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014185</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Methods Enzymol. 2001;342:135-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11586888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 2004 Aug;21(11):947-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15334558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Oct;83(20):10472-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19640975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Aug;78(15):8254-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15254197</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Phytopathol. 1997;35:191-209</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15012521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Host Microbe. 2010 Jan 21;7(1):74-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20114029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Phytopathol. 2008;46:303-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18680427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Phytopathol. 2008;46:217-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18422427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Host Microbe. 2008 Mar 13;3(3):178-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18329617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Virus Res. 2010;76:123-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20965073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS J. 2010 Feb;277(3):627-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19968858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2007 Nov 25;368(2):238-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17688902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Jul 26;102(30):10545-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16027361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Feb;80(3):1231-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16415000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2006 Apr 10;173(1):35-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16585272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2009 Dec;5(12):e1000705</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20041173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1999 Nov;19(11):7857-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10523674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1993 Feb;67(2):969-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8419651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 2002;350:87-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12073338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Feb 18;94(4):1113-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9037015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2005 Nov;77(5):795-806</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16252239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2005 Dec 1;14(23):3723-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16254002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Oct 28;105(43):16749-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18922782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1993 Dec;13(12):7935-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8247008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2003;236:287-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14501071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 1997 Aug 18;235(1):1-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9300032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Aug;79(16):10608-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16051853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2009 Jan;16(1):49-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19060897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 1999 Oct;80 ( Pt 10):2535-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10573145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2004 Feb;24(3):945-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14729943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Nov 7;97(23):12451-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11070075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2007 Nov 25;368(2):388-404</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17689583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2000 Mar 7;245(1):175-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10713458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Oct 20;106(42):17927-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19822766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2003 Aug;6(4):406-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12941413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Mar;80(6):2631-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16501073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1992 Oct;6(10):1975-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1398074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Feb;79(3):1417-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15650168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2010 Aug 15;404(1):96-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20537671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2009 Jan;16(1):56-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19060898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 1999 Jun;80 ( Pt 6):1339-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10374949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Mar 25;280(12):11352-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15637077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2009 Apr 10;386(2):344-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19232421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1992 Oct;11(10):3737-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1382978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2010 Mar;16(3):529-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20086051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1994 Nov 1;8(21):2617-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7958920</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Virus Res. 2009;75:35-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20109663</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Nucleic Acid Res Mol Biol. 2004;78:187-226</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15210331</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Jul;82(14):6911-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18463149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2003 Oct 15;22(20):5602-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14532132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010;6(10):e1001156</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20975943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Soc Trans. 2006 Feb;34(Pt 1):30-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16246172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2007 Aug 10;130(3):413-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17693253</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

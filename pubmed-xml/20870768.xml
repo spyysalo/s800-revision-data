@@ -1,0 +1,494 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20870768</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mutational analysis of the transmembrane helix 2-HAMP domain connection in the Escherichia coli aspartate chemoreceptor tar.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>82-90</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00953-10</ELocationID>
+            <Abstract>
+                <AbstractText>Transmembrane helix 2 (TM2) of the Tar chemoreceptor undergoes an inward piston-like displacement of 1 to 3 Å upon binding aspartate. This signal is transmitted to the kinase-control module via the HAMP domain. Within Tar, the HAMP domain forms a parallel four-helix bundle consisting of a dimer of two amphipathic helices connected by a flexible linker. In the nuclear magnetic resonance structure of an archaeal HAMP domain, residues corresponding to the MLLT sequence between Arg-214 at the end of TM2 and Pro-219 of Tar are an N-terminal helical extension of AS1. We modified this region to test whether it behaves as a continuous helical connection between TM2 and HAMP. First, one to four Gly residues were inserted between Thr-218 and Pro-219. Second, the MLLT sequence was replaced with one to nine Gly residues. Third, the sequence was shortened or extended with residues compatible with helix formation. Cells expressing receptors in which the MLLT sequence was shortened to MLL or in which the MLLT sequence was replaced by four Gly residues performed good aspartate chemotaxis. Other mutant receptors supported diminished aspartate taxis. Most mutant receptors had biased signal outputs and/or abnormal patterns of adaptive methylation. We interpret these results to indicate that a strong, permanent helical connection between TM2 and the HAMP domain is not necessary for normal transmembrane signaling.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wright</LastName>
+                    <ForeName>Gus A</ForeName>
+                    <Initials>GA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Texas A&amp;M University, College Station, Texas 77843-3258, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crowder</LastName>
+                    <ForeName>Rachel L</ForeName>
+                    <Initials>RL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Draheim</LastName>
+                    <ForeName>Roger R</ForeName>
+                    <Initials>RR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manson</LastName>
+                    <ForeName>Michael D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>F32 AI075773</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM 39736</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM065086</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI075773</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 GM065086</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM039736</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029968">Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010446">Peptide Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011956">Receptors, Cell Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C057331">Tar protein, E coli</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002628" MajorTopicYN="N">Chemoreceptor Cells</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029968" MajorTopicYN="N">Escherichia coli Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010446" MajorTopicYN="N">Peptide Fragments</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011956" MajorTopicYN="N">Receptors, Cell Surface</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20870768</ArticleId>
+            <ArticleId IdType="pii">JB.00953-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00953-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019941</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Gen Microbiol. 1984 Nov;130(11):2915-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6396378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 1999 Jul 1;176(1):111-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10418137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2008 Jan;33(1):9-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18165013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Jun;186(12):3687-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15175281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1993 Oct 1;90(19):8787-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8415608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1994 Feb 25;236(3):869-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8114100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2006 Sep 8;126(5):929-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16959572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Oct;190(20):6676-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18621896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1998 Jul 28;37(30):10746-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9692965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2001 Apr;26(4):257-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11295559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 1994 Sep 15;2(9):877-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7812719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 1995 Mar 1;51(Pt 2):145-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15299315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2005 Feb 1;44(4):1268-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15667220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1990 Dec 21;63(6):1339-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2261645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1989 Sep;86(18):6973-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2674941</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1997 Sep 9;36(36):10923-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9283083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1989 Feb;86(4):1208-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2645576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2010;64:101-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20690824</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 May;182(10):2793-801</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10781548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Mar;190(6):2118-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18203838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1988 May 5;263(13):6268-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2834370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Aug;187(15):5115-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16030204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1992 Mar;174(5):1528-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1537797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1992 May 1;89(9):4144-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1315053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1974 Dec;120(3):1196-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4373438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2006 Dec 12;45(49):14655-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17144658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 1991 Dec;72 ( Pt 12):3103-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1765772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1991 Dec 1;88(23):10402-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1660136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1982 Jul;151(1):106-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7045071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1986 Oct;83(19):7157-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3532103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1992 Dec 8;31(48):11978-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1457398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2003 Apr;185(7):2354-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12644507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2007 Dec 4;46(48):13684-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17994770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 Jul;177(14):4121-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7608087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2009 Sep;73(5):801-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19656294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1977 Aug;74(8):3312-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">333433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1977 Nov;74(11):4964-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">337305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2006 Dec 20;128(50):16338-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17165789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1987 Sep 25;237(4822):1596-600</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2820061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2009 Oct 6;48(39):9266-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19705835</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2000 Mar 3;287(5458):1652-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10698740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1998 Jul;75(1):422-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9649402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1989 Oct 15;264(29):17337-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2677005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1987 Nov;84(21):7609-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3313398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1998 Feb;180(4):914-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9473047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2006 Jan;15(1):94-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16322572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

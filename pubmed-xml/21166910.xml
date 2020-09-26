@@ -1,0 +1,355 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21166910</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2583</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Insect molecular biology</Title>
+                <ISOAbbreviation>Insect Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Natural history and intragenomic dynamics of the Transib transposon Hztransib in the cotton bollworm Helicoverpa zea.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>291-301</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2583.2010.01061.x</ELocationID>
+            <Abstract>
+                <AbstractText>Hztransib, recently identified from Helicoverpa zea, represents the first intact and transcriptionally active Transib element. Its open reading frame was detected in Helicoverpa armigera, from which H. zea evolved, and in Helicoverpa assulta, the common ancestor of H. zea and H. armigera, but its remaining parts were found only in H. armigera. Thirty-nine Hztransib insertion sites, all of which are polymorphic, were detected from eight populations of H. zea. Out of the 39 insertion sites, 35 were not frequently occupied, with 1-33 occurrences in a total of 128 individuals from the eight populations (16 larvae per population). Its copy number ranged from 5.8 to 14.2 per individual, with putative intact copies always more abundant than internally deleted ones. Taking this evidence together, Hztransib probably transferred to H. zea from H. armigera and most likely still retains its capacity to maintain structural integrity, increase copy number and remobilize in H. zea.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Insect Molecular Biology © 2010 The Royal Entomological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Protection, Northwest Agriculture and Forestry University, Yangling, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ni</LastName>
+                    <ForeName>X</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>X</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R21 AI083680</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 AI083680-01</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>1R21AI083680-01</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Insect Mol Biol</MedlineTA>
+            <NlmUniqueID>9303579</NlmUniqueID>
+            <ISSNLinking>0962-1075</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004251">DNA Transposable Elements</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056915" MajorTopicYN="N">DNA Copy Number Variations</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004251" MajorTopicYN="N">DNA Transposable Elements</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019143" MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007814" MajorTopicYN="N">Larva</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007915" MajorTopicYN="N">Lepidoptera</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011153" MajorTopicYN="N">Population</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21166910</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2583.2010.01061.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3086985</ArticleId>
+            <ArticleId IdType="mid">NIHMS252082</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2000 Jan;30(1):75-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10646973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2010 Dec;40(12):898-908</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20854909</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2002 Mar 1;32(3):311-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11804803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2002 Aug;11(4):343-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12144700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2002 Oct 17;419(6908):712-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12384696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2003 Mar 17;22(6):1381-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12628930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Econ Entomol. 2003 Feb;96(1):137-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12650356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 May 27;100(11):6569-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12743378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Mar 2;101(9):2939-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14981232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2004 Sep 1;338(2):163-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15315820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1979 Jul 26;280(5720):288-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">111144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Res. 1987 Feb;49(1):31-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3032743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 1995 Nov;3(5):531-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7584143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Aug 20;394(6695):744-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9723614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2005 Feb;169(2):697-708</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15545643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2005 Jun;3(6):e181</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15898832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Econ Entomol. 2006 Feb;99(1):164-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16573337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 2007;52:231-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16925478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Evol Biol. 2007;7:46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17381843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Chem Ecol. 2007 Mar;33(3):449-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17216359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Evol Biol. 2007;7:117</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17629927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2007 Aug;176(4):2477-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17603116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Genet. 2007;41:331-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18076328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Eng Des Sel. 2007 Dec;20(12):615-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18065401</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2008 Jan 31;408(1-2):51-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18031956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2008 Feb;26(2):199-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18259177</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Insect Biochem Physiol. 2008 Sep;69(1):32-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18615618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Res. 2007 Dec;89(5-6):433-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18976532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Chem Ecol. 2009 Feb;35(2):183-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19198946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2001 Jul;158(3):1279-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11454774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

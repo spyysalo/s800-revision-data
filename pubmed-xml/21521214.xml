@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21521214</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lasting effects of maternal behaviour on the distribution of a dispersive stream insect.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1061-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2011.01847.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Predicting population dynamics at large spatial scales requires integrating information about spatial distribution patterns, inter-patch movement rates and within-patch processes. Advective dispersal of aquatic species by water movement is considered paramount to understanding their population dynamics. Rivers are model advective systems, and the larvae of baetid mayflies are considered quintessential dispersers. Egg laying of baetids along channels is patchy and reflects the distribution of oviposition sites, but larvae are assumed to drift frequently and far, thereby erasing patterns created during oviposition. Dispersal kernels are often overestimated, however, and empirical tests of such assumptions are warranted because of the pivotal role distribution patterns can have on populations. 2. We tested empirically whether the egg distribution patterns arising from oviposition behaviours persisted and were reflected in the distribution patterns of larval Baetis rhodani. In field surveys, we tested for associations between egg mass and larval densities over 1 km lengths of four streams. A control species, the mayfly Ephemerella ignita, was employed to test for covarying environmental factors. We estimated drift rates directly to test whether larvae dispersed between riffles (patches of high egg mass density) and whether drift rates were density-dependent or density-related - expected outcomes if drift erases patterns established by maternal behaviours. 3. Positive associations between egg masses and larval benthic densities were found for neonate and mid-stage larvae of Baetis, but not the control species, suggesting persistence of the patchy distribution patterns established at oviposition. Drift rates were high, and riffles were net exporters of neonate and mid-stage larvae, but drift rates were unrelated to benthic densities and few drifters reached the next riffle. Riffles were sinks for large larvae, suggesting ontogenetic shifts in habitat use, but little long-distance dispersal. 4. Overall, the results suggest that most neonate and mid-stage larvae of B. rhodani remain close to the natal riffle, and late-stage larvae disperse shorter distances than routinely assumed. The persistence of maternal effects on distribution patterns well into juvenile life of an allegedly iconic disperser suggests that traditional models of how dispersal influences the population dynamics of many lotic invertebrates may be incorrect.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Journal of Animal Ecology © 2011 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lancaster</LastName>
+                    <ForeName>Jill</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Evolutionary Biology, University of Edinburgh, Ashworth Labs, West Mains Rd, Edinburgh EH9 3JU, UK. jill.lancaster@monash.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Downes</LastName>
+                    <ForeName>Barbara J</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arnold</LastName>
+                    <ForeName>Amanda</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059001" MajorTopicYN="N">Aquatic Organisms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007313" MajorTopicYN="Y">Insecta</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007814" MajorTopicYN="N">Larva</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008425" MajorTopicYN="Y">Maternal Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010058" MajorTopicYN="Y">Oviposition</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011156" MajorTopicYN="N">Population Density</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045483" MajorTopicYN="N">Rivers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012606" MajorTopicYN="N">Scotland</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21521214</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2011.01847.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

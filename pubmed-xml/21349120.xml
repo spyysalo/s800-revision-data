@@ -1,0 +1,470 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21349120</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2583</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Insect molecular biology</Title>
+                <ISOAbbreviation>Insect Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Neuropeptide Y-like signalling and nutritionally mediated gene expression and behaviour in the honey bee.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>335-45</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2583.2011.01068.x</ELocationID>
+            <Abstract>
+                <AbstractText>Previous research has led to the idea that derived traits can arise through the evolution of novel roles for conserved genes. We explored whether neuropeptide Y (NPY)-like signalling, a conserved pathway that regulates food-related behaviour, is involved in a derived, nutritionally-related trait, the division of labour in worker honey bees. Transcripts encoding two NPY-like peptides were expressed in separate populations of brain neurosecretory cells, consistent with endocrine functions. NPY-related genes were upregulated in the brains of older foragers compared with younger bees performing brood care ('nurses'). A subset of these changes can be attributed to nutrition, but neuropeptide F peptide treatments did not influence sugar intake. These results contrast with recent reports of more robust associations between division of labour and the related insulin-signalling pathway and suggest that some elements of molecular pathways associated with feeding behaviour may be more evolutionarily labile than others.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Insect Molecular Biology © 2011 The Royal Entomological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ament</LastName>
+                    <ForeName>S A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neuroscience Program, University of Illinois, Urbana-Champaign, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Velarde</LastName>
+                    <ForeName>R A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kolodkin</LastName>
+                    <ForeName>M H</ForeName>
+                    <Initials>MH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moyse</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robinson</LastName>
+                    <ForeName>G E</ForeName>
+                    <Initials>GE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DP1 OD006416</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DP1 OD006416-01</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Insect Mol Biol</MedlineTA>
+            <NlmUniqueID>9303579</NlmUniqueID>
+            <ISSNLinking>0962-1075</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009478">Neuropeptide Y</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009479">Neuropeptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>142191-57-9</RegistryNumber>
+                <NameOfSubstance UI="C076101">neuropeptide F</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001516" MajorTopicYN="N">Bees</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005075" MajorTopicYN="N">Biological Evolution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005247" MajorTopicYN="Y">Feeding Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="Y">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006722" MajorTopicYN="N">Honey</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009478" MajorTopicYN="N">Neuropeptide Y</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009479" MajorTopicYN="N">Neuropeptides</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010641" MajorTopicYN="N">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012919" MajorTopicYN="N">Social Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015854" MajorTopicYN="N">Up-Regulation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21349120</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2583.2011.01068.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3086931</ArticleId>
+            <ArticleId IdType="mid">NIHMS271757</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Prog Neurobiol. 2006 Sep;80(1):1-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17070981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Peptides. 2011 Mar;32(3):483-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20869419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2007 Mar;5(3):e62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17341131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 2007 Aug 24;148(2):371-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17658221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 Oct 19;318(5849):441-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17901299</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comp Physiol A. 2000 Jul-Aug;186(7-8):605-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11016778</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Peptides. 2001 Feb;22(2):241-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11179818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurobiol. 2001 Apr;47(1):16-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11257610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Peptides. 2002 Apr;23(4):773-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11897397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Apr 26;296(5568):741-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11976457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Oct 4;298(5591):176-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12364795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2002 Oct 11;297(5):1140-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12372405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Behav Brain Res. 2002 Nov 15;136(2):545-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12429417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Feb 18;100(4):1799-802</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12566563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Genet. 2003;49:1-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12779250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2003 Jul 3;39(1):147-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12848939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Biol. 2004 Sep;207(Pt 19):3281-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15326204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1985 Jun;82(11):3940-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3858854</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 1992 Jun;130(6):3608-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1597158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 1998 May 15;839:625-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9629226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1998 Sep 4;94(5):679-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9741632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 1998 Aug;1(4):271-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10195157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Peptides. 1999;20(9):1035-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10499420</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Dec 3;279(49):50781-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15385546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Regul Integr Comp Physiol. 2005 Jul;289(1):R29-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15705801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Sep 13;102(37):13289-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16150727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mech Ageing Dev. 2005 Nov;126(11):1230-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16139867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2005 Oct;8(10):1350-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16172603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Biol. 2005 Dec;208(Pt 24):4641-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16326945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Insect Biochem Physiol. 2006 Apr;61(4):195-208</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16552771</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Sep 21;443(7109):289-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16988703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Oct 27;314(5799):647-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17068263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2006 Oct;15(5):583-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17069634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Mar 18;105(11):4226-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18337502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2008 Apr;10(4):468-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18344986</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrition. 2008 Sep;24(9):907-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18725086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Neurosci. 2008;9:90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18803813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Feb 17;106(7):2383-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19179284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2008 Dec;38(12):1147-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19280707</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Phylogenet Evol. 2009 Aug;52(2):512-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19364540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2010 Feb;8(2):e1000313</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20186266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wiley Interdiscip Rev Syst Biol Med. 2010 Sep-Oct;2(5):566-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20836048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2010 Oct 1;9(10):5296-310</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20695486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Genet. 2007 Jul;23(7):334-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17509723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

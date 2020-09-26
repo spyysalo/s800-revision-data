@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21070238</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Climate, history and neutrality as drivers of mammal beta diversity in Europe: insights from multiscale deconstruction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>393-402</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01771.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Environmental sorting, historical factors and neutral dynamics may all drive beta diversity (change in species composition across space), but their relative importance remains unresolved. In the case of European mammals, key potential drivers of large-scale beta diversity include current climate, neutral dynamics and two historical factors: Pleistocene glaciations and peninsular dynamics (immigration from extra-regional eastern faunal source areas and inter-linked relictual survival and evolutionary differentiation in isolated areas). 2. We assessed the relative importance of these drivers using a novel analytical framework to deconstruct beta diversity of non-volant mammals in Europe (138 species) into its turnover (change in species composition because of species replacements) and nestedness components (change in species composition because of species richness differences) at continental and regional (250,000 km(2) ) scales. 3. We found continental-scale mammal beta diversity to be mainly caused by spatial turnover (99·9%), with only a small contribution (0·1%) from nestedness. 4. Current climate emerged as an important driver of beta diversity, given the strong continental-scale turnover, particularly in north-south direction, i.e., in line with the latitudinal climate gradient, and, more directly, the strong correlation of climate with spatial turnover at both continental and regional scales. 5. However, there was also evidence for the importance of non-climatic drivers. Notably, the compositional variation purely accounted for by space was greater than that purely accounted for by environment for both the turnover and the nestedness component of beta diversity. Furthermore, the strong longitudinal turnover within Southern Europe is in accordance with the region's long-term climatic stability having allowed multiple refugia and local evolutionary diversification. As expected from peninsular dynamics, there was increasing dissimilarity with geographic distance in an east-west direction because of nestedness, but only in Central and Northern Europe. 6. In conclusion, European mammal beta diversity mainly reflects spatial turnover and only to a limited extent nestedness and is driven by current climate in combination with historical - and perhaps, neutral - dynamics. These findings suggest that a key challenge for climate-change predictive studies will be taking the influence of non-climatic factors into account.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal compilation © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Svenning</LastName>
+                    <ForeName>Jens-Christian</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ecoinformatics &amp; Biodiversity Group, Department of Biological Sciences, Aarhus University, Ny Munkegade 114, DK-8000 Aarhus C, Denmark. svenning@biology.au.dk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fløjgaard</LastName>
+                    <ForeName>Camilla</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baselga</LastName>
+                    <ForeName>Andrés</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044822" MajorTopicYN="Y">Biodiversity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002980" MajorTopicYN="Y">Climate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003627" MajorTopicYN="N">Data Interpretation, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005060" MajorTopicYN="N" Type="Geographic">Europe</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005843" MajorTopicYN="N">Geography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055593" MajorTopicYN="N">Geological Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008322" MajorTopicYN="N">Mammals</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013269" MajorTopicYN="N">Stochastic Processes</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21070238</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01771.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,462 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21840411</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal genetics and biology : FG &amp; B</Title>
+                <ISOAbbreviation>Fungal Genet. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The metalloreductase FreB is involved in adaptation of Aspergillus fumigatus to iron starvation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1027-33</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fgb.2011.07.009</ELocationID>
+            <Abstract>
+                <AbstractText>Aspergillus fumigatus employs two high affinity iron uptake mechanisms, siderophore mediated iron uptake and reductive iron assimilation (RIA). The A. fumigatus genome encodes 15 putative metalloreductases (MR) but the ferrireductases involved in RIA remained elusive so far. Expression of the MR FreB was found to be transcriptionally repressed by iron via SreA, a repressor of iron acquisition during iron sufficiency, indicating a role in iron metabolism. FreB-inactivation by gene deletion was phenotypically largely inconspicuous unless combined with inactivation of the siderophore system, which then decreased growth rate, surface ferrireductase activity and oxidative stress resistance during iron starvation. This study also revealed that loss of copper-independent siderophore-mediated iron uptake increases sensitivity of A. fumigatus to copper starvation due to copper-dependence of RIA.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Blatzer</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Molecular Biology/Biocenter, Fritz-Pregl-Str. 3, Innsbruck Medical University, A-6020 Innsbruck, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Binder</LastName>
+                    <ForeName>Ulrike</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haas</LastName>
+                    <ForeName>Hubertus</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P 21643</GrantID>
+                    <Agency>Austrian Science Fund FWF</Agency>
+                    <Country>Austria</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>08</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Fungal Genet Biol</MedlineTA>
+            <NlmUniqueID>9607601</NlmUniqueID>
+            <ISSNLinking>1087-1845</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003067">Coenzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>789U1901C5</RegistryNumber>
+                <NameOfSubstance UI="D003300">Copper</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E1UOL152H7</RegistryNumber>
+                <NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.-</RegistryNumber>
+                <NameOfSubstance UI="D010088">Oxidoreductases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000222" MajorTopicYN="Y">Adaptation, Physiological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001232" MajorTopicYN="N">Aspergillus fumigatus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003067" MajorTopicYN="N">Coenzymes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003300" MajorTopicYN="N">Copper</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015971" MajorTopicYN="N">Gene Expression Regulation, Enzymologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015966" MajorTopicYN="N">Gene Expression Regulation, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007501" MajorTopicYN="N">Iron</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010088" MajorTopicYN="N">Oxidoreductases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>07</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>07</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21840411</ArticleId>
+            <ArticleId IdType="pii">S1087-1845(11)00144-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fgb.2011.07.009</ArticleId>
+            <ArticleId IdType="pmc">PMC3188701</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochem J. 2003 Apr 15;371(Pt 2):505-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12487628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2003 Jul;49(2):359-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12828635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1984 Apr 1;219(1):1-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6326753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1992;216:447-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1479914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1993 Jul;13(7):4342-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8321236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1997 Feb;65(2):434-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9009293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1997 May 23;272(21):13786-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9153234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9254694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Sep 4;273(36):23274-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9722559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Biol Med. 1999 Sep;27(5-6):612-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10490282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Genet. 1953;5:141-238</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13040135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2004 Nov 1;200(9):1213-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15504822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 2005 Mar;13(3):111-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15737729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2005 Aug;8(4):385-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16019255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2005 Sep;73(9):5482-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16113264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Dec 22;438(7071):1105-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16372000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Dec 22;438(7071):1151-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16372009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2006 Jan;43(1):54-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16289954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2006 Nov;186(5):345-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16988817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2006 Nov;18(11):3332-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17138696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2007 Jul 11;26(13):3157-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17568774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Jul 27;282(30):21629-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17553781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Sep 28;282(39):28619-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17681937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2007 Sep 28;3(9):1195-207</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17845073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2008 Jan;7(1):20-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17993568</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008 Feb 8;4(2):e45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18282105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008;4(9):e1000154</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18787699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2009 Jun;75(12):4194-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19376908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2009 Sep;46(9):707-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19460452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2009 Nov 15;25(22):3005-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19689959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2009 Apr;11(4):791-810</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18783313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2010 Aug;77(3):587-604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20545847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Aug 27;285(35):26729-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20522542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010;6(9):e1001124</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20941352</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Biol. 2010 Sep;114(9):766-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20943186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2000 Apr;146 ( Pt 4):869-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10784045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2000 May 12;288(5468):1062-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10807578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biosci Biotechnol Biochem. 2000 Jul;64(7):1416-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10945258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2001 Sep;41(5):1077-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11555288</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2002 Jan;148(Pt 1):29-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11782496</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Phytopathol. 2008;46:149-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18680426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2008 Jul;7(7):1168-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18503007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2008 Oct;70(1):27-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18721228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2003 Mar;47(5):1185-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12603727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21182519</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Drivers of age-specific survival in a long-lived seabird: contributions of observed and hidden sources of heterogeneity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>375-83</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01784.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. We assessed the relative influence of variability in recruitment age, dynamic reproductive investment (time-specific reproductive states) and frailty (unobserved differences in survival abilities across individuals) on survival in the black-legged kittiwake. Furthermore, we examined whether observed variability in survival trajectories was best explained by immediate reproductive investment, cumulative investment, or both. 2. Individuals that delayed recruitment (≥ age 7) suffered a higher mortality risk than early recruits (age 3), especially later in life, suggesting that recruitment age may be an indicator of individual quality. Although recruitment age helped explain variation in survival, time-varying reproductive investment had a more substantial influence. 3. The dichotomy of attempting to breed or not explained variability in survival across life better than other parameterizations of reproductive states such as clutch size, brood size or breeding success. In the kittiwake, the sinequanon condition to initiate reproduction is to hold a nest site, which is considered a very competitive activity. This might explain why attempting to breed is the key level of investment that affects survival, independent of the outcome (failure or success). 4. Interestingly, the more individuals cumulate reproductive attempts over life, the lower their mortality risk, indicating that breeding experience may be a good indicator of parental quality as well. In contrast, attempting to breed at time t increased the risk of mortality between t and t + 1. We thus detected an immediate trade-off between attempting to breed and survival in this population; however, the earlier individuals recruited, and the more breeding experience they accumulated, the smaller the cost. 5. Lastly, unobserved heterogeneity across individuals improved model fit more (1·3 times) than fixed and dynamic sources of observed heterogeneity in reproductive investment, demonstrating that it is critical to account for both sources of individual heterogeneity when studying survival trajectories. Only after simultaneously accounting for both sources of heterogeneity were we able to detect the 'cost' of immediate reproductive investment on survival and the 'benefit' of cumulative breeding attempts (experience), a proxy to individual quality.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal of Animal Ecology © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Aubry</LastName>
+                    <ForeName>Lise M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Max Planck Institute for Demographic Research, Rostock, Germany. lise.aubry@aggiemail.usu.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cam</LastName>
+                    <ForeName>Emmanuelle</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koons</LastName>
+                    <ForeName>David N</ForeName>
+                    <Initials>DN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monnat</LastName>
+                    <ForeName>Jean-Yves</ForeName>
+                    <Initials>JY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pavard</LastName>
+                    <ForeName>Samuel</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000375" MajorTopicYN="Y">Aging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046091" MajorTopicYN="N">Charadriiformes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012098" MajorTopicYN="Y">Reproduction</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21182519</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01784.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

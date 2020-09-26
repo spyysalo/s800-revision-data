@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21244418</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Predicting the optimal prey group size from predator hunting behaviour.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>310-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01775.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. How group size affects predator attack and success rate, and so prey vulnerability, is important in determining the nonlethal consequences of predation risk on animal populations and communities. Theory predicts that both predator attack success rate and the dilution effect decline exponentially with group size and that selection generates optimal group sizes at a 'risk threshold' above which antipredation benefits are outweighed by costs, such as those owing to higher attack rates. 2. We examined whether flock size risk thresholds for attack rate, success rate or dilution differed, and therefore whether the strength of selection for group size differed for these three factors, using a system of redshank Tringa totanus flocks being hunted by Eurasian sparrowhawks Accipiter nisus. We also asked which of the three thresholds, on their own or in combination, predicted the most commonly observed group size. 3. Mean redshank flock size increased with a very gradual quadratic function (i.e. approximately linearly) with population size, although at a rate half that possible; when population size was not limiting, individuals almost always avoided flocks of less than 30 and birds were frequently in flocks up to at least 80. Sparrowhawk attack rate showed a quadratic relationship with flock size and peaked at 55 redshanks. Sparrowhawk attack success rate, however, declined exponentially, becoming less steep at flock sizes of about 40 and remaining uniformly low (a 95% decrease) by 70. Combined with dilution, individual risk of death per attack decreased by 95% when group size reached 30 (20 for the dilution effect alone). 4. Redshanks most commonly formed group sizes that gained the maximum individual predation risk reduction. They also commonly formed group sizes far above any further substantial advantages from the dilution effect or from reducing attack rate, but that continued to reduce predation risk by lowering attack success rate. Individuals did not always form the largest groups possible which we suggest is because individual variation in risk-taking subdivides the population. This places a constraint on the ability of individuals to compensate for predation risk and will have a variety of important effects on animal populations.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Journal compilation © 2011 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cresswell</LastName>
+                    <ForeName>Will</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biology, University of St. Andrews, Bute Building, St Andrews, Fife KY16 9TS, UK. wrlc@st-andrews.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quinn</LastName>
+                    <ForeName>John L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046091" MajorTopicYN="N">Charadriiformes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046428" MajorTopicYN="N">Hawks</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011156" MajorTopicYN="N">Population Density</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011235" MajorTopicYN="Y">Predatory Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012606" MajorTopicYN="N" Type="Geographic">Scotland</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21244418</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01775.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

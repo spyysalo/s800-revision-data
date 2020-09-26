@@ -1,0 +1,506 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20962092</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Induction of type I interferon secretion through recombinant Newcastle disease virus expressing measles virus hemagglutinin stimulates antibody secretion in the presence of maternal antibodies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>200-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01624-10</ELocationID>
+            <Abstract>
+                <AbstractText>Measles virus (MV) vaccine effectively protects seronegative individuals against infection. However, inhibition of vaccine-induced seroconversion by maternal antibodies after vaccination remains a problem, as it leaves infants susceptible to MV infection. In cotton rats, passive transfer of MV-specific IgG mimics maternal antibodies and inhibits vaccine-induced seroconversion. Here, we report that immunization in the presence of passively transferred IgG inhibits the secretion of neutralizing antibodies but not the generation of MV-specific B cells. This finding suggested that MV-specific B cells require an additional stimulus to mature into antibody-secreting plasma cells. In order to provide such a stimulus, we generated a recombinant Newcastle disease virus (NDV) expressing the MV hemagglutinin (NDV-H). In contrast to MV, NDV-H induced high levels of type I interferon in plasmacytoid dendritic cells and in lung tissue. In cotton rats immunized with NDV-H, neutralizing antibodies were also generated in the presence of passively transferred antibodies. In the latter case, however, the level and kinetics of antibody generation were reduced. In vitro, alpha interferon stimulated the activation of MV-specific B cells from MV-immune spleen cells. NDV infection (which induces alpha interferon) had the same effect, and stimulation could be abrogated by antibodies neutralizing alpha interferon, but not interleukin 6 (IL-6). In vivo, coapplication of UV-inactivated MV with NDV led to increased MV-specific antibody production in the presence and absence of passively transferred antibodies. These data indicate that MV-specific B cells are being generated after immunization in the presence of maternal antibodies and that the provision of alpha interferon as an additional signal leads to antibody secretion.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Dhohyung</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Biosciences, The Ohio State University, 1925 Coffey Road, Columbus, OH 43210, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martinez-Sobrido</LastName>
+                    <ForeName>Luis</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Changsun</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petroff</LastName>
+                    <ForeName>Natasha</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>García-Sastre</LastName>
+                    <ForeName>Adolfo</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niewiesk</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carsillo</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01AI082325-01</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 AI065411</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>1-T32-AI-065411</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5R01AI064744-03</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI064744</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 AI082325</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D057134">Antibodies, Neutralizing</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000914">Antibodies, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006389">Hemagglutinins, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007370">Interferon Type I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016898">Interferon-alpha</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057134" MajorTopicYN="N">Antibodies, Neutralizing</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000914" MajorTopicYN="N">Antibodies, Viral</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001402" MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002522" MajorTopicYN="N">Chlorocebus aethiops</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006389" MajorTopicYN="N">Hemagglutinins, Viral</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007112" MajorTopicYN="N">Immunity, Maternally-Acquired</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007114" MajorTopicYN="N">Immunization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007370" MajorTopicYN="N">Interferon Type I</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016898" MajorTopicYN="N">Interferon-alpha</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008457" MajorTopicYN="N">Measles</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008459" MajorTopicYN="N">Measles virus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009522" MajorTopicYN="N">Newcastle disease virus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011995" MajorTopicYN="N">Recombination, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016205" MajorTopicYN="N">Sigmodontinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014709" MajorTopicYN="N">Vero Cells</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20962092</ArticleId>
+            <ArticleId IdType="pii">JVI.01624-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01624-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014200</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Virology. 2001 Jan 20;279(2):414-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11162797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2001 Apr;75(7):3059-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11238832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2001 Oct 1;184(7):817-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11528592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Jan;77(1):150-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12477820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Apr;77(7):4396-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12634396</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2003 Jul 28;21(24):3398-405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12850348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2003 Aug;84(Pt 8):2145-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12867646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Aug;77(16):8676-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12885886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Sep;77(17):9522-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12915566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2003 Aug;19(2):225-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12932356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 1981 Dec;57(Pt 2):357-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6172558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1983 Mar;130(3):1215-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6296232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunology. 1994 Oct;83(2):184-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7835934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Top Microbiol Immunol. 1995;191:1-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7789153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 1998 Aug 12;280(6):527-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9707142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1998 Oct;72(10):8124-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9733853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Dir Autoimmun. 2005;8:124-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15564719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 May;79(9):5507-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15827165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Nov;79(21):13275-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16227250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Feb;80(3):1130-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16414990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2006 Apr 1;176(7):4343-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16547272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 May 23;103(21):8203-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16717196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Feb 1;178(3):1457-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17237394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Jun 5;104(23):9788-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17535926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Jul;81(13):7011-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17442719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Aug;81(16):8571-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17553890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2007 Aug;27(2):240-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17723216</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Sep;81(18):9790-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17626092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Nov;81(21):11560-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17715243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2007 Dec 5;369(1):131-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17727912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Mol Ther. 2008 Feb;10(1):46-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18228181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Jun;82(11):5359-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18385234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Rev. 2008 Oct;225:46-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18837775</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Dec;82(24):12365-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18922877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2009 Jan 5;383(1):112-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19007958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Top Microbiol Immunol. 2009;330:151-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19203109</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2009 Apr 1;182(7):3960-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19299691</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Jul;83(14):7252-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19403670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2009;542:565-605</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19565923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

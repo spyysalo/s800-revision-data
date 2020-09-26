@@ -1,0 +1,397 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21401590</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The role of body mass in diet contiguity and food-web structure.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>632-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2011.01812.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. The idea that species occupy distinct niches is a fundamental concept in ecology. Classically, the niche was described as an n-dimensional hypervolume where each dimension represents a biotic or abiotic characteristic. More recently, it has been hypothesised that a single dimension may be sufficient to explain the system-level organization of trophic interactions observed between species in a community. 2. Here, we test the hypothesis that species body mass is that single dimension. Specifically, we determine how the intervality of food webs ordered by body size compares to that of randomly ordered food webs. We also extend this analysis beyond the community level to the effect of body mass in explaining the diets of individual species. 3. We conclude that body mass significantly explains the ordering of species and the contiguity of diets in empirical communities. 4. At the species-specific level, we find that the degree to which body mass is a significant explanatory variable depends strongly on the phylogenetic history, suggesting that other evolutionarily conserved traits partly account for species' roles in the food web. 5. Our investigation of the role of body mass in food webs thus helps us to better understand the important features of community food-web structure and the evolutionary forces that have led us to the communities we observe.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Journal of Animal Ecology © 2011 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stouffer</LastName>
+                    <ForeName>Daniel B</ForeName>
+                    <Initials>DB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Integrative Ecology Group, Estación Biológica de Doñana-CSIC, c/ Américo Vespucio s/n, 41092 Sevilla, Spain. stouffer@ebd.csic.es</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rezende</LastName>
+                    <ForeName>Enrico L</ForeName>
+                    <Initials>EL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amaral</LastName>
+                    <ForeName>Luís A Nunes</ForeName>
+                    <Initials>LA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Howard Hughes Medical Institute</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005075" MajorTopicYN="N">Biological Evolution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049628" MajorTopicYN="Y">Body Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004032" MajorTopicYN="Y">Diet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="N">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004777" MajorTopicYN="N">Environment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020387" MajorTopicYN="Y">Food Chain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">HHMIMS515805</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21401590</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2011.01812.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3792558</ArticleId>
+            <ArticleId IdType="mid">HHMIMS515805</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 2000 Mar 9;404(6774):180-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10724169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Ecol Evol. 2000 Oct 1;15(10):408-412</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10998518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev E Stat Nonlin Soft Matter Phys. 2002 Mar;65(3 Pt 1):030901</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11909021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 2002 Jun 3;88(22):228102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12059454</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Oct 1;99(20):12917-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12235364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Feb 18;100(4):1781-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12547915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2003 Apr;57(4):717-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12778543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2004 Feb 26;427(6977):835-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14985761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2004 Dec;2(12):e440</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15597118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Apr 19;102(16):5761-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15824324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1977 Oct;74(10):4533-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16592451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Ecol Evol. 2005 Jul;20(7):402-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16701403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 2006 Aug;149(2):362-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16794835</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Jul 25;103(30):11211-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16844774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Sep 12;103(37):13745-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16954193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecology. 2006 Oct;87(10):2411-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17089649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Dec 12;103(50):19015-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17146055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2007 May 21;246(2):260-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17292921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecology. 2007 Mar;88(3):671-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17503595</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 2007 Aug 22;274(1621):1931-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17567558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecology. 2007 Dec;88(12):2991-3003</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18229834</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Anim Ecol. 2008 May;77(3):512-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18284474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Mar 18;105(11):4079-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18334654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Mar 18;105(11):4191-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18337512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2008 Apr 29;6(4):e102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18447582</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2008 May 2;320(5876):658-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18451301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecol Lett. 2008 Jun;11(6):533-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18462196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Anim Ecol. 2008 Sep;77(5):859-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18624738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecol Lett. 2008 Oct;11(10):995-1003</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18673385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecology. 2008 Jul;89(7):2043-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18705389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Anim Ecol. 2009 May;78(3):493-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19374660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Philos Trans R Soc Lond B Biol Sci. 2009 Jun 27;364(1524):1743-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19451125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecol Lett. 2009 Aug;12(8):779-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19490028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Jun 30;106(26):10702-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19528635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecology. 2010 Jan;91(1):222-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20380211</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Nat. 2010 Aug;176(2):170-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20540609</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ecology. 2010 Oct;91(10):2941-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21058554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2011 Feb 21;271(1):106-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21144853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 2000 May;123(2):241-251</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28308729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 1987 Dec;74(2):231-235</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28311995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 1979 Oct 22;80(4):577-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">542008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

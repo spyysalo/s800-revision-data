@@ -1,0 +1,505 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20962087</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The magnitude of local immunity in the lungs of mice induced by live attenuated influenza vaccines is determined by local viral replication and induction of cytokines.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>76-85</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01564-10</ELocationID>
+            <Abstract>
+                <AbstractText>While live attenuated influenza vaccines (LAIVs) have been shown to be efficacious and have been licensed for human use, the surface glycoproteins hemagglutinin (HA) and neuraminidase (NA) have to be updated for optimal protective efficacy. Little is known about the effect of different HA and NA proteins on the immunogenicity of LAIVs developed using the same backbone. A panel of LAIVs that share the internal protein genes, with unique HA and NA gene segments from different influenza subtypes, was rescued by reverse genetics, and a comparative study of immune responses induced by these vaccines was conducted in mice. The results suggest that the magnitude of lung immunity, including pulmonary IgA antibody and memory CD8(+) T lymphocytes, induced by the vaccines depends on the replication efficiency of the LAIVs, as well as the induction of cytokines/chemokines in the lungs. However, these factors are not important in determining systemic immunity such as serum antibody titers and memory CD8(+) T cells in the spleen. A qualitative analysis of immune responses induced by a single dose of an H5N1 LAIV revealed that the vaccine induced robust systemic and mucosal immunity in mice. In addition, antibodies and memory lymphocytes established in the lungs following vaccination were required for protection against lethal challenge with homologous and heterologous H5N1 viruses. Our results highlight the different requirements for inducing systemic and lung immunity that can be explored for the development of pulmonary immunity for protection against respiratory pathogens.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lau</LastName>
+                    <ForeName>Yuk-Fai</ForeName>
+                    <Initials>YF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Infectious Diseases, NIAID, NIH, Bldg. 33, Room 3E13C.1, 33 North Drive, MSC 3203, Bethesda, MD 20892-3203, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Celia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torres-Vélez</LastName>
+                    <ForeName>Fernando J</ForeName>
+                    <Initials>FJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Subbarao</LastName>
+                    <ForeName>Kanta</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000914">Antibodies, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019267">Hemagglutinin Glycoproteins, Influenza Virus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007070">Immunoglobulin A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007252">Influenza Vaccines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014613">Vaccines, Attenuated</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.18</RegistryNumber>
+                <NameOfSubstance UI="D009439">Neuraminidase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000914" MajorTopicYN="N">Antibodies, Viral</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016207" MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019267" MajorTopicYN="N">Hemagglutinin Glycoproteins, Influenza Virus</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007070" MajorTopicYN="N">Immunoglobulin A</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053124" MajorTopicYN="N">Influenza A Virus, H5N1 Subtype</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007252" MajorTopicYN="N">Influenza Vaccines</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008168" MajorTopicYN="N">Lung</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008807" MajorTopicYN="N">Mice, Inbred BALB C</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008915" MajorTopicYN="N">Minute Virus of Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009439" MajorTopicYN="N">Neuraminidase</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009976" MajorTopicYN="N">Orthomyxoviridae Infections</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014613" MajorTopicYN="N">Vaccines, Attenuated</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014779" MajorTopicYN="Y">Virus Replication</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20962087</ArticleId>
+            <ArticleId IdType="pii">JVI.01564-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01564-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014215</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Infect Immun. 1995 May;63(5):2021-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7537252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2004 Aug 1;173(3):1978-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15265932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1999 Sep 11;354(9182):916-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10489954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1999 Oct 9;354(9186):1277-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10520648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Immunol. 2005 Jan;17(1):27-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15520043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Feb 3;101(5):1356-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14745020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2003 Oct 1;21(27-30):4430-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14505926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Oct 26;101(43):15440-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15489266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunology. 1978 Sep;35(3):503-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">308930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1994 Jan;169(1):68-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8277200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Immunol. 2005 Aug;17(4):434-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15950444</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2006 Jan 1;193(1):49-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16323131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2006 Feb;44(2):297-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16455873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2006 Feb 20;345(2):416-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16289204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 2006 Mar;36(3):770-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16435281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Mar 23;440(7083):435-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16554799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Dec;80(23):11756-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16971435</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Immunol. 2006 Dec;18(12):1801-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17077175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2006 Sep;3(9):e360</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16968127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2006 Dec;118(6):2298-312</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17142512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2006 Nov 1;194 Suppl 2:S111-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17163383</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Jan 15;178(2):1030-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17202366</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Respir Res. 2007;8:44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17597533</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Mar 4;105(9):3485-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18299574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008 May;4(5):e1000072</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18497857</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Vaccine Immunol. 2008 Jul;15(7):1042-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18448618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2008 Aug 15;378(1):123-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18585748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2008 Sep 8;26(38):4940-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18662737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Nov;82(21):10854-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18715930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Jan;83(1):65-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18945773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2009 Jan 23;323(5913):505-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19164749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009;4(2):e4436</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19209231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Influenza Other Respir Viruses. 2008 Nov;2(6):193-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19453395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2009 Aug 1;390(2):151-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19493556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2009 Aug 6;27(36):4953-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19540952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Recomm Rep. 2009 Jul 31;58(RR-8):1-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2010 Feb 10;28(6):1566-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20003918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2010 Mar 1;398(1):109-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20034647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 Nov;84(22):11950-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20810733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 1999 Dec 10;18(9-10):899-906</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10580204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2000 Dec;74(24):11690-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11090168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2002 Feb 15;168(4):1796-803</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11823512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2002 May;76(9):4212-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11932386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2003 Feb 1;306(1):18-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12620793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2003 Jul 4;21(23):3097-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12804835</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 Oct 1;171(7):3338-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14500625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1998 Jan 16;279(5349):393-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9430591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

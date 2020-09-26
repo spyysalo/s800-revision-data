@@ -1,0 +1,356 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20962085</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel F141L pre-S2 mutation in hepatitis B virus increases the risk of hepatocellular carcinoma in patients with chronic genotype C infections.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>123-32</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01524-10</ELocationID>
+            <Abstract>
+                <AbstractText>Several lines of evidence have suggested that some naturally occurring mutations of hepatitis B virus (HBV) play a critical role in hepatocellular carcinoma (HCC). Here, we describe a novel HCC-related pre-S2 mutation, F141L. To prove the relationship between the F141L mutation and HCC, molecular epidemiology studies using MboII PCR restriction analysis (PRA) were performed, and the molecular mechanism was investigated through construction of a stable hepatocyte cell line expressing the large surface HB protein (LHB) with the F141L mutation (F141L-LHB). Application of MboII PRA to samples from 241 Korean patients with chronic liver diseases of different clinical stages confirmed that F141L mutants were significantly related to HCC, even in comparison to liver cirrhosis (HCC, 26.3% of patients, or 26/99; liver cirrhosis, 3.8% of patients, or 2/52; P = 0.001). By studying stable cell lines, we found that F141L-LHBs could induce cell cycle progression by downregulating the p53 and p21 pathways and upregulating CDK4 and cyclin A. Furthermore, we found that in a colony-forming assay, the colony-forming rates in cell lines expressing F141L-LHBs were about twice as high as those of the wild type. In conclusion, our results suggest that F141L-LHBs may contribute importantly to the pathogenesis of HCC by inducing cell proliferation and transformation. So, the F141L mutation examined in this study could serve as a diagnostic marker for the prognosis of HCC.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mun</LastName>
+                    <ForeName>Ho-Suk</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, Liver Research Institute and Cancer Research Institute, College of Medicine, Seoul National University, 28 Yongon-dong, Chongno-gu, Seoul 110-799, South Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Seoung-Ae</ForeName>
+                    <Initials>SA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hong</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hwang</LastName>
+                    <ForeName>Eung-Soo</ForeName>
+                    <Initials>ES</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kook</LastName>
+                    <ForeName>Yoon-Hoh</ForeName>
+                    <Initials>YH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Bum-Joon</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006514">Hepatitis B Surface Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011498">Protein Precursors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C050807">presurface protein 2, hepatitis B surface antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006528" MajorTopicYN="N">Carcinoma, Hepatocellular</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002472" MajorTopicYN="N">Cell Transformation, Viral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006514" MajorTopicYN="N">Hepatitis B Surface Antigens</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006515" MajorTopicYN="N">Hepatitis B virus</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019694" MajorTopicYN="N">Hepatitis B, Chronic</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D022781" MajorTopicYN="N">Hepatocytes</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008113" MajorTopicYN="N">Liver Neoplasms</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="Y">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011498" MajorTopicYN="N">Protein Precursors</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012306" MajorTopicYN="N">Risk</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20962085</ArticleId>
+            <ArticleId IdType="pii">JVI.01524-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01524-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014212</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Semin Cancer Biol. 2000 Jun;10(3):211-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10936070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hepatology. 2001 Jan;33(1):218-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11124839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hepatol. 2001 Sep;35(3):421-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11592607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hepatology. 2001 Dec;34(6):1225-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11732013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Infect Dis. 2002 Jul;2(7):395-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12127351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hepatol. 2003 Jan;38(1):98-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12480566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hepatol. 2004 Mar;40(3):515-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15123368</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1981 Nov 21;2(8256):1129-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6118576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1985 Apr;151(4):599-603</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3973412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiology. 1989 Aug;172(2):389-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2526349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1989 Dec 22;59(6):1145-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2598264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1990 Apr;87(8):2970-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2158099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1993 Nov 19;75(4):817-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8242752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hepatol. 1995 Jul;23(1):47-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8530809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1996 Jun 7;1287(2-3):77-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8672531</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hepatology. 1996 Sep;24(3):482-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8781311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 1996 Oct;111(4):1018-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8831597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 1997 Dec;113(6):1976-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9394738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1998 Mar 1;58(5):985-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9500460</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Physiol. 1998;60:601-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9558478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2005 Jan;75(1):13-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15543574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2005 Jun;76(2):194-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15834881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Sci. 2006 Aug;97(8):683-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16863502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Intervirology. 2007;50(1):52-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17164558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2008 Jul;80(7):1189-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18461612</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2008 Aug;80(8):1337-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18551606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

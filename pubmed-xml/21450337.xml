@@ -1,0 +1,860 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21450337</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-547X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>377</Volume>
+                    <Issue>9773</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Apr</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lancet (London, England)</Title>
+                <ISOAbbreviation>Lancet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Osteoporosis: now and the future.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1276-87</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S0140-6736(10)62349-5</ELocationID>
+            <Abstract>
+                <AbstractText>Osteoporosis is a common disease characterised by a systemic impairment of bone mass and microarchitecture that results in fragility fractures. With an ageing population, the medical and socioeconomic effect of osteoporosis, particularly postmenopausal osteoporosis, will increase further. A detailed knowledge of bone biology with molecular insights into the communication between bone-forming osteoblasts and bone-resorbing osteoclasts and the orchestrating signalling network has led to the identification of novel therapeutic targets. Novel treatment strategies have been developed that aim to inhibit excessive bone resorption and increase bone formation. The most promising novel treatments include: denosumab, a monoclonal antibody for receptor activator of NF-κB ligand, a key osteoclast cytokine; odanacatib, a specific inhibitor of the osteoclast protease cathepsin K; and antibodies against the proteins sclerostin and dickkopf-1, two endogenous inhibitors of bone formation. This overview discusses these novel therapies and explains their underlying physiology.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rachner</LastName>
+                    <ForeName>Tilman D</ForeName>
+                    <Initials>TD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Endocrinology, Diabetes, and Bone Diseases, Dresden Technical University Medical Centre, Dresden, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khosla</LastName>
+                    <ForeName>Sundeep</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hofbauer</LastName>
+                    <ForeName>Lorenz C</ForeName>
+                    <Initials>LC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01 AG004875</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet</MedlineTA>
+            <NlmUniqueID>2985213R</NlmUniqueID>
+            <ISSNLinking>0140-6736</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D045930">Anabolic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D052117">Benzodioxoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001713">Biphenyl Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050071">Bone Density Conservation Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019485">Bone Morphogenetic Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C501126">DKK1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004164">Diphosphonates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005819">Genetic Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D036341">Intercellular Signaling Peptides and Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011799">Quinazolines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D053245">RANK Ligand</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C422903">SOST protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051153">Wnt Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3VHF2ZD92J</RegistryNumber>
+                <NameOfSubstance UI="C557282">romosozumab</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4EQZ6YO2HI</RegistryNumber>
+                <NameOfSubstance UI="D000069448">Denosumab</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9KD24QGH76</RegistryNumber>
+                <NameOfSubstance UI="C515233">saracatinib</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IS3ESI44W5</RegistryNumber>
+                <NameOfSubstance UI="C557618">BHQ880</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N673F6W2VH</RegistryNumber>
+                <NameOfSubstance UI="C527128">odanacatib</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Climacteric. 2011 Oct;14(5):604-5</RefSource>
+                <PMID Version="1">22016895</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015502" MajorTopicYN="N">Absorptiometry, Photon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045930" MajorTopicYN="N">Anabolic Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000911" MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061067" MajorTopicYN="N">Antibodies, Monoclonal, Humanized</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052117" MajorTopicYN="N">Benzodioxoles</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001713" MajorTopicYN="N">Biphenyl Compounds</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015519" MajorTopicYN="N">Bone Density</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050071" MajorTopicYN="N">Bone Density Conservation Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019485" MajorTopicYN="N">Bone Morphogenetic Proteins</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016723" MajorTopicYN="N">Bone Remodeling</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001862" MajorTopicYN="N">Bone Resorption</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069448" MajorTopicYN="N">Denosumab</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004164" MajorTopicYN="N">Diphosphonates</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005819" MajorTopicYN="N">Genetic Markers</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036341" MajorTopicYN="N">Intercellular Signaling Peptides and Proteins</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010006" MajorTopicYN="N">Osteoblasts</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010010" MajorTopicYN="N">Osteoclasts</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010024" MajorTopicYN="N">Osteoporosis</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015663" MajorTopicYN="Y">Osteoporosis, Postmenopausal</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058866" MajorTopicYN="N">Osteoporotic Fractures</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011799" MajorTopicYN="N">Quinazolines</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053245" MajorTopicYN="N">RANK Ligand</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016032" MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051153" MajorTopicYN="N">Wnt Proteins</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21450337</ArticleId>
+            <ArticleId IdType="pii">S0140-6736(10)62349-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0140-6736(10)62349-5</ArticleId>
+            <ArticleId IdType="pmc">PMC3555696</ArticleId>
+            <ArticleId IdType="mid">NIHMS434215</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 1999 Jan 28;397(6717):315-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9950424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1999 Mar 13;353(9156):878-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10093980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 1999 Sep;140(9):4367-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10465311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 1999 Sep;25(3):255-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10495128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 1999 Oct;140(10):4382-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10499489</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 1999 Oct 13;282(14):1344-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10527181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2005 Feb;16(2):134-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15197546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2005 May;90(5):2816-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15728210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2005 Jun 25-Jul 1;365(9478):2237-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15978932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2005 Jul;15(7):928-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15965026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2005 Nov;19(13):1842-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16123173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2006 Feb 23;354(8):821-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16495394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2006 Jun 17;367(9527):2010-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16782492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2007 Feb;13(2):156-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17237793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2007 Mar;22(3):465-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17144789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2007 Mar 6;146(5):326-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17339618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 May 3;356(18):1809-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17476007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2007 Jun;148(6):2635-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17395698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Aug 30;357(9):905-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17761594</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2007 Oct;22(10):1479-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17663640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 2007;602:143-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17966399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2007 Dec;22(12):1832-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17708711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Subcell Biochem. 2007;45:139-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18193637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem Lett. 2008 Feb 1;18(3):923-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18226527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2008 Jun;93(6):2149-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18381571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Acad Dermatol. 2008 Jul;59(1):125-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18410981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2008 Aug;43(2):222-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18539106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2008 Oct 20;26(30):4875-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18725648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2009 Jan;24(1):153-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18767928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Jan 1;360(1):53-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19118304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med. 2009 Feb;122(2 Suppl):S3-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19187810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Maturitas. 2009 Feb 20;62(2):105-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19135323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2009 Mar;24(3):425-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19016584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Opin Ther Targets. 2009 Apr;13(4):485-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19335070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2009 Apr;24(4):578-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19049336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2009 Apr;119(4):837-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19307728</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem Lett. 2009 Jun 15;19(12):3328-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19442519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2009 Jul 9;114(2):371-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19417213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Pharmacol Ther. 2009 Aug;86(2):175-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19421185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Aug 20;361(8):756-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19671655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Aug 20;361(8):745-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19671656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2009 Nov;45(5):833-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19631303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2010 Feb;46(2):534-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19786130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Mol Med. 2009 Aug;13(8B):2189-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20141614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Joint Surg Am. 2010 Mar;92(3):743-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20194335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2010 Apr;95(4):1496-504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20375217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 Mar;25(3):463-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19775203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 May;25(5):948-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20200929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 May;25(5):937-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19874198</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 Oct;25(10):2256-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20533525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharm Res. 2011 Jan;28(1):159-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20567999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1999 Nov 18;402(6759):304-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10580503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2000 Jun;105(11):1595-604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10841518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 2000;477:293-303</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10849757</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2000 Sep;106(6):R59-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10995794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2000 Oct 16;151(2):311-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11038178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2001 Feb 1;344(5):333-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11172164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2001 Feb;16(2):348-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11204435</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2001 Mar;68(3):577-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11179006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2001 Mar 1;10(5):537-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11181578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2001 Feb 14;285(6):785-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11176917</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2001 May 10;344(19):1434-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11346808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2001 Jun 1;61(11):4432-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11389072</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11581-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11562486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2002 Jun 1;359(9321):1929-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12057569</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2002 Aug;87(8):3609-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12161484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2002 Oct 16;288(15):1889-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12377088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CMAJ. 2002 Nov 12;167(10 Suppl):S1-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12427685</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2003 Apr;111(8):1221-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12697741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2003 Jun 5;1653(1):1-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12781368</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Pract. 2003 Nov-Dec;9(6):544-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14715483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2004 Jan 29;350(5):459-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14749454</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2004 Jul;19(7):1059-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15176987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2004 Jul;19(7):1144-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15176998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2004 Aug;19(8):1241-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15231010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2004 Oct 27;341:19-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15474285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1991 Feb 22;64(4):693-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1997203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1992 Oct;90(4):1622-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1383278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 1992 Sep;7(9):1005-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1414493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1996 Aug 30;273(5279):1236-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8703060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1996 Dec 7;348(9041):1535-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8950879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 Apr 18;89(2):309-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9108485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 1997 Jan;12(1):24-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9240722</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Jun 5;273(23):14363-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9603945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 1998 Dec 23-30;280(24):2077-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9875874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

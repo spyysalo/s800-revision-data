@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21371658</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>05</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-4457</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Infectious diseases</Title>
+                <ISOAbbreviation>Lancet Infect Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Guidelines for hospital-acquired pneumonia and health-care-associated pneumonia: a vulnerability, a pitfall, and a fatal flaw.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>248-52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1473-3099(11)70005-6</ELocationID>
+            <Abstract>
+                <AbstractText>The 2005 American Thoracic Society and Infectious Disease Society of America's guidelines for pneumonia introduced the new category of health-care-associated pneumonia, which increased the number of people to whom the guidelines for multidrug-resistant pathogens applied. Three fundamental issues inherent in the definition of hospital-acquired pneumonia and health-care-associated pneumonia undermined the credibility of these guidelines and the applicability of their recommendations: a vulnerability, a pitfall, and a fatal flaw. The vulnerability is the extreme heterogeneity of the population of patients. The fatal flaw is the failure to accurately diagnose hospital-acquired pneumonia and ventilator-associated pneumonia; inability to distinguish colonisation from infection in respiratory-tract cultures renders the guidelines inherently unstable. The pitfall is spiralling empiricism of antibiotic use for severely ill patients in whom infection might not be present. A vicious circle of antibiotic overuse leading to emergence of resistant microflora can become established, leading to unnecessary use of empirical broad-spectrum combination antibiotics and increased mortality. Controlled studies now show that administration of broad-spectrum combination antibiotic therapy can lead to increased mortality in uninfected patients. Proposed solutions include the use of individualised assessment of patients. Health-care-associated pneumonia should be broken down into several distinct subgroups so narrow-spectrum antibiotic therapy can be used. Emphasis should be placed on defining the microbial cause of the pneumonia rather than reflex administration of empirical combination therapy.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Victor L</ForeName>
+                    <Initials>VL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Special Pathogens Laboratory and Department of Medicine, University of Pittsburgh, Pittsburgh, PA 15219, USA. vly@pitt.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Lancet Infect Dis</MedlineTA>
+            <NlmUniqueID>101130150</NlmUniqueID>
+            <ISSNLinking>1473-3099</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000900" MajorTopicYN="N">Anti-Bacterial Agents</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003428" MajorTopicYN="N">Cross Infection</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018410" MajorTopicYN="N">Pneumonia, Bacterial</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017410" MajorTopicYN="N">Practice Guidelines as Topic</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21371658</ArticleId>
+            <ArticleId IdType="pii">S1473-3099(11)70005-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/S1473-3099(11)70005-6</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

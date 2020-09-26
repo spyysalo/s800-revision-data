@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21155770</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Competitive interactions shape offspring performance in relation to seasonal timing of emergence in Atlantic salmon.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>365-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01783.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Timing of birth/hatching may have strong effects on offspring fitness. Breeding time is generally considered to have evolved to match offspring arrival with optimal seasonal environmental conditions, though this is rarely tested experimentally and factors shaping the relations between timing of birth and reproductive success are often poorly understood. 2. By manipulating incubation temperature of Atlantic salmon embryos, and hence controlling for maternal and genetic effects, we obtained offspring emerging from nests prior to (accelerated), during and after (decelerated) normal emergence times, and accordingly experienced widely different seasonal environmental conditions at emergence (stream temperature range 4-16 °C). The accelerated group emerged at temperatures that are generally considered to be highly sub-optimal for growth and likely imposes strong constraints on feeding and activity, and during a peak in water discharge which is expected to negatively influence habitat availability. 3. In the wild, overall mortality during the period after emergence was 79%, and was significantly affected by both release density and emergence timing. Accelerated offspring, which emerged earliest and experienced the harshest environmental conditions, had both highest survival and largest final body size. The effect was particularly strong at the high density release site, where survival of accelerated offspring was significantly higher than both the normal and decelerated groups. 4. In more controlled semi-natural environments, all developmental groups were able to perform well, but accelerated offspring had a relatively better performance than the later emerging offspring when density was high. Furthermore, the relative performance of the different groups was not sensitive to water discharge regimes (temporally stable vs. fluctuating). 5. These results suggest that the performance of offspring in relation to seasonal timing of emergence is highly affected by competitive interactions in Atlantic salmon. Although a match between phenology and optimal seasonal environmental conditions may be highly important for organisms depending on specific resources that are only available during a limited period of the season, such resources may be available in variable amounts year around for many organisms. For these, offspring success may to a larger degree be shaped by the timing of their hatching/birth relative to each other, and particularly so under high population densities.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal of Animal Ecology © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Skoglund</LastName>
+                    <ForeName>Helge</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Freshwater Ecology and Inland Fisheries, Uni Environment, Thormøhlensgt 49, NO-5006, Bergen, Norway. helge.skoglund@uni.no</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Einum</LastName>
+                    <ForeName>Sigurd</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robertsen</LastName>
+                    <ForeName>Grethe</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049628" MajorTopicYN="N">Body Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004777" MajorTopicYN="N">Environment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009664" MajorTopicYN="N" Type="Geographic">Norway</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011156" MajorTopicYN="N">Population Density</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012098" MajorTopicYN="Y">Reproduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012474" MajorTopicYN="N">Salmon</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012621" MajorTopicYN="N">Seasons</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21155770</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01783.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

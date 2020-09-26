@@ -1,0 +1,816 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21492929</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-547X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>378</Volume>
+                    <Issue>9807</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Dec</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lancet (London, England)</Title>
+                <ISOAbbreviation>Lancet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serotype replacement in disease after pneumococcal vaccination.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1962-73</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S0140-6736(10)62225-8</ELocationID>
+            <Abstract>
+                <AbstractText>Vaccination with heptavalent pneumococcal conjugate vaccine (PCV7) has significantly reduced the burden of pneumococcal disease and has had an important public health benefit. Because this vaccine targets only seven of the more than 92 pneumococcal serotypes, concerns have been raised that non-vaccine serotypes (NVTs) could increase in prevalence and reduce the benefits of vaccination. Indeed, among asymptomatic carriers, the prevalence of NVTs has increased substantially, and consequently, there has been little or no net change in the bacterial carriage prevalence. In many populations, pneumococcal disease caused by NVT has increased, but in most cases this increase has been less than the increase in NVT carriage. We review the evidence for serotype replacement in carriage and disease, and address the surveillance biases that might affect these findings. We then discuss possible reasons for the discrepancy between near-complete replacement in carriage and partial replacement for disease, including differences in invasiveness between vaccine serotypes. We contend that the magnitude of serotype replacement in disease can be attributed, in part, to a combination of lower invasiveness of the replacing serotypes, biases in the pre-vaccine carriage data (unmasking), and biases in the disease surveillance systems that could underestimate the true amount of replacement. We conclude by discussing the future potential for serotype replacement in disease and the need for continuing surveillance.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Weinberger</LastName>
+                    <ForeName>Daniel M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology and Infectious Diseases, Harvard School of Public Health, Boston, MA, USA. weinbergerdm@mail.nih.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malley</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lipsitch</LastName>
+                    <ForeName>Marc</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI048935</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI048935-10</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI066013</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI066013-05</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet</MedlineTA>
+            <NlmUniqueID>2985213R</NlmUniqueID>
+            <ISSNLinking>0140-6736</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000069443">Heptavalent Pneumococcal Conjugate Vaccine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D022242">Pneumococcal Vaccines</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 2012 Apr 14;379(9824):1387-8; author reply 1388-9</RefSource>
+                <PMID Version="1">22500868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 2012 Apr 14;379(9824):1387; author reply 1388-9</RefSource>
+                <PMID Version="1">22500869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 2012 Apr 14;379(9824):1388; author reply 1388-9</RefSource>
+                <PMID Version="1">22500870</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002353" MajorTopicYN="N">Carrier State</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069443" MajorTopicYN="N">Heptavalent Pneumococcal Conjugate Vaccine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011008" MajorTopicYN="N">Pneumococcal Infections</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D022242" MajorTopicYN="N">Pneumococcal Vaccines</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012703" MajorTopicYN="Y">Serotyping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013296" MajorTopicYN="N">Streptococcus pneumoniae</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21492929</ArticleId>
+            <ArticleId IdType="pii">S0140-6736(10)62225-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0140-6736(10)62225-8</ArticleId>
+            <ArticleId IdType="pmc">PMC3256741</ArticleId>
+            <ArticleId IdType="mid">NIHMS339502</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>PLoS Pathog. 2009 Jun;5(6):e1000476</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19521509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2008 Dec 1;47(11):1388-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18959493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2010 Feb;78(2):716-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19948838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2011 Feb;30(2):168-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21298818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2010 Jun 1;50(11):1477-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20420501</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Apr;47(4):1012-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19225097</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2003 Feb;22(2):e1-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12586987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Microbiol. 2011 Jan;60(Pt 1):91-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20864548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2008 Jan 15;46(2):183-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18171248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pediatr. 2010 Nov;169(11):1311-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20495824</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Microbiol Methods. 2008 Dec;75(3):540-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18801391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1996 Jul 27;348(9022):271-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8684225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2010 Feb 25;28(9):2130-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20044050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2010 Apr;29(4):294-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19949357</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2005 Jan;73(1):431-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15618181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2004 Oct 1;39(7):930-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15472842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2008 Nov;27(11):1033-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18955896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2009 Feb;28(2):118-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19116604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Microbiol Infect Dis. 2008 Aug;27(8):717-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18347821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect. 2010 Mar;60(3):200-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20035785</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2007 Mar 22;25(13):2398-405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17028081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Microbiol Infect Dis. 2008 Mar;27(3):191-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18060439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Microbiol Infect Dis. 2009 Jul;28(7):731-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19153783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2009 Jul 15;49(2):205-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19508165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Morb Mortal Wkly Rep. 2009 Jan 16;58(1):1-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19145219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2005 Jul 1;41(1):21-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15937758</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2010 Apr 26;28(19):3445-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20197144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2010 Sep 15;51(6):692-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20715907</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Immunol Med Microbiol. 2007 Oct;51(1):35-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17854472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2010 Jul;126(1):e9-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20547641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Control Clin Trials. 2001 Aug;22(4):438-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11514043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2010 May 1;50(9):1238-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20367225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2002 Apr 1;185(7):927-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11920317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2000 Jun 15;18(25):2895-901</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10812233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2009 Jun 2;27(27):3553-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19464534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Infect. 2009 Nov;15(11):997-1001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19689466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2010 Mar;29(3):251-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19952861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2009 Mar 15;199(6):771-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19434926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2010 Jan 8;28(3):681-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19892042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Jun 10;94(12):6571-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9177259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Infect. 2006 Sep;12(9):867-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16882291</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2008 Nov;27(11):1020-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18845983</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2003 Oct 2;349(14):1341-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14523142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2001 Jul 1;154(1):85-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11427408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2000 Oct 7;356(9237):1210-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11072934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1996 Dec;174(6):1271-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8940218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2007 Jun;26(6):461-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17529859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2006 Apr 1;42(7):907-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16511752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 1999 May-Jun;5(3):336-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10341170</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Microbiol Infect Dis. 2010 Nov;29(11):1449-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20617352</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2007 Oct 15;196(8):1211-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17955440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1999 Oct;180(4):1171-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10479145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2010 Aug 23;28(37):6114-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19490958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2008 Feb;14(2):275-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18258121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2010 Jan 1;201(1):32-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19947881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diagn Microbiol Infect Dis. 2010 Mar;66(3):332-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20159378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diagn Microbiol Infect Dis. 2009 Mar;63(3):271-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19179034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2005 Mar 26-Apr 1;365(9465):1139-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15794968</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Jun;47(6):1750-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19386843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2006 Jun 1;193(11):1487-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16652275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemics. 2010 Jun;2(2):80-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21031138</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med J Aust. 2008 Jul 7;189(1):43-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18601643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Infect. 2009 Nov;15(11):1013-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19673968</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 1999 Nov 12;18(7-8):633-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10547422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 2009 Dec;64(6):1338-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19828490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2008 Aug 15;47(4):476-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18627249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2003 Apr;9(4):424-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12627227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2009 Jun;28(6):455-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19483514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect. 2009 Sep;59(3):188-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19635635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2009 Jul 8;302(2):159-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19584345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Infect. 2008 Sep;14(9):835-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18844684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2007 Oct 15;196(8):1221-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17955441</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2010 May;16(5):816-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20409372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2010 Apr;29(4):289-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19935447</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mayo Clin Proc. 2009 Oct;84(10):871-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19797776</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Vaccine Immunol. 2010 Mar;17(3):325-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20107006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Microbiol Infect Dis. 2007 May;26(5):303-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17457623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2008 Apr;6(4):288-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18340341</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2008 Jun;27(6):519-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18469733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2009 Sep 4;27(40):5513-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19615960</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Microbiol. 2010 Sep;59(Pt 9):1079-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20508002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2009 Mar 15;199(6):776-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19434927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2008 Jan 15;46(2):174-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18171247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2006 Sep 1;194(5):682-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16897668</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2010 Mar 2;28(10):2214-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20056192</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemics. 2009 Mar;1(1):2-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21352747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2009 Jun 24;27(31):4136-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19406190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2009 Jan 1;48(1):57-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19035779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2010 Feb 1;50(3):329-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20047478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1978 Mar;75(3):1534-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">306628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2009 Jul;124(1):e1-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19564254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Paediatr. 2010 Nov;99(11):1686-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20626365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Microbiol. 2009 May;58(Pt 5):584-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19369519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2004 Oct 1;190(7):1203-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15346329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Infect. 2009 Nov;15(11):1002-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19392883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2007 Aug;26(8):667-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17848875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pediatr. 2010 Sep;169(9):1123-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20383524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2007 Sep;26(9):771-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17721369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2009 Nov;28(11):990-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19536041</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2000 Mar;19(3):187-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10749457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2010 Mar 19;28(14):2642-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20096392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2010 Mar;125(3):429-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20176669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiology. 2011 Mar;22(2):199-207</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21646962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

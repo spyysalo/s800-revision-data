@@ -1,0 +1,754 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21163445</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-4465</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Neurology</Title>
+                <ISOAbbreviation>Lancet Neurol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical experience and laboratory investigations in patients with anti-NMDAR encephalitis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>63-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1474-4422(10)70253-2</ELocationID>
+            <Abstract>
+                <AbstractText>Since its discovery in 2007, the encephalitis associated with antibodies against the N-methyl-D-aspartate receptor (NMDAR) has entered the mainstream of neurology and other disciplines. Most patients with anti-NMDAR encephalitis develop a multistage illness that progresses from psychosis, memory deficits, seizures, and language disintegration into a state of unresponsiveness with catatonic features often associated with abnormal movements, and autonomic and breathing instability. The disorder predominantly affects children and young adults, occurs with or without tumour association, and responds to treatment but can relapse. The presence of a tumour (usually an ovarian teratoma) is dependent on age, sex, and ethnicity, being more frequent in women older than 18 years, and slightly more predominant in black women than it is in white women. Patients treated with tumour resection and immunotherapy (corticosteroids, intravenous immunoglobulin, or plasma exchange) respond faster to treatment and less frequently need second-line immunotherapy (cyclophosphamide or rituximab, or both) than do patients without a tumour who receive similar initial immunotherapy. More than 75% of all patients have substantial recovery that occurs in inverse order of symptom development and is associated with a decline of antibody titres. Patients' antibodies cause a titre-dependent, reversible decrease of synaptic NMDAR by a mechanism of crosslinking and internalisation. On the basis of models of pharmacological or genetic disruption of NMDAR, these antibody effects reveal a probable pathogenic relation between the depletion of receptors and the clinical features of anti-NMDAR encephalitis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dalmau</LastName>
+                    <ForeName>Josep</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, University of Pennsylvania School of Medicine, Philadelphia, PA 19104, USA. josep.dalmau@uphs.upenn.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lancaster</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martinez-Hernandez</LastName>
+                    <ForeName>Eugenia</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosenfeld</LastName>
+                    <ForeName>Myrna R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Balice-Gordon</LastName>
+                    <ForeName>Rita</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>RC1 NS068204-01</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA089054-07</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>RC1 NS068204</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01CA89054</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS077851</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA089054</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>1RC1NS068204-01</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet Neurol</MedlineTA>
+            <NlmUniqueID>101139309</NlmUniqueID>
+            <ISSNLinking>1474-4422</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000906">Antibodies</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C409466">NR1 NMDA receptor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016194">Receptors, N-Methyl-D-Aspartate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000906" MajorTopicYN="N">Antibodies</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004660" MajorTopicYN="N">Encephalitis</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007167" MajorTopicYN="N">Immunotherapy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016194" MajorTopicYN="N">Receptors, N-Methyl-D-Aspartate</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21163445</ArticleId>
+            <ArticleId IdType="pii">S1474-4422(10)70253-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/S1474-4422(10)70253-2</ArticleId>
+            <ArticleId IdType="pmc">PMC3158385</ArticleId>
+            <ArticleId IdType="mid">NIHMS316554</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Dev Med Child Neurol. 2002 Apr;44(4):273-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11995896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 2001 Jun;124(Pt 6):1138-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11353730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2008 Dec 2;71(23):1921-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19047564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Aug 21;359(8):842-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18716302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Psychiatry. 1982 Apr;139(4):508-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7065301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Paediatr Anaesth. 2009 Sep;19(9):911-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19691699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Neurol. 1981 Mar;38(3):191-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6162440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Paediatr Neurol. 2011 Mar;15(2):163-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20692195</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 2003 Sep;998:200-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14592876</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nervenarzt. 2010 Apr;81(4):396, 398, 400, passim</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20119656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 2010 Jun;133(Pt 6):1655-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20511282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropsychopharmacology. 2005 Jul;30(7):1324-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15688082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pharmacol. 2007 Jun;71(6):1598-609</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17344353</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2009 Nov;66(5):704-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19938173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1978 May 18;298(20):1116-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">643030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Neurol Scand. 1997 Jun;95(6):367-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9228272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Neurol. 2010 Feb;67(2):250-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20142537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pediatr. 1992 Dec;121(6):845-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1447643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2010 May 11;74(19):1550-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20458074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol. 2004 Oct;251(10):1255-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15503107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Emerg Med. 2000 May;18(4):447-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10802423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol Neurosurg Psychiatry. 2004 Aug;75(8):1135-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15258215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Neurol. 2010 Sep;43(3):217-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20691947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2008 Feb 12;70(7):504-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17898324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Neuropathol. 2009 Dec;118(6):737-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19680671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol. 2011 Jan;258(1):27-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20658246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med J Aust. 2009 Sep 7;191(5):284-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19740054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Neurol Neurosurg. 2002 Sep;104(4):359-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12140105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Neurol. 2008 Dec;7(12):1091-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18851928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol. 2011 Mar;258(3):500-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20878418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2011 Feb 1;26(2):351-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21412839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2008 Jul 15;23(9):1256-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18442127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Gen Psychiatry. 1994 Mar;51(3):199-214</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8122957</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Neurol. 2011 Jun;18(6):929-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20722705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2009 Apr 15;24(5):784-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19217070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Neurol. 2010 Jan;9(1):67-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19962348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1999 Aug 20;98(4):427-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10481908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Neurol. 2008 Sep;65(9):1251</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18779433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J ECT. 2006 Dec;22(4):267-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17143159</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2005 Oct;58(4):594-604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16178029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Clin Pract Neurol. 2007 May;3(5):291-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17479076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 2010 Sep;133(9):2734-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20663977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Rev. 2005 Oct;26(10):353-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16199589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol. 2010 Oct;257(10):1686-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20517615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2010 Apr 28;30(17):5866-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20427647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2007 Dec 11;69(24):2221-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17928579</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epileptic Disord. 2009 Sep;11(3):267-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19713171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2010 Jan;13(1):76-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19915563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2010 Nov 9;75(19):1735-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21060097</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Microbiol Infect Dis. 2009 Dec;28(12):1421-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19718525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol. 2010 Sep;257(9):1568-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20352245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Pediatr. 2010 Dec;22(6):739-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21045695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2007 Jan;61(1):25-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17262855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Psychiatry. 1991 Oct;148(10):1301-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1654746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Neurosci. 2010 Jul;32(2):298-309</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20646055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropsychopharmacology. 1999 Mar;20(3):201-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10063482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1990 Mar 8;322(10):669-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2406598</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AMA Arch Neurol Psychiatry. 1959 Mar;81(3):363-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13626287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol Neurosurg Psychiatry. 2008 Mar;79(3):324-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18032452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Med Child Neurol. 2010 May;52(5):e78-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20041934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2009 Apr;65(4):424-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19338055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2009 Dec 8;73(23):2039-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19996080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropediatrics. 1996 Oct;27(5):270-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8971749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Infect Dis. 2010 Dec;10(12):835-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20952256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurotherapeutics. 2009 Oct;6(4):693-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19789073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anaesth Intensive Care. 2010 Jul;38(4):748-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20715742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Neuropathol. 2002 May;103(5):509-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11935268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2010 May 4;74(18):1473-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20439851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2009 Jul;66(1):11-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19670433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 2010 Feb;38(2):679-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20016378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2010 Oct 19;75(16):1480-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20826712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Emerg Med. 1981 May;10(5):237-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7224271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epileptic Disord. 2009 Sep;11(3):261-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19736168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2010 Sep 7;75(10):e44-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20819992</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicol Appl Pharmacol. 1984 Sep 30;75(3):444-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6540902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 2009 Dec;37(12):3024-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19661801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Neurol. 2010 Jul;67(7):884-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20625099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CNS Spectr. 2000 Jul;5(7):26-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18197153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2010 Jan;67(1):141-2; author reply 142-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20186949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Child Neurol. 2010 Jun;25(6):742-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19833974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Gen Psychiatry. 1995 Dec;52(12):998-1007</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7492260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Crit Care Med. 2010 Mar;11(2):179-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20081552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Neurol. 2010 Aug;9(8):776-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20580615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharm Sci. 1978 Jun;67(6):885-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">660485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Horm Res. 2009;72(4):252-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19786797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Neurol. 2009 Apr;66(4):458-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19364930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol Neurosurg Psychiatry. 2011 Feb;82(2):235-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20667855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2009 Oct 15;587(Pt 20):4931-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19703965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

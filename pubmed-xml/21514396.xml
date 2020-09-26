@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21514396</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal genetics and biology : FG &amp; B</Title>
+                <ISOAbbreviation>Fungal Genet. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Altering sexual reproductive mode by interspecific exchange of MAT loci.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>714-24</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fgb.2011.04.006</ELocationID>
+            <Abstract>
+                <AbstractText>Sexual fungi can be self-sterile (heterothallic, requiring genetically distinct partners) or self-fertile (homothallic, no partner required). In most ascomycetes, a single mating type locus (MAT) controls the ability to reproduce sexually. In the genus Cochliobolus, all heterothallic species have either MAT1-1 or MAT1-2 (but never both) in different individuals whereas all homothallic species carry both MAT1-1 and MAT1-2 in the same nucleus of an individual. It has been demonstrated, previously, that a MAT gene from homothallic Cochliobolus luttrellii can confer self-mating ability on a mat-deleted strain of its heterothallic relative, Cochliobolus heterostrophus. In this reciprocal study, we expressed, separately, the heterothallic C. heterostrophus MAT1-1-1 and MAT1-2-1 genes in a mat-deleted homothallic C. luttrellii strain and asked if this converts homothallic C. luttrellii to heterothallism. We report that: (1) A C. luttrellii transgenic strain carrying C. heterostrophus MAT1-1-1 and a C. luttrellii transgenic strain carrying C. heterostrophus MAT1-2-1 can mate in a heterothallic manner and the fertility of the cross is similar to that of a wild type C. luttrellii self. Full tetrads are always found. (2) A C. luttrellii transgenic strain carrying C. heterostrophus MAT1-1-1 can mate with the parental wild type C. luttrellii MAT1-1;MAT1-2 strain, indicating the latter is able to outcross, a result which was expected but has not been demonstrated previously. (3) A C. luttrellii transgenic strain carrying C. heterostrophus MAT1-2-1 cannot mate with the parental wild type C. luttrellii MAT1-1;MAT1-2 strain, indicating outcrossing specificity. (4) Each transgenic C. luttrellii strain, carrying only a single C. heterostrophus MAT gene, is able to self, although all pseudothecia produced are smaller than those of wild type and fertility is low (about 4-15% of the number of wild type asci). These data support the argument that in Cochliobolus spp., the primary determinant of reproductive mode is MAT itself, and that a heterothallic strain can be made homothallic or a homothallic strain can be made heterothallic by exchange of MAT genes. The selfing ability of transgenic C. luttrellii strains also suggests that both MAT1-1-1 and MAT1-2-1 genes of C. heterostrophus carry equivalent transcription regulatory activities, each capable of promoting sexual development when alone, in a suitable genetic background.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Shun-Wen</ForeName>
+                    <Initials>SW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Pathology &amp; Plant-Microbe Biology, Cornell University, Ithaca, NY 14853, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yun</LastName>
+                    <ForeName>Sung-Hwan</ForeName>
+                    <Initials>SH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Theresa</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turgeon</LastName>
+                    <ForeName>B Gillian</ForeName>
+                    <Initials>BG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Fungal Genet Biol</MedlineTA>
+            <NlmUniqueID>9607601</NlmUniqueID>
+            <ISSNLinking>1087-1845</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001203" MajorTopicYN="N">Ascomycota</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="Y">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049770" MajorTopicYN="Y">Genes, Mating Type, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011995" MajorTopicYN="Y">Recombination, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019076" MajorTopicYN="N">Transgenes</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21514396</ArticleId>
+            <ArticleId IdType="pii">S1087-1845(11)00087-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fgb.2011.04.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

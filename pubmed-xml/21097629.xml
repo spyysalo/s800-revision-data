@@ -1,0 +1,424 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21097629</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome copy numbers and gene conversion in methanogenic archaea.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>734-43</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01016-10</ELocationID>
+            <Abstract>
+                <AbstractText>Previous studies revealed that one species of methanogenic archaea, Methanocaldococcus jannaschii, is polyploid, while a second species, Methanothermobacter thermoautotrophicus, is diploid. To further investigate the distribution of ploidy in methanogenic archaea, species of two additional genera-Methanosarcina acetivorans and Methanococcus maripaludis-were investigated. M. acetivorans was found to be polyploid during fast growth (t(D) = 6 h; 17 genome copies) and oligoploid during slow growth (doubling time = 49 h; 3 genome copies). M. maripaludis has the highest ploidy level found for any archaeal species, with up to 55 genome copies in exponential phase and ca. 30 in stationary phase. A compilation of archaeal species with quantified ploidy levels reveals a clear dichotomy between Euryarchaeota and Crenarchaeota: none of seven euryarchaeal species of six genera is monoploid (haploid), while, in contrast, all six crenarchaeal species of four genera are monoploid, indicating significant genetic differences between these two kingdoms. Polyploidy in asexual species should lead to accumulation of inactivating mutations until the number of intact chromosomes per cell drops to zero (called &quot;Muller's ratchet&quot;). A mechanism to equalize the genome copies, such as gene conversion, would counteract this phenomenon. Making use of a previously constructed heterozygous mutant strain of the polyploid M. maripaludis we could show that in the absence of selection very fast equalization of genomes in M. maripaludis took place probably via a gene conversion mechanism. In addition, it was shown that the velocity of this phenomenon is inversely correlated to the strength of selection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hildenbrand</LastName>
+                    <ForeName>Catherina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Goethe-University, Biocentre, Institute for Molecular Biosciences, Max-von-Laue-Str. 9, D-60438 Frankfurt, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stock</LastName>
+                    <ForeName>Tilmann</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lange</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rother</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soppa</LastName>
+                    <ForeName>Jörg</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>OP0UW79H66</RegistryNumber>
+                <NameOfSubstance UI="D008697">Methane</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D005785" MajorTopicYN="Y">Gene Conversion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018628" MajorTopicYN="Y">Gene Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020745" MajorTopicYN="Y">Genome, Archaeal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008697" MajorTopicYN="N">Methane</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017017" MajorTopicYN="N">Methanococcus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017020" MajorTopicYN="N">Methanosarcina</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011003" MajorTopicYN="N">Ploidies</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21097629</ArticleId>
+            <ArticleId IdType="pii">JB.01016-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01016-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3021236</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nat Rev Genet. 2005 Nov;6(11):836-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16304599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2010 Jan;75(1):149-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19919669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2001 May;2(5):333-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11331899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Extremophiles. 2005 Jun;9(3):219-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15844015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Genet Dev. 2007 Dec;17(6):505-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18006297</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2007 May;176(1):697-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17194771</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 1990 Apr;221(2):273-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2196433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2005 Dec;8(6):745-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16257573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Funct Genomics. 2009;:761512</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20148076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1989 Aug 5;264(22):13043-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2753899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2009 Mar 20;136(6):1044-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19303848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Microbiol. 1958 Dec;19(3):592-606</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13611202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 2005 Apr;29(2):169-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15808740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Astrobiology. 2006 Aug;6(4):546-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16916281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Aug;190(15):5362-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18502873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2011;6(1):e16392</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21305010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1999 Aug;152(4):1315-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10430562</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Oct;178(19):5797-802</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8824630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1992 Oct;132(2):311-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1427031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Microbiol. 1984 Jul;130(7):1597-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6088669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1994 Aug;140 ( Pt 8):1817-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7522844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Bacteriol. 1996 Jul;46(3):727-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8782682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Evol. 2002 Aug;55(2):232-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12107599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Mar;187(5):1856-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15716458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Feb;178(3):633-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8550493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1978 Apr;134(1):71-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">649572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Theor Appl Genet. 2010 Jan;120(2):341-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19657617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Evol. 2003 Jun;56(6):770-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12911039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2006;1:e92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17183724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1997 Aug;179(16):4963-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9260934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiat Res. 2007 Oct;168(4):507-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17903038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2003 Jan;185(1):107-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12486046</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2008 Nov;70(4):938-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18990182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1998 Jun;28(5):883-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9663676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1986 Jul;5(7):1711-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3527695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1984 May;47(5):971-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16346552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Microbiol Methods. 2008 Oct;75(2):201-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18582505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2009 Jul;5(7):e1000552</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19593371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2008 May 20;18(10):R435-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18492478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2005 Jan;6(1):58-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15630422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Microbiol. 2008 Mar;56(3):214-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17990030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1993 Nov 30;32(47):12555-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8251472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2007 Jul 27;130(2):335-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17662947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Oct 5;443(7111):569-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17006450</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

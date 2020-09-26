@@ -1,0 +1,228 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20713166</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal genetics and biology : FG &amp; B</Title>
+                <ISOAbbreviation>Fungal Genet. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of the Aspergillus nidulans biotin biosynthetic gene cluster and use of the bioDA gene as a new transformation marker.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>208-15</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fgb.2010.08.004</ELocationID>
+            <Abstract>
+                <AbstractText>The genes involved in the biosynthesis of biotin were identified in the hyphal fungus Aspergillus nidulans through homology searches and complementation of Escherichia coli biotin-auxotrophic mutants. Whereas the 7,8-diaminopelargonic acid synthase and dethiobiotin synthetase are encoded by distinct genes in bacteria and the yeast Saccharomyces cerevisiae, both activities are performed in A. nidulans by a single enzyme, encoded by the bifunctional gene bioDA. Such a bifunctional bioDA gene is a genetic feature common to numerous members of the ascomycete filamentous fungi and basidiomycetes, as well as in plants and oömycota. However, unlike in other eukaryota, the three bio genes contributing to the four enzymatic steps from pimeloyl-CoA to biotin are organized in a gene cluster in pezizomycotina. The A. nidulans auxotrophic mutants biA1, biA2 and biA3 were all found to have mutations in the 7,8-diaminopelargonic acid synthase domain of the bioDA gene. Although biotin auxotrophy is an inconvenient marker in classical genetic manipulations due to cross-feeding of biotin, transformation of the biA1 mutant with the bioDA gene from either A. nidulans or Aspergillus fumigatus led to the recovery of well-defined biotin-prototrophic colonies. The usefulness of bioDA gene as a novel and robust transformation marker was demonstrated in co-transformation experiments with a green fluorescent protein reporter, and in the efficient deletion of the laccase (yA) gene via homologous recombination in a mutant lacking non-homologous end-joining activity.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Magliano</LastName>
+                    <ForeName>Pasqualina</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Molecular Biology, Biophore Building, University of Lausanne, CH-1015 Lausanne, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flipphi</LastName>
+                    <ForeName>Michel</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanglard</LastName>
+                    <ForeName>Dominique</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poirier</LastName>
+                    <ForeName>Yves</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>BK007850</AccessionNumber>
+                        <AccessionNumber>BK007851</AccessionNumber>
+                        <AccessionNumber>BK007852</AccessionNumber>
+                        <AccessionNumber>BK007853</AccessionNumber>
+                        <AccessionNumber>BK007854</AccessionNumber>
+                        <AccessionNumber>BK007855</AccessionNumber>
+                        <AccessionNumber>BK007856</AccessionNumber>
+                        <AccessionNumber>BK007857</AccessionNumber>
+                        <AccessionNumber>BK007858</AccessionNumber>
+                        <AccessionNumber>BK007859</AccessionNumber>
+                        <AccessionNumber>BK007860</AccessionNumber>
+                        <AccessionNumber>BK007861</AccessionNumber>
+                        <AccessionNumber>BK007862</AccessionNumber>
+                        <AccessionNumber>BK007863</AccessionNumber>
+                        <AccessionNumber>BK007864</AccessionNumber>
+                        <AccessionNumber>BK007865</AccessionNumber>
+                        <AccessionNumber>BK007866</AccessionNumber>
+                        <AccessionNumber>BK007867</AccessionNumber>
+                        <AccessionNumber>BK007868</AccessionNumber>
+                        <AccessionNumber>BK007869</AccessionNumber>
+                        <AccessionNumber>FJ430072</AccessionNumber>
+                        <AccessionNumber>FJ430073</AccessionNumber>
+                        <AccessionNumber>GQ336887</AccessionNumber>
+                        <AccessionNumber>HM366138</AccessionNumber>
+                        <AccessionNumber>HM581672</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Fungal Genet Biol</MedlineTA>
+            <NlmUniqueID>9607601</NlmUniqueID>
+            <ISSNLinking>1087-1845</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004271">DNA, Fungal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6SO6U10H04</RegistryNumber>
+                <NameOfSubstance UI="D001710">Biotin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001233" MajorTopicYN="N">Aspergillus nidulans</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053898" MajorTopicYN="Y">Biosynthetic Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001710" MajorTopicYN="N">Biotin</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004271" MajorTopicYN="N">DNA, Fungal</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018014" MajorTopicYN="N">Gene Transfer Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005800" MajorTopicYN="Y">Genes, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005816" MajorTopicYN="N">Genetic Complementation Test</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005827" MajorTopicYN="N">Genetics, Microbial</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005810" MajorTopicYN="Y">Multigene Family</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012641" MajorTopicYN="N">Selection, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017385" MajorTopicYN="N">Sequence Homology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014170" MajorTopicYN="N">Transformation, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20713166</ArticleId>
+            <ArticleId IdType="pii">S1087-1845(10)00150-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fgb.2010.08.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21118199</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Canopy connectivity and the availability of diverse nesting resources affect species coexistence in arboreal ants.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>352-60</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01779.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Arboreal ants are both diverse and ecologically dominant in the tropics. Such ecologically important groups are likely to be particularly useful in ongoing empirical efforts to understand the processes that regulate species diversity and coexistence. 2. Our study addresses how access to tree-based resources and the diversity of pre-existing nesting cavities affect species diversity and coexistence in tropical arboreal ant assemblages. We focus on assemblage-level responses to these variables at local scales. We first surveyed arboreal ant diversity across three naturally occurring levels of canopy connectivity and a gradient of tree size. We then conducted whole-tree experimental manipulations of canopy connectivity and the diversity of cavity entrance sizes. All work was conducted in the Brazilian savanna or 'cerrado'. 3. Our survey suggested that species richness was equivalent among levels of connectivity. However, there was a consistent trend of lower species density with low canopy connectivity. This was confirmed at the scale of individual trees, with low-connectivity trees having significantly fewer species across all tree sizes. Our experiment demonstrated directly that low canopy connectivity results in significantly fewer species coexisting per tree. 4. A diverse array of cavity entrance sizes did not significantly increase overall species per tree. Nevertheless, cavity diversity did significantly increase the species using new cavities on each tree, the species per tree unique to new cavities, total species using new cavities, and total cavity use. The populations of occupied cavities were consistent with newly founded colonies and new nests of established colonies from other trees. Cavity diversity thus appears to greatly affect new colony founding and colony growth. 5. These results contribute strong evidence that greater resource access and greater cavity diversity have positive effects on species coexistence in local arboreal ant assemblages. More generally, these positive effects are broadly consistent with niche differentiation promoting local species coexistence in diverse arboreal ant assemblages. The contributions of this study to the understanding of the processes of species coexistence are discussed, along with the potential of the focal system for future work on this issue.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal compilation © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Powell</LastName>
+                    <ForeName>Scott</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Biologia, Universidade Federal de Uberlândia, C.P. 593, 38400-902 Uberlândia MG, Brazil. scottpowell@mac.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Costa</LastName>
+                    <ForeName>Alan N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopes</LastName>
+                    <ForeName>Cauê T</ForeName>
+                    <Initials>CT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vasconcelos</LastName>
+                    <ForeName>Heraldo L</ForeName>
+                    <Initials>HL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001000" MajorTopicYN="N">Ants</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044822" MajorTopicYN="Y">Biodiversity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001938" MajorTopicYN="N">Brazil</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020448" MajorTopicYN="N">Ericales</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009425" MajorTopicYN="N">Nesting Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013037" MajorTopicYN="N">Spatial Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014197" MajorTopicYN="N">Trees</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21118199</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01779.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

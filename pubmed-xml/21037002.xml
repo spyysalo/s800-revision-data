@@ -1,0 +1,281 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21037002</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Complete genome sequence of strain HTCC2503T of Parvularcula bermudensis, the type species of the order &quot;Parvularculales&quot; in the class Alphaproteobacteria.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>305-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01205-10</ELocationID>
+            <Abstract>
+                <AbstractText>The order &quot;Parvularculales&quot; represents the seventh order in the class Alphaproteobacteria. Parvularcula bermudensis, the type species of the order, was isolated from the Sargasso Sea using dilution-to-extinction culturing. We present here the complete genome sequence of Parvularcula bermudensis HTCC2503(T), which contains genes for carotenoid biosynthesis, dimethylsulfoniopropionate demethylase, and transduction-like gene transfer agents.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Oh</LastName>
+                    <ForeName>Hyun-Myung</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biology and Ocean Sciences, Inha University, Incheon 402-751, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Ilnam</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vergin</LastName>
+                    <ForeName>Kevin L</ForeName>
+                    <Initials>KL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Dongmin</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rhee</LastName>
+                    <ForeName>Kwang-Hyun</ForeName>
+                    <Initials>KH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giovannoni</LastName>
+                    <ForeName>Stephen J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Jang-Cheon</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>CP002156</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D020561" MajorTopicYN="N">Alphaproteobacteria</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="Y">Genome, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21037002</ArticleId>
+            <ArticleId IdType="pii">JB.01205-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01205-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019957</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Apr 15;31(8):2187-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12682369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Syst Appl Microbiol. 2003 Mar;26(1):76-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12747413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2003 Jul;53(Pt 4):1031-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12892122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2003 Nov;53(Pt 6):1853-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14657114</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2004 Jan;70(1):432-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14711672</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Microbiol. 2004 Jun;6(6):611-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15142250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2004 Jul;54(Pt 4):1101-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15280276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2006 Apr;56(Pt 4):855-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16585706</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2007 Feb;57(Pt 2):270-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17267963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2007 Jul;57(Pt 7):1653-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17625211</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2007 Jul;35(Web Server issue):W52-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17537822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2007 Aug;57(Pt 8):1815-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17684263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2008;9:75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18261238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2008 May;74(10):2933-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18359833</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Microbiol. 2008 Jul;10(7):1771-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18393994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ISME J. 2009 Mar;3(3):364-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19020557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Apr;191(7):2419-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19168610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2009 May;59(Pt 5):998-1001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19406781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Nov;191(22):7144-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19767438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2002 Aug;68(8):3878-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12147485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2002 Aug 8;418(6898):630-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12167859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

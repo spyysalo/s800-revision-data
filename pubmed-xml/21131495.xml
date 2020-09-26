@@ -1,0 +1,239 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21131495</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Complete genome sequence of Burkholderia rhizoxinica, an Endosymbiont of Rhizopus microsporus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>783-4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01318-10</ELocationID>
+            <Abstract>
+                <AbstractText>Burkholderia rhizoxinica is an intracellular symbiont of the phytopathogenic fungus Rhizopus microsporus. The vertically transmitted endosymbiont not only delivers the antimitotic macrolide rhizoxin to its host but is also essential for vegetative spore formation of the fungus. To shed light on the genetic equipment of this model organism, we sequenced the whole genome of B. rhizoxinica HKI 0454, thus providing the first genomic insight into an intracellular mutualist of a fungal species. The 3.75-Mb genome consists of a chromosome and two strain-specific plasmids. The primary metabolism appears to be specialized for the uptake of fungal metabolites. Besides the rhizoxin biosynthesis gene cluster, there are 14 loci coding for nonribosomal peptide synthetase (NRPS) assembly lines, which represent novel targets for genomic mining of cryptic natural products. Furthermore, the endosymbionts are equipped with a repertoire of virulence-related factors, which can now be studied to elucidate molecular mechanisms underlying bacterial-fungal interaction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lackner</LastName>
+                    <ForeName>Gerald</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomolecular Chemistry, Leibniz Institute for Natural Product Research and Infection Biology (HKI), Beutenbergstr. 11a, 07745 Jena, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moebius</LastName>
+                    <ForeName>Nadine</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Partida-Martinez</LastName>
+                    <ForeName>Laila</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hertweck</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>FR687359</AccessionNumber>
+                        <AccessionNumber>FR687360</AccessionNumber>
+                        <AccessionNumber>FR687361</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+                <DataBank>
+                    <DataBankName>RefSeq</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NC_014718</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D019117" MajorTopicYN="N">Burkholderia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002876" MajorTopicYN="N">Chromosomes, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004269" MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="Y">Genome, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010957" MajorTopicYN="N">Plasmids</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21131495</ArticleId>
+            <ArticleId IdType="pii">JB.01318-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01318-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3021220</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2007 Nov;57(Pt 11):2583-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17978222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ISME J. 2008 Jun;2(6):632-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18309361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2009 May;75(9):2982-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19286793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 2009 Dec;17(12):570-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19800796</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2010 Oct 4;49(41):7476-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20718018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2007 May 1;17(9):773-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17412585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2003 Jan;13(1):91-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12529310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1986 Jan;46(1):381-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3753552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Oct 6;437(7060):884-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16208371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2006 Sep 6;128(35):11529-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16939276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chembiochem. 2007 Jan 2;8(1):41-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17154220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ISME J. 2011 Feb;5(2):252-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20720578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

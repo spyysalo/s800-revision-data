@@ -1,0 +1,551 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21148732</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Functional and phylogenetic analysis of ureD in Shiga toxin-producing Escherichia coli.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>875-86</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00922-10</ELocationID>
+            <Abstract>
+                <AbstractText>Enterohemorrhagic Escherichia coli (EHEC) is a food-borne pathogen that can cause severe health complications and utilizes a much lower infectious dose than other E. coli pathotypes. Despite having an intact ure locus, ureDABCEFG, the majority of EHEC strains are phenotypically urease negative under tested conditions. Urease activity potentially assists with survival fitness by enhancing acid tolerance during passage through the stomach or by aiding with colonization in either human or animal reservoirs. Previously, in the EHEC O157:H7 Sakai strain, a point mutation in ureD, encoding a urease chaperone protein, was identified, resulting in a substitution of an amber stop codon for glutamine. This single nucleotide polymorphism (SNP) is observed in the majority of EHEC O157:H7 isolates and correlates with a negative urease phenotype in vitro. We demonstrate that the lack of urease activity in vitro is not solely due to the amber codon in ureD. Our analysis has identified two additional SNPs in ureD affecting amino acid positions 38 and 205, in both cases determining whether the encoded amino acid is leucine or proline. Phylogenetic analysis based on Ure protein sequences from a variety of urease-encoding bacteria demonstrates that the proline at position 38 is highly conserved among Gram-negative bacteria. Experiments reveal that the L38P substitution enhances urease enzyme activity; however, the L205P substitution does not. Multilocus sequence typing analysis for a variety of Shiga toxin-producing E. coli isolates combined with the ureD sequence reveals that except for a subset of the O157:H7 strains, neither the in vitro urease-positive phenotype nor the ureD sequence is phylogenetically restricted.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Steyert</LastName>
+                    <ForeName>Susan R</ForeName>
+                    <Initials>SR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, University of Maryland School of Medicine, Baltimore, MD 21201-1509, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rasko</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaper</LastName>
+                    <ForeName>James B</ForeName>
+                    <Initials>JB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 DK058957</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI021657</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 AI021657</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 AI007540</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32AI007540</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DK58957</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI21657</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029968">Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C086767">UreD protein, Bacteria</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.5</RegistryNumber>
+                <NameOfSubstance UI="D014510">Urease</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029968" MajorTopicYN="N">Escherichia coli Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020125" MajorTopicYN="N">Mutation, Missense</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="Y">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020641" MajorTopicYN="N">Polymorphism, Single Nucleotide</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054323" MajorTopicYN="N">Shiga-Toxigenic Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014510" MajorTopicYN="N">Urease</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21148732</ArticleId>
+            <ArticleId IdType="pii">JB.00922-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00922-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3028682</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Clin Microbiol. 2001 Dec;39(12):4541-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11724879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>DNA Res. 2001 Feb 28;8(1):11-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11258796</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2002 May;68(5):2269-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11976097</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Oct 4;277(40):37139-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12147703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2002 Dec;40(12):4486-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12454140</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2003 Feb;71(2):1026-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12540589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Med B Infect Dis Vet Public Health. 2004 Mar;51(2):82-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15030606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2004 Feb;2(2):123-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15040260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2004 Apr;70(4):2342-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15066830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Apr 9;279(15):15305-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14749331</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Mol Biol. 2003 Dec 13;4:11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14672541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Inorg Biochem. 2004 May;98(5):803-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15134926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2004 Oct;150(Pt 10):3483-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15470125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1983 Mar 24;308(12):681-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6338386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1986;47(2-3):179-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3549453</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1987;53(1):85-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3596251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1988 Sep;170(9):4223-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3045088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Morb Mortal Wkly Rep. 1993 Apr 16;42(14):258-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8459795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1995 Oct;63(10):3790-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7558281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Rev. 1995 Sep;59(3):451-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7565414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Public Health. 1996 Aug;86(8):1142-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8712275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1998 Feb;36(2):598-602</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9466788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiol Infect. 1999 Apr;122(2):185-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10355781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diagn Microbiol Infect Dis. 1999 Jul;34(3):229-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10403103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 1999 Aug 9-23;159(15):1758-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10448779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 1999 Oct 15;150(8):787-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10522649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2005 Feb;43(2):546-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15695643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2005 Nov;73(11):7252-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16239520</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2005 Dec;71(12):8855-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16332882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Res Microbiol. 2006 Mar;157(2):184-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16139482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Infect. 2006 May;12(5):483-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16643528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Microbiol. 2006;6:39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16646962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Braz J Med Biol Res. 2006 Jul;39(7):851-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16862275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Hyg Environ Health. 2006 Nov;209(6):513-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16877040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2007 Feb;75(2):774-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17101645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2007 Mar 20;46(11):3171-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17309280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Appl Microbiol. 2007 Jul;103(1):252-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17584472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Microbiol. 2007;7:57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17578575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Microbiol. 2008;8:121</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18638408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 2008 Dec 1;480(1):51-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18823937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 May 26;106(21):8713-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19439656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2009 Sep;77(9):3713-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19564389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2009 Oct;75(19):6187-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19684176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Recomm Rep. 2009 Oct 16;58(RR-12):1-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19834454</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Foodborne Pathog Dis. 2010 Jan;7(1):107-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19785536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 May;192(9):2294-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20207756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2010 Jul 20;49(28):5859-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20533838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2007 Aug 15;68(3):749-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17510959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Mar 25;105(12):4868-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18332430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiol Infect. 2008 Jun;136(6):761-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17672927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2000 Mar;66(3):1205-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10698793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Jun 6;97(12):6640-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10829079</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Jul 6;406(6791):64-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10894541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2001 Jan 25;409(6819):529-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11206551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2001 Feb;183(4):1423-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11157956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2002 Feb;70(2):1027-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11796646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

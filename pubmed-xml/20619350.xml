@@ -1,0 +1,412 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20619350</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal genetics and biology : FG &amp; B</Title>
+                <ISOAbbreviation>Fungal Genet. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of the GPI-anchored endo β-1,3-glucanase Eng2 of Aspergillus fumigatus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>185-91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fgb.2010.06.011</ELocationID>
+            <Abstract>
+                <AbstractText>A GPI-anchored endo β-1,3-glucanase of Aspergillus fumigatus was characterized. The enzyme encoded by ENG2 (AFUA_2g14360) belongs to the glycoside hydrolase family 16 (GH16). The activity was characterized using a recombinant protein produced by Pichiapastoris. The recombinant enzyme preferentially acts on soluble β-1,3-glucans. Enzymatic analysis of the endoglucanase activity using Carboxymethyl-Curdlan-Remazol Brilliant Blue (CM-Curdlan-RBB) as a substrate revealed a wide temperature optimum of 24-40°C, a pH optimum of 5.0-6.5 and a K(m) of 0.8 mg ml(-1). HPAEC analysis of the products formed by Eng2 when acting on different oligo-β-1,3-glucans confirmed the predicted endoglucanase activity and also revealed a transferase activity for oligosaccharides of a low degree of polymerization. The growth phenotype of the Afeng2 mutant was identical to that of the wt strain.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hartl</LastName>
+                    <ForeName>Lukas</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unité des Aspergillus, Département de Parasitologie et Mycologie, Institut Pasteur, 25 rue du Docteur Roux, 75724 Paris cedex 15, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gastebois</LastName>
+                    <ForeName>Amandine</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aimanianda</LastName>
+                    <ForeName>Vishukumar</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Latgé</LastName>
+                    <ForeName>Jean-Paul</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>07</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Fungal Genet Biol</MedlineTA>
+            <NlmUniqueID>9607601</NlmUniqueID>
+            <ISSNLinking>1087-1845</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.39</RegistryNumber>
+                <NameOfSubstance UI="D004693">Glucan Endo-1,3-beta-D-Glucosidase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001232" MajorTopicYN="N">Aspergillus fumigatus</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004795" MajorTopicYN="N">Enzyme Stability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004693" MajorTopicYN="N">Glucan Endo-1,3-beta-D-Glucosidase</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006863" MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010843" MajorTopicYN="N">Pichia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011994" MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>06</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>06</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20619350</ArticleId>
+            <ArticleId IdType="pii">S1087-1845(10)00123-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fgb.2010.06.011</ArticleId>
+            <ArticleId IdType="pmc">PMC3092853</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Mol Cell Biol. 2000 May;20(9):3245-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10757808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2010 Feb 10;132(5):1724-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20078120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycoconj J. 2001 Mar;18(3):215-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11602805</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Cells. 2002 Feb;7(2):217-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11895484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2002 Nov;46(4):1011-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12421307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2002 Oct;1(5):774-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12455695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Mycol. 2002 Oct;40(5):455-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12462524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2003 May 1;116(Pt 9):1689-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12665550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2004 Mar 19;337(2):243-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15003443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2004 Apr;16(4):874-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15020748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1966 Jan 11;113(1):51-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5940632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1970 Aug 15;227(5259):680-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5432063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1987;56(1):117-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2824287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1993 Jun;31(6):1547-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8100242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Mol Biol. 1995 Jun;28(3):391-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7632911</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1997 Jan 15;243(1-2):315-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9030754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1997 Mar 7;272(10):6238-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9045640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1997 May;143 ( Pt 5):1701-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9168619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2005 Mar;71(3):1531-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15746357</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Jun;56(6):1675-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15916615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Cell. 2005 Jul;97(7):569-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15850449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Nov 4;280(44):37088-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16085651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Dec 2;280(48):39835-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16204227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Microbiol. 2005 Dec;51(6):385-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16328626</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2006 Jan;5(1):207-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16400184</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diagn Microbiol Infect Dis. 2006 Aug;55(4):279-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16626916</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycoconj J. 2006 Nov;23(7-8):501-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17006642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2007 Jan;35(Database issue):D237-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17135202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Feb;63(3):921-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17302808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Protoc. 2007;2(4):953-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17446895</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2007 Jul;6(7):1178-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17496125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Yeast Res. 2007 Sep;7(6):761-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17596184</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2008 Apr;45(4):542-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17933563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Future Microbiol. 2009 Jun;4(5):583-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19492968</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2009 Aug;8(8):1278-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19542306</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS J. 2009 Jul;276(14):3858-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19769746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Jan 22;285(4):2386-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19948732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 May 19;275(20):14882-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10809732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

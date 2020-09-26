@@ -1,0 +1,486 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20980509</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reovirus infection or ectopic expression of outer capsid protein micro1 induces apoptosis independently of the cellular proapoptotic proteins Bax and Bak.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>296-304</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01982-10</ELocationID>
+            <Abstract>
+                <AbstractText>Mammalian orthoreoviruses induce apoptosis in vivo and in vitro; however, the specific mechanism by which apoptosis is induced is not fully understood. Recent studies have indicated that the reovirus outer capsid protein μ1 is the primary determinant of reovirus-induced apoptosis. Ectopically expressed μ1 induces apoptosis and localizes to intracellular membranes. Here we report that ectopic expression of μ1 activated both the extrinsic and intrinsic apoptotic pathways with activation of initiator caspases-8 and -9 and downstream effector caspase-3. Activation of both pathways was required for μ1-induced apoptosis, as specific inhibition of either caspase-8 or caspase-9 abolished downstream effector caspase-3 activation. Similar to reovirus infection, ectopic expression of μ1 caused release into the cytosol of cytochrome c and smac/DIABLO from the mitochondrial intermembrane space. Pancaspase inhibitors did not prevent cytochrome c release from cells expressing μ1, indicating that caspases were not required. Additionally, μ1- or reovirus-induced release of cytochrome c occurred efficiently in Bax(-/-)Bak(-/-) mouse embryonic fibroblasts (MEFs). Finally, we found that reovirus-induced apoptosis occurred in Bax(-/-)Bak(-/-) MEFs, indicating that reovirus-induced apoptosis occurs independently of the proapoptotic Bcl-2 family members Bax and Bak.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wisniewski</LastName>
+                    <ForeName>Meagan L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Baker Institute for Animal Health, College of Veterinary Medicine, Cornell University, Hungerford Hill Road, Ithaca, NY 14853, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Werner</LastName>
+                    <ForeName>Brenda G</ForeName>
+                    <Initials>BG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hom</LastName>
+                    <ForeName>Louis G</ForeName>
+                    <Initials>LG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anguish</LastName>
+                    <ForeName>Lynne J</ForeName>
+                    <Initials>LJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coffey</LastName>
+                    <ForeName>Caroline M</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parker</LastName>
+                    <ForeName>John S L</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI063036</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 AI007618</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 AI07618</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D036022">Capsid Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002352">Carrier Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D024101">Mitochondrial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050998">bcl-2 Homologous Antagonist-Killer Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051028">bcl-2-Associated X Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-43-6</RegistryNumber>
+                <NameOfSubstance UI="D045304">Cytochromes c</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.22.-</RegistryNumber>
+                <NameOfSubstance UI="D020169">Caspases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016466" MajorTopicYN="N">CHO Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036022" MajorTopicYN="N">Capsid Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002352" MajorTopicYN="N">Carrier Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020169" MajorTopicYN="N">Caspases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006224" MajorTopicYN="N">Cricetinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003412" MajorTopicYN="N">Cricetulus</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045304" MajorTopicYN="N">Cytochromes c</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003600" MajorTopicYN="N">Cytosol</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005347" MajorTopicYN="N">Fibroblasts</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006367" MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007425" MajorTopicYN="N">Intracellular Membranes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012089" MajorTopicYN="N">Mammalian orthoreovirus 3</DescriptorName>
+                <QualifierName UI="Q000472" MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008928" MajorTopicYN="N">Mitochondria</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D024101" MajorTopicYN="N">Mitochondrial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D030102" MajorTopicYN="N">Orthoreovirus, Mammalian</DescriptorName>
+                <QualifierName UI="Q000472" MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050998" MajorTopicYN="N">bcl-2 Homologous Antagonist-Killer Protein</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051028" MajorTopicYN="N">bcl-2-Associated X Protein</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20980509</ArticleId>
+            <ArticleId IdType="pii">JVI.01982-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01982-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014156</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Virol. 2006 Sep;80(17):8422-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16912293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Jul 27;282(30):21953-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17540767</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2006 Dec;8(12):1348-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17115033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 May;8(5):405-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17377525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2001 Apr 27;292(5517):727-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11326099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Jul;81(13):6984-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17475657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Jan 23;116(2):205-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14744432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Jan;82(1):161-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17959662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008 Dec;4(12):e1000248</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19112493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2009 Jul 23;138(2):377-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19632185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2008 Dec;27 Suppl 1:S93-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19641510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2009 Nov 13;36(3):487-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19917256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2010 Feb 12;37(3):299-310</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20159550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010;6:e1000980</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20617182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 2000 Apr 10;256(1):42-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10739650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2000 Jul 7;102(1):33-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10929711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2000 Sep;74(17):8135-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10933724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2004 Apr 12;23(16):2861-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15077149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2004;284:307-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15173625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Oct;78(20):11040-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15452224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1991 Dec;65(12):6772-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1719233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1993 Jun;67(6):3446-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8388508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1995 Nov;69(11):6972-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7474116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1996 Nov;70(11):7984-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8892922</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1997 Mar;71(3):2540-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9032397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1998 Aug 28;281(5381):1305-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9721089</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Viral Immunol. 2005;18(1):89-115</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15802955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2006 May;31(5):243-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16595176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Signal. 2006 Sep;18(9):1528-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16442262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods. 2002 Apr;26(4):341-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12054925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Death Differ. 2002 Sep;9(9):926-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12181743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2002 Nov;76(22):11414-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12388702</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2002 Nov 1;111(3):331-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12419244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 2003 Feb 15;283(2):156-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12581736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Death Differ. 2003 Jul;10(7):853-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12815469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2006 Oct;20(12):2147-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16935937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

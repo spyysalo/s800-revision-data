@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971620</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1618-0429</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>47</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of protistology</Title>
+                <ISOAbbreviation>Eur. J. Protistol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cotterillia bromelicola nov. gen., nov. spec., a gonostomatid ciliate (Ciliophora, Hypotricha) from tank bromeliads (Bromeliaceae) with de novo originating dorsal kineties.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>29-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejop.2010.08.003</ELocationID>
+            <Abstract>
+                <AbstractText>Cotterillia bromelicola nov. gen., nov. spec. was discovered in the tanks of the Mexican bromeliad Tillandsia heterophylla. Its morphology, ontogenesis, and 18S rDNA were studied with standard methods. Cotterillia has many cirral rows on both sides of the body. Uniquely, and thus used to diagnose the new genus Cotterillia, it has dorsal kineties originating de novo, producing neokinetal waves where the parental dorsal kineties reorganize to &quot;combined rows&quot;, consisting of dorsal bristles anteriorly and of cirri posteriorly. Thus, up to four generations of bristles and cirri occur on the dorsal body surface. Cotterillia bromelicola has a gonostomatid body and adoral zone of membranelles, while the dense ciliature and the neokinetal waves resemble kahliellid hypotrichs. However, the de novo origin of anlage 1 and the molecular analyses show convincingly that Cotterillia belongs to the GonostomatidaeSmall and Lynn, 1985, for which an improved diagnosis is provided. Thus, neokinetal waves originated several times independently. The molecular differences between Trachelostyla, Gonostomum, and Cotterillia are small (≤ 5%) compared to their distinct morphologies and ontogeneses, suggesting that the 18S rDNA underestimates generic diversity. Our study emphasizes the need of combined morphological, ontogenetic, and molecular investigations to unravel the complex phylogeny and evolution of hypotrich ciliates.</AbstractText>
+                <CopyrightInformation>Published by Elsevier GmbH.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Foissner</LastName>
+                    <ForeName>Wilhelm</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universität Salzburg, FB Organismische Biologie, Hellbrunnerstrasse 34, A-5020 Salzburg, Austria. wilhelm.foissner@sbg.ac.at</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stoeck</LastName>
+                    <ForeName>Thorsten</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>HM750260</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P 20360</GrantID>
+                    <Agency>Austrian Science Fund FWF</Agency>
+                    <Country>Austria</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Eur J Protistol</MedlineTA>
+            <NlmUniqueID>8917383</NlmUniqueID>
+            <ISSNLinking>0932-4739</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016054">DNA, Protozoan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004275">DNA, Ribosomal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016053">RNA, Protozoan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012337">RNA, Ribosomal, 18S</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016798" MajorTopicYN="N">Ciliophora</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016054" MajorTopicYN="N">DNA, Protozoan</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004275" MajorTopicYN="N">DNA, Ribosomal</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020459" MajorTopicYN="N">Genes, rRNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016053" MajorTopicYN="N">RNA, Protozoan</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012337" MajorTopicYN="N">RNA, Ribosomal, 18S</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D031232" MajorTopicYN="N">Tillandsia</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">UKMS40476</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971620</ArticleId>
+            <ArticleId IdType="pii">S0932-4739(10)00053-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejop.2010.08.003</ArticleId>
+            <ArticleId IdType="pmc">PMC3272408</ArticleId>
+            <ArticleId IdType="mid">UKMS40476</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Eur J Protistol. 2007 Nov;43(4):255-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17870427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Protistol. 1991 Nov 29;27(4):313-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23194842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Protozool. 2008 Apr 4;47(1):1-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20700468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Protistol. 2006 Mar;42(1):63-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17070752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Dec 15;25(24):4876-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9396791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biodivers Conserv. 2010 Jan;19(1):291-303</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21472034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Protistol. 2006 Nov;42(4):249-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17113471</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Protistol. 1989 Jul 7;24(4):354-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23195727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Syst Biol. 2008 Oct;57(5):758-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18853362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1988 Nov 30;71(2):491-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3224833</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comput Appl Biosci. 1996 Dec;12(6):543-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9021275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Eukaryot Microbiol. 2007 Mar-Apr;54(2):201-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17403161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

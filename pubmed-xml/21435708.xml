@@ -1,0 +1,1114 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21435708</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-547X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>377</Volume>
+                    <Issue>9773</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Apr</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lancet (London, England)</Title>
+                <ISOAbbreviation>Lancet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Viral pneumonia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1264-75</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S0140-6736(10)61459-6</ELocationID>
+            <Abstract>
+                <AbstractText>About 200 million cases of viral community-acquired pneumonia occur every year-100 million in children and 100 million in adults. Molecular diagnostic tests have greatly increased our understanding of the role of viruses in pneumonia, and findings indicate that the incidence of viral pneumonia has been underestimated. In children, respiratory syncytial virus, rhinovirus, human metapneumovirus, human bocavirus, and parainfluenza viruses are the agents identified most frequently in both developed and developing countries. Dual viral infections are common, and a third of children have evidence of viral-bacterial co-infection. In adults, viruses are the putative causative agents in a third of cases of community-acquired pneumonia, in particular influenza viruses, rhinoviruses, and coronaviruses. Bacteria continue to have a predominant role in adults with pneumonia. Presence of viral epidemics in the community, patient's age, speed of onset of illness, symptoms, biomarkers, radiographic changes, and response to treatment can help differentiate viral from bacterial pneumonia. However, no clinical algorithm exists that will distinguish clearly the cause of pneumonia. No clear consensus has been reached about whether patients with obvious viral community-acquired pneumonia need to be treated with antibiotics. Apart from neuraminidase inhibitors for pneumonia caused by influenza viruses, there is no clear role for use of specific antivirals to treat viral community-acquired pneumonia. Influenza vaccines are the only available specific preventive measures. Further studies are needed to better understand the cause and pathogenesis of community-acquired pneumonia. Furthermore, regional differences in cause of pneumonia should be investigated, in particular to obtain more data from developing countries.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ruuskanen</LastName>
+                    <ForeName>Olli</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Paediatrics, Turku University Hospitals, Turku, Finland. olli.ruuskanen@tyks.fi</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lahti</LastName>
+                    <ForeName>Elina</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jennings</LastName>
+                    <ForeName>Lance C</ForeName>
+                    <Initials>LC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murdoch</LastName>
+                    <ForeName>David R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet</MedlineTA>
+            <NlmUniqueID>2985213R</NlmUniqueID>
+            <ISSNLinking>0140-6736</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000998">Antiviral Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017677" MajorTopicYN="N">Age Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000367" MajorTopicYN="N">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000998" MajorTopicYN="N">Antiviral Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017714" MajorTopicYN="N">Community-Acquired Infections</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015897" MajorTopicYN="N">Comorbidity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003906" MajorTopicYN="N">Developing Countries</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014943" MajorTopicYN="N">Global Health</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007121" MajorTopicYN="N">Immunocompetence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008168" MajorTopicYN="N">Lung</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058873" MajorTopicYN="N">Pandemics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018410" MajorTopicYN="N">Pneumonia, Bacterial</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011024" MajorTopicYN="Y">Pneumonia, Viral</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011859" MajorTopicYN="N">Radiography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013048" MajorTopicYN="N">Specimen Handling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014481" MajorTopicYN="N">United States</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21435708</ArticleId>
+            <ArticleId IdType="pii">S0140-6736(10)61459-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0140-6736(10)61459-6</ArticleId>
+            <ArticleId IdType="pmc">PMC7138033</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Arch Dis Child. 2010 Jan;95(1):35-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19822538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2010 Jul;65(7):645-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20627925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2008 Jul;63(7):658-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18587038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Dec 8;168(22):2489-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19064834</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Dis Child. 1984 Nov;59(11):1038-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6391389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 1999 Sep;29(3):568-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10530449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Jan;47(1):21-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19020070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2007 Dec 15;196(12):1754-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18190255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2010 Jun 5;375(9730):1969-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20466419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2010 Sep 28;341:c4779</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20876641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Crit Care Med. 1999 Aug;160(2):397-405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10430704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 1993 May 1;137(9):977-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8317455</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Crit Care Med. 2008 Oct 15;178(8):876-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18658110</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2007 Apr 1;195(7):1038-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17330795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2009 Mar;64(3):252-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19052043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2009 Dec;124(6):1694-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19736258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2008 May 15;46(10):1513-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18419484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2002 Sep;21(9):873-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12352814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Infect Dis. 2008 Sep 21;8:122</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18803877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Respir Med. 2005 Sep;99(9):1079-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16085210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2002 Nov;40(11):4337-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12409425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2005 Aug 1;41(3):345-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16007532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2000 Mar;30(3):611-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10722460</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Infect Dis. 2010 Jun 07;10:155</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20525408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 1989 Dec;8(12):856-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2516622</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pediatr. 2010 Jan;156(1):115-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19782998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Pulmonol. 2010 Feb;45(2):120-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19960524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Respirology. 2008 Nov;13(7):950-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18922142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2007 Mar 1;44 Suppl 2:S27-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17278083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Int. 2008 Aug;50(4):589-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18937761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2006 Jun;44(6):2063-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16757599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2006 Sep;3(9):e343</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16968120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2007 Apr;79(4):463-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17311326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2002 May;57(5):438-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11978922</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2010 Jul;48(7):2387-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20484608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2008 May;172(5):1155-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18403604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2010 Jan 15;50(2):202-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20014950</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scand J Infect Dis. 2009;41(1):45-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18821175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Jpn J Infect Dis. 2008 Nov;61(6):446-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19050351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Nov;47(11):3439-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19726607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Nov;47(11):3405-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19741073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2007 Nov 1;196(9):1321-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17922396</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2008 Feb;27(2):95-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18174874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1998 Feb;36(2):539-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9466772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chest. 2010 Oct;138(4):811-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20363845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2009 Apr;28(4):337-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19258921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2004 Aug;10(8):811-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15247911</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect. 2004 Nov;49(4):262-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15474623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Chemother. 2006 Apr;12(2):63-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16648944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2003 Jun;111(6 Pt 1):1407-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12777560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2009 Jul;28(7):572-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19478685</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2008 Jun 21;336(7658):1429-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18566081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Crit Care Med. 2010 Jan 1;181(1):72-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19875682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Respir Med. 2007 Oct;101(10):2168-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17629472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Rev Anti Infect Ther. 2010 May;8(5):575-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20455686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Virol. 2008 Jul;42(3):268-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18455958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pediatr. 2004 Mar;163(3):140-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14758544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2008 Feb 1;197(3):382-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18248302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2010 May 1;50(9):1249-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20367227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 2006 Feb;54(2):284-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16460380</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2008 Oct;122(4):805-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18829805</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 1998 Nov;17(11):986-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9849979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2004 Sep 1;39(5):681-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15356783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2009 Oct;64 Suppl 3:iii1-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19783532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2002 May;57 Suppl 1:i1-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11994552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Haematol. 2009 Jun;145(5):667-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19344395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2009 Oct 31;374(9700):1543-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19880020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Med Virol. 2004 Jan-Feb;14(1):17-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14716689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Pediatr. 2002 Aug 16;2:6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12184818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2008 Oct;80(10):1843-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18712820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Dec 31;361(27):2591-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19940287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2007 Sep 1;196(5):705-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17674312</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2009 Nov 4;302(17):1896-902</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19887665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Thorac Imaging. 2010 Feb;25(1):68-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20160606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2009 Apr 15;48(8):1003-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19281331</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Pathol. 2010 Oct;63(10):930-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20876328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Dec 3;361(23):2204-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19884645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2010 Jul 15;202(2):214-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20533881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2007 Mar 15;195(6):773-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17299706</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2008 Mar;121(3):e631-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18310182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Rev Vaccines. 2008 Feb;7(1):25-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18251691</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2004 Jan 29;350(5):443-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14749452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2009 Aug 10;339:b3172</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19666987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Intern Med. 2007;46(13):953-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17603232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mod Pathol. 2007 Jan;20(1):108-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17143259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2009 Nov 4;302(17):1872-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19822627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2007 Nov;26(11):995-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17984805</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scand J Infect Dis. 2005;37(11-12):806-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16308213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2010 Mar 1;50(5):747-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20121411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Nov 12;361(20):2001-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19907053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2008 Jan;63(1):42-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17573440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2004 Nov;23(11):1003-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15545854</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2010 May 1;50(9):1258-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20235830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2010 Jul;48(7):2325-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20421436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Rev. 2008 Apr;21(2):291-304, table of contents</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18400798</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2001 Apr;56(4):296-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11254821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Dis Clin North Am. 2010 Sep;24(3):791-807</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20674804</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2002 Feb 7;346(6):429-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11832532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Crit Care Med. 2010 Feb 15;181(4):300-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20130145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2009 Oct;81(10):1831-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19697407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 1994 Nov;13(11):975-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7845751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2010 Jul;177(1):166-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20508031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2007 Oct;26(10):904-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17901795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antivir Ther. 2006;11(3):351-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16759052</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2010 May 1;375(9725):1545-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20399493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 1997 Dec;25(6):1421-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9431390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scand J Infect Dis. 2008;40(2):131-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17852937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull World Health Organ. 2008 May;86(5):408-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18545744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2009 Sep;15(9):1423-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19788810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2009 Feb;15(2):344-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19193292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2005 Dec 1;192(11):1898-907</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16267760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Chemother. 2008 Dec;14(6):424-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19089556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2008 Oct;27(10):939-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18756190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2008 Nov;27(11):963-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18845982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Infect Dis. 2011 Jan;11(1):23-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21106443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2003 Dec 13;362(9400):1991-2001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14683661</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Postgrad Med. 2010 Mar;122(2):130-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20203464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1999 Jan;179(1):25-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9841818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AJR Am J Roentgenol. 2009 Dec;193(6):1488-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19933638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Allergy Clin Immunol. 2009 Jan;123(1):98-104.e1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19027147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Antimicrob Agents. 2010 May;35(5):421-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20185273</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Microbiol Infect Dis. 1988 Jun;7(3):342-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3137033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Paediatr Child Health. 2004 Sep-Oct;40(9-10):549-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15367150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2005 Sep 29;353(13):1374-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16192482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2005 Apr 28;352(17):1749-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15858184</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2010 May 26;303(20):2051-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20501927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2010 May 6;362(18):1708-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20445182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Rev. 2006 Jul;19(3):571-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16847087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 1991 Jan;10(1):42-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2003054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chest. 2008 Dec;134(6):1141-1148</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18689592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Intern Med. 2004 Oct;15(6):364-370</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15522570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Heart Lung Transplant. 2007 Sep;26(9):883-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17845926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2007 May 1;44(9):1152-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17407031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Natl Med Assoc. 2008 Apr;100(4):370-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18481475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2010 Sep;16(9):1463-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20735934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009 Dec 31;4(12):e8540</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20046873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diagn Microbiol Infect Dis. 2010 Jul;67(3):246-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20542205</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2003 May 24;361(9371):1773-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12781536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2009 Jan;81(1):167-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19031448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pediatr. 2009 Dec;168(12):1429-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19238436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2007 Aug;26(8):753-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17848893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2008 Aug;80(8):1452-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18551601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2003 Jan 8;289(2):179-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12517228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Crit Care Med. 2005 Mar 1;171(5):518-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15591472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2001 Mar 1;32(5):715-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11229839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2000 Apr;19(4):293-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10783017</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2008 Oct 1;198(7):962-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18710327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2001 May;20(5):495-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11368106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2000 Dec;55(12):1040-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11083890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Infect Dis J. 2008 Dec;27(12):1103-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18978518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

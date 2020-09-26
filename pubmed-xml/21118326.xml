@@ -1,0 +1,456 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21118326</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>06</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2583</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Insect molecular biology</Title>
+                <ISOAbbreviation>Insect Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular structure of the prothoracicotropic hormone gene in the northern house mosquito, Culex pipiens, and its expression analysis in association with diapause and blood feeding.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>201-13</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2583.2010.01058.x</ELocationID>
+            <Abstract>
+                <AbstractText>We cloned the gene that encodes prothoracicotropic hormone (PTTH) in the northern house mosquito, Culex pipiens, and investigated its expression profile in short-day (diapause-destined) and long-day (nondiapause-destined) individuals from the fourth-instar larval stage to 2 months of adulthood, as well as after a blood meal. The deduced C. pipiens PTTH (Cupip-PTTH) amino acid sequence contains seven cysteines with a specific spacing pattern. Sequence alignment suggests that Cupip-PTTH is 23% identical to Drosophila melanogaster PTTH, but is ≥59% identical to the PTTHs of other mosquitoes. Cupip-PTTH has structural characteristics similar to those of Bombyx mori PTTH and some vertebrate nerve growth factors with cysteine-knot motifs. PTTH transcripts exhibit a daily cycling profile during the final (fourth) larval instar, with peak abundance occurring late in the scotophase. The fourth-larval instar stage is one day longer in short-day larvae than in long-day larvae, resulting in larger larvae and adults. This additional day of larval development is associated with one extra PTTH cycle. No cycling was observed in pupae, but PTTH transcripts were slightly higher in short-day pupae than in long-day pupae throughout much of the pupal stage. PTTH expression persisted at a nearly constant level in diapausing adult females for the first month but then dropped by ∼50%, while expression decreased at the beginning of adulthood in nondiapausing females and then remained at a low level as long as the females were denied a blood meal. However, when nondiapausing females were offered a blood meal, PTTH transcripts rose approximately 7 fold in 2 h and remained elevated for 24 h. A few diapausing females (∼10%) will take a blood meal when placed in close proximity to a host, but much of the blood is ejected and such meals do not result in mature eggs. Yet, elevated PTTH mRNA expression was also observed in diapausing females that were force fed. Our results thus point to several distinctions in PTTH expression between short-day and long-day mosquitoes, but both types of females responded to a blood meal by elevating levels of PTTH mRNA.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Insect Molecular Biology © 2010 The Royal Entomological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Q</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology, Ohio State University, Columbus, OH 43210, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Denlinger</LastName>
+                    <ForeName>D L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>HM246665</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI058279</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI058279-05</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Insect Mol Biol</MedlineTA>
+            <NlmUniqueID>9303579</NlmUniqueID>
+            <ISSNLinking>0962-1075</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006023">Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007301">Insect Hormones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019476">Insect Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>61583-57-1</RegistryNumber>
+                <NameOfSubstance UI="C009089">prothoracicotropic hormone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012831" MajorTopicYN="N">Bombyx</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003001" MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003465" MajorTopicYN="N">Culex</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005247" MajorTopicYN="N">Feeding Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018507" MajorTopicYN="N">Gene Expression Regulation, Developmental</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006023" MajorTopicYN="N">Glycoproteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007301" MajorTopicYN="N">Insect Hormones</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019476" MajorTopicYN="N">Insect Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007814" MajorTopicYN="N">Larva</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008675" MajorTopicYN="N">Metamorphosis, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011679" MajorTopicYN="N">Pupa</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016415" MajorTopicYN="N">Sequence Alignment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21118326</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2583.2010.01058.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3059851</ArticleId>
+            <ArticleId IdType="mid">NIHMS246795</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>FEBS Lett. 1995 Dec 4;376(3):251-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7498553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Dev Biol. 1994 Jun;38(2):301-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7981038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Feb 13;273(7):3967-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9461584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Electrophoresis. 1997 Dec;18(15):2714-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9504803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Entomol. 1999 May;36(3):355-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10337107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2005;6:5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15651988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Insect Physiol. 2005 Jun;51(6):691-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15869761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2005 Aug;14(4):365-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16033430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Nov 1;102(44):15912-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16247003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol A Mol Integr Physiol. 2006 Jul;144(3):351-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16702005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci China C Life Sci. 2007 Aug;50(4):466-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17653666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2007 Aug;24(8):1596-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17488738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Insect Physiol. 2007 Aug;53(8):760-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17532002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Cell. 2007 Dec;13(6):857-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18061567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2008;9:40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18215316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 May 6;105(18):6777-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18448677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Protoc. 2009;4(3):363-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19247286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Insect Biochem Physiol. 2009 Apr;70(4):217-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19241458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2009 Jun;18(3):325-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19523064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Genomics. 2009 Nov 6;39(3):202-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19706691</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Insect Physiol. 2010 Feb;56(2):138-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19782689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Peptides. 2010 Mar;31(3):506-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19723550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Bull. 1947 Oct;93(2):89-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20268135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 2011;56:103-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20690828</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 2002;47:883-916</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11729094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2002 Feb;32(2):233-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11755069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2002 Jun 18;3(7):RESEARCH0034</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12184808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Oct 4;298(5591):172-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12364794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2003 Aug;33(8):795-801</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12878226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2003 Oct;12(5):509-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12974956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Peptides. 2003 Sep;24(9):1319-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14706546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Entomol. 1974 Jun 15;11(2):223-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4851698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol A Comp Physiol. 1986;83(2):325-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2869872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Entomol. 1989 Jul;26(4):332-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2769714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1990 Mar 16;247(4948):1333-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2315701</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1994 Mar 1;220(2):633-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8125124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1994 May 17;33(19):5912-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8180220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 1996 Sep 15;178(2):418-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8812139</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

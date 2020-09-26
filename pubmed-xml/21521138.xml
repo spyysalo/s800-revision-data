@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21521138</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-2442</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of insect science (Online)</Title>
+                <ISOAbbreviation>J. Insect Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tortricid moths reared from the invasive weed Mexican palo verde, Parkinsonia aculeata, with comments on their host specificity, biology, geographic distribution, and systematics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1673/031.011.0107</ELocationID>
+            <Abstract>
+                <AbstractText>As part of efforts to identify native herbivores of Mexican palo verde, Parkinsonia aculeata L. (Leguminosae: Caesalpinioideae), as potential biological control agents against this invasive weed in Australia, ten species of Tortricidae (Lepidoptera) were reared from Guatemala, Mexico, Nicaragua, and Venezuela: Amorbia concavana (Zeller), Platynota rostrana (Walker), Platynota helianthes (Meyrick), Platynota stultana Walsingham (all Tortricinae: Sparganothini), Rudenia leguminana (Busck), Cochylis sp. (both Tortricinae: Cochylini), Ofatulena duodecemstriata (Walsingham), O. luminosa Heinrich, Ofatulena sp. (all Olethreutinae: Grapholitini), and Crocidosema lantana Busck (Olethreutinae: Eucosmini). Significant geographic range extensions are provided for O. duodecemstriata and R. leguminana. These are the first documented records of P. aculeata as a host plant for all but O. luminosa. The four species of Sparganothini are polyphagous; in contrast, the two Cochylini and three Grapholitini likely are specialists on Leguminosae. Ofatulena luminosa is possibly host specific on P. aculeata. Host trials with Rudenia leguminana also provide some evidence of specificity, in contrast to historical rearing records. To examine the possibility that R. leguminana is a complex of species, two data sets of molecular markers were examined: (1) a combined data set of two mitochondrial markers (a 781-basepair region of cytochrome c oxidase I (COI) and a 685-basepair region of cytochrome c oxidase II) and one nuclear marker (a 531-basepair region of the 28S domain 2); and (2) the 650-basepair &quot;barcode&quot; region of COI. Analyses of both data sets strongly suggest that individuals examined in this study belong to more than one species.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>John W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Systematic Entomology Laboratory, Plant Sciences Institute, ARS, U.S. Department of Agriculture, National Museum of Natural History, Washington, DC 20013-7012, USA. john.brown@ars.usda.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Segura</LastName>
+                    <ForeName>Ricardo</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santiago-Jiménez</LastName>
+                    <ForeName>Quiyari</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rota</LastName>
+                    <ForeName>Jadranka</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heard</LastName>
+                    <ForeName>Tim A</ForeName>
+                    <Initials>TA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Insect Sci</MedlineTA>
+            <NlmUniqueID>101096396</NlmUniqueID>
+            <ISSNLinking>1536-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004275">DNA, Ribosomal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.9.3.1</RegistryNumber>
+                <NameOfSubstance UI="D003576">Electron Transport Complex IV</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002489" MajorTopicYN="N" Type="Geographic">Central America</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004275" MajorTopicYN="N">DNA, Ribosomal</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003710" MajorTopicYN="Y">Demography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003576" MajorTopicYN="N">Electron Transport Complex IV</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007887" MajorTopicYN="N">Fabaceae</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005843" MajorTopicYN="N">Geography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058507" MajorTopicYN="N">Host Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058865" MajorTopicYN="Y">Introduced Species</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016013" MajorTopicYN="N">Likelihood Functions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008800" MajorTopicYN="N" Type="Geographic">Mexico</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="N">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009036" MajorTopicYN="N">Moths</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014687" MajorTopicYN="N" Type="Geographic">Venezuela</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058728" MajorTopicYN="N">Weed Control</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21521138</ArticleId>
+            <ArticleId IdType="doi">10.1673/031.011.0107</ArticleId>
+            <ArticleId IdType="pmc">PMC3281301</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Bioinformatics. 2001 Aug;17(8):754-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11524383</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 2003 Aug 7;270 Suppl 1:S96-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12952648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>New Phytol. 2007;175(3):575-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17635232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 1998;14(9):817-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9918953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Oct 12;101(41):14812-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15465915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

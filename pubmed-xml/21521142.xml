@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21521142</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-2442</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of insect science (Online)</Title>
+                <ISOAbbreviation>J. Insect Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evidence for the higher importance of signal size over body size in aposematic signaling in insects.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1673/031.011.0104</ELocationID>
+            <Abstract>
+                <AbstractText>To understand the evolution of warning coloration, it is important to distinguish between different aspects of conspicuous color patterns. As an example, both pattern element size and body size of prey have been shown to enhance the effectiveness of warning signals. However, it is unclear whether the effect of body size is merely a side effect of proportionally increasing pattern elements, or if there is an effect of body size per se. These possibilities were evaluated by offering different sized artificial caterpillars with either fixed or proportionally increasing aposematic color signal elements to wild great tits, Parus major L. (Passeriformes: Paridae). The birds' hesitation time to attack each &quot;caterpillar&quot; was used as a measure of the warning effect. The hesitation time showed a significant, positive size-dependence with the caterpillars whose pattern elements increased proportionally with their body size. In contrast, no size dependence was found in the larvae with fixed-size signal elements. Such a difference in mortality curves is consistent with the idea that pattern element size is a more important aspect than body size in enhancing a warning signal. Since no evidence of an effect of body size per se on signal efficiency was found, this study does not support the hypothesis that aposematic insects gain more from large size than cryptic ones.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Remmel</LastName>
+                    <ForeName>Triinu</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, Institute of Ecology and Earth Sciences, University of Tartu, 46 Vanemuise Street, Tartu 51014, Estonia. triinu.remmel@ut.ee</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tammarub</LastName>
+                    <ForeName>Toomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Insect Sci</MedlineTA>
+            <NlmUniqueID>101096396</NlmUniqueID>
+            <ISSNLinking>1536-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000220" MajorTopicYN="N">Adaptation, Biological</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000819" MajorTopicYN="Y">Animal Communication</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049628" MajorTopicYN="N">Body Size</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007814" MajorTopicYN="N">Larva</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007915" MajorTopicYN="N">Lepidoptera</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016015" MajorTopicYN="N">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046109" MajorTopicYN="N">Passeriformes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010858" MajorTopicYN="N">Pigmentation</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011235" MajorTopicYN="N">Predatory Behavior</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21521142</ArticleId>
+            <ArticleId IdType="doi">10.1673/031.011.0104</ArticleId>
+            <ArticleId IdType="pmc">PMC3281300</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Anim Behav. 2000 Jul;60(1):95-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10924208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 2001 Jan 22;268(1463):159-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11209885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2001 Oct 4;413(6855):512-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11586357</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2003 Dec;57(12):2904-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14761068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Nat. 2004 Apr;163(4):532-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15122501</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 2005 Jul 7;272(1570):1315-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16006332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Ecol Evol. 2005 Nov;20(11):598-603</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16701442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2007 Mar 21;245(2):268-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17157321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2006 Nov;60(11):2246-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17236418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2007 Mar;61(3):623-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17348925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2008 Nov;62(11):2913-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18752602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2009 Feb;63(2):469-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19154362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 1997 Jul;111(2):292-296</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28308006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 1996 Oct 22;263(1375):1329-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8914330</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

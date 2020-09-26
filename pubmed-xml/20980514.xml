@@ -1,0 +1,423 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20980514</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Domain structure of Lassa virus L protein.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>324-33</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.00721-10</ELocationID>
+            <Abstract>
+                <AbstractText>The 200-kDa L protein of arenaviruses plays a central role in viral genome replication and transcription. This study aimed at providing evidence for the domain structure of L protein by combining bioinformatics with a stepwise mutagenesis approach using the Lassa virus minireplicon system. Potential interdomain linkers were predicted using various algorithms. The prediction was challenged by insertion of flexible sequences into the predicted linkers. Insertion of 5 or 10 amino acid residues was tolerated at seven sites (S407, G446, G467, G774, G939, S1952, and V2074 in Lassa virus AV). At two of these sites, G467 and G939, L protein could be split into an N-terminal and a C-terminal part, which were able to trans-complement each other and reconstitute a functional complex upon coexpression. Coimmunoprecipitation studies revealed physical interaction between the N- and C-terminal domains, irrespective of whether L protein was split at G467 or G939. In confocal immunofluorescence microscopy, the N-terminal domains showed a dot-like, sometimes perinuclear, cytoplasmic distribution similar to that of full-length L protein, while the C-terminal domains were homogenously distributed in cytoplasm. The latter were redistributed into the dot-like structures upon coexpression with the corresponding N-terminal domain. In conclusion, this study demonstrates two interdomain linkers in Lassa virus L protein, at G467 and G939, suggesting that L protein is composed of at least three structural domains spanning residues 1 to 467, 467 to 939, and 939 to 2220. The first domain seems to mediate accumulation of L protein into cytoplasmic dot-like structures.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brunotte</LastName>
+                    <ForeName>Linda</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Strasse 74, D-20359 Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lelke</LastName>
+                    <ForeName>Michaela</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hass</LastName>
+                    <ForeName>Meike</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kleinsteuber</LastName>
+                    <ForeName>Katja</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Becker-Ziaja</LastName>
+                    <ForeName>Beate</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Günther</LastName>
+                    <ForeName>Stephan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014764">Viral Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006224" MajorTopicYN="N">Cricetinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005455" MajorTopicYN="N">Fluorescent Antibody Technique</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047468" MajorTopicYN="N">Immunoprecipitation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007836" MajorTopicYN="N">Lassa virus</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018613" MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016296" MajorTopicYN="N">Mutagenesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012093" MajorTopicYN="N">Replicon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014764" MajorTopicYN="N">Viral Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20980514</ArticleId>
+            <ArticleId IdType="pii">JVI.00721-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.00721-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014181</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Virol. 2000 Apr;74(8):3470-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10729120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2001 Dec;75(24):12241-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11711615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2002 Jul;76(14):7322-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12072530</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Jun 21;296(5576):2218-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12077417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2002 Dec 20;304(2):235-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12504565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Eng. 2002 Nov;15(11):871-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12538906</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2003 Apr;12(4):696-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12649427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2003 Mar 22;19(5):673-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12651735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Oct;77(19):10700-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12970458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Oct 28;100(22):12978-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14563923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Jan 6;101(1):308-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14691253</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2004 Jan 5;318(1):153-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14972544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2004 Jan 5;318(1):439-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14972569</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Clin Lab Sci. 2004;41(4):339-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15487592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1984 Dec;52(3):897-904</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6492264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 1987 Dec;161(2):448-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3318094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1989 May;63(5):1938-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2704071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1990 Dec;64(12):6196-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2243392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1992 Mar;66(3):1370-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1738196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1993 May;67(5):2621-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7682625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1995 Aug 28;371(1):9-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7664891</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 1997 Mar;78 ( Pt 3):547-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9049403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1999 Jan;73(1):251-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9847328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Dec;78(24):13793-803</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15564487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Jun;79(11):7262-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15890965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2005 Jul 1;33(Web Server issue):W72-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15980571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2005 Jul 29;350(5):1061-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15978619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Apr 16;458(7240):909-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19194458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Apr 16;458(7240):914-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19194459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Dec;83(23):12241-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19793815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Dec;83(24):12779-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19812169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 Feb;84(4):1934-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20007273</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Nov;79(22):14330-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16254367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Aug;80(16):7789-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16873236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Dec;81(24):13649-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17898047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2008 Feb;89(Pt 2):520-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18198383</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2008 Jul 1;36(Web Server issue):W197-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18463136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Oct;82(20):10207-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18667512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Nov;82(22):11454-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18799569</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2009 Feb;90(Pt 2):297-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19141438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

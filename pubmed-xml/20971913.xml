@@ -1,0 +1,617 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971913</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structural and functional analysis of the type III secretion system from Pseudomonas fluorescens Q8r1-96.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>177-89</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00895-10</ELocationID>
+            <Abstract>
+                <AbstractText>Pseudomonas fluorescens Q8r1-96 represents a group of rhizosphere strains responsible for the suppressiveness of agricultural soils to take-all disease of wheat. It produces the antibiotic 2,4-diacetylphloroglucinol and aggressively colonizes the roots of cereal crops. In this study, we analyzed the genome of Q8r1-96 and identified a type III protein secretion system (T3SS) gene cluster that has overall organization similar to that of the T3SS gene cluster of the plant pathogen Pseudomonas syringae. We also screened a collection of 30 closely related P. fluorescens strains and detected the T3SS genes in all but one of them. The Q8r1-96 genome contained ropAA and ropM type III effector genes, which are orthologs of the P. syringae effector genes hopAA1-1 and hopM1, as well as a novel type III effector gene designated ropB. These type III effector genes encoded proteins that were secreted in culture and injected into plant cells by both P. syringae and Q8r1-96 T3SSs. The Q8r1-96 T3SS was expressed in the rhizosphere, but mutants lacking a functional T3SS were not altered in their rhizosphere competence. The Q8r1-96 type III effectors RopAA, RopB, and RopM were capable of suppressing the hypersensitive response and production of reactive oxygen species, two plant immune responses.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mavrodi</LastName>
+                    <ForeName>Dmitri V</ForeName>
+                    <Initials>DV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Pathology, Washington State University, Pullman, Washington 99164-6430, USA. thomashow@wsu.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joe</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mavrodi</LastName>
+                    <ForeName>Olga V</ForeName>
+                    <Initials>OV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hassan</LastName>
+                    <ForeName>Karl A</ForeName>
+                    <Initials>KA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weller</LastName>
+                    <ForeName>David M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paulsen</LastName>
+                    <ForeName>Ian T</ForeName>
+                    <Initials>IT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loper</LastName>
+                    <ForeName>Joyce E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alfano</LastName>
+                    <ForeName>James R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thomashow</LastName>
+                    <ForeName>Linda S</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI069146</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>1R01AI069146-01A2</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.4.-</RegistryNumber>
+                <NameOfSubstance UI="D017856">Phosphotransferases (Phosphate Group Acceptor)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.4.-</RegistryNumber>
+                <NameOfSubstance UI="C059169">polyphosphate AMP phosphotransferase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002876" MajorTopicYN="N">Chromosomes, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017856" MajorTopicYN="N">Phosphotransferases (Phosphate Group Acceptor)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010935" MajorTopicYN="N">Plant Diseases</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018517" MajorTopicYN="N">Plant Roots</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011551" MajorTopicYN="N">Pseudomonas fluorescens</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012988" MajorTopicYN="N">Soil Microbiology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014908" MajorTopicYN="N">Triticum</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971913</ArticleId>
+            <ArticleId IdType="pii">JB.00895-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00895-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019950</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2008 Oct;21(10):1349-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18785830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2009 Sep;22(9):1069-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19656042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Microbiol. 2010;10:124</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20416103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Chem. 2010 Jul;391(7):745-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20482311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1992 Nov;174(21):6878-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1400238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1998 May 28;212(1):77-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9661666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Nov;178(21):6399-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8892851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 May 28;99(11):7652-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12032338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2008 May;20(5):1390-406</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18515503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Host Microbe. 2007 Nov 15;2(5):291-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18005750</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2005 Sep;18(9):991-1001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16167769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Phytopathol. 2004;42:385-414</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15283671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2006 Feb;19(2):99-111</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16529372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytopathology. 2001 Jan;91(1):35-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18944276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2005 Jul;23(7):873-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15980861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1997 Jun;179(12):3866-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9190801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Biol (Stuttg). 2007 Jan;9(1):4-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17058178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2008 Feb 15;70(3):611-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17876813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2009 Aug;150(4):1656-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19458111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Phytopathol. 2010;48:347-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20455697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2006 Nov;72(11):7111-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16936061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Apr 25;97(9):4856-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10781092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Phytopathol. 2002;40:309-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12147763</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Immunol. 2005 Oct;6(10):973-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16177805</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Nov 16;444(7117):323-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17108957</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Jun 29;101(26):9927-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15210989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Microbiol. 2005;5:30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15907219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant J. 2005 Oct;44(2):348-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16212612</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2009;10(5):R51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19432983</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Apr 11;103(15):5887-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16581904</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Microbiol. 1999 Jun;1(3):243-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11207743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Jul 14;313(5784):220-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16840699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbes Infect. 2010 May;12(5):346-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20178857</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytopathology. 2001 Jan;91(1):44-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18944277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2002 Sep;45(5):1207-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12207690</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Jan;186(2):543-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14702323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2005 Apr;18(4):275-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15828679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1988 Oct;170(10):4748-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3139635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lab Clin Med. 1954 Aug;44(2):301-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13184240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytopathology. 2012 Apr;102(4):403-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22409433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 Oct 31;91(3):295-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9363937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2003 Feb;6(1):20-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12615215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004 Jul 1;32(Web Server issue):W332-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15215405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004 Jul 1;32(Web Server issue):W327-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15215404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2004 Sep;70(9):5119-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15345390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2008 Apr;11(2):179-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18372208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Mar 1;21(5):617-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15501914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2009 Aug;150(4):1638-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19561123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2005 Jan 15;242(2):249-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15621445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2007 Aug;24(8):1596-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17488738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2003 Oct;16(10):851-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14558686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1986 Feb;51(2):323-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16346988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant J. 2004 Feb;37(4):554-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14756767</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2010 Mar;22(3):973-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20348432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2006 Mar;152(Pt 3):863-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16514165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytopathology. 2003 Aug;93(8):982-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18943865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Plant Biol. 2009;60:379-406</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19400727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2001 Sep;41(5):999-1014</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11555282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1989 Sep 22;245(4924):1374-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2781284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Plant Biol. 2008 Aug;11(4):396-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18657470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 Nov 1;23(21):2947-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17846036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Protoc. 2006;1(1):153-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17406227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Ecol. 2004 Sep 1;49(3):455-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19712294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Sep 6;102(36):12990-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16123135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1997 Sep;179(18):5655-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9294418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiology (Bethesda). 2005 Oct;20:326-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16174872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

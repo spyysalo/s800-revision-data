@@ -1,0 +1,573 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20962077</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simian immunodeficiency virus from the sooty mangabey and rhesus macaque is modified with O-linked carbohydrate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>582-95</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01871-10</ELocationID>
+            <Abstract>
+                <AbstractText>Although stretches of serine and threonine are sometimes sites for O-linked carbohydrate attachment, specific sequence and structural determinants for O-linked attachment remain ill defined. The gp120 envelope protein of SIVmac239 contains a serine-threonine-rich stretch of amino acids at positions 128 to 139. Here we show that lectin protein from jackfruit seed (jacalin), which binds to non- and monosialylated core 1 O-linked carbohydrate, potently inhibited the replication of SIVmac239. Selection of a jacalin-resistant SIVmac239 variant population resulted in virus with specific substitutions within amino acids 128 to 139. Cloned simian immunodeficiency virus (SIV) variants with substitutions in the 128-to-139 region had infectivities equivalent to, or within 1 log unit of, that of SIVmac239 and were resistant to the inhibitory effects of jacalin. Characterization of the SIVmac239 gp120 O-linked glycome showed the presence of core 1 and core 2 O-linked carbohydrate; a 128-to-139-substituted variant gp120 from jacalin-resistant SIV lacked O-linked carbohydrate. Unlike that of SIVmac239, the replication of HIV-1 strain NL4-3 was resistant to inhibition by jacalin. Purified gp120s from four SIVmac and SIVsm strains bound jacalin strongly in an enzyme-linked immunosorbent assay, while nine different HIV-1 gp120s, two SIVcpz gp120s, and 128-to-139-substituted SIVmac239 gp120 did not bind jacalin. The ability or inability to bind jacalin thus correlated with the presence of the serine-threonine-rich stretch in the SIVmac and SIVsm gp120s and the absence of such stretches in the SIVcpz and HIV-1 gp120s. Consistent with sequence predictions, two HIV-2 gp120s bound jacalin, while one did not. These data demonstrate the presence of non- and monosialylated core 1 O-linked carbohydrate on the gp120s of SIVmac and SIVsm and the lack of these modifications on HIV-1 and SIVcpz gp120s.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stansell</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>New England Primate Research Center, Harvard Medical School, Southborough, MA 01772-9102, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canis</LastName>
+                    <ForeName>Kevin</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haslam</LastName>
+                    <ForeName>Stuart M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dell</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Desrosiers</LastName>
+                    <ForeName>Ronald C</ForeName>
+                    <Initials>RC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01-AI025328</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32-A1007245</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P51 RR000168</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P51-RR000168</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI025328</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>BBF0083091</GrantID>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002241">Carbohydrates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015699">HIV Envelope Protein gp120</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D037121">Plant Lectins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C043696">jacalin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019943" MajorTopicYN="N">Amino Acid Substitution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D031622" MajorTopicYN="N">Artocarpus</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002241" MajorTopicYN="N">Carbohydrates</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016665" MajorTopicYN="N">Cercocebus atys</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D024882" MajorTopicYN="N">Drug Resistance, Viral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015699" MajorTopicYN="N">HIV Envelope Protein gp120</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015497" MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008253" MajorTopicYN="N">Macaca mulatta</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D037121" MajorTopicYN="N">Plant Lectins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016097" MajorTopicYN="N">Simian Acquired Immunodeficiency Syndrome</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015302" MajorTopicYN="N">Simian Immunodeficiency Virus</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20962077</ArticleId>
+            <ArticleId IdType="pii">JVI.01871-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01871-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014205</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Glycobiology. 2003 Jul;13(7):549-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12651884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2004 Apr 13;43(14):4137-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15065856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2004 May 21;566(1-3):17-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15147861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 2004 Jul;11(7):1009-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15271359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1970 Dec 9;41(5):1279-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5483631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vox Sang. 1974;27(1):29-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4368542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carbohydr Res. 1975 Mar;40(1):23-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1125950</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1975 Nov 10;250(21):8518-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">811657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carbohydr Res. 1976 Oct;51(1):107-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1033785</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1979 Jun;76(6):2694-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">288057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1984 Mar 10;259(5):3308-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6421821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1984 Jul 16;142(2):209-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6745272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1986 Sep 5;261(25):11726-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3745164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1987 Jul 15;262(20):9887-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3110163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1989 Jun 1;339(6223):389-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2786147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1989 Nov;63(11):4709-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2795718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1989 Oct 19;341(6243):573-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2677749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1990 Feb 15;265(5):2640-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2406237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1990 May 24;345(6273):356-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2188136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1990 Jun;87(11):4108-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1693430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 1990 Jul;177(1):305-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2353457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Immunol. 1990 Jun;80(3):420-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2372991</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS Res Hum Retroviruses. 1990 Nov;6(11):1221-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2078405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1991 Mar 28;196(3):631-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2013286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carbohydr Res. 1991 Jun 25;213:59-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1933953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1991 Dec;65(12):6461-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1719230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Virol. 1992;126(1-4):11-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1381907</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1992 Oct;66(10):5937-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1527847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 1993 Jan;23(1):179-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8419169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1993 Feb;67(2):1006-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8419635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1994 Jan;68(1):463-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8254757</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1994 Apr;68(4):2765-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8139054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1994 Jun;68(6):4080-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8189548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 1994 Aug;4(4):413-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7827402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Lett. 1995 Jul-Aug;47(1-2):141-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8537092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Virol. 1996;141(2):291-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8634021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 1996 Dec 15;38(3):340-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8975711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1997 Oct;71(10):7719-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9311856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1997 Oct;71(10):7895-902</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9311879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 1997 Dec;7(8):1053-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9455905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2008 Apr;7(4):1650-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18311910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycoconj J. 2009 Apr;26(3):325-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18695988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycoconj J. 2009 Dec;26(9):1259-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19533340</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS J. 2010 Jan;277(1):81-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19919547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 Sep;84(18):8998-9009</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20610711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2002 Aug 23;321(4):637-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12206779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Life Sci. 2003 Apr 4;72(20):2285-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12628448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Oct 9;273(41):26580-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9756896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 2005 Feb;15(2):153-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15385431</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Jul;79(13):8480-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15956591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Oct;79(19):12515-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16160179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 2006 Jan;16(1):46-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16177266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Jul 28;313(5786):523-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16728595</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 2006;415:59-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17116468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Leukoc Biol. 2007 Apr;81(4):1002-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17242371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

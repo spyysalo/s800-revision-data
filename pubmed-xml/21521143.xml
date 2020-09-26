@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21521143</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-2442</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of insect science (Online)</Title>
+                <ISOAbbreviation>J. Insect Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Post-egression host tissue feeding is another strategy of host regulation by the Koinobiont wasp, Toxoneuron nigriceps.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1673/031.011.0103</ELocationID>
+            <Abstract>
+                <AbstractText>Koinobiont wasps start their lives as hemolymph feeders inside the host body, but before they egress from the host many become tissue predators. One species, the endoparasitoid Toxoneuron nigriceps Viereck (Hymenoptera: Braconidae), exhibits the unusual behavior of egressing before initiating tissue predation. After egression from the host, it reinserts its head into the host body to begin tissue feeding. These third instar T. nigriceps larvae show a significant increase in body size and mass after post-egression feeding. Through this project the importance of post-egression feeding in the development of T. nigriceps in its host the tobacco budworm, Heliothis virescens Fabricius (Lepidoptera: Noctuidae), has been evaluated. The study was conducted by preventing the egressed third instar T. nigriceps larvae from feeding on host tissue and observing whether they could undergo further development. Though some of the larvae that were prevented from post-egression feeding did undergo cocoon formation, pupation, and adult emergence they were inferior in terms of size, body mass, and survival to those that developed from larvae allowed to feeding after egression. Hence, it is concluded that post-egression host tissue feeding is essential for the normal development of T. nigriceps, as the prevention of feeding resulted in significantly lighter and smaller larvae, cocoons, and adults as well as deformed adults and reduced adult survival. Post-egression feeding as a host regulatory strategy is discussed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kuriachan</LastName>
+                    <ForeName>Indira</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology, Texas A &amp; M University, College Station, TX 77843-2475, USA. indira@tamu.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henderson</LastName>
+                    <ForeName>Ruth</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laca</LastName>
+                    <ForeName>Rachel</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vinson</LastName>
+                    <ForeName>S Bradleigh</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Insect Sci</MedlineTA>
+            <NlmUniqueID>101096396</NlmUniqueID>
+            <ISSNLinking>1536-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049628" MajorTopicYN="N">Body Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005247" MajorTopicYN="N">Feeding Behavior</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006790" MajorTopicYN="N">Host-Parasite Interactions</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007814" MajorTopicYN="N">Larva</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009036" MajorTopicYN="N">Moths</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014863" MajorTopicYN="N">Wasps</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21521143</ArticleId>
+            <ArticleId IdType="doi">10.1673/031.011.0103</ArticleId>
+            <ArticleId IdType="pmc">PMC3281303</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Comp Biochem Physiol B. 1983;74(2):183-211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6339157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Insect Physiol. 2006 Aug;52(8):881-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16828792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1989 Apr 14;244(4901):226-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17835354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Insect Biochem Physiol. 2007 Sep;66(1):1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17694565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol B Biochem Mol Biol. 2004 Apr;137(4):463-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15081998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Virus Res. 1979;24:125-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">389003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Invertebr Pathol. 1971 Jul;18(1):94-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4937297</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

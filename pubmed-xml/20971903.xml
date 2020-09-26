@@ -1,0 +1,370 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971903</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assembly of the type II secretion system: identification of ExeA residues critical for peptidoglycan binding and secretin multimerization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>197-204</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00882-10</ELocationID>
+            <Abstract>
+                <AbstractText>Aeromonas hydrophila secretes a number of protein toxins across the outer membrane via the type II secretion system (T2SS). Assembly of the secretion channel ExeD secretin into the outer membrane is dependent on the peptidoglycan binding domain of ExeA. In this study, the peptidoglycan binding domain PF01471 family members were divided into a prokaryotic group and a eukaryotic group. By comparison of their sequence conservation profiles and their representative crystal structures, we found the prokaryotic members to have a highly conserved pocket(s) that is not present in the eukaryotic members. Substitution mutations of nine amino acids of the pocket were constructed in ExeA. Five of the substitution derivatives showed greatly decreased lipase secretion, accompanied by defects in secretin assembly. In addition, using in vivo cross-linking and in vitro cosedimentation assays, we showed that these mutations decreased ExeA-peptidoglycan interactions. These results suggest that the highly conserved pocket in ExeA is the binding site for its peptidoglycan ligand and identify residues critical for this binding.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Gang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, College of Medicine, University of Saskatchewan, Saskatoon, Saskatchewan S7N 5E5, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Alicia</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bull</LastName>
+                    <ForeName>Harold</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Howard</LastName>
+                    <ForeName>S Peter</ForeName>
+                    <Initials>SP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C090402">ExeA protein, Aeromonas hydrophila</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D026901">Membrane Transport Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010457">Peptidoglycan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1393-25-5</RegistryNumber>
+                <NameOfSubstance UI="D012633">Secretin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.1.3</RegistryNumber>
+                <NameOfSubstance UI="D008049">Lipase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016980" MajorTopicYN="N">Aeromonas hydrophila</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019943" MajorTopicYN="N">Amino Acid Substitution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008049" MajorTopicYN="N">Lipase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D026901" MajorTopicYN="N">Membrane Transport Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010457" MajorTopicYN="N">Peptidoglycan</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012633" MajorTopicYN="N">Secretin</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971903</ArticleId>
+            <ArticleId IdType="pii">JB.00882-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00882-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019969</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Comput Chem. 2010 Jan 30;31(2):455-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19499576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2009 Aug;73(4):710-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19627504</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 Feb;59(3):1062-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16420372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2006 Feb;255(2):175-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16448494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Mar 24;281(12):8286-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16428381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 2006 Sep;30(5):673-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16911039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Sep;65(5):1334-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17697255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 Nov 1;23(21):2947-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17846036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protoc Mol Biol. 2001 May;Chapter 8:Unit8.5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18265277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2001 Apr;40(2):271-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11309111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2000 Apr;68(4):1855-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10722574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Biochem Cell Biol. 2008;40(4):586-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17468031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2002 Apr;44(1):217-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11967081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2004 Feb 12;20(3):426-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14960472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1988 Aug 1;172(2):451-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3056100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1991 Feb;173(3):1241-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1846860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1991 Jan 2;97(1):39-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1847347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1994 Mar 28;342(1):23-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7908269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1994 Nov;176(22):6819-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7961440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1996 Feb 2;271(5):2703-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8576244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EXS. 1996;75:185-222</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8765301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1996 Nov;22(4):595-604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8951808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1996 Dec;22(5):967-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8971717</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1998 Sep;29(5):1237-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9767591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>APMIS. 1999 Jan;107(1):137-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10190290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Sep;187(18):6370-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16159770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2008 Oct;18(5):534-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18721881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2010 May;76(3):772-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20345654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

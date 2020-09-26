@@ -1,0 +1,299 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21034773</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0984</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>171</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virological methods</Title>
+                <ISOAbbreviation>J. Virol. Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of commercial systems for extraction of nucleic acids from DNA/RNA respiratory pathogens.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>195-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jviromet.2010.10.024</ELocationID>
+            <Abstract>
+                <AbstractText>This study compared six automated nucleic acid extraction systems and one manual kit for their ability to recover nucleic acids from human nasal wash specimens spiked with five respiratory pathogens, representing Gram-positive bacteria (Streptococcus pyogenes), Gram-negative bacteria (Legionella pneumophila), DNA viruses (adenovirus), segmented RNA viruses (human influenza virus A), and non-segmented RNA viruses (respiratory syncytial virus). The robots and kit evaluated represent major commercially available methods that are capable of simultaneous extraction of DNA and RNA from respiratory specimens, and included platforms based on magnetic-bead technology (KingFisher mL, Biorobot EZ1, easyMAG, KingFisher Flex, and MagNA Pure Compact) or glass fiber filter technology (Biorobot MDX and the manual kit Allprep). All methods yielded extracts free of cross-contamination and RT-PCR inhibition. All automated systems recovered L. pneumophila and adenovirus DNA equivalently. However, the MagNA Pure protocol demonstrated more than 4-fold higher DNA recovery from the S. pyogenes than other methods. The KingFisher mL and easyMAG protocols provided 1- to 3-log wider linearity and extracted 3- to 4-fold more RNA from the human influenza virus and respiratory syncytial virus. These findings suggest that systems differed in nucleic acid recovery, reproducibility, and linearity in a pathogen specific manner.</AbstractText>
+                <CopyrightInformation>Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Genyan</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Blood Disorders, National Center for Birth Defects and Developmental Disabilities, Centers for Disease Control and Prevention, Atlanta, GA 30329, USA. gyang@cdc.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erdman</LastName>
+                    <ForeName>Dean E</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kodani</LastName>
+                    <ForeName>Maja</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kools</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bowen</LastName>
+                    <ForeName>Michael D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fields</LastName>
+                    <ForeName>Barry S</ForeName>
+                    <Initials>BS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Virol Methods</MedlineTA>
+            <NlmUniqueID>8005839</NlmUniqueID>
+            <ISSNLinking>0166-0934</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009696">Nucleic Acids</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001331" MajorTopicYN="N">Automation</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019411" MajorTopicYN="N">Clinical Laboratory Techniques</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025202" MajorTopicYN="N">Molecular Diagnostic Techniques</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009696" MajorTopicYN="N">Nucleic Acids</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012140" MajorTopicYN="N">Respiratory Tract Diseases</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014780" MajorTopicYN="N">Viruses</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>07</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21034773</ArticleId>
+            <ArticleId IdType="pii">S0166-0934(10)00395-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jviromet.2010.10.024</ArticleId>
+            <ArticleId IdType="pmc">PMC7112907</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Clin Virol. 2008 Dec;43(4):411-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18835215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1952 Dec;96(6):569-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13022851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Virol. 2008 Dec;43(4):407-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18829380</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Rev Med Devices. 2009 Nov;6(6):641-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19911875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biotechnol Bioeng. 2004 Jun 20;86(6):667-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15137078</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1953 Apr;10(4):512-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13059016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Rep. 1995;21(2):113-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8531921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009 Dec 31;4(12):e8540</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20046873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2004 Dec;42(12):5913-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15583339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2009 Jan;75(2):414-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19047396</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Paediatr Scand. 1991 Apr;80(4):413-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1647644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pediatr. 2010 Jan;156(1):115-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19782998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Disord Drug Targets. 2008 Sep;8(3):183-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18782035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Pediatr. 2009 Feb;21(1):102-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19242246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biomol Tech. 2008 Jul;19(3):205-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19137108</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Mol Res. 2006 Dec 14;5(4):851-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17183493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2008 Jul;46(7):2195-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18463206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Inst Med Trop Sao Paulo. 2008 Jan-Feb;50(1):41-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18327486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

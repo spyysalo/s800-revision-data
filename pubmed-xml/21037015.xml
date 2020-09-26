@@ -1,0 +1,239 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21037015</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Draft genome sequence of the anoxygenic filamentous phototrophic bacterium Oscillochloris trichoides subsp. DG-6.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>321-2</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00931-10</ELocationID>
+            <Abstract>
+                <AbstractText>Oscillochloris trichoides is a mesophilic, filamentous, photoautotrophic, nonsulfur, diazotrophic bacterium which is capable of carbon dioxide fixation via the reductive pentose phosphate cycle and possesses no assimilative sulfate reduction. Here, we present the draft genome sequence of Oscillochloris trichoides subsp. DG-6, the type strain of the species, which has permitted the prediction of genes for carbon and nitrogen metabolism and for the light-harvesting apparatus.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kuznetsov</LastName>
+                    <ForeName>Boris B</ForeName>
+                    <Initials>BB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre Bioengineering RAS, Prosp. 60-let Oktyabrya, Bld. 7-1, Moscow 117312, Russia. borisk@biengi.ac.ru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ivanovsky</LastName>
+                    <ForeName>Ruslan N</ForeName>
+                    <Initials>RN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keppen</LastName>
+                    <ForeName>Olga I</ForeName>
+                    <Initials>OI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sukhacheva</LastName>
+                    <ForeName>Marina V</ForeName>
+                    <Initials>MV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bumazhkin</LastName>
+                    <ForeName>Boris K</ForeName>
+                    <Initials>BK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patutina</LastName>
+                    <ForeName>Ekaterina O</ForeName>
+                    <Initials>EO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beletsky</LastName>
+                    <ForeName>Alexey V</ForeName>
+                    <Initials>AV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mardanov</LastName>
+                    <ForeName>Andrey V</ForeName>
+                    <Initials>AV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baslerov</LastName>
+                    <ForeName>Roman V</ForeName>
+                    <Initials>RV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Panteleeva</LastName>
+                    <ForeName>Angela N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kolganova</LastName>
+                    <ForeName>Tatjana V</ForeName>
+                    <Initials>TV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ravin</LastName>
+                    <ForeName>Nikolai V</ForeName>
+                    <Initials>NV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skryabin</LastName>
+                    <ForeName>Konstantin G</ForeName>
+                    <Initials>KG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>ADVR00000000</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D041862" MajorTopicYN="N">Chloroflexi</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="Y">Genome, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21037015</ArticleId>
+            <ArticleId IdType="pii">JB.00931-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00931-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019936</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Photosynth Res. 1994 Jul;41(1):29-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24310011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mikrobiologiia. 2006 Mar-Apr;75(2):235-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16758872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protoc Bioinformatics. 2007 Mar;Chapter 11:Unit11.4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18428783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1999 Jul;145 ( Pt 7):1743-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10439413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 Mar 15;23(6):673-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17237039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 1997 Sep;21(2):135-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9348665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2000 Jul;50 Pt 4:1529-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10939660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protoc Bioinformatics. 2003 Aug;Chapter 11:Unit11.2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18428695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2007 Jul;153(Pt 7):2231-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17600067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

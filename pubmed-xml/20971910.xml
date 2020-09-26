@@ -1,0 +1,456 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971910</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In vitro studies of peptidoglycan binding and hydrolysis by the Bacillus anthracis germination-specific lytic enzyme SleB.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>125-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00869-10</ELocationID>
+            <Abstract>
+                <AbstractText>The Bacillus anthracis endospore loses resistance properties during germination when its cortex peptidoglycan is degraded by germination-specific lytic enzymes (GSLEs). Although this event normally employs several GSLEs for complete cortex removal, the SleB protein alone can facilitate enough cortex hydrolysis to produce vulnerable spores. As a means to better understand its enzymatic function, SleB was overexpressed, purified, and tested in vitro for depolymerization of cortex by measurement of optical density loss and the solubilization of substrate. Its ability to bind peptidoglycan was also investigated. SleB functions independently as a lytic transglycosylase on both intact and fragmented cortex. Most of the muropeptide products that SleB generates are large and are potential substrates for other GSLEs present in the spore. Study of a truncated protein revealed that SleB has two domains. The N-terminal domain is required for stable peptidoglycan binding, while the C-terminal domain is the region of peptidoglycan hydrolytic activity. The C-terminal domain also exhibits dependence on cortex containing muramic-δ-lactam in order to carry out hydrolysis. As the conditions and limitations for SleB activity are further elucidated, they will enable the development of treatments that stimulate premature germination of B. anthracis spores, greatly simplifying decontamination measures.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Heffron</LastName>
+                    <ForeName>Jared D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Virginia Tech, Blacksburg, Virginia 24061, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sherry</LastName>
+                    <ForeName>Nora</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Popham</LastName>
+                    <ForeName>David L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R21 AI060726</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI060726</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007769">Lactams</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009112">Muramic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010457">Peptidoglycan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C101656">SleB protein, Bacillus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.-</RegistryNumber>
+                <NameOfSubstance UI="D000581">Amidohydrolases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000581" MajorTopicYN="N">Amidohydrolases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001408" MajorTopicYN="N">Bacillus anthracis</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006868" MajorTopicYN="N">Hydrolysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007769" MajorTopicYN="N">Lactams</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009112" MajorTopicYN="N">Muramic Acids</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010457" MajorTopicYN="N">Peptidoglycan</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971910</ArticleId>
+            <ArticleId IdType="pii">JB.00869-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00869-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019929</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Biochem Biophys Methods. 2006 Apr 30;67(1):67-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16480772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Dec;187(23):8055-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16291679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Appl Microbiol. 2006 Sep;101(3):514-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16907802</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Appl Microbiol. 2006 Sep;101(3):526-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16907803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Jul;190(13):4541-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18456807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Jul;190(14):4798-807</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18469099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2008 Oct 31;135(3):486-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18984160</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Dec;190(23):7601-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18835992</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009;4(1):e4167</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19132100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Apr;191(7):2237-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19181808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Sep;191(18):5569-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19581364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Food Sci. 2009 Aug;74(6):R73-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19723224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Feb;192(3):763-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19966006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1994 Jun;140 ( Pt 6):1403-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8081503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 Oct;177(19):5582-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7559346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1995 Oct;141 ( Pt 10):2643-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7582025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Sep;178(17):5330-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8752358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Nov;178(21):6173-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8892816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 Dec 24;93(26):15405-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8986824</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1998 Sep;180(17):4603-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9721302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Mar;182(6):1499-506</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10692353</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2000 Jan;146 ( Pt 1):57-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10658652</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 1999 Mar;63(1):1-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10066829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 May;182(9):2513-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10762253</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Aug;182(16):4491-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10913082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2001 Aug;183(16):4886-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11466292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2001;55:647-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11544370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Eng. 2001 Dec;14(12):993-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11809930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2002 Mar;59(3):403-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11964118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Sci Monit. 2002 Jun;8(6):RA119-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12070452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2002 Aug;148(Pt 8):2383-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12177332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2002 Oct;8(10):1163-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12396934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2003 Apr;185(7):2315-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12644503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Apr 1;100(7):4209-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12646705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2003 Jun;9(6):623-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12780999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2003 Dec;6(6):550-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14662349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2004 Jul 16;340(4):783-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15223320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1972 Apr 11;11(8):1389-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4259915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1975 Aug;67(2):503-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1163770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1987 Mar 1;242(2):573-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3109395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1993 May;175(9):2767-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8478339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1999 Jul;181(13):3956-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10383963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Genet Syst. 2006 Jun;81(3):163-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16905870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,341 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21131497</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Flavobacterium johnsoniae sprB is part of an operon spanning the additional gliding motility genes sprC, sprD, and sprF.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>599-610</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01203-10</ELocationID>
+            <Abstract>
+                <AbstractText>Cells of Flavobacterium johnsoniae move rapidly over surfaces by a process known as gliding motility. Gld proteins are thought to comprise the gliding motor that propels cell surface adhesins, such as the 669-kDa SprB. A novel protein secretion apparatus called the Por secretion system (PorSS) is required for assembly of SprB on the cell surface. Genetic and molecular analyses revealed that sprB is part of a seven-gene operon spanning 29.3 kbp of DNA. In addition to sprB, three other genes of this operon (sprC, sprD, and sprF) are involved in gliding. Mutations in sprB, sprC, sprD, and sprF resulted in cells that failed to form spreading colonies on agar but that exhibited some motility on glass in wet mounts. SprF exhibits some similarity to Porphyromonas gingivalis PorP, which is required for secretion of gingipain protease virulence factors via the P. gingivalis PorSS. F. johnsoniae sprF mutants produced SprB protein but were defective in localization of SprB to the cell surface, suggesting a role for SprF in secretion of SprB. The F. johnsoniae PorSS is involved in secretion of extracellular chitinase in addition to its role in secretion of SprB. SprF was not needed for chitinase secretion and may be specifically required for SprB secretion by the PorSS. Cells with nonpolar mutations in sprC or sprD produced and secreted SprB and propelled it rapidly along the cell surface. Multiple paralogs of sprB, sprC, sprD, and sprF are present in the genome, which may explain why mutations in sprB, sprC, sprD, and sprF do not result in complete loss of motility and suggests the possibility that semiredundant SprB-like adhesins may allow movement of cells over different surfaces.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rhodes</LastName>
+                    <ForeName>Ryan G</ForeName>
+                    <Initials>RG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, 181 Lapham Hall, University of Wisconsin-Milwaukee, 3209 N. Maryland Ave., Milwaukee, WI 53211, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nelson</LastName>
+                    <ForeName>Shawn S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pochiraju</LastName>
+                    <ForeName>Soumya</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McBride</LastName>
+                    <ForeName>Mark J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005417" MajorTopicYN="N">Flavobacterium</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D023061" MajorTopicYN="N">Gene Order</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008124" MajorTopicYN="Y">Locomotion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009876" MajorTopicYN="Y">Operon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017385" MajorTopicYN="N">Sequence Homology</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21131497</ArticleId>
+            <ArticleId IdType="pii">JB.01203-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01203-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3021240</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Mol Biol. 2004 Jul 16;340(4):783-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15223320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Apr;186(8):2295-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15060031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1990 Jun;172(6):3117-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2345138</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1990 Oct 5;215(3):403-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2231712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 Sep;177(17):4992-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7665476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Feb;178(3):583-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8550486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1996;266:513-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8743703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 1997 Jun;6(6):1179-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9194178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1997 Oct;179(20):6221-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9335266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Oct 28;94(22):12139-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9342376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Apr;187(8):2628-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15805509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Oct;187(20):6943-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16199564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2006 Jan;188(1):348-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16352853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2006 Aug 15;64(3):643-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16752418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Jul;189(14):5108-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17483221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Oct;189(19):7145-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17644580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Oct;189(20):7503-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17693495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Apr;190(8):2851-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18281397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2009 Nov;75(21):6864-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19717629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Jan 5;107(1):276-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19966289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Mar;192(5):1201-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20038590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2010;619:1-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20419401</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Jul 1;26(13):1608-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20472543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Feb;182(4):911-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10648514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Mar;182(6):1671-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10692373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2001 Jul;183(14):4167-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11418556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2001;55:49-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11544349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2002 May;184(9):2370-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11948149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2003 Nov;185(22):6648-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14594839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2004 Jan;70(1):581-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14711690</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1984 Jul;159(1):26-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6735983</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

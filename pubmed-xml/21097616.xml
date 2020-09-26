@@ -1,0 +1,355 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21097616</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A LytM domain dictates the localization of proteins to the mother cell-forespore interface during bacterial endospore formation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>591-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01270-10</ELocationID>
+            <Abstract>
+                <AbstractText>A large number of proteins are known to reside at specific subcellular locations in bacterial cells. However, the molecular mechanisms by which many of these proteins are anchored at these locations remains unclear. During endospore formation in Bacillus subtilis, several integral membrane proteins are located specifically at the interface of the two adjacent cells of the developing sporangium, the mother cell and forespore. The mother cell membrane protein SpoIIIAH recognizes the cell-cell interface through an interaction with the forespore membrane protein SpoIIQ, and then the other proteins are positioned there by the SpoIIIAH-SpoIIQ complex. In this study, we investigated the molecular mechanisms underlying the formation of the SpoIIIAH-SpoIIQ complex. Using gel filtration chromatography and isothermal titration calorimetry, we measured the binding parameters that characterize the SpoIIIAH-SpoIIQ interaction in vitro. We also demonstrated that the interaction of SpoIIIAH and SpoIIQ is governed by their YscJ and degenerate LytM domains, respectively. Therefore, the LytM domain of SpoIIQ provides the positional cue that dictates the localization of mother cell membrane proteins to the mother cell-forespore interface.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Meisner</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30322, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moran</LastName>
+                    <ForeName>Charles P</ForeName>
+                    <Initials>CP</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM054395</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001412" MajorTopicYN="N">Bacillus subtilis</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002151" MajorTopicYN="N">Calorimetry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002850" MajorTopicYN="N">Chromatography, Gel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008565" MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025941" MajorTopicYN="N">Protein Interaction Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055503" MajorTopicYN="N">Protein Multimerization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013171" MajorTopicYN="N">Spores, Bacterial</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="Y">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21097616</ArticleId>
+            <ArticleId IdType="pii">JB.01270-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01270-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3021227</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Apr 11;97(8):4005-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10759550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2010 May;76(4):956-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20444098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbes Infect. 2002 Jan;4(1):75-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11825778</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2002 Apr 15;16(8):1007-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11959848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Dec 10;99(25):16075-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12454288</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2002 Dec 15;16(24):3253-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12502745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2004 Jan 16;335(3):775-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14687573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1997 Apr;24(1):29-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9140963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1997 Nov 17;417(3):405-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9409761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Dec 4;273(49):32506-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9829984</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Struct Biol. 1998 Dec 15;124(2-3):104-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10049798</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2004 Dec 1;18(23):2916-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15574594</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2005 Jan;12(1):75-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15619638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Mar;55(6):1767-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15752199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Apr 1;21(7):951-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15531603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2005 Dec 2;354(3):578-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16269153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Jan 26;282(4):2576-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17121846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Sep;65(6):1534-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17824930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 2007 Nov;31(6):676-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17888003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2008 Jul;69(2):402-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18485064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Sep 30;105(39):15100-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18812514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008 Dec;4(12):e1000235</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19079583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2009 Apr 3;387(3):607-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19361422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2009 Apr 15;23(8):1014-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19390092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2009 May;16(5):468-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19396170</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2009 Jul;5(7):e1000566</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19609349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2009 Nov 27;326(5957):1225-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19965466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2010 Feb 15;24(4):411-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20159959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2010 Apr 21;29(8):1412-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20300061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cold Spring Harb Perspect Biol. 2010 Apr;2(4):a000307</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20452938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 May;182(10):2919-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10781563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

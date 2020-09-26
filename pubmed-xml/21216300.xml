@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21216300</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal genetics and biology : FG &amp; B</Title>
+                <ISOAbbreviation>Fungal Genet. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The genetic basis for 3-ADON and 15-ADON trichothecene chemotypes in Fusarium.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>485-95</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fgb.2011.01.003</ELocationID>
+            <Abstract>
+                <AbstractText>Certain Fusarium species cause head blight of wheat and other small grains worldwide and produce trichothecene mycotoxins. These mycotoxins can induce toxicoses in animals and humans and can contribute to the ability of some fusaria to cause plant disease. Production of the trichothecene 3-acetyldeoxynivalenol (3-ADON) versus 15-acetyldeoxynivalenol (15-ADON) is an important phenotypic difference within and among some Fusarium species. However, until now, the genetic basis for this difference in chemotype has not been identified. Here, we identified consistent DNA sequence differences in the coding region of the trichothecene biosynthetic gene TRI8 in 3-ADON and 15-ADON strains. Functional analyses of the TRI8 enzyme (Tri8) in F. graminearum, the predominant cause of wheat head blight in North America and Europe, revealed that Tri8 from 3-ADON strains catalyzes deacetylation of the trichothecene biosynthetic intermediate 3,15-diacetyldeoxynivalenol at carbon 15 to yield 3-ADON, whereas Tri8 from 15-ADON strains catalyzes deacetylation of 3,15-diacetyldeoxynivalenol at carbon 3 to yield 15-ADON. Fusarium strains that produce the trichothecene nivalenol have a Tri8 that functions like that in 15-ADON strains. TRI3, which encodes a trichothecene carbon 15 acetyltransferase, was found to be functional in all three chemotypes. Together, our data indicate that differential activity of Tri8 determines the 3-ADON and 15-ADON chemotypes in Fusarium.</AbstractText>
+                <CopyrightInformation>Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alexander</LastName>
+                    <ForeName>Nancy J</ForeName>
+                    <Initials>NJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bacterial Foodborne Pathogen and Mycology Research Unit, National Center for Agricultural Utilization Research, ARS, USDA, Peoria, IL 61604, USA. nancy.alexander@ars.usda.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCormick</LastName>
+                    <ForeName>Susan P</ForeName>
+                    <Initials>SP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waalwijk</LastName>
+                    <ForeName>Cees</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Lee</LastName>
+                    <ForeName>Theo</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Proctor</LastName>
+                    <ForeName>Robert H</ForeName>
+                    <Initials>RH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Fungal Genet Biol</MedlineTA>
+            <NlmUniqueID>9607601</NlmUniqueID>
+            <ISSNLinking>1087-1845</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005656">Fungal Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014255">Trichothecenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>50722-38-8</RegistryNumber>
+                <NameOfSubstance UI="C043247">3-acetyldeoxynivalenol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>88337-96-6</RegistryNumber>
+                <NameOfSubstance UI="C046760">15-acetyldeoxynivalenol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D005656" MajorTopicYN="N">Fungal Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005670" MajorTopicYN="N">Fusarium</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014255" MajorTopicYN="N">Trichothecenes</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21216300</ArticleId>
+            <ArticleId IdType="pii">S1087-1845(11)00004-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fgb.2011.01.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

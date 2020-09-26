@@ -1,0 +1,297 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21521137</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-2442</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of insect science (Online)</Title>
+                <ISOAbbreviation>J. Insect Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evidence to support karyotypic variation of the mosquito, Anopheles peditaeniatus in Thailand.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>10</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1673/031.011.0110</ELocationID>
+            <Abstract>
+                <AbstractText>Eight isoline colonies of Anopheles peditaeniatus Leicester (Diptera: Culicidae) were established from wild-caught females collected from buffalo-baited traps at 8 localities in Thailand. They showed 2 types of X (X(2), X(3)) and 4 types of Y (Y(2), Y(3), Y(4), Y(5)) chromosomes based on the number and amount of major block(s) of heterochromatin present in the heterochromatic arm, and were tentatively designated as Forms B (X(2), X(3), Y(2)), C (X(3), Y(3)), D (X(3), Y(4)) and E (X(2), X(3), Y(5)). Form B was found in Nan, Ratchaburi, and Chumphon provinces; Form C was obtained in Chon Buri province; Form D was recovered in Kamphaeng Phet province; and Form E was acquired in Chiang Mai, Udon Thani, and Ubon Ratchathani provinces. Crossing studies among the 8 isoline colonies, which were representative of 4 karyotypic forms of An. peditaeniatus, revealed genetic compatibility in providing viable progenies and synaptic salivary gland polytene chromosomes through F(2)-generations, thus suggesting the conspecific nature of these karyotypic forms. These results were supported by the very low intraspecific sequence variations (0.0 - 1.1%) of the nucleotide sequences in ribosomal DNA (ITS2) and mitochondrial DNA (COI and COII) of the 4 forms.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Choochote</LastName>
+                    <ForeName>Wej</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Parasitology, Faculty of Medicine, Chiang Mai University, Chiang Mai 50200, Thailand. wchoocho@mail.med.cmu.ac.th</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Insect Sci</MedlineTA>
+            <NlmUniqueID>101096396</NlmUniqueID>
+            <ISSNLinking>1536-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017931">DNA Primers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004272">DNA, Mitochondrial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004275">DNA, Ribosomal</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000852" MajorTopicYN="N">Anopheles</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003433" MajorTopicYN="N">Crosses, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017931" MajorTopicYN="N">DNA Primers</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004272" MajorTopicYN="N">DNA, Mitochondrial</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004275" MajorTopicYN="N">DNA, Ribosomal</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014644" MajorTopicYN="Y">Genetic Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007621" MajorTopicYN="N">Karyotyping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012730" MajorTopicYN="N">Sex Chromosomes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013785" MajorTopicYN="N" Type="Geographic">Thailand</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21521137</ArticleId>
+            <ArticleId IdType="doi">10.1673/031.011.0110</ArticleId>
+            <ArticleId IdType="pmc">PMC3385975</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 2001 Mar;17(1):67-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11345422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mem Inst Oswaldo Cruz. 2009 Jul;104(4):558-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19722076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Southeast Asian J Trop Med Public Health. 2002;33 Suppl 3:23-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12971469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Southeast Asian J Trop Med Public Health. 2002;33 Suppl 3:29-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12971470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Indian J Med Res. 2003 Mar;117:104-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14575175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cells. 2003 Dec 31;16(3):354-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14744026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 1988 Sep;4(3):333-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3199123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trans R Soc Trop Med Hyg. 1989 Jul-Aug;83(4):550-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2575809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 1990 Sep;6(3):477-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2230776</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Zhonghua Yu Fang Yi Xue Za Zhi. 1990 Sep;24(5):265-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1979768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 1993 Mar;9(1):59-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8468575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 1996 Feb;54(2):114-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8619432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 1996 Mar;12(1):97-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8723265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Dec 15;25(24):4876-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9396791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Korean J Parasitol. 1999 Sep;37(3):129-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10507220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 2005 Mar;21(1):5-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15825754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Entomol. 2005 Jul;42(4):610-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16119550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vector Ecol. 2005 Dec;30(2):213-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16599155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Southeast Asian J Trop Med Public Health. 2006;37 Suppl 2:1-128</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17262930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 2008 Jun;24(2):194-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18666525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 2008 Dec;24(4):489-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19181054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Res. 2009 Mar;104(4):905-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19043741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Southeast Asian J Trop Med Public Health. 2001 Mar;32(1):76-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11485100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

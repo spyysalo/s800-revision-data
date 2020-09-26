@@ -1,0 +1,458 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21131490</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DifA, a methyl-accepting chemoreceptor protein-like sensory protein, uses a novel signaling mechanism to regulate exopolysaccharide production in Myxococcus xanthus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>759-67</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00944-10</ELocationID>
+            <Abstract>
+                <AbstractText>DifA is a methyl-accepting chemotaxis protein (MCP)-like sensory transducer that regulates exopolysaccharide (EPS) production in Myxococcus xanthus. Here mutational analysis and molecular biology were used to probe the signaling mechanisms of DifA in EPS regulation. We first identified the start codon of DifA experimentally; this identification extended the N terminus of DifA for 45 amino acids (aa) from the previous bioinformatics prediction. This extension helped to address the outstanding question of how DifA receives input signals from type 4 pili without a prominent periplasmic domain. The results suggest that DifA uses its N-terminus extension to sense an upstream signal in EPS regulation. We suggest that the perception of the input signal by DifA is mediated by protein-protein interactions with upstream components. Subsequent signal transmission likely involves transmembrane signaling instead of direct intramolecular interactions between the input and the output modules in the cytoplasm. The basic functional unit of DifA for signal transduction is likely dimeric as mutational alteration of the predicted dimeric interface of DifA significantly affected EPS production. Deletions of 14-aa segments in the C terminus suggest that the newly defined flexible bundle subdomain in MCPs is likely critical for DifA function because shortening of this bundle can lead to constitutively active mutations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Qian</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Life Sciences I, Virginia Tech, Blacksburg, VA 24061-0910, USA. zmyang@vt.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Black</LastName>
+                    <ForeName>Wesley P</ForeName>
+                    <Initials>WP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nascimi</LastName>
+                    <ForeName>Heidi M</ForeName>
+                    <Initials>HM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Zhaomin</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM071601</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM071601</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C117792">DifA protein, Myxococcus xanthus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011135">Polysaccharides, Bacterial</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004252" MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019281" MajorTopicYN="N">Dimerization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="Y">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016941" MajorTopicYN="N">Myxococcus xanthus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011135" MajorTopicYN="N">Polysaccharides, Bacterial</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="Y">Signal Transduction</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21131490</ArticleId>
+            <ArticleId IdType="pii">JB.00944-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00944-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3021235</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Sep;65(6):1415-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17824925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Feb 20;104(8):2885-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17299051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Dec;66(6):1370-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18028315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Genet. 2007;41:13-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18076324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2008 Jan;33(1):9-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18165013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2008 Aug;69(3):714-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18554324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 2009 Feb 13;17(2):190-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19217390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2009;63:599-623</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19575567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Feb;192(3):734-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19966007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2010 Apr;13(2):124-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20122866</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 2010 Jun;74(2):229-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20508248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2010 Aug;77(3):575-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20545849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Future Microbiol. 2010 Aug;5(8):1203-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20722599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 May 23;97(11):5830-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10811894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Oct;182(20):5793-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11004179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2001 Jan 19;305(3):567-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11152613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 2001 Mar;9(3):126-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11239790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2001 Apr;26(4):257-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11295559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2002 Mar;184(5):1462-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11844780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2002 Oct;184(20):5654-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12270823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jul 1;31(13):3381-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12824332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Feb;186(4):1001-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14761994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 2004 Jun;68(2):301-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15187186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1975 Feb;72(2):518-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">164657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1976 May 7;72:248-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">942051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1979 Nov;76(11):5952-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">42906</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1992 Jul;174(13):4246-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1624419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1995 Feb;15(3):483-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7783619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Graph. 1996 Feb;14(1):33-8, 27-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8744570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1995 Nov;18(3):547-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8748037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1996 Aug 30;261(4):568-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8794877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Jan;182(2):546-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10629210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Sep 30;94(20):10541-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9380671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Electrophoresis. 1997 Dec;18(15):2714-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9504803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1998 Dec;30(5):1123-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9988486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2005 May;183(4):243-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15770502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Sep;57(5):1499-508</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16102016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Sep;187(18):6410-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16159775</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2006 Jan 15;22(2):195-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16301204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2006 May;13(5):400-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16622408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 Jul;61(2):447-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16856943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 Sep;61(5):1101-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16925549</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Microbiol. 2006 Nov;8(11):1935-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17014493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Oct 10;103(41):15200-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17015832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2007 Nov;5(11):862-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17922045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

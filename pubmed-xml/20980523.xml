@@ -1,0 +1,457 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20980523</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>T cell-mediated protection against lethal 2009 pandemic H1N1 influenza virus infection in a mouse model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>448-55</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01812-10</ELocationID>
+            <Abstract>
+                <AbstractText>Genetic mutation and reassortment of influenza virus gene segments, in particular those of hemagglutinin (HA) and neuraminidase (NA), that lead to antigenic drift and shift are the major strategies for influenza virus to escape preexisting immunity. The most recent example of such phenomena is the first pandemic of H1N1 influenza of the 21st century, which started in 2009. Cross-reactive antibodies raised against H1N1 viruses circulating before 1930 show protective activity against the 2009 pandemic virus. Cross-reactive T-cell responses can also contribute to protection, but in vivo support of this view is lacking. To explore the protection mechanisms in vivo, we primed mice with H1 and H3 influenza virus isolates and rechallenged them with a virus derived from the 2009 H1N1 A/CA/04/09 virus, named CA/E3/09. We found that priming with influenza viruses of both H1 and H3 homo- and heterosubtypes protected against lethal CA/E3/09 virus challenge. Convalescent-phase sera from these primed mice conferred no neutralization activity in vitro and no protection in vivo. However, T-cell depletion studies suggested that both CD4 and CD8 T cells contributed to the protection. Taken together, these results indicate that cross-reactive T cells established after initial priming with distally related viruses can be a vital component for prevention of disease and control of pandemic H1N1 influenza virus infection. Our results highlight the importance of establishing cross-reactive T-cell responses for protecting against existing or newly emerging pandemic influenza viruses.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Guo</LastName>
+                    <ForeName>Hailong</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>David H. Smith Center for Vaccine Biology and Immunology, University of Rochester Medical Center, 601 Elmwood Avenue, Box 609, Rochester, NY 14642, USA. Hailong_Guo@urmc.rochester.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santiago</LastName>
+                    <ForeName>Félix</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lambert</LastName>
+                    <ForeName>Kris</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takimoto</LastName>
+                    <ForeName>Toru</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Topham</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HHSN266200700008C</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>N01AI50020</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>266200700008C</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>N01-AI50020</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000914">Antibodies, Viral</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000914" MajorTopicYN="N">Antibodies, Viral</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003429" MajorTopicYN="N">Cross Reactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053118" MajorTopicYN="N">Influenza A Virus, H1N1 Subtype</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007251" MajorTopicYN="N">Influenza, Human</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058873" MajorTopicYN="N">Pandemics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013601" MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014774" MajorTopicYN="N">Virulence</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20980523</ArticleId>
+            <ArticleId IdType="pii">JVI.01812-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01812-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014175</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Exp Med. 1977 Mar 1;145(3):557-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">233901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2010;5(2):e9161</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20161790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Jul 1;179(1):201-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17579039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 Aug;84(15):7662-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20484500</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1998 Jul;72(7):5648-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9621023</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 Jan;84(1):44-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19864389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1996 Feb;70(2):1288-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8551597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2005 Aug;3(8):591-600</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16064053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2010 Jul 5;28(30):4771-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20470801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2008 Sep 15;181(6):4168-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18768874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2010;5(5):e10722</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20502705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010 Jan;6(1):e1000745</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20126449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2010 Jul 12;28(31):4895-902</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20553769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Mol Med. 2009 Mar;9(2):131-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19275623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1994 Feb 15;152(4):1653-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8120375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 1993 Sep;196(1):249-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8356796</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Jul;81(14):7608-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17507491</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Morb Mortal Wkly Rep. 2009 May 22;58(19):521-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19478718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Morb Mortal Wkly Rep. 2009 Apr 24;58(15):400-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19390508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2005 Sep 30;340(2):296-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16054188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virus Res. 2004 Dec;106(2):147-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15567494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2009 Jul 10;325(5937):197-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19465683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Aug 20;460(7258):1021-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19672242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2009;339:b3928</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19808768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Morb Mortal Wkly Rep. 2009 Jun 5;58(21):585-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19498336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2006 Jan;12(1):48-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16494717</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1997 Dec 1;159(11):5197-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9548456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 May;84(9):4212-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20164231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virol J. 2010;7:157</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20630098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Dec 1;106(48):20365-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19918065</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Nov 12;361(20):1945-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19745214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Jun 25;459(7250):1122-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19516283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Biosci. 2008;13:4912-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18508556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2010 Apr;84(7):3312-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20071564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1934 Nov 16;80(2081):457-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17795179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2006 Sep 1;177(5):2888-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16920924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2009 Nov;15(11):1847-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19891882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wkly Epidemiol Rec. 2009 May 22;84(21):185-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19462531</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1999 Nov 1;190(9):1319-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10544203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2009 Sep 25;27(42):5740-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19660593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2010 May 6;362(18):1708-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20445182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2010 Aug 1;185(3):1642-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20585035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

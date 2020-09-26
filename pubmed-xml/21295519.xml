@@ -1,0 +1,358 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21295519</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1618-0941</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>162</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Protist</Title>
+                <ISOAbbreviation>Protist</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel cultured protists identify deep-branching environmental DNA clades of cercozoa: New Genera Tremula, Micrometopion, Minimassisteria, Nudifila, Peregrinia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>332-72</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.protis.2010.10.002</ELocationID>
+            <Abstract>
+                <AbstractText>We describe three new orders of filosan Cercozoa, five new deep-branching genera, eight new species of Thaumatomonas, Reckertia, Spongomonas, Rhogostoma, Agitata, Neoheteromita and Paracercomonas, sequence their 18S rDNA, and construct 18S rDNA trees for 148 Cercozoa. Our phylogeny indicates that Filosa were ancestrally gliding flagellates; non-flagellate filose amoebae evolved from them five times independently. The new genera are more closely related to environmental DNA sequences than cultured organisms. Tremula longifila, a zooflagellate glider on both flagella (unlike other Cercozoa), is the most divergent filosan (Tremulida ord. n.). Micrometopion nutans is a eukaryote-eating gliding zooflagellate like Metopion and Metromonas. Minimassisteria diva is a widespread trimorphic marine amoeboflagellate granofilosan. Peregrinia clavideferens, a non-testate, scale-bearing, filose amoeba, branches deeply in Thaumatomonadida, which are probably sisters to Spongomonadida. Nudifila producta is a filose amoeboflagellate related to Clautriavia and Marimonadida (ord. n., e.g. Pseudopirsonia, Auranticordis). We substantially revise Imbricatea, now including Spongomonadida, and Thecofilosea to include Phaeodaria. Thecofilosea and Imbricatea and Thecofilosea are sisters, both arguably ancestrally rigid gliding flagellates with ventral pseudopod-emitting grooves. Scale-free Ovulinata parva is sister to Paulinella, so imbricate silica scales can be lost. Internal hollow silica skeletons evolved twice in Thecofilosea (Ebriida, Phaeodaria) or were multiply lost. Protaspa replaces preoccupied 'Protaspis'.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier GmbH. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Howe</LastName>
+                    <ForeName>Alexis T</ForeName>
+                    <Initials>AT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Oxford, South Parks Road, Oxford, OX1 3PS, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bass</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scoble</LastName>
+                    <ForeName>Josephine M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>Rhodri</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vickerman</LastName>
+                    <ForeName>Keith</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arndt</LastName>
+                    <ForeName>Hartmut</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cavalier-Smith</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>AB101542</AccessionNumber>
+                        <AccessionNumber>AB252758</AccessionNumber>
+                        <AccessionNumber>AB252760</AccessionNumber>
+                        <AccessionNumber>AB453002</AccessionNumber>
+                        <AccessionNumber>AF018158</AccessionNumber>
+                        <AccessionNumber>AF063240</AccessionNumber>
+                        <AccessionNumber>AF063242</AccessionNumber>
+                        <AccessionNumber>AF289081</AccessionNumber>
+                        <AccessionNumber>AF290539</AccessionNumber>
+                        <AccessionNumber>AF290540</AccessionNumber>
+                        <AccessionNumber>AF310901</AccessionNumber>
+                        <AccessionNumber>AF310904</AccessionNumber>
+                        <AccessionNumber>AF411259</AccessionNumber>
+                        <AccessionNumber>AF411260</AccessionNumber>
+                        <AccessionNumber>AF411261</AccessionNumber>
+                        <AccessionNumber>AF411262</AccessionNumber>
+                        <AccessionNumber>AF411263</AccessionNumber>
+                        <AccessionNumber>AF411264</AccessionNumber>
+                        <AccessionNumber>AF411265</AccessionNumber>
+                        <AccessionNumber>AF411272</AccessionNumber>
+                        <AccessionNumber>AF411275</AccessionNumber>
+                        <AccessionNumber>AF411276</AccessionNumber>
+                        <AccessionNumber>AF411278</AccessionNumber>
+                        <AccessionNumber>AF411281</AccessionNumber>
+                        <AccessionNumber>AF411283</AccessionNumber>
+                        <AccessionNumber>AF411286</AccessionNumber>
+                        <AccessionNumber>AF534712</AccessionNumber>
+                        <AccessionNumber>AJ418786</AccessionNumber>
+                        <AccessionNumber>AJ418789</AccessionNumber>
+                        <AccessionNumber>AJ418791</AccessionNumber>
+                        <AccessionNumber>AJ418792</AccessionNumber>
+                        <AccessionNumber>AJ418793</AccessionNumber>
+                        <AccessionNumber>AJ418794</AccessionNumber>
+                        <AccessionNumber>AJ457812</AccessionNumber>
+                        <AccessionNumber>AJ457814</AccessionNumber>
+                        <AccessionNumber>AJ514867</AccessionNumber>
+                        <AccessionNumber>AJ561116</AccessionNumber>
+                        <AccessionNumber>AJ620252</AccessionNumber>
+                        <AccessionNumber>AJ620296</AccessionNumber>
+                        <AccessionNumber>AJ620329</AccessionNumber>
+                        <AccessionNumber>AJ620331</AccessionNumber>
+                        <AccessionNumber>AJ620335</AccessionNumber>
+                        <AccessionNumber>AJ620336</AccessionNumber>
+                        <AccessionNumber>AJ620337</AccessionNumber>
+                        <AccessionNumber>AY266292</AccessionNumber>
+                        <AccessionNumber>AY266293</AccessionNumber>
+                        <AccessionNumber>AY266294</AccessionNumber>
+                        <AccessionNumber>AY268040</AccessionNumber>
+                        <AccessionNumber>AY268044</AccessionNumber>
+                        <AccessionNumber>AY268045</AccessionNumber>
+                        <AccessionNumber>AY305009</AccessionNumber>
+                        <AccessionNumber>AY305010</AccessionNumber>
+                        <AccessionNumber>AY496044</AccessionNumber>
+                        <AccessionNumber>AY496045</AccessionNumber>
+                        <AccessionNumber>AY620255</AccessionNumber>
+                        <AccessionNumber>AY620256</AccessionNumber>
+                        <AccessionNumber>AY620281</AccessionNumber>
+                        <AccessionNumber>AY620287</AccessionNumber>
+                        <AccessionNumber>AY620288</AccessionNumber>
+                        <AccessionNumber>AY620290</AccessionNumber>
+                        <AccessionNumber>AY620301</AccessionNumber>
+                        <AccessionNumber>AY620305</AccessionNumber>
+                        <AccessionNumber>AY620308</AccessionNumber>
+                        <AccessionNumber>AY620310</AccessionNumber>
+                        <AccessionNumber>AY620311</AccessionNumber>
+                        <AccessionNumber>AY620314</AccessionNumber>
+                        <AccessionNumber>AY620316</AccessionNumber>
+                        <AccessionNumber>AY620317</AccessionNumber>
+                        <AccessionNumber>AY620321</AccessionNumber>
+                        <AccessionNumber>AY620324</AccessionNumber>
+                        <AccessionNumber>AY620332</AccessionNumber>
+                        <AccessionNumber>AY620333</AccessionNumber>
+                        <AccessionNumber>AY620334</AccessionNumber>
+                        <AccessionNumber>AY620343</AccessionNumber>
+                        <AccessionNumber>AY620344</AccessionNumber>
+                        <AccessionNumber>AY620347</AccessionNumber>
+                        <AccessionNumber>AY620348</AccessionNumber>
+                        <AccessionNumber>AY620354</AccessionNumber>
+                        <AccessionNumber>AY620356</AccessionNumber>
+                        <AccessionNumber>AY620358</AccessionNumber>
+                        <AccessionNumber>AY620359</AccessionNumber>
+                        <AccessionNumber>AY620361</AccessionNumber>
+                        <AccessionNumber>AY620364</AccessionNumber>
+                        <AccessionNumber>AY642739</AccessionNumber>
+                        <AccessionNumber>AY748806</AccessionNumber>
+                        <AccessionNumber>AY884340</AccessionNumber>
+                        <AccessionNumber>AY919754</AccessionNumber>
+                        <AccessionNumber>DQ199661</AccessionNumber>
+                        <AccessionNumber>DQ211591</AccessionNumber>
+                        <AccessionNumber>DQ211592</AccessionNumber>
+                        <AccessionNumber>DQ211593</AccessionNumber>
+                        <AccessionNumber>DQ303922</AccessionNumber>
+                        <AccessionNumber>DQ303924</AccessionNumber>
+                        <AccessionNumber>DQ314819</AccessionNumber>
+                        <AccessionNumber>DQ369015</AccessionNumber>
+                        <AccessionNumber>DQ980486</AccessionNumber>
+                        <AccessionNumber>EF023367</AccessionNumber>
+                        <AccessionNumber>EF023686</AccessionNumber>
+                        <AccessionNumber>EF024013</AccessionNumber>
+                        <AccessionNumber>EF025032</AccessionNumber>
+                        <AccessionNumber>EF032802</AccessionNumber>
+                        <AccessionNumber>EF405665</AccessionNumber>
+                        <AccessionNumber>EU484394</AccessionNumber>
+                        <AccessionNumber>EU567207</AccessionNumber>
+                        <AccessionNumber>EU567213</AccessionNumber>
+                        <AccessionNumber>EU567215</AccessionNumber>
+                        <AccessionNumber>EU567216</AccessionNumber>
+                        <AccessionNumber>EU567231</AccessionNumber>
+                        <AccessionNumber>EU567236</AccessionNumber>
+                        <AccessionNumber>EU567238</AccessionNumber>
+                        <AccessionNumber>EU567248</AccessionNumber>
+                        <AccessionNumber>EU567249</AccessionNumber>
+                        <AccessionNumber>EU567252</AccessionNumber>
+                        <AccessionNumber>EU567253</AccessionNumber>
+                        <AccessionNumber>EU567254</AccessionNumber>
+                        <AccessionNumber>EU567255</AccessionNumber>
+                        <AccessionNumber>EU567256</AccessionNumber>
+                        <AccessionNumber>EU567283</AccessionNumber>
+                        <AccessionNumber>EU567286</AccessionNumber>
+                        <AccessionNumber>EU567287</AccessionNumber>
+                        <AccessionNumber>EU567288</AccessionNumber>
+                        <AccessionNumber>EU567289</AccessionNumber>
+                        <AccessionNumber>EU567290</AccessionNumber>
+                        <AccessionNumber>EU567292</AccessionNumber>
+                        <AccessionNumber>EU567294</AccessionNumber>
+                        <AccessionNumber>EU567296</AccessionNumber>
+                        <AccessionNumber>EU709153</AccessionNumber>
+                        <AccessionNumber>EU709217</AccessionNumber>
+                        <AccessionNumber>EU709276</AccessionNumber>
+                        <AccessionNumber>FJ410916</AccessionNumber>
+                        <AccessionNumber>FJ790068</AccessionNumber>
+                        <AccessionNumber>FJ790702</AccessionNumber>
+                        <AccessionNumber>FJ790712</AccessionNumber>
+                        <AccessionNumber>FJ790717</AccessionNumber>
+                        <AccessionNumber>FJ790718</AccessionNumber>
+                        <AccessionNumber>FJ790737</AccessionNumber>
+                        <AccessionNumber>FJ824126</AccessionNumber>
+                        <AccessionNumber>FJ824127</AccessionNumber>
+                        <AccessionNumber>FJ824128</AccessionNumber>
+                        <AccessionNumber>FJ824130</AccessionNumber>
+                        <AccessionNumber>FJ824131</AccessionNumber>
+                        <AccessionNumber>FJ919772</AccessionNumber>
+                        <AccessionNumber>HQ121429</AccessionNumber>
+                        <AccessionNumber>HQ121430</AccessionNumber>
+                        <AccessionNumber>HQ121431</AccessionNumber>
+                        <AccessionNumber>HQ121432</AccessionNumber>
+                        <AccessionNumber>HQ121433</AccessionNumber>
+                        <AccessionNumber>HQ121434</AccessionNumber>
+                        <AccessionNumber>HQ121435</AccessionNumber>
+                        <AccessionNumber>HQ121436</AccessionNumber>
+                        <AccessionNumber>HQ121437</AccessionNumber>
+                        <AccessionNumber>HQ121438</AccessionNumber>
+                        <AccessionNumber>HQ121439</AccessionNumber>
+                        <AccessionNumber>HQ121440</AccessionNumber>
+                        <AccessionNumber>HQ121441</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>02</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Protist</MedlineTA>
+            <NlmUniqueID>9806488</NlmUniqueID>
+            <ISSNLinking>1434-4610</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016054">DNA, Protozoan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012987">Soil</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>059QF0KO0R</RegistryNumber>
+                <NameOfSubstance UI="D014867">Water</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D056907" MajorTopicYN="N">Cercozoa</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000648" MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016054" MajorTopicYN="N">DNA, Protozoan</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019015" MajorTopicYN="N">Geologic Sediments</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012987" MajorTopicYN="N">Soil</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014867" MajorTopicYN="N">Water</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>09</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21295519</ArticleId>
+            <ArticleId IdType="pii">S1434-4610(10)00082-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.protis.2010.10.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

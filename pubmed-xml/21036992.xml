@@ -1,0 +1,486 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21036992</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Catabolite control protein A controls hydrogen peroxide production and cell death in Streptococcus sanguinis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>516-26</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01131-10</ELocationID>
+            <Abstract>
+                <AbstractText>Streptococcus sanguinis is a commensal oral bacterium producing hydrogen peroxide (H₂O₂) that is dependent on pyruvate oxidase (Spx) activity. In addition to its well-known role in bacterial antagonism during interspecies competition, H₂O₂ causes cell death in about 10% of the S. sanguinis population. As a consequence of H₂O₂-induced cell death, largely intact chromosomal DNA is released into the environment. This extracellular DNA (eDNA) contributes to the self-aggregation phenotype under aerobic conditions. To further investigate the regulation of spx gene expression, we assessed the role of catabolite control protein A (CcpA) in spx expression control. We report here that CcpA represses spx expression. An isogenic ΔccpA mutant showed elevated spx expression, increased Spx abundance, and H₂O₂ production, whereas the wild type did not respond with altered spx expression in the presence of glucose and other carbohydrates. Since H₂O₂ is directly involved in the release of eDNA and bacterial cell death, the presented data suggest that CcpA is a central control element in this important developmental process in S. sanguinis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Lanyan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Zhijun</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Itzek</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashby</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kreth</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R21 DE016889-01A2</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R00 DE018400-05</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>4R00DE018400</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R00 DE018400</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 DE016889</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012097">Repressor Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C069286">catabolite control proteins, bacteria</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>BBX060AN9V</RegistryNumber>
+                <NameOfSubstance UI="D006861">Hydrogen Peroxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.2.3.3</RegistryNumber>
+                <NameOfSubstance UI="D011771">Pyruvate Oxidase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050260" MajorTopicYN="N">Carbohydrate Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016923" MajorTopicYN="Y">Cell Death</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="Y">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006861" MajorTopicYN="N">Hydrogen Peroxide</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011771" MajorTopicYN="N">Pyruvate Oxidase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012097" MajorTopicYN="N">Repressor Proteins</DescriptorName>
+                <QualifierName UI="Q000172" MajorTopicYN="N">deficiency</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013291" MajorTopicYN="N">Streptococcus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21036992</ArticleId>
+            <ArticleId IdType="pii">JB.01131-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01131-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019840</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Microbiol Immunol. 2007;51(9):889-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17895606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2007 Jul;153(Pt 7):2083-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17600053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 2008 Mar;72(1):85-109, table of contents</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18322035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Apr;190(7):2340-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18223086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Microbiol. 2008 Apr;57(Pt 4):495-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18349371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 May;190(10):3572-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18344365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Jul;190(13):4632-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18441055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2008 Aug;6(8):613-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18628769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Aug;190(15):5493-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18502869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2008 Aug;76(8):3451-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18490461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Aug;190(16):5690-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18556793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>DNA Cell Biol. 2009 Aug;28(8):397-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19435424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 2009 Sep;73(3):407-50, Table of Contents</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19721085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Oct;191(20):6281-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19684131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2010 Jan;38(Database issue):D111-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19884135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2010 Jan;78(1):241-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19841076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Oral Microbiol. 2010 Jun;25(3):165-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20536745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2011 Jan;157(Pt 1):13-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20847003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2010 Jul;8(7):471-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20514044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2000 Jul;68(7):4018-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10858217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2001 Jan;67(1):15-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11133423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2001 Mar;39(5):1366-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11251851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2002 Mar;40(3):1001-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11880430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Jun;186(12):3749-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15175288</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Dent Res. 1975 Jan-Feb;54(1):140-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1053754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1983 Jun 5;166(4):557-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6345791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1983 Sep;23(3):331-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6313476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1987 Apr 24;49(2):221-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3568126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oral Microbiol Immunol. 1987 Mar;2(1):10-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3295684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oral Microbiol Immunol. 1987 Mar;2(1):15-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3473418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plasmid. 1987 Nov;18(3):250-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3127839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ind Microbiol. 1995 Sep;15(3):198-207</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8519478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1996 Oct 24;177(1-2):137-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8921859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1998 Aug;42(8):1906-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9687382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Aug 4;95(16):9590-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9689125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Jun;56(6):1664-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15916614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Nov;187(21):7193-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16237003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2005 Nov;43(11):5721-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16272510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2006 Jul;188(13):4996-5001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16788209</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2006 Aug;72(8):5414-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16885293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Apr;189(8):3106-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17277052</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Apr;189(8):3166-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17277061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 May 8;104(19):8113-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17452642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2007 Jun;153(Pt 6):1799-807</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17526837</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2008 Feb;67(4):729-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18179423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

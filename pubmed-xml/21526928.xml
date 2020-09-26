@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21526928</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-2442</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of insect science (Online)</Title>
+                <ISOAbbreviation>J. Insect Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The role of body size and shape in understanding competitive interactions within a community of Neotropical dung beetles.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>13</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1673/031.011.0113</ELocationID>
+            <Abstract>
+                <AbstractText>Geometric morphometrics is helpful for understanding how body size and body shape influence the strength of inter-specific competitive interactions in a community. Dung beetles, characterized by their use of decomposing organic material, provide a useful model for understanding the structuring of ecological communities and the role of competition based on their size and morphology. The relationship between body size and shape in a dung beetle community from the Atlantic Forest in Serra do Japi, Brazil was analyzed for 39 species. Fifteen anatomical landmarks on three-dimensional Cartesian coordinates were used to describe both the shape and the size of the body of each species on the basis of the centroid located along homologous points in all of the species. The first vector of a principal components analysis explained 38.5% of the morphological variation among species, and represents a gradient of body shape from elongated, flattened bodies with narrow abdomen to rounded or convex bodies. The second component explained 17.8% of the remaining variation in body shape, which goes from species with an abdomen that is larger than the elytra to species with constricted abdomens and large elytra. The relationship between body size and shape was analyzed separately for diurnal and nocturnal species. In both guilds not only were there differences in body size, but also in body shape, suggesting a reduction in their level of competition.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hernández</LastName>
+                    <ForeName>Malva I M</ForeName>
+                    <Initials>MI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Ecologia e Zoologia, Universidade Federal de Santa Catarina, Caixa Postal 476, Florianópolis, SC, Brazil 88010-970. malvamh@ccb.ufsc.br</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monteiro</LastName>
+                    <ForeName>Leandro R</ForeName>
+                    <Initials>LR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Favila</LastName>
+                    <ForeName>Mario E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Insect Sci</MedlineTA>
+            <NlmUniqueID>101096396</NlmUniqueID>
+            <ISSNLinking>1536-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001522" MajorTopicYN="N">Behavior, Animal</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049628" MajorTopicYN="N">Body Size</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001837" MajorTopicYN="N">Body Weights and Measures</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001938" MajorTopicYN="N">Brazil</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001517" MajorTopicYN="N">Coleoptera</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003163" MajorTopicYN="N">Competitive Behavior</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025341" MajorTopicYN="N">Principal Component Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21526928</ArticleId>
+            <ArticleId IdType="doi">10.1673/031.011.0113</ArticleId>
+            <ArticleId IdType="pmc">PMC3281377</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Jun 25;99(13):8731-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12070354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1934 Jan 5;79(2036):16-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17821472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Nat. 1993 Oct;142(4):573-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19425961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Ecol Evol. 1993 Apr;8(4):129-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21236128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 1977 Sep;28(3):203-231</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28309248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 1987 Dec;74(2):231-235</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28311995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

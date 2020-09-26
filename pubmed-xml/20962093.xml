@@ -1,0 +1,539 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20962093</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Human pluripotent stem cells produce natural killer cells that mediate anti-HIV-1 activity by utilizing diverse cellular mechanisms.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>43-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01774-10</ELocationID>
+            <Abstract>
+                <AbstractText>Cell-based therapies against HIV/AIDS have been gaining increased interest. Natural killer (NK) cells are a key component of the innate immune system with the ability to kill diverse tumor cells and virus-infected cells. While NK cells have been shown to play an important role in the control of HIV-1 replication, their functional activities are often compromised in HIV-1-infected individuals. We have previously demonstrated the derivation of NK cells from human embryonic stem cells (hESCs) with the ability to potently kill multiple types of tumor cells both in vitro and in vivo. We now demonstrate the derivation of functional NK cells from human induced pluripotent stem cells (iPSCs). More importantly, both hESC- and iPSC-derived NK cells are able to inhibit HIV-1 NL4-3 infection of CEM-GFP cells. Additional studies using HIV-1-infected human primary CD4(+) T cells illustrated that hESC- and iPSC-derived NK cells suppress HIV-1 infection by at least three distinct cellular mechanisms: killing of infected targets through direct lysis, antibody-dependent cellular cytotoxicity, and production of chemokines and cytokines. Our results establish the potential to utilize hESC- and iPSC-derived NK cells to better understand anti-HIV-1 immunity and provide a novel cellular immunotherapeutic approach to treat HIV/AIDS.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ni</LastName>
+                    <ForeName>Zhenya</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Minnesota, 420 Delaware St. SE, MMC 480, Minneapolis, MN 55455, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knorr</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clouser</LastName>
+                    <ForeName>Christine L</ForeName>
+                    <Initials>CL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hexum</LastName>
+                    <ForeName>Melinda K</ForeName>
+                    <Initials>MK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Southern</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mansky</LastName>
+                    <ForeName>Louis M</ForeName>
+                    <Initials>LM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>In-Hyun</ForeName>
+                    <Initials>IH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaufman</LastName>
+                    <ForeName>Dan S</ForeName>
+                    <Initials>DS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 HL077923</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 CA009138</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL77923</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000920" MajorTopicYN="N">Antibody-Dependent Cell Cytotoxicity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015496" MajorTopicYN="N">CD4-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002454" MajorTopicYN="N">Cell Differentiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003602" MajorTopicYN="Y">Cytotoxicity, Immunologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053595" MajorTopicYN="N">Embryonic Stem Cells</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015658" MajorTopicYN="N">HIV Infections</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015497" MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057026" MajorTopicYN="N">Induced Pluripotent Stem Cells</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007694" MajorTopicYN="N">Killer Cells, Natural</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008213" MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013601" MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014779" MajorTopicYN="N">Virus Replication</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20962093</ArticleId>
+            <ArticleId IdType="pii">JVI.01774-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01774-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014194</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Blood. 2009 Jun 11;113(24):6094-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19365083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Jan 10;451(7175):141-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18157115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Aug 1;103(31):11742-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16844782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Apr 29;94(9):4653-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9114046</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Retrovirology. 2006;3:24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16623949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stem Cells. 2006 May;24(5):1370-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16456127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1984 Aug 24;225(4664):840-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6206563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1991 Aug;65(8):4169-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2072448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Mar 11;464(7286):217-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20220840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2005 Feb 20;332(2):491-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15680414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 1999 Jun;10(6):661-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10403641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2005 Nov;5(11):835-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16239902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2006 Mar 1;176(5):2924-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16493050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2002 Aug;31(4):429-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12134147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stem Cells. 2009 Nov;27(11):2675-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19711457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2007 Nov 26;204(12):3027-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18025129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2005 Oct 15;175(8):5095-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16210613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Sep 11;98(19):10716-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11535826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stem Cells. 2009 Mar;27(3):559-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19259936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Leukoc Biol. 2008 Jul;84(1):1-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18388298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Feb 1;67(3):1317-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17283169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2008 Aug 1;112(3):461-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18650461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Feb 12;360(7):692-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19213682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2006 Apr 17;203(4):1033-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16606675</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2004 Sep 3;18(13):1769-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15316337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2008 Oct 1;112(7):2730-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18621931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2008 Apr;8(4):299-308</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18354418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2009 Jan 15;182(2):1202-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19124764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Immunol. 1999;17:657-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10358771</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2006 Dec 1;108(12):3824-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16902150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Mar 2;107(9):4335-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20160098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2005 Apr 15;105(8):3051-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15632206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2005 May 16;201(10):1603-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15883170</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2010 Feb 18;115(7):1354-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20008788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2010 Jan 1;184(1):114-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19949086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stem Cells. 2010 Apr;28(4):704-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20155819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Mar 15;295(5562):2097-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11896281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2008 Dec;14(12):1390-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18997777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2008;3(4):e1975</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18398485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2010 Feb 15;184(4):2057-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20061407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2009 Sep;119(9):2818-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19726877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Leukoc Biol. 2008 Jul;84(1):27-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18388299</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2005 Jan 15;105(2):617-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15374881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1995 Mar 1;181(3):1235-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7532682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Immunol. 2004;22:405-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15032583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009;4(12):e8208</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19997617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2009 Oct 22;114(17):3513-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19652198</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2004 Oct 1;104(7):2087-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15117765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Intern Med. 2009 Jan;265(1):29-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19093958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2007 Aug 15;110(4):1207-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17513617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1998 Dec 21;188(12):2375-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9858524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS Res Ther. 2008 Jan 23;5:1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18215326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Stem Cell. 2008 Jul 3;3(1):85-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18593561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

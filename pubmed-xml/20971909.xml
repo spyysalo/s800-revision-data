@@ -1,0 +1,355 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971909</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mapping interactions between germinants and Clostridium difficile spores.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>274-82</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00980-10</ELocationID>
+            <Abstract>
+                <AbstractText>Germination of Clostridium difficile spores is the first required step in establishing C. difficile-associated disease (CDAD). Taurocholate (a bile salt) and glycine (an amino acid) have been shown to be important germinants of C. difficile spores. In the present study, we tested a series of glycine and taurocholate analogs for the ability to induce or inhibit C. difficile spore germination. Testing of glycine analogs revealed that both the carboxy and amino groups are important epitopes for recognition and that the glycine binding site can accommodate compounds with more widely separated termini. The C. difficile germination machinery also recognizes other hydrophobic amino acids. In general, linear alkyl side chains are better activators of spore germination than their branched analogs. However, L-phenylalanine and L-arginine are also good germinants and are probably recognized by distinct binding sites. Testing of taurocholate analogs revealed that the 12-hydroxyl group of taurocholate is necessary, but not sufficient, to activate spore germination. In contrast, the 6- and 7-hydroxyl groups are required for inhibition of C. difficile spore germination. Similarly, C. difficile spores are able to detect taurocholate analogs with shorter, but not longer, alkyl amino sulfonic acid side chains. Furthermore, the sulfonic acid group can be partially substituted with other acidic groups. Finally, a taurocholate analog with an m-aminobenzenesulfonic acid side chain is a strong inhibitor of C. difficile spore germination. In conclusion, C. difficile spores recognize both amino acids and taurocholate through multiple interactions that are required to bind the germinants and/or activate the germination machinery.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Howerton</LastName>
+                    <ForeName>Amber</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of Nevada, Las Vegas, Las Vegas, Nevada 89154, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramirez</LastName>
+                    <ForeName>Norma</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abel-Santos</LastName>
+                    <ForeName>Ernesto</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>5E090O0G3Z</RegistryNumber>
+                <NameOfSubstance UI="D013656">Taurocholic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>TE7660XO1C</RegistryNumber>
+                <NameOfSubstance UI="D005998">Glycine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000900" MajorTopicYN="N">Anti-Bacterial Agents</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016360" MajorTopicYN="N">Clostridium difficile</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005998" MajorTopicYN="N">Glycine</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013171" MajorTopicYN="N">Spores, Bacterial</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013656" MajorTopicYN="N">Taurocholic Acid</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971909</ArticleId>
+            <ArticleId IdType="pii">JB.00980-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00980-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019946</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Lipid Res. 1977 May;18(3):404-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">864329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2005 Dec;3(12):969-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16261177</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Control Hosp Epidemiol. 2007 Nov;28(11):1219-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17926270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2010 Apr;156(Pt 4):1244-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20035009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anaerobe. 2004 Apr;10(2):75-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16701503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2006 Jul;38(7):779-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16804543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1990 Jan;4(1):137-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2157130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunochemistry. 1978 Feb;15(2):71-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">631867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 1977 Jan;23(1):112-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">318934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Genet Evol. 2009 Dec;9(6):1410-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19539054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Appl Microbiol. 2006 Sep;101(3):526-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16907803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Jan;192(2):418-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19915025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Aug;192(16):4215-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20562307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 2006 Oct;58(4):891-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16880172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Microbiol. 1988 Nov;134(11):3001-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3151208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Feb;191(3):1115-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19060152</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Apr;190(7):2505-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18245298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Gastroenterol. 2007 Jan;23(1):4-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17133077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Antimicrob Agents. 2008 Mar;31(3):193-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17703922</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2002 Mar;59(3):403-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11964118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transpl Infect Dis. 2007 Dec;9(4):270-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17511817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2001 Aug 8;123(31):7691-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11480993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2003 Dec;6(6):550-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14662349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Pharmacother. 2006 Dec;40(12):2155-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17148650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009;4(7):e6398</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19636427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Dec;187(23):8055-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16291679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Infect Dis. 2007 Aug;20(4):376-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17609596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Postgrad Med J. 2005 Jun;81(956):367-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15937201</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1981 Mar;143(3):470-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6785366</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Infect. 2001 Aug;7(8):421-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11591205</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2006 Jan;72(1):44-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16391023</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

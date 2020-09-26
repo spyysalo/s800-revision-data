@@ -1,0 +1,758 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21097608</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>African 2, a clonal complex of Mycobacterium bovis epidemiologically important in East Africa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>670-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00750-10</ELocationID>
+            <Abstract>
+                <AbstractText>We have identified a clonal complex of Mycobacterium bovis isolated at high frequency from cattle in Uganda, Burundi, Tanzania, and Ethiopia. We have named this related group of M. bovis strains the African 2 (Af2) clonal complex of M. bovis. Af2 strains are defined by a specific chromosomal deletion (RDAf2) and can be identified by the absence of spacers 3 to 7 in their spoligotype patterns. Deletion analysis of M. bovis isolates from Algeria, Mali, Chad, Nigeria, Cameroon, South Africa, and Mozambique did not identify any strains of the Af2 clonal complex, suggesting that this clonal complex of M. bovis is localized in East Africa. The specific spoligotype pattern of the Af2 clonal complex was rarely identified among isolates from outside Africa, and the few isolates that were found and tested were intact at the RDAf2 locus. We conclude that the Af2 clonal complex is localized to cattle in East Africa. We found that strains of the Af2 clonal complex of M. bovis have, in general, four or more copies of the insertion sequence IS6110, in contrast to the majority of M. bovis strains isolated from cattle, which are thought to carry only one or a few copies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Berg</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>VLA Weybridge, New Haw, Surrey KT15 3NB, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia-Pelayo</LastName>
+                    <ForeName>M Carmen</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Müller</LastName>
+                    <ForeName>Borna</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hailu</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Asiimwe</LastName>
+                    <ForeName>Benon</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kremer</LastName>
+                    <ForeName>Kristin</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dale</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boniotti</LastName>
+                    <ForeName>M Beatrice</ForeName>
+                    <Initials>MB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez</LastName>
+                    <ForeName>Sabrina</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hilty</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rigouts</LastName>
+                    <ForeName>Leen</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Firdessa</LastName>
+                    <ForeName>Rebuma</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Machado</LastName>
+                    <ForeName>Adelina</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mucavele</LastName>
+                    <ForeName>Custodia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ngandolo</LastName>
+                    <ForeName>Bongo Nare Richard</ForeName>
+                    <Initials>BN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bruchfeld</LastName>
+                    <ForeName>Judith</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boschiroli</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Müller</LastName>
+                    <ForeName>Annélle</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sahraoui</LastName>
+                    <ForeName>Naima</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pacciarini</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cadmus</LastName>
+                    <ForeName>Simeon</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joloba</LastName>
+                    <ForeName>Moses</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Soolingen</LastName>
+                    <ForeName>Dick</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Michel</LastName>
+                    <ForeName>Anita L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Djønne</LastName>
+                    <ForeName>Berit</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aranaz</LastName>
+                    <ForeName>Alicia</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zinsstag</LastName>
+                    <ForeName>Jakob</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Helden</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Portaels</LastName>
+                    <ForeName>Françoise</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kazwala</LastName>
+                    <ForeName>Rudovick</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Källenius</LastName>
+                    <ForeName>Gunilla</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hewinson</LastName>
+                    <ForeName>R Glyn</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aseffa</LastName>
+                    <ForeName>Abraham</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gordon</LastName>
+                    <ForeName>Stephen V</ForeName>
+                    <Initials>SV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Noel H</ForeName>
+                    <Initials>NH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>GU004178</AccessionNumber>
+                        <AccessionNumber>GU004179</AccessionNumber>
+                        <AccessionNumber>GU004180</AccessionNumber>
+                        <AccessionNumber>GU004181</AccessionNumber>
+                        <AccessionNumber>GU004182</AccessionNumber>
+                        <AccessionNumber>GU004183</AccessionNumber>
+                        <AccessionNumber>GU004184</AccessionNumber>
+                        <AccessionNumber>GU004185</AccessionNumber>
+                        <AccessionNumber>GU004186</AccessionNumber>
+                        <AccessionNumber>GU004187</AccessionNumber>
+                        <AccessionNumber>GU004188</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004251">DNA Transposable Elements</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>J Bacteriol. 2012 Mar;194(6):1641</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000351" MajorTopicYN="N" Type="Geographic">Africa, Eastern</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015373" MajorTopicYN="N">Bacterial Typing Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002417" MajorTopicYN="N">Cattle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016172" MajorTopicYN="N">DNA Fingerprinting</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004251" MajorTopicYN="N">DNA Transposable Elements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004269" MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018628" MajorTopicYN="N">Gene Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009163" MajorTopicYN="N">Mycobacterium bovis</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017384" MajorTopicYN="N">Sequence Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014380" MajorTopicYN="N">Tuberculosis, Bovine</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21097608</ArticleId>
+            <ArticleId IdType="pii">JB.00750-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00750-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3021238</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2006 Sep;4(9):670-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16912712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2007;8:60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17324287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Microbiol. 2008 Jan 1;126(1-3):151-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17720336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Rec. 2007 Dec 8;161(23):782-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18065813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Microbiol. 2007;7:95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17961243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Mar 18;105(11):4376-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18334639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiol Infect. 2008 May;136(5):636-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17599779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Microbiol. 2008 Aug 25;130(3-4):415-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18417301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Vet Res. 2008;4:26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18637160</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2008 Dec;14(12):1919-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19046521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Microbiol. 2009 Feb 2;133(4):335-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18786785</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Vet Res. 2009;5:4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19173726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Mar;191(6):1951-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19136597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2009 Mar;47(3):636-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19144792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009;4(4):e5068</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19352493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Rec. 2009 May 23;164(21):655-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19465755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2009 Jul;7(7):537-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19483712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Microbiol. 2009;9:144</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19619309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tuberculosis (Edinb). 2010 Jan;90(1):50-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19963438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Microbiol. 2010 Feb 24;141(1-2):89-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19720476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Vet Res. 2010;6:28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20507576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 2000 Apr;9(4):387-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10736042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 May;182(9):2393-401</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10762237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2001 Oct;39(10):3623-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11574583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Mar 19;99(6):3684-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11891304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Apr 12;296(5566):336-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11951043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2002 Dec;40(12):4457-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12454136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2002 Dec;162(4):1533-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12524330</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Jun 24;100(13):7877-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12788972</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Dec 9;100(25):15271-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14657373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2004 Jun;42(6):2602-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15184440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tuberculosis (Edinb). 2004;84(3-4):159-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15207485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Tuberc Lung Dis. 2004 Aug;8(8):924-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15305473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1991 Aug;59(8):2695-705</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1649798</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1991 Nov;29(11):2578-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1685494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1993 Feb;31(2):406-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8381814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1993 May;31(5):1143-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8099083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Microbiol. 1993 Oct;37(1-2):1-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7905219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1993 Dec;10(5):1057-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7934856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1994 Oct;32(10):2425-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7814478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tuber Lung Dis. 1995 Dec;76(6):550-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8593378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tuber Lung Dis. 1996 Jun;77(3):264-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8758111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Microbiol. 1996 May;50(1-2):59-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8810008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1997 Apr;35(4):907-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9157152</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1998 Jan;36(1):168-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9431942</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 1998 Jan-Mar;4(1):59-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9452399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1998 Apr;180(8):2102-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9555892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1998 May;144 ( Pt 5):1189-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9611793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Jun 11;393(6685):537-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9634230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Microbiol. 1998 Apr 15;61(4):311-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9646480</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pathol. 1998 Aug;51(4):209-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9893747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1999 Aug;37(8):2602-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10405409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1999 Sep;37(9):2766-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10449449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1999 Oct;37(10):3217-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10488180</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2004 Nov;42(11):5058-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15528696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbes Infect. 2005 Mar;7(3):325-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15804490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>East Afr Med J. 2004 Apr;81(4):171-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15884281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2005 Jul;43(7):3185-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16000433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Microbiol. 2005 Aug 30;109(3-4):217-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15994030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2006 Jan;44(1):29-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16390943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2006 Mar 20;24(13):2333-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16388878</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2006 Mar 21;239(2):220-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16242724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Microbiol. 2006 Apr 16;114(1-2):115-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16384662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Feb 21;103(8):2869-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16477032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2006 May;12(5):769-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16704835</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

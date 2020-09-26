@@ -1,0 +1,466 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20962097</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Variola and monkeypox viruses utilize conserved mechanisms of virion motility and release that depend on abl and SRC family tyrosine kinases.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>21-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01814-10</ELocationID>
+            <Abstract>
+                <AbstractText>Vaccinia virus (VacV) enters mammalian cells, replicates extranuclearly, and produces virions that move to the cell surface along microtubules, fuse with the plasma membrane, and move from infected cells toward apposing cells on actin-filled membranous protrusions or actin tails. To form actin tails, cell-associated enveloped virions (CEV) require Abl and Src family tyrosine kinases. Furthermore, release of CEV from the cell requires Abl but not Src family tyrosine kinases and is blocked by imatinib mesylate (STI-571; Gleevec), an Abl family kinase inhibitor used to treat chronic myelogenous leukemia in humans. Here we demonstrate that the Poxviridae family members monkeypox virus (MPX) and variola virus (VarV) use conserved mechanisms for actin motility and extracellular enveloped virion (EEV) release. Furthermore, we show that imatinib mesylate is effective in a mouse model of infection with VacV, whether delivered prophylactically or postinfection, and restricts spread of virions from the site of inoculation. While inhibitors of both Src and Abl family kinases, such as dasatinib (BMS-354825; Sprycel), are effective in limiting dissemination of VacV, VarV, and MPX in vitro, members of this class of drugs appear to have immunosuppressive effects in vivo that preclude their use as anti-infectives. Together, these data suggest a possible utility for imatinib mesylate in treating smallpox or MPX infections or complications associated with vaccination.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reeves</LastName>
+                    <ForeName>Patrick M</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microbiology and Molecular Genetics Graduate Program, Emory University School of Medicine, 615 Michael Street, Whitehead Research Building 155, Atlanta, Georgia 30322, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Scott K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olson</LastName>
+                    <ForeName>Victoria A</ForeName>
+                    <Initials>VA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thorne</LastName>
+                    <ForeName>Steve H</ForeName>
+                    <Initials>SH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bornmann</LastName>
+                    <ForeName>William</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Damon</LastName>
+                    <ForeName>Inger K</ForeName>
+                    <Initials>IK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalman</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000199">Actins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001549">Benzamides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010879">Piperazines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D047428">Protein Kinase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011743">Pyrimidines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8A1O1M485B</RegistryNumber>
+                <NameOfSubstance UI="D000068877">Imatinib Mesylate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance UI="D016315">Proto-Oncogene Proteins c-abl</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance UI="D019061">src-Family Kinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016475" MajorTopicYN="N">3T3 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000199" MajorTopicYN="N">Actins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001549" MajorTopicYN="N">Benzamides</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002465" MajorTopicYN="N">Cell Movement</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000068877" MajorTopicYN="N">Imatinib Mesylate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008807" MajorTopicYN="N">Mice, Inbred BALB C</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008993" MajorTopicYN="N">Monkeypox virus</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010879" MajorTopicYN="N">Piperazines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047428" MajorTopicYN="N">Protein Kinase Inhibitors</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016315" MajorTopicYN="N">Proto-Oncogene Proteins c-abl</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011743" MajorTopicYN="N">Pyrimidines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014615" MajorTopicYN="N">Vaccinia</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014616" MajorTopicYN="N">Vaccinia virus</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012901" MajorTopicYN="N">Variola virus</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014771" MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057074" MajorTopicYN="N">Virus Release</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019061" MajorTopicYN="N">src-Family Kinases</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20962097</ArticleId>
+            <ArticleId IdType="pii">JVI.01814-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01814-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014172</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 1999 Oct 28;401(6756):926-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10553910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 1999 Oct;1(6):389-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10559969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2000 Jan;181(1):10-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10608745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2000 Aug 1;19(15):3932-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10921875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2001 Jul 23;154(2):389-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11470826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2001 Dec;75(23):11651-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11689647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2001 Nov;3(11):992-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11715020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2002 Apr 30;12(9):740-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12007418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2002 Dec;83(Pt 12):2915-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12466468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2003 Mar 1;36(5):622-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12594644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Recomm Rep. 2003 Feb 21;52(RR-4):1-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12617510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2003 Apr 1;371(Pt 1):15-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12485116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Morb Mortal Wkly Rep. 2003 Jun 13;52(23):537-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12803191</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2003 Sep;84(Pt 9):2443-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12917466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2003;57:323-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14527282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Immunol. 2004 Jul;41(6-7):631-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15220000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2004 Aug;15(8):3520-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15155808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1996 Oct 25;271(43):27130-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8900205</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virol J. 2008;5:58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18479513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2009 Feb;90(Pt 2):323-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19141441</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2009 Mar;53(3):1007-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19075062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Virol. 2009 Apr;90(Pt 4):792-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19264626</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2009 Jun;53(6):2620-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19349521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drug Saf. 2009;32(11):1001-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19810774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Agents Med Chem. 2009 Oct;9(8):853-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19538165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2009 Dec;53(12):4999-5009</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19752270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicol Sci. 1998 Aug;44(2):97-106</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9742650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Recomm Rep. 2001 Jun 22;50(RR-10):1-25; quiz CE1-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15580803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2005 Jul;11(7):731-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15980865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Oct;79(20):13139-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16189015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Microbiol. 2006 Feb;8(2):233-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16441434</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2007 Feb;51(2):689-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17116683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Future Microbiol. 2007 Feb;2(1):17-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17661673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Sep;81(17):8989-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17581986</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

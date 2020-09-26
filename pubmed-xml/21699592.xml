@@ -1,0 +1,514 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21699592</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2583</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Insect molecular biology</Title>
+                <ISOAbbreviation>Insect Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of the oxysterol-binding protein gene family in the yellow fever mosquito, Aedes aegypti.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>541-52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2583.2011.01087.x</ELocationID>
+            <Abstract>
+                <AbstractText>The oxysterol-binding protein (OSBP) and OSBP-related proteins (ORPs) are sterol-binding proteins that may be involved in cellular sterol transportation, sterol metabolism and signal transduction pathways. Four ORP genes were cloned from Aedes aegypti. Based on amino acid sequence homology to human proteins, they are AeOSBP, AeORP1, AeORP8 and AeORP9. Splicing variants of AeOSBP and AeORP8 were identified. The temporal and spatial transcription patterns of members of the AeOSBP gene family through developmental stages and the gonotrophic cycle were profiled. AeORP1 transcription seemed to be head tissue-specific, whereas AeOSBP and AeORP9 expression was induced by a bloodmeal. Furthermore, over-expression of AeORPs facilitated [(3)H]-cholesterol uptake in Ae. aegypti cultured Aag -2 cells.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Insect Molecular Biology © 2011 The Royal Entomological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fu</LastName>
+                    <ForeName>Q</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology, University of Wisconsin-Madison, Madison, WI 53706, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lynn-Miller</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lan</LastName>
+                    <ForeName>Q</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI067422</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI067422-05</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5R01AI067422</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Insect Mol Biol</MedlineTA>
+            <NlmUniqueID>9303579</NlmUniqueID>
+            <ISSNLinking>0962-1075</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011987">Receptors, Steroid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C054899">oxysterol binding protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>97C5T2UQ7J</RegistryNumber>
+                <NameOfSubstance UI="D002784">Cholesterol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000330" MajorTopicYN="N">Aedes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002784" MajorTopicYN="N">Cholesterol</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007303" MajorTopicYN="N">Insect Vectors</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005810" MajorTopicYN="Y">Multigene Family</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011987" MajorTopicYN="N">Receptors, Steroid</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015854" MajorTopicYN="N">Up-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015004" MajorTopicYN="N">Yellow Fever</DescriptorName>
+                <QualifierName UI="Q000635" MajorTopicYN="N">transmission</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21699592</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2583.2011.01087.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3139008</ArticleId>
+            <ArticleId IdType="mid">NIHMS293705</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Lipid Res. 1999 Dec;40(12):2204-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10588946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2011 Jan 10;192(1):121-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21220512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2000 Dec;9(6):613-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11122470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2001 Mar;157(3):1117-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11238399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Nutr. 2001;21:23-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11375428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2001 Jun;12(6):1633-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11408574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2001 Aug;42(8):1203-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11483621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Jan 4;277(1):609-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11682487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2002 Feb 1;361(Pt 3):461-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11802775</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2002 Feb;43(2):245-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11861666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2003 Feb;33(2):145-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12535673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2003 Feb;12(1):51-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12542635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2003 May 1;22(9):2025-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12727870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2003 Nov;33(11):1105-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14563362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2004 Feb 27;215(1-2):1-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15026169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 2004 Jul 15;297(2):533-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15212954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2004 Aug;45(8):1468-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15145982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol B. 1975 Mar 15;50(3):457-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1116351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Tissue Res. 1979 Aug;200(2):193-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">487393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1984 Oct 25;259(20):12382-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6490619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>In Vitro Cell Dev Biol Anim. 1993 Oct;29A(10):813-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8118617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Entomol. 1996 Nov;33(6):955-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8961646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Insect Biochem Physiol. 1997;34(3):301-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9055439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1997 Aug 15;326 ( Pt 1):205-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9337870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1998 Jan 21;1395(2):159-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9473651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1999 Jul;19(7):4897-906</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10373539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2005 Mar 4;307(5714):1472-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15746430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2005 Jun;14(3):301-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15926899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2005 Aug;14(4):365-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16033430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Sep 1;437(7055):154-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16136145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2006 Apr 10;173(1):107-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16585271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Soc Trans. 2006 Jun;34(Pt 3):389-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16709169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Cell Dev Biol. 2006;22:129-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16753029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2007 Aug 1;405(3):473-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17428193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Lipid Res. 2007 Nov;46(6):297-314</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17709145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Jan 4;283(1):332-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17991739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2008 Jan;65(2):228-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17938859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2008 Mar;49(3):644-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18084051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Mar 21;283(12):8034-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18165705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Apr 11;283(15):9595-605</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18230613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2009 Mar;20(5):1388-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19129476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Aspects Med. 2009 Jun;30(3):123-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19248802</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2009 Jul;50(7):1305-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19224871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2009 Jul;1791(7):636-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19286471</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Dec 15;106(50):21270-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19940242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Apr 23;285(17):12961-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20178991</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2010 Apr;19(2):205-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20002221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2010 Jul 1;429(1):13-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20545625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2010 Sep 7;49(35):7532-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20681612</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2010 Oct;11(10):739-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20823909</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 2010 Nov 15;316(19):3304-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20599956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2010 Nov;137(22):3775-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20943709</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2000 Dec;30(12):1161-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11044662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,500 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971900</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regulation and function of Escherichia coli sugar efflux transporter A (SetA) during glucose-phosphate stress.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>143-53</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01008-10</ELocationID>
+            <Abstract>
+                <AbstractText>Accumulation of certain nonmetabolizable sugar-phosphates (including α-methyl glucoside-6-phosphate) in Escherichia coli is growth inhibitory and elicits the glucose-phosphate stress response. The transcription factor SgrR activates transcription of the small RNA SgrS under stress conditions. SgrS represses translation of mRNAs encoding sugar transporters. The sgrR and sgrS genes are located directly upstream of setA, and this gene organization is conserved in numerous enteric species, prompting the hypothesis that SetA contributes to the glucose-phosphate stress response. SetA is a proton motive force-driven efflux pump capable of transporting various sugars and sugar analogs in vitro. This study demonstrates that setA expression is induced in response to glucose-phosphate stress, and this requires SgrR. Under stress conditions, setA is cotranscribed with sgrS from the sgrS promoter. A setA mutant exhibits a growth defect under stress conditions that can be complemented by setA in trans, suggesting that SetA contributes to the optimal cellular recovery from stress. Despite previous in vitro evidence that SetA can promote efflux of the stress-causing glucose analog α-methyl glucoside, in vivo data in this study indicate that SetA is not the major efflux pump responsible for removal of α-methyl glucoside under stress conditions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vanderpool</LastName>
+                    <ForeName>Carin K</ForeName>
+                    <Initials>CK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002373">Cyclic AMP Receptor Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029968">Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C555059">KdgR protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009004">Monosaccharide Transport Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010710">Phosphates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012097">Repressor Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C555058">SgrR protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015534">Trans-Activators</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C481662">crp protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C119765">setA protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>30237-26-4</RegistryNumber>
+                <NameOfSubstance UI="D005632">Fructose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+                <NameOfSubstance UI="D005947">Glucose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>PDC6A3C0OX</RegistryNumber>
+                <NameOfSubstance UI="D005990">Glycerol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002373" MajorTopicYN="N">Cyclic AMP Receptor Protein</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029968" MajorTopicYN="N">Escherichia coli Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005632" MajorTopicYN="N">Fructose</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005947" MajorTopicYN="N">Glucose</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005990" MajorTopicYN="N">Glycerol</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009004" MajorTopicYN="N">Monosaccharide Transport Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010710" MajorTopicYN="N">Phosphates</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012097" MajorTopicYN="N">Repressor Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013312" MajorTopicYN="Y">Stress, Physiological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015534" MajorTopicYN="N">Trans-Activators</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971900</ArticleId>
+            <ArticleId IdType="pii">JB.01008-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01008-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019967</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004;32(1):e6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14704363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1980 Sep 30;96(2):656-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6775629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Microbiol Biotechnol. 1999 Nov;1(2):257-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10943556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Jan;192(1):264-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19854910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2000 Jul;68(7):4245-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10858242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Feb;187(3):991-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15659677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 Mar;182(5):1340-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10671456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2007 Apr;10(2):146-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17383224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2003;4(9):R54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12952533</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1971 May;106(2):362-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4324804</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1977 Nov;132(2):398-410</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">410789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Rev. 1993 Sep;57(3):543-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8246840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Mar 15;25(6):1203-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9092630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Nov;54(4):1076-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15522088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 May 23;97(11):5978-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10811905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 Aug;61(4):1013-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16859494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Dec;187(24):8332-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16321937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Syst Biol. 2006;2:2006.0008</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16738554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Dec 18;104(51):20454-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18042713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Sep;53(5):1515-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15387826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2009 Sep;37(16):5465-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19531735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Microbiol. 1992 Oct;138(10):2007-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1479338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1999 Mar;31(6):1845-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10209755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 Jul 23;93(15):7794-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8755555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2004 Nov;150(Pt 11):3571-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15528647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Nov 15;31(22):6435-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14602901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1969 Apr;173(3):501-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4890117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2002 May 15;290(1-2):153-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12062810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1974 Feb;117(2):641-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4359651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1959 Dec;45(12):1786-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16590576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 May 2;278(18):15608-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12578824</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2001 Jul 2;20(13):3587-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11432845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2000 Dec;146 Pt 12:3171-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11101675</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1980 Feb;141(2):528-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6767683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2009 Feb 20;136(4):615-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19239884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1962 Jul;84:137-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13890280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Mar;189(6):2238-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17209026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Apr 2;99(7):4620-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11917098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1999 Aug 13;274(33):22977-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10438463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1987 Dec;84(23):8311-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2825185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2009 Sep;37(16):5477-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19620214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1996 Mar;19(5):911-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8830272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 1998 Mar;62(1):1-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9529885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

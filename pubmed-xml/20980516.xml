@@ -1,0 +1,557 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20980516</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>B7-mediated costimulation of CD4 T cells constrains cytomegalovirus persistence.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>390-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01839-10</ELocationID>
+            <Abstract>
+                <AbstractText>Cytomegalovirus (CMV) utilizes multiple strategies to modulate immunity and promote lifelong, persistent/latent infection, including suppressing T cell activation pathways. Here we examined the role of B7 costimulatory ligands in establishing immune détente from both the host and virus perspectives. Mice lacking both B7.1 and B7.2 showed reduced early expansion of CMV-specific CD4 T cells, consequently allowing for enhanced levels of persistent virus replication. In turn, a CMV mutant lacking expression of the m138 and m147.5 gene products, which restrict B7.1 and B7.2 expression in infected antigen-presenting cells, induced a more robust CD4 T cell response and showed decreased persistence. Together, these data reveal a requirement for B7-mediated signaling in regulating the CMV-specific CD4 T cell response and establishing host-virus equilibrium.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Arens</LastName>
+                    <ForeName>Ramon</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Developmental Immunology, La Jolla Institute for Allergy and Immunology, 9420 Athena Circle, La Jolla, CA 92037, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loewendorf</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Her</LastName>
+                    <ForeName>Min J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneider-Ohrum</LastName>
+                    <ForeName>Kirsten</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shellam</LastName>
+                    <ForeName>Geoffrey R</ForeName>
+                    <Initials>GR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janssen</LastName>
+                    <ForeName>Edith</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ware</LastName>
+                    <ForeName>Carl F</ForeName>
+                    <Initials>CF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schoenberger</LastName>
+                    <ForeName>Stephen P</ForeName>
+                    <Initials>SP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benedict</LastName>
+                    <ForeName>Chris A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI76972</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 AI069298</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA80261</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI057840</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI048073</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI076972</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 AI076864</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI076864</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI069298</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI057840</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI048073</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018122">B7-1 Antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051940">B7-2 Antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497965">Cd86 protein, mouse</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018122" MajorTopicYN="N">B7-1 Antigen</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051940" MajorTopicYN="N">B7-2 Antigen</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015496" MajorTopicYN="N">CD4-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006566" MajorTopicYN="N">Herpesviridae Infections</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008213" MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008807" MajorTopicYN="N">Mice, Inbred BALB C</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018146" MajorTopicYN="N">Muromegalovirus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014779" MajorTopicYN="N">Virus Replication</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20980516</ArticleId>
+            <ArticleId IdType="pii">JVI.01839-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01839-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3014178</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Immunol. 2008 Apr 1;180(7):4836-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18354207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Immunol. 2004 May;65(5):486-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15172448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2008 Oct 1;181(7):4452-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18802047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 2005 Apr;13(4):164-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15817386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 Feb 15;170(4):2022-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12574372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1987 Oct;61(10):3102-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3041033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2002 Apr;8(4):379-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11927944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Dec 23;94(26):14759-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9405686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2008 May 15;180(10):6472-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18453564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Immunol. 2004 Jun;16(3):185-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15130503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Viral Immunol. 2009 Apr;22(2):91-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19326996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2002 Nov;2(11):831-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12415307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2005 Sep 5;202(5):673-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16147978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Host Microbe. 2008 Feb 14;3(2):67-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18312841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1994 Dec;68(12):7757-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7966565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Dec;78(23):13062-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15542658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Immunol. 1989 Aug;77(2):245-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2476271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Dec;82(23):11637-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18815306</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 2010 Oct;40(10):2762-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20722077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Jul;77(13):7563-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12805456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1994 May 1;179(5):1713-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8163949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2004 Jun 1;172(11):6944-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15153514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2000 Nov;74(22):10401-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11044084</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1989 Apr 1;169(4):1199-212</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2564415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2009 Mar;15(3):293-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19219024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Sep 15;179(6):4283-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17785869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Top Microbiol Immunol. 2008;325:315-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18637514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Jun;79(12):7570-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15919911</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2000 Dec;74(24):11495-503</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11090146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2003 Mar 15;187(6):988-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12660946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2002 Apr 15;99(8):2913-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11929782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Immunol. 2008 Feb;20(1):30-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18206359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Immunol. 2005;23:515-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15771580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Jun 1;178(11):7235-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17513772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2008 Jul;8(7):512-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18469829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Immunol. 1999;17:189-220</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10358757</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2010 Jun 7;207(6):1333-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20513749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2003 Apr 1;101(7):2686-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12411292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2010 Apr 2;328(5974):102-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20360110</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2006 Dec 15;177(12):8422-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17142739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2008 Oct 17;29(4):650-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18957267</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Aug 15;179(4):2195-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17675479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Apr;80(8):4200-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16571839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2002 Feb;2(2):116-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11910893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gerontol A Biol Sci Med Sci. 2005 May;60(5):556-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15972602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1990 Nov;64(11):5457-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1976821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Med Virol. 1997 Sep;7(3):181-192</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10398482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,604 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971202</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fungal genetics and biology : FG &amp; B</Title>
+                <ISOAbbreviation>Fungal Genet. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ste50 adaptor protein governs sexual differentiation of Cryptococcus neoformans via the pheromone-response MAPK signaling pathway.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>154-65</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fgb.2010.10.006</ELocationID>
+            <Abstract>
+                <AbstractText>The mitogen-activated protein kinase (MAPK) pathways control diverse cellular functions in pathogenic fungi, including sexual differentiation, stress response, and maintenance of cell wall integrity. Here we characterized a Cryptococcus neoformans gene, which is homologous to the yeast Ste50 that is known to play an important role in mating pheromone response and stress response as an adaptor protein to the Ste11 MAPK kinase kinase in Saccharomyces cerevisiae. The C. neoformans Ste50 was not involved in any of the stress responses or virulence factor production (capsule and melanin) that are controlled by the HOG and Ras/cAMP signaling pathways. However, Ste50 was required for mating in both serotype A and serotype D C. neoformans strains. The ste50Δ mutant was completely defective in cell-cell fusion and mating pheromone production. Double mutation of the STE50 gene blocked increased production of pheromone and the hyper-filamentation phenotype of cells deleted of the CRG1 gene, which encodes the RGS protein that negatively regulates pheromone responsive G-protein signaling via the MAPK pathway. Regardless of the presence of the basidiomycota-specific SH3 domains of Ste50 that are known to be required for full virulence of Ustilago maydis, Ste50 was dispensable for virulence of C. neoformans in a murine model of cryptococcosis. In conclusion, the Ste50 adaptor protein controls sexual differentiation of C. neoformans via the pheromone-responsive MAPK pathway but is not required for virulence.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jung</LastName>
+                    <ForeName>Kwang-Woo</ForeName>
+                    <Initials>KW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology, Center for Fungal Pathogenesis, Yonsei University, Seoul, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Seo-Young</ForeName>
+                    <Initials>SY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okagaki</LastName>
+                    <ForeName>Laura H</ForeName>
+                    <Initials>LH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nielsen</LastName>
+                    <ForeName>Kirsten</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bahn</LastName>
+                    <ForeName>Yong-Sun</ForeName>
+                    <Initials>YS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>HQ113107</AccessionNumber>
+                        <AccessionNumber>HQ113108</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K22 AI070152</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K22 AI070152-01A2</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K22 AI070152-02</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI080275</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Fungal Genet Biol</MedlineTA>
+            <NlmUniqueID>9607601</NlmUniqueID>
+            <ISSNLinking>1087-1845</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004271">DNA, Fungal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010675">Pheromones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>61194-02-3</RegistryNumber>
+                <NameOfSubstance UI="D000072235">Mating Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.24</RegistryNumber>
+                <NameOfSubstance UI="D020928">Mitogen-Activated Protein Kinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003453" MajorTopicYN="N">Cryptococcosis</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003455" MajorTopicYN="N">Cryptococcus neoformans</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004271" MajorTopicYN="N">DNA, Fungal</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000072235" MajorTopicYN="N">Mating Factor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020928" MajorTopicYN="N">Mitogen-Activated Protein Kinases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010455" MajorTopicYN="N">Peptides</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010675" MajorTopicYN="N">Pheromones</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017386" MajorTopicYN="N">Sequence Homology, Amino Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="Y">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014774" MajorTopicYN="N">Virulence</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971202</ArticleId>
+            <ArticleId IdType="pii">S1087-1845(10)00191-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fgb.2010.10.006</ArticleId>
+            <ArticleId IdType="pmc">PMC3006040</ArticleId>
+            <ArticleId IdType="mid">NIHMS248231</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Genes Dev. 1998 Sep 15;12(18):2874-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9744864</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1998 Oct;18(10):5788-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9742096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 1999 Jul;10(7):2425-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10397774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2004 Dec;3(6):1476-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15590822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2005 May;16(5):2285-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15728721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Mycol. 2005 Jun;43(4):355-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16110782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Oct;58(2):393-408</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16194228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2005 Oct;3(10):753-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16132036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2005 Nov 22;15(22):2013-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16303560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2006 Feb;26(3):912-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16428446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2006 Mar;152(Pt 3):591-604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16514140</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2006 Mar 15;20(6):734-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16543225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2006 Jul;17(7):3122-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16672377</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2006;60:69-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16704346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2007 Jan;5(1):57-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17170747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Genet. 2007 Apr;51(4):257-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17318632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2007 Sep;18(9):3237-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17581859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2007 Nov;18(11):4603-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17804815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2008 Jan;21(1):110-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18052888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2007 Dec;6(12):2278-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17951522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2008;3(4):e1931</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18431466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2008 Oct;7(10):1685-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18689526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2008 Dec;7(12):2017-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18952900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2009 Feb 1;74(2):328-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18618697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2009 Aug;8(8):1197-217</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19542307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2009 Dec 18;390(3):983-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19852932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2009 Dec;20(24):5117-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19846660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2010 Mar;9(3):360-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20097740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010;6(6):e1000945</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20585557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010;6(6):e1000953</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20585559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2000 Apr;36(2):352-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10792722</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2002 Aug;148(Pt 8):2607-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12177355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2002 Feb;1(1):75-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12455973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Dec 6;298(5600):1911-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12471242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Genet. 2003 Jun;43(3):161-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12764668</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2003 Jun;48(5):1377-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12787363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2003 Jul;49(2):469-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12828643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2003 Sep;71(9):4831-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12933823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Oct 26;96(22):12679-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10535982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1999 Dec;153(4):1601-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10581270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2000 Feb;29(1):38-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10779398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Yeast Res. 2004 Jan;4(4-5):361-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14734016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 May 14;279(20):21144-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15014071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2004 Aug;3(4):1028-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15302835</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1983;101:167-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6310320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 1992 Dec;236(1):145-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1494345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1993 Mar;13(3):1962-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8441425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1993 Dec;31(12):3305-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8308124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 1995 Dec;7(6):798-805</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8608010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1996 Oct;16(10):5597-603</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8816472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 Nov 12;93(23):13217-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8917571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1997 Jun 13;276(5319):1702-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9180081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1997 Dec;26(5):951-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9426132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1998 Jun;66(6):2713-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9596738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 1998 Jul;259(1):29-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9738877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 1998 Oct;25(1):1-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9806801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

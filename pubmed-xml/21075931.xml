@@ -1,0 +1,567 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21075931</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MexT regulates the type III secretion system through MexS and PtrC in Pseudomonas aeruginosa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>399-410</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01079-10</ELocationID>
+            <Abstract>
+                <AbstractText>The type III secretion system (T3SS) is the most important virulence factor in Pseudomonas aeruginosa, and its expression level varies in different isolates. We studied the molecular basis for such differences in two laboratory strains, PAK and PAO1. A chromosomal clone library from the high-T3SS-producer strain PAK was introduced into the low-producer strain PAO1, and we found that a mexS gene from PAK confers high T3SS expression in the PAO1 background. Further tests demonstrated that both mexS and its neighboring mexT gene are required for the repression of the T3SS in PAO1, while the PAK genome encodes a defective MexS, accounting for the derepression of the T3SS in PAK and the dominant negative effect when it is introduced into PAO1. MexS is a probable oxidoreductase whose expression is dependent on MexT, a LysR-type transcriptional regulator. Various genetic data support the idea that MexS modulates the transcriptional regulator function of MexT. In searching for the MexT-dependent repressor of the T3SS, a small gene product of PA2486 (ptrC) was found effective in suppressing the T3SS upon overexpression. However, deletion of ptrC in the PAO1 background did not result in derepression of the T3SS, indicating the presence of another repressor for the T3SS. Interestingly, overexpression of functional mexS alone was sufficient to repress T3SS even in the absence of MexT, suggesting that MexS is another mediator of MexT-dependent T3SS repression. Overexpression of mexS alone had no effect on the well-known MexT-dependent genes, including those encoding MexEF efflux pump, elastase, and pyocyanin, indicating alternative regulatory mechanisms. A model has been proposed for the MexS/MexT-mediated regulation of the T3SS, the MexEF efflux pump, and the production of elastase and pyocyanin.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Yongxin</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Genetics and Microbiology, University of Florida, Gainesville, Florida 326101, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Hongjiang</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qiao</LastName>
+                    <ForeName>Mingqiang</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Shouguang</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>HQ433549</AccessionNumber>
+                        <AccessionNumber>HQ433550</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D026901">Membrane Transport Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012097">Repressor Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015534">Trans-Activators</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D037521">Virulence Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9OQM399341</RegistryNumber>
+                <NameOfSubstance UI="D011710">Pyocyanine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.36</RegistryNumber>
+                <NameOfSubstance UI="D010196">Pancreatic Elastase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004269" MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="Y">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D026901" MajorTopicYN="N">Membrane Transport Proteins</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010196" MajorTopicYN="N">Pancreatic Elastase</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011550" MajorTopicYN="N">Pseudomonas aeruginosa</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011710" MajorTopicYN="N">Pyocyanine</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012097" MajorTopicYN="N">Repressor Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015534" MajorTopicYN="N">Trans-Activators</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D037521" MajorTopicYN="N">Virulence Factors</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21075931</ArticleId>
+            <ArticleId IdType="pii">JB.01079-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01079-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019812</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Infect Immun. 2004 Jan;72(1):546-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14688136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Feb;187(4):1384-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15687203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 Nov;62(3):631-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16995895</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drug Resist Updat. 2000 Aug;3(4):247-255</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11498392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1980 Jun;142(3):836-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6769912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Nov;186(22):7575-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15516570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1999 Oct;181(20):6300-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10515918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1983 Jan;39(1):198-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6401692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 1994 Aug 15;244(4):341-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8078459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2009 Jun 5;284(23):15762-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19369699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Feb;187(3):1192-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15659695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Jul;53(1):297-308</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15225323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1982 Jan;15(1):115-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6821202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2007 Sep;75(9):4432-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17635873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Oct;54(2):307-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15469505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2008 Apr;11(2):128-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18396449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2004 Apr;150(Pt 4):843-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15073294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2003 Jun;71(6):3361-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12761120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Sep;187(17):6058-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16109947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1990 Sep;34(9):1757-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2126688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1999 Nov;67(11):6164-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10531282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microb Pathog. 2009 Oct;47(4):237-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19683048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2006 Jan;254(2):217-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16445748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1997 Jan;23(2):345-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9044268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wei Sheng Wu Xue Bao. 2008 Dec;48(12):1623-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19271537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Nov 10;95(23):13899-904</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9811898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2004 Sep;72(9):5433-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15322041</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1990 Dec;172(12):7188-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2123866</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1991 Jan 2;97(1):109-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1899844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1983 Jul;18(1):160-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6411762</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2004 May 1;234(1):87-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15109724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1992 May;6(9):1195-204</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1588818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2009 Dec;175(6):2473-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19893030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Acquir Immune Defic Syndr. 1994 Aug;7(8):823-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8021816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2008 Aug;154(Pt 8):2195-208</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18667553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1991 Oct;173(20):6460-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1655713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2010 Mar;78(3):1239-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20028803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Nov;191(21):6654-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19717612</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Mar;192(6):1477-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20061470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2008 May;68(3):657-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18373522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Apr;189(7):2599-609</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17237176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2004 Mar;150(Pt 3):539-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14993303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2006 Feb;74(2):1121-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16428760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Cell. 2004 Nov;7(5):745-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15525535</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 May 31;102(22):8006-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15911752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Jul 12;102(28):9930-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15985546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2006 Jun;74(6):3134-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16714541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Rev. 2002 Apr;15(2):194-222</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11932230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Jun;187(11):3898-902</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15901720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Feb;187(4):1246-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15687188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2000 Oct;146 ( Pt 10):2531-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11021928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2002 Jul;70(7):3973-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12065547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Rev. 1991 Jan;4(1):35-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1900735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2002 Nov;46(4):1123-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12421316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2009 Dec;37(22):7546-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19846594</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2000 Nov 1;192(1):107-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11040437</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Mar;192(6):1479-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20008065</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Cell. 2003 Feb;4(2):253-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12586068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

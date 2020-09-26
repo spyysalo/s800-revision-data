@@ -1,0 +1,526 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21148724</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Spiral architecture of the nucleoid in Bdellovibrio bacteriovorus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1341-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01061-10</ELocationID>
+            <Abstract>
+                <AbstractText>We present a cryo-electron tomographic analysis of the three-dimensional architecture of a strain of the Gram-negative bacterium Bdellovibrio bacteriovorus in which endogenous MreB2 was replaced with monomeric teal fluorescent protein (mTFP)-labeled MreB2. In contrast to wild-type Bdellovibrio cells that predominantly displayed a compact nucleoid region, cells expressing mTFP-labeled MreB2 displayed a twisted spiral organization of the nucleoid. The more open structure of the MreB2-mTFP nucleoids enabled clear in situ visualization of ribosomes decorating the periphery of the nucleoid. Ribosomes also bordered the edges of more compact nucleoids from both wild-type cells and mutant cells. Surprisingly, MreB2-mTFP localized to the interface between the spiral nucleoid and the cytoplasm, suggesting an intimate connection between nucleoid architecture and MreB arrangement. Further, in contrast to wild-type cells, where a single tight chemoreceptor cluster localizes close to the single polar flagellum, MreB2-mTFP cells often displayed extended chemoreceptor arrays present at one or both poles and displayed multiple or inaccurately positioned flagella. Our findings provide direct structural evidence for spiral organization of the bacterial nucleoid and suggest a possible role for MreB in regulation of nucleoid architecture and localization of the chemotaxis apparatus.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Butan</LastName>
+                    <ForeName>Carmen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Cell Biology, National Cancer Institute, NIH, Building 50, Room 4306, 50 South Drive, Bethesda, MD 20892-8008, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartnell</LastName>
+                    <ForeName>Lisa M</ForeName>
+                    <Initials>LM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fenton</LastName>
+                    <ForeName>Andrew K</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bliss</LastName>
+                    <ForeName>Donald</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sockett</LastName>
+                    <ForeName>R Elizabeth</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Subramaniam</LastName>
+                    <ForeName>Sriram</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milne</LastName>
+                    <ForeName>Jacqueline L S</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008164">Luminescent Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011993">Recombinant Fusion Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001501" MajorTopicYN="N">Bdellovibrio</DescriptorName>
+                <QualifierName UI="Q000648" MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002876" MajorTopicYN="N">Chromosomes, Bacterial</DescriptorName>
+                <QualifierName UI="Q000648" MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020285" MajorTopicYN="N">Cryoelectron Microscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017930" MajorTopicYN="N">Genes, Reporter</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008164" MajorTopicYN="N">Luminescent Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011993" MajorTopicYN="N">Recombinant Fusion Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012270" MajorTopicYN="N">Ribosomes</DescriptorName>
+                <QualifierName UI="Q000648" MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013194" MajorTopicYN="N">Staining and Labeling</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21148724</ArticleId>
+            <ArticleId IdType="pii">JB.01061-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01061-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3067633</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Struct Biol. 2007 Jan;157(1):3-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17011211</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Struct Biol. 2006 Nov;156(2):246-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16978880</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Mar 6;104(10):3777-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17360429</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 Dec;62(6):1631-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17427287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Aug;65(4):1106-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17640276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2007 Oct;66(1):174-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17880425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2007;61:589-618</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17506674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Cells. 2007 Oct;12(10):1141-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17903174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Oct;189(20):7450-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17704222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Nov 6;104(45):17795-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17978175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2008 Jan;6(1):28-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18059290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Apr;190(7):2588-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18203829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2008;77:583-613</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18355161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Sep 16;105(37):14136-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18779567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Oct;190(20):6805-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18689468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2008 Nov;74(21):6739-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18791022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2008 Nov;5(11):947-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18794860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2009 Jan 23;136(2):261-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19167328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2009 Jan 30;33(2):171-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19187760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Jul;191(13):4180-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19395497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Microsc. 2009 Jul;235(1):1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19566622</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2009 Sep;7(9):666-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19668224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2009 Oct;66(20):3353-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19641848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Oct 6;106(40):17181-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19805102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2009 Nov;5(11):e1000669</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19936218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Mar;192(5):1299-311</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20023029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Feb 16;107(7):3163-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20133608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cold Spring Harb Perspect Biol. 2010 Feb;2(2):a000349</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20182613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 May 18;107(20):9182-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20439764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cold Spring Harb Symp Quant Biol. 2009;74:55-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19687139</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Jul 1;466(7302):77-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20562858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2000 Feb 15;19(4):710-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10675340</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cold Spring Harb Perspect Biol. 2010 Sep;2(9):a000364</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20630996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2010 Dec;192(24):6329-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20935099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2000 May;182(9):2604-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10762265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Jan 2;98(1):63-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11134527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO Rep. 2001 Aug;2(8):685-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11463749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2003 Jun 13;113(6):767-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12809607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2003 Oct 1;22(19):5283-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14517265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Jan 30;303(5658):689-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14752164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Mar;51(5):1321-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14982627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004;32(6):1982-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15060178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Jun 8;101(23):8643-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15159537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO Rep. 2004 Aug;5(8):789-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15272301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1987 May;169(5):2055-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3553155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1988 Oct;170(10):4757-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2844727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1991 Dec;10(13):4371-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1836760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Struct Biol. 1996 Jan-Feb;116(1):71-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8742726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Jan;187(1):54-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15601688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Feb 3;433(7025):531-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15690043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2005 Feb 11;120(3):329-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15707892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Sep;187(17):6187-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16109960</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Nov;58(4):917-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16262780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2006 Jan 1;20(1):113-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16391237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Cells. 2006 Apr;11(4):409-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16611244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2006;75:467-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16756499</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Struct Biol. 2006 Nov;156(2):284-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16934488</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Biol. 2006 Nov;3(4):R1-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17200598</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

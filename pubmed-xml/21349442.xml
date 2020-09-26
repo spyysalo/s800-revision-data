@@ -1,0 +1,482 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21349442</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-4465</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Neurology</Title>
+                <ISOAbbreviation>Lancet Neurol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The sirtuin pathway in ageing and Alzheimer disease: mechanistic and therapeutic considerations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>275-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1474-4422(11)70013-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Advances in gerontology have yielded crucial insights into the molecular and biochemical aspects of the ageing process. The sirtuin pathway, which is most notable for its association with the anti-ageing effects of calorie restriction, has received particular attention, and pharmacological or transgenic upregulation of the sirtuin pathway has shown promising results in laboratory models of ageing. Alzheimer's disease is a neurodegenerative disease that is imposing an increasing burden on society, and is the leading cause of senile dementia worldwide. The lack of therapies for Alzheimer's disease provides a strong incentive for the development of an effective treatment strategy and, interestingly, research has uncovered a mechanism of action of the sirtuin pathway that might have therapeutic potential for Alzheimer's disease.</AbstractText>
+                <AbstractText Label="RECENT DEVELOPMENTS" NlmCategory="BACKGROUND">SIRT1, one of the seven mammalian proteins of the sirtuin family of NAD(+)-dependent deacetylases, has recently been shown to attenuate amyloidogenic processing of amyloid-β protein precursor (APP) in cell culture studies in vitro and in transgenic mouse models of Alzheimer's disease. Mechanistically, SIRT1 increases α-secretase production and activity through activation of the α-secretase gene ADAM10. Because α-secretase is the enzyme responsible for the non-amyloidogenic cleavage of APP, upregulation of α-secretase shifts APP processing to reduce the pathological accumulation of the presumptive toxic Aβ species that results from β-secretase and γ-secretase activity. Interestingly, the spatial patterns of Aβ deposition in the brain might correlate with increased aerobic glycolysis in those regions. Because aerobic glycolysis depletes cellular levels of NAD(+) (through a decreased NAD(+)/NADH ratio), it is possible that a corresponding downregulation of the NAD(+)-dependent sirtuin pathway contributes to the amyloidogenic processing of APP. WHERE NEXT?: The specific inhibition of Aβ generation by SIRT1 coupled with the potential link between aerobic glycolysis, NAD(+) depletion, and amyloidogenesis through the sirtuin pathway has translational implications. On the one hand, the possible underlying role of the sirtuin pathway in Alzheimer's disease onset and development might increase our understanding of this devastating condition. On the other hand, therapeutic upregulation of SIRT1 might provide opportunities for the amelioration of Alzheimer's-disease-type neuropathology through inhibition of amyloidogenesis. Ultimately, further analysis into both aspects is necessary if any progress is to be made.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bonda</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Case Western Reserve University, Cleveland, Ohio, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hyoung-Gon</ForeName>
+                    <Initials>HG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Camins</LastName>
+                    <ForeName>Antoni</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pallàs</LastName>
+                    <ForeName>Mercè</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Casadesus</LastName>
+                    <ForeName>Gemma</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Mark A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Xiongwei</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AG028679-04</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG031852</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG028679</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG031852-04</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AG028679</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AG031852</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet Neurol</MedlineTA>
+            <NlmUniqueID>101139309</NlmUniqueID>
+            <ISSNLinking>1474-4422</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.-</RegistryNumber>
+                <NameOfSubstance UI="C447939">SIRT1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.-</RegistryNumber>
+                <NameOfSubstance UI="D056564">Sirtuin 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.-</RegistryNumber>
+                <NameOfSubstance UI="D037761">Sirtuins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000375" MajorTopicYN="N">Aging</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000544" MajorTopicYN="N">Alzheimer Disease</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056564" MajorTopicYN="N">Sirtuin 1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D037761" MajorTopicYN="N">Sirtuins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21349442</ArticleId>
+            <ArticleId IdType="pii">S1474-4422(11)70013-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/S1474-4422(11)70013-8</ArticleId>
+            <ArticleId IdType="pmc">PMC3163839</ArticleId>
+            <ArticleId IdType="mid">NIHMS316529</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Alzheimers Dis. 2010;19(1):11-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20061622</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2010 Jan 28;362(4):329-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20107219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2000 Nov;14(14):2135-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11024000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 2009 May;132(Pt 5):1324-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19321462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gerontol. 1956 Jul;11(3):298-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13332224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 2007 Jun;101(5):1172-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17286590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Neurosci. 2005 Aug;28(8):429-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15922461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2003 Feb 1;17(3):313-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12569120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Mar 26;303(5666):2011-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14976264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2008 Jul 25;134(2):329-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18662547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Apr 10;256(5054):184-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1566067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Subcell Biochem. 2005;38:105-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15709475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2003 Oct 30;40(3):471-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14642273</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Physiol Pathophysiol Pharmacol. 2009;1(2):192-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20428478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 2009 Sep;110(5):1445-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19558452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Jul 13;107(28):12687-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20616040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Gerontol. 2000 May;35(3):299-305</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10832051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Aug 4;281(31):21745-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16751189</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2009 Apr;10(4):272-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19300446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2010 Jul 21;30(29):9695-707</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20660252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Alzheimers Dis. 2009;18(2):447-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19584435</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Jan 16;104(3):829-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17213307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aging Cell. 2007 Dec;6(6):759-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17877786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2002 May 15;21(10):2383-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12006491</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2008 Jan 25;132(2):171-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18243090</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Investig Drugs. 2008 Apr;9(4):371-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18393104</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 Jun 16;23(12):2369-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15152190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Dec 14;444(7121):868-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17167475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2010;1:3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20975665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2010 Jul 23;142(2):320-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20655472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2000 Nov;1(2):120-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11253364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 1986 Oct;20(4):472-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3789663</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mech Ageing Dev. 2002 Apr 30;123(8):857-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12044934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropharmacology. 2010 Sep-Oct;59(4-5):290-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20394761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2009 Jun;23(6):1643-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19144697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dis Mon. 2010 Sep;56(9):484-546</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20831921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2009 May 22;324(5930):1029-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19460998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2007 Jul 11;26(13):3169-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17581637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 2001 Dec;9(12):1127-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11738039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Metab. 2008 Nov;8(5):347-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19046567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Dec 2;280(48):40364-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16183991</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Oct 12;107(41):17763-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20837517</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2010 Aug;1804(8):1690-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19945548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Aug 26;466(7310):1105-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20622856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

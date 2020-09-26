@@ -1,0 +1,425 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20971916</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of deficiency and overdose of group 2 sigma factors in triple inactivation strains of Synechocystis sp. strain PCC 6803.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>265-73</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.01045-10</ELocationID>
+            <Abstract>
+                <AbstractText>Acclimation of cyanobacteria to environmental changes includes major changes in the gene expression patterns partly orchestrated by the replacement of a particular σ subunit with another in the RNA polymerase holoenzyme. The cyanobacterium Synechocystis sp. strain PCC 6803 encodes nine σ factors, all belonging to the σ(70) family. Cyanobacteria typically encode many group 2 σ factors that closely resemble the principal σ factor. We inactivated three out of the four group 2 σ factors of Synechocystis simultaneously in all possible combinations and found that all triple inactivation strains grow well under standard conditions. Unlike the other strains, the ΔsigBCD strain, which contains SigE as the only functional group 2 σ factor, did not grow faster under mixotrophic than under autotrophic conditions. The SigB and SigD factors were important in low-temperature acclimation, especially under diurnal light rhythm. The ΔsigBCD, ΔsigBCE, and ΔsigBDE strains were sensitive to high-light-induced photoinhibition, indicating a central role of the SigB factor in high-light tolerance. Furthermore, the ΔsigBCE strain (SigD is the only functional group 2 σ factor) appeared to be locked in the high-fluorescence state (state 1) and grew slowly in blue but not in orange or white light. Our results suggest that features of the triple inactivation strains can be categorized as (i) direct consequences of the inactivation of a particular σ factor(s) and (ii) effects resulting from the higher probability that the remaining group 2 σ factors associate with the RNA polymerase core.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pollari</LastName>
+                    <ForeName>Maija</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Food Chemistry, University of Turku, FI-20014 Turku, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rantamäki</LastName>
+                    <ForeName>Susanne</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huokko</LastName>
+                    <ForeName>Tuomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kårlund-Marttila</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Virjamo</LastName>
+                    <ForeName>Virpi</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tyystjärvi</LastName>
+                    <ForeName>Esa</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tyystjärvi</LastName>
+                    <ForeName>Taina</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012808">Sigma Factor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000064" MajorTopicYN="N">Acclimatization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="N">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010788" MajorTopicYN="N">Photosynthesis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012808" MajorTopicYN="N">Sigma Factor</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046939" MajorTopicYN="N">Synechocystis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20971916</ArticleId>
+            <ArticleId IdType="pii">JB.01045-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.01045-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3019964</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Plant Cell. 2006 Apr;18(4):992-1007</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16531492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2008 Jan;154(Pt 1):148-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18174134</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2008 Aug;147(4):1994-2005</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18539776</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2001 Nov;183(22):6667-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11673438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2007 Apr 3;581(7):1495-500</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17379215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Sep 2;280(35):30653-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15944148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2002 Jul;184(13):3530-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12057947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2010 Jan;156(Pt 1):220-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19729407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2006 Jan 9;580(1):319-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16376888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2003 Nov 20;554(3):357-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14623094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2003 Mar 6;1557(1-3):21-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12615345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2009 Jun;191(12):3992-4001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19363110</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1991 May;173(9):2761-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1902208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Aug 19;105(33):12075-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18687902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Dec 21;282(51):36887-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17977831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2002 Dec;184(24):6845-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12446635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell Physiol. 2005 Sep;46(9):1484-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15979982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2006 Oct;186(4):273-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16868740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Nov;54(4):855-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15522072</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1992 Jun;174(12):3843-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1597408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2002 Apr 10;516(1-3):167-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11959126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Mol Biol. 1994 Jun;25(3):517-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8049374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2008 Apr;68(2):286-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18346116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2003 Feb;185(3):1116-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12533490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Nov;189(21):7829-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17720783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2007 Apr;187(4):265-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17160677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2003 Jan 31;325(5):857-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12527296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2005 Jul 26;15(14):1325-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16051178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2005 Apr 25;579(11):2289-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15848160</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2008 Jan 23;582(2):346-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18166156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2000 Apr 21;1457(3):229-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10773167</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2008 Jul;147(3):1239-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18502976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2000 Sep 15;28(18):3497-503</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10982868</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2008 Dec;11(6):541-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18983934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Plant. 2008 Jul;133(3):490-506</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18331403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Photosynth Res. 2001;70(1):73-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16228363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2004 Aug;135(4):2112-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15286286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Plant Biol. 2006;57:127-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16669758</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2004 Aug 17;43(32):10308-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15301529</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2001 Apr;13(4):793-806</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11283337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

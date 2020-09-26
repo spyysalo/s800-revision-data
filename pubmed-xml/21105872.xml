@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21105872</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2656</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of animal ecology</Title>
+                <ISOAbbreviation>J Anim Ecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A model-driven approach to quantify migration patterns: individual, regional and yearly differences.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>466-76</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2656.2010.01776.x</ELocationID>
+            <Abstract>
+                <AbstractText>1. Animal migration has long intrigued scientists and wildlife managers alike, yet migratory species face increasing challenges because of habitat fragmentation, climate change and over-exploitation. Central to the understanding migratory species is the objective discrimination between migratory and nonmigratory individuals in a given population, quantifying the timing, duration and distance of migration and the ability to predict migratory movements. 2. Here, we propose a uniform statistical framework to (i) separate migration from other movement behaviours, (ii) quantify migration parameters without the need for arbitrary cut-off criteria and (iii) test predictability across individuals, time and space. 3. We first validated our novel approach by simulating data based on established theoretical movement patterns. We then formulated the expected shapes of squared displacement patterns as nonlinear models for a suite of movement behaviours to test the ability of our method to distinguish between migratory movement and other movement types. 4. We then tested our approached empirically using 108 wild Global Positioning System (GPS)-collared moose Alces alces in Scandinavia as a study system because they exhibit a wide range of movement behaviours, including resident, migrating and dispersing individuals, within the same population. Applying our approach showed that 87% and 67% of our Swedish and Norwegian subpopulations, respectively, can be classified as migratory. 5. Using nonlinear mixed effects models for all migratory individuals we showed that the distance, timing and duration of migration differed between the sexes and between years, with additional individual differences accounting for a large part of the variation in the distance of migration but not in the timing or duration. Overall, the model explained most of the variation (92%) and also had high predictive power for the same individuals over time (69%) as well as between study populations (74%). 6. The high predictive ability of the approach suggests that it can help increase our understanding of the drivers of migration and could provide key quantitative information for understanding and managing a broad range of migratory species.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors. Journal compilation © 2010 British Ecological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bunnefeld</LastName>
+                    <ForeName>Nils</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Wildlife, Fish and Environmental Sciences, Swedish University of Agricultural Sciences, SE-90183 Umeå, Sweden. n.bunnefeld06@imperial.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Börger</LastName>
+                    <ForeName>Luca</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Moorter</LastName>
+                    <ForeName>Bram</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rolandsen</LastName>
+                    <ForeName>Christer M</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dettki</LastName>
+                    <ForeName>Holger</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solberg</LastName>
+                    <ForeName>Erling Johan</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ericsson</LastName>
+                    <ForeName>Göran</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Anim Ecol</MedlineTA>
+            <NlmUniqueID>0376574</NlmUniqueID>
+            <ISSNLinking>0021-8790</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D025041" MajorTopicYN="Y">Animal Migration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003627" MajorTopicYN="N">Data Interpretation, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003670" MajorTopicYN="N">Deer</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009068" MajorTopicYN="N">Movement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009664" MajorTopicYN="N" Type="Geographic">Norway</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013548" MajorTopicYN="N" Type="Geographic">Sweden</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21105872</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2656.2010.01776.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

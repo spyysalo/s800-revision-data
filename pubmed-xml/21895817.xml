@@ -1,0 +1,441 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21895817</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2583</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Insect molecular biology</Title>
+                <ISOAbbreviation>Insect Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Brief exposures of human body lice to sublethal amounts of ivermectin over-transcribes detoxification genes involved in tolerance.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>687-99</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2583.2011.01097.x</ELocationID>
+            <Abstract>
+                <AbstractText>Transcriptional profiling results, using our non-invasive induction assay {short exposure intervals (2-5 h) to sublethal amounts of insecticides [&lt; lethal concentration 3% (LC(3)) at 24 h] administered by stress-reducing means (contact vs. immersion screen) and with induction assessed in a time frame when tolerance is still present [~lethal concentration 90% (LC(90)) in 2-4 h]}, showed that ivermectin-induced detoxification genes from body lice are identified by quantitative real-time PCR analyses. Of the cytochrome P450 monooxygenase and ATP binding cassette transporter genes induced by ivermectin, CYP6CJ1, CYP9AG1, CYP9AG2 and PhABCC4 were respectively most significantly over-expressed, had high basal expression levels and were most closely related to genes from other organisms that metabolized insecticides, including ivermectin. Injection of double-stranded RNAs (dsRNAs) against either CYP9AG2 or PhABCC4 into non-induced female lice reduced their respective transcript level and resulted in increased sensitivity to ivermectin, indicating that these two genes are involved in the xenobiotic metabolism of ivermectin and in the production of tolerance.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Insect Molecular Biology © 2011 The Royal Entomological Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yoon</LastName>
+                    <ForeName>K S</ForeName>
+                    <Initials>KS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary and Animal Sciences, University of Massachusetts, Amherst, MA 01003, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strycharz</LastName>
+                    <ForeName>J P</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baek</LastName>
+                    <ForeName>J H</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>J H</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>J S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pittendrigh</LastName>
+                    <ForeName>B R</ForeName>
+                    <Initials>BR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>S H</ForeName>
+                    <Initials>SH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>J M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI045062</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI045062-06</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 AI081933-01A2</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5R01 AI045062-06</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>09</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Insect Mol Biol</MedlineTA>
+            <NlmUniqueID>9303579</NlmUniqueID>
+            <ISSNLinking>0962-1075</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018528">ATP-Binding Cassette Transporters</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000977">Antiparasitic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>70288-86-7</RegistryNumber>
+                <NameOfSubstance UI="D007559">Ivermectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7S5I7G3JQL</RegistryNumber>
+                <NameOfSubstance UI="D003907">Dexamethasone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9035-51-2</RegistryNumber>
+                <NameOfSubstance UI="D003577">Cytochrome P-450 Enzyme System</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>CJ0O37KU29</RegistryNumber>
+                <NameOfSubstance UI="D014700">Verapamil</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D018528" MajorTopicYN="N">ATP-Binding Cassette Transporters</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000977" MajorTopicYN="N">Antiparasitic Agents</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003577" MajorTopicYN="N">Cytochrome P-450 Enzyme System</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003907" MajorTopicYN="N">Dexamethasone</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004351" MajorTopicYN="N">Drug Resistance</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017344" MajorTopicYN="N">Genes, Insect</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008658" MajorTopicYN="N">Inactivation, Metabolic</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007559" MajorTopicYN="N">Ivermectin</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010374" MajorTopicYN="N">Pediculus</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034622" MajorTopicYN="N">RNA Interference</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014700" MajorTopicYN="N">Verapamil</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21895817</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2583.2011.01097.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3208734</ArticleId>
+            <ArticleId IdType="mid">NIHMS307765</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Jul 6;107(27):12168-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20566863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2010 Mar 11;362(10):896-905</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20220184</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2011;6(11):e26796</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22073195</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol Interact. 2006 Feb 25;159(3):169-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16384552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 1999 Oct;29(4):888-911</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10589908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2002 Jun 15;34(Suppl 4):S145-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12016590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Parasitol. 2002 Apr;88(2):405-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12054022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2002 Aug;11(4):337-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12144699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Dermatol. 2003 Aug;139(8):994-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12925385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicol In Vitro. 2004 Aug;18(4):403-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15130596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1994 Nov 11;22(22):4673-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7984417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Carcinog. 1995 Jul;13(3):129-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7619215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 May 14;93(10):4666-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8643461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biochem Parasitol. 1998 Mar 15;91(2):327-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9566525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1999 Jan 21;340(3):184-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9895398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2005 Jan;14(1):69-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15663776</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Mar 15;102(11):4080-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15753317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2005 Oct;14(5):509-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16164607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Toxicol. 2006 Jul-Aug;25(4):231-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16815813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2006 Oct;86(4):1179-236</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17015488</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2006 Dec;36(12):934-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17098168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharm Sci. 2007 Jan;30(1):84-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17134887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitology. 2007;134(Pt 8):1123-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17608972</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Toxicol. 2007 Aug;81(8):553-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17354009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Entomol. 2008 Jan;45(1):75-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18283945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2008 Apr;17(2):125-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18353102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Biochem Mol Biol. 2008 May;38(5):540-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18405832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Parasitol. 2009 Jan;39(2):213-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18708066</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2010 Oct;19(5):599-615</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20561088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

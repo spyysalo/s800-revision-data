@@ -1,0 +1,885 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21272793</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>06</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-4457</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Infectious diseases</Title>
+                <ISOAbbreviation>Lancet Infect Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Urbanisation and infectious diseases in a globalised world.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>131-41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1473-3099(10)70223-1</ELocationID>
+            <Abstract>
+                <AbstractText>The world is becoming urban. The UN predicts that the world's urban population will almost double from 3·3 billion in 2007 to 6·3 billion in 2050. Most of this increase will be in developing countries. Exponential urban growth is having a profound effect on global health. Because of international travel and migration, cities are becoming important hubs for the transmission of infectious diseases, as shown by recent pandemics. Physicians in urban environments in developing and developed countries need to be aware of the changes in infectious diseases associated with urbanisation. Furthermore, health should be a major consideration in town planning to ensure urbanisation works to reduce the burden of infectious diseases in the future.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alirol</LastName>
+                    <ForeName>Emilie</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of International and Humanitarian Medicine, Department of Community Medicine and Primary Care, Geneva University Hospitals, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Getaz</LastName>
+                    <ForeName>Laurent</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stoll</LastName>
+                    <ForeName>Beat</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chappuis</LastName>
+                    <ForeName>François</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loutan</LastName>
+                    <ForeName>Louis</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Lancet Infect Dis</MedlineTA>
+            <NlmUniqueID>101130150</NlmUniqueID>
+            <ISSNLinking>1473-3099</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003140" MajorTopicYN="N">Communicable Disease Control</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003141" MajorTopicYN="N">Communicable Diseases</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000635" MajorTopicYN="Y">transmission</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004641" MajorTopicYN="N">Emigration and Immigration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D038622" MajorTopicYN="Y">Internationality</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014195" MajorTopicYN="N">Travel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014505" MajorTopicYN="Y">Urban Population</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014507" MajorTopicYN="N">Urbanization</DescriptorName>
+                <QualifierName UI="Q000639" MajorTopicYN="Y">trends</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21272793</ArticleId>
+            <ArticleId IdType="pii">S1473-3099(10)70223-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/S1473-3099(10)70223-1</ArticleId>
+            <ArticleId IdType="pmc">PMC7106397</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 2004 Jan 22;427(6972):344-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14737166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cad Saude Publica. 2007;23 Suppl 4:S643-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18038045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Saude Publica. 1999 Jun;33(3):230-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10456995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Trop Med Parasitol. 2007 Dec;101(8):705-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18028732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Tuberc Lung Dis. 2000 Jan;4(1):4-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10654637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wkly Epidemiol Rec. 2000 Jun 16;75(24):193-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10901098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gastroenterol Hepatol. 2002 Feb;17 Suppl:S155-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12000601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Trop Med Parasitol. 2006 Jul-Sep;100(5-6):481-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16899150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trans R Soc Trop Med Hyg. 1991 Jan-Feb;85(1):44-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2068758</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiol Rev. 2001;23(2):288-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12192738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Soc Sci Med. 1997 Mar;44(6):809-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9080564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vector Borne Dis. 2007 Dec;44(4):241-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18092529</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trans R Soc Trop Med Hyg. 2001 May-Jun;95(3):239-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11490989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 1991 Mar;44(3):283-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1852133</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2004 Nov;71(5):646-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15569799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2005 Sep;73(3):523-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16172476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mem Inst Oswaldo Cruz. 2005 Aug;100(5):475-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16184223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trans R Soc Trop Med Hyg. 2007 Jul;101(7):722-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17416394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cad Saude Publica. 2008 Dec;24(12):2959-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19082289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS Care. 2007 Feb;19(2):282-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17364411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Vet Entomol. 2005 Jun;19(2):219-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15958028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Trop Med Parasitol. 2007 Dec;101(8):715-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18028733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2008 Aug 1;198(3):393-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18522503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1999 May 8;353(9164):1541</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10334247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Adolesc Health. 2006 Mar;38(3):213-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16488818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2005 Jan;3(1):81-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15608702</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mem Inst Oswaldo Cruz. 1996 Jul-Aug;91(4):449-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9070407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Trop. 2005 Nov-Dec;96(2-3):223-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16202596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 2004 Jun;20(2):189-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15270002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Malar J. 2005 Jan 14;4:4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15649333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1999 Sep 4;354(9181):820-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10485724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Niger Postgrad Med J. 2008 Jun;15(2):105-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18575482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Infect Dis. 2007 May;7(5):319-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17448935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Public Health. 2007 May 03;7:70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17477870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cad Saude Publica. 2001 Sep-Oct;17(5):1231-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11679897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Panam Salud Publica. 2003 Dec;14(6):409-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14769158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2008 Mar;78(3):364-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18337327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Inst Med Trop Sao Paulo. 2000 Jul-Aug;42(4):209-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10968884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mem Inst Oswaldo Cruz. 2006 Nov;101(7):767-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17160285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trans R Soc Trop Med Hyg. 1980;74(1):36-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7434418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mem Inst Oswaldo Cruz. 2006 Dec;101(8):869-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17293981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2001 Aug;15 Suppl 4:S15-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11686462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Malar J. 2008 Nov 10;7:235</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19000299</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Trop. 1985 Mar;42(1):71-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2859753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS Educ Prev. 2006 Apr;18(2):176-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16649962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>East Afr Med J. 1996 Dec;73(12):795-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9103687</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urban Health. 2007 May;84(3):334-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17243024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Soc Exp Biol Med. 1976 Sep;152(4):524-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">967881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Negl Trop Dis. 2008 Jan 30;2(1):e146</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18357338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2005 Aug;11(8):1290-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16102322</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urban Health. 2007 May;84(3 Suppl):i42-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17458704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 1993 Oct;49(4):430-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7692752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Parasitol. 2008 Jul;119(3):343-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18456262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Immunol Microbiol Infect Dis. 2004 Sep;27(5):305-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15225981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Equity Health. 2008 Feb 04;7:6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18248666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Infect Dis. 2005 Oct 20;5:89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16242013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Public Health. 2008 Jul 23;8:254</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18651946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Indian J Med Microbiol. 2002 Jul-Sep;20(3):153-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17657056</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Health Transit Rev. 1997;7 Suppl:315-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10169653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Trop Med Parasitol. 2006 Mar;100(2):163-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16492364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urban Health. 2007 May;84(3 Suppl):i35-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17373590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2004 Dec;10(12 Suppl):S70-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15577934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mem Inst Oswaldo Cruz. 1996 Jul-Aug;91(4):405-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9070399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Trop Med Parasitol. 1999 Jun;93(4):379-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10656039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2000 Feb 18;18 Suppl 1:S61-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10683551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wkly Epidemiol Rec. 2005 Jul 22;80(29):250-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16075866</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Parasitol. 2005 Aug 10;131(3-4):213-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15975718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2003 Sep;69(3):244-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14628938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trans R Soc Trop Med Hyg. 2003 Mar-Apr;97(2):170-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14584372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Egypt Public Health Assoc. 2002;77(5-6):479-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17216974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Int Health Hum Rights. 2007 Mar 07;7:2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17343758</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Trop (Mars). 2002;62(3):305-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12244930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 1996 Oct 9;276(14):1157-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8827969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull Soc Pathol Exot. 2003 Aug;96(3):187-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14582293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Trop (Mars). 2006 Jun;66(3):283-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16924824</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mem Inst Oswaldo Cruz. 2001 May;96(4):473-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11391418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Public Health. 2007 Aug 28;7:218</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17725826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Trop. 2008 Jan;105(1):81-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17904509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wkly Epidemiol Rec. 2002 Nov 8;77(45):373-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12442552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Popul Health Metr. 2008 Mar 10;6:1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18331630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2006 Dec;75(6):1223-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17172397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Trop. 2008 Oct;108(1):1-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18721789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2004 Aug;71(2 Suppl):118-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15331827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Indian J Malariol. 2001 Sep-Dec;38(3-4):61-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12125518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Psychol. 1994 Jan;49(1):15-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8122813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World Health Stat Q. 1997;50(3-4):161-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9477544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull Soc Pathol Exot. 2003 Aug;96(3):205-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14582296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2008;3(11):e3680</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18997865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wkly Epidemiol Rec. 2008 Feb 22;83(8):60-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18293534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS Care. 2007 Nov;19(10):1288-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18071973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scand J Infect Dis. 2005;37(1):21-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15764186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Malar J. 2005 Sep 16;4:43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16168054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Negl Trop Dis. 2008 Apr 23;2(4):e228</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18431445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Water Health. 2007 Dec;5(4):467-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17878561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Mosq Control Assoc. 1998 Mar;14(1):33-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9599321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Southeast Asian J Trop Med Public Health. 2005;36 Suppl 4:221-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16438213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Oct 19;101(42):15124-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15477600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Trop Med Parasitol. 2005 Apr;99(3):229-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15829132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS Patient Care STDS. 2005 Jan;19(1):49-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15665635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2003 Feb;68(2):169-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12641407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2006 May 27;367(9524):1747-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16731270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mem Inst Oswaldo Cruz. 2005 Oct;100(6):507-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16302059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urban Health. 2008 Mar;85(2):291-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18197478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sex Transm Dis. 2004 Aug;31(8):481-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15273581</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2002 Mar;8(3):311-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11927030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transfusion. 1991 Jul-Aug;31(6):547-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1906650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Saude Publica. 1990 Oct;24(5):361-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2101528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2003 Dec;69(6):629-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14740880</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>East Mediterr Health J. 2008 Jan-Feb;14(1):206-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18557470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Infect Dis. 2007 Nov;7(11):696-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17961853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urban Health. 2008 May;85(3):428-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18389376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mem Inst Oswaldo Cruz. 2008 Aug;103(5):423-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18797753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hong Kong Med J. 1997 Mar;3(1):79-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11847359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2006 Sep;12(9):1345-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17073082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2000 Feb 18;18 Suppl 1:S57-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10683550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trans R Soc Trop Med Hyg. 1987;81 Suppl 2:10-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2901796</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2003 Jun 15;36(12):e152-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12802779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS Care. 2003 Apr;15(2):177-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12856339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2006 Jun;12(6):887-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16707042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Today. 1989 Aug;5(8):255-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15463227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Inst Med Trop Sao Paulo. 2006 Sep-Oct;48(5):263-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17086313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Feb 22;356(8):769-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17314335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

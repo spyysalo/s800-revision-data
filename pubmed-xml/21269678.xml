@@ -1,0 +1,459 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21269678</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-547X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>377</Volume>
+                    <Issue>9765</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lancet (London, England)</Title>
+                <ISOAbbreviation>Lancet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Emerging infectious diseases in southeast Asia: regional challenges to control.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>599-609</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S0140-6736(10)62004-1</ELocationID>
+            <Abstract>
+                <AbstractText>Southeast Asia is a hotspot for emerging infectious diseases, including those with pandemic potential. Emerging infectious diseases have exacted heavy public health and economic tolls. Severe acute respiratory syndrome rapidly decimated the region's tourist industry. Influenza A H5N1 has had a profound effect on the poultry industry. The reasons why southeast Asia is at risk from emerging infectious diseases are complex. The region is home to dynamic systems in which biological, social, ecological, and technological processes interconnect in ways that enable microbes to exploit new ecological niches. These processes include population growth and movement, urbanisation, changes in food production, agriculture and land use, water and sanitation, and the effect of health systems through generation of drug resistance. Southeast Asia is home to about 600 million people residing in countries as diverse as Singapore, a city state with a gross domestic product (GDP) of US$37,500 per head, and Laos, until recently an overwhelmingly rural economy, with a GDP of US$890 per head. The regional challenges in control of emerging infectious diseases are formidable and range from influencing the factors that drive disease emergence, to making surveillance systems fit for purpose, and ensuring that regional governance mechanisms work effectively to improve control interventions.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Coker</LastName>
+                    <ForeName>Richard J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Communicable Diseases Policy Research Group, London School of Hygiene and Tropical Medicine, Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand. richard.coker@lshtm.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunter</LastName>
+                    <ForeName>Benjamin M</ForeName>
+                    <Initials>BM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rudge</LastName>
+                    <ForeName>James W</ForeName>
+                    <Initials>JW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liverani</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanvoravongchai</LastName>
+                    <ForeName>Piya</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet</MedlineTA>
+            <NlmUniqueID>2985213R</NlmUniqueID>
+            <ISSNLinking>0140-6736</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 2011 Feb 26;377(9767):700-2</RefSource>
+                <PMID Version="1">21269680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 2011 May 7;377(9777):1571</RefSource>
+                <PMID Version="1">21550479</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001210" MajorTopicYN="N" Type="Geographic">Asia, Southeastern</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021821" MajorTopicYN="N">Communicable Diseases, Emerging</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000635" MajorTopicYN="N">transmission</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003247" MajorTopicYN="N">Conservation of Natural Resources</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017281" MajorTopicYN="N">Cost of Illness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003906" MajorTopicYN="N">Developing Countries</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004352" MajorTopicYN="N">Drug Resistance, Microbial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053124" MajorTopicYN="N">Influenza A Virus, H5N1 Subtype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007251" MajorTopicYN="N">Influenza, Human</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058751" MajorTopicYN="N">Livestock</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011159" MajorTopicYN="N">Population Surveillance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045169" MajorTopicYN="N">Severe Acute Respiratory Syndrome</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014507" MajorTopicYN="N">Urbanization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015047" MajorTopicYN="N">Zoonoses</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000635" MajorTopicYN="N">transmission</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21269678</ArticleId>
+            <ArticleId IdType="pii">S0140-6736(10)62004-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0140-6736(10)62004-1</ArticleId>
+            <ArticleId IdType="pmc">PMC7159088</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Lancet. 2008 Apr 26;371(9622):1427-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18400288</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2010 May 04;7(5):e1000247</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20454566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2005 Dec;11(12):1842-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16485468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2004 Dec;10(12 Suppl):S98-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15577938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Public Health. 2010 Jun 08;10:322</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20529345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2005 Jul;11(7):1000-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16022772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Clin North Am. 2008 Nov;92(6):1459-71, xii</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19061762</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2005 Jan 27;352(4):333-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15668219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Southeast Asian J Trop Med Public Health. 2009 Jul;40(4):674-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19842400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Jun 25;459(7250):1122-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19516283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull World Health Organ. 2010 Mar;88(3):162</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20428376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Feb 21;451(7181):990-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18288193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2010 Apr;8(4):272-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20208550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Public Health. 2009 Nov 20;9:422</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19930557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2006 Dec 23;368(9554):2211-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17189032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Dec 11;359(24):2619-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19064625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009 Jun 22;4(6):e5973</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19543404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Virol. 2008 Dec;43(4):396-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18835214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2009 Jan;15(1):1-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19116041</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Southeast Asian J Trop Med Public Health. 2002 Dec;33(4):752-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12757222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2009 Mar;15(3):365-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19239746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Genet Evol. 2003 May;3(1):19-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12797969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2008 Jan;14(1):88-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18258086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Health Policy Plan. 2007 Jan;22(1):13-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17237490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2004 Dec;10(12 Suppl):S70-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15577934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Mar 25;105(12):4769-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18362346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull World Health Organ. 2009 Apr;87(4):320-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19551241</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2004 Jul 8;430(6996):209-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15241415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Ecol Interdiscip J. 2007;35(6):653-668</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32214603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiol Infect. 2011 Jan;139(1):59-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20920381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2009 Mar;15(3):423-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19239756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1999 Oct 9;354(9186):1257-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10520635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2003 Jul 12;362(9378):169</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12867121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2009 May;15(5):836-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19402989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Negl Trop Dis. 2010 Jul 13;4(7):e747</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20644621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Health Perspect. 2004 Jul;112(10):1092-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15238283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2011 Jan 29;377(9763):429-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21269685</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2009 Sep;6(9):e1000139</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19721696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2003 Dec 18;349(25):2431-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14681510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Mar 2;440(7080):6-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16511453</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Mar;77(5):3091-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12584335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Health Policy Plan. 2006 Nov;21(6):411-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16984894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Southeast Asian J Trop Med Public Health. 2010 Sep;41(5):1104-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21073031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2011 Feb 26;377(9767):769-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21269674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

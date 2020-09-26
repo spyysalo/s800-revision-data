@@ -1,0 +1,296 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21148730</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>193</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The recombinase IntA is required for excision of esp-containing ICEEfm1 in Enterococcus faecium.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1003-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JB.00952-10</ELocationID>
+            <Abstract>
+                <AbstractText>Comparative genome analysis of Enterococcus faecium recently revealed that a genomic island containing the esp gene, referred to as the esp-containing pathogenicity island (esp PAI), can be transferred by conjugation and contains a partial Tn916-like element and an integrase gene, intA. Here, we characterize the role of intA in the excision of the esp PAI. An intA insertion-deletion mutant in E. faecium E1162 (E1162ΔintA) was constructed and in trans complemented with wild-type intA (E1162ΔintA::pEF30). Circular intermediates (CI) of excised esp PAI were determined using inverse PCR analysis on purified chromosomal DNA from strains E1162, E1162Δesp, E1162ΔintA, and E1162ΔintA::pEF30. In E1162 and E1162Δesp, CI of the esp PAI were detected. No CI were detected in E1162ΔintA, while in the complemented strain E1162ΔintA::pEF30 CI formation was restored, indicating that intA is essential for excision and subsequent mobilization of the esp-containing genomic island in E. faecium. Based on the fact that this island can be mobilized and is self-transmissible, we propose to change the name of the esp PAI to ICEEfm1.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Top</LastName>
+                    <ForeName>Janetta</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Microbiology, University Medical Center Utrecht, 3584CX Utrecht, Netherlands. j.top@umcutrecht.nl</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sinnige</LastName>
+                    <ForeName>Jan C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Majoor</LastName>
+                    <ForeName>Eline A M</ForeName>
+                    <Initials>EA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonten</LastName>
+                    <ForeName>Marc J M</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Willems</LastName>
+                    <ForeName>Rob J L</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Schaik</LastName>
+                    <ForeName>Willem</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004251">DNA Transposable Elements</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D019426">Integrases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003227" MajorTopicYN="N">Conjugation, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004251" MajorTopicYN="Y">DNA Transposable Elements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016984" MajorTopicYN="N">Enterococcus faecium</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044404" MajorTopicYN="Y">Genomic Islands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019426" MajorTopicYN="N">Integrases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21148730</ArticleId>
+            <ArticleId IdType="pii">JB.00952-10</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00952-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3028673</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 2002 Jun 13;417(6890):746-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12066186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Jul 6;107(27):12269-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20566881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2004 Feb;186(3):672-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14729692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Res Microbiol. 2004 Jun;155(5):376-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15207870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1988 Jan;170(1):245-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2826394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1994 Mar;11(6):1099-108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8022279</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plasmid. 1994 Nov;32(3):350-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7899523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 1995 Jun;3(6):229-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7648031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Rev. 1995 Dec;59(4):579-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8531886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 1995;49:367-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8561465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2005 Jun;11(6):821-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15963275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2006 Jan;72(1):334-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16391062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2006 Mar;188(6):2207-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16513750</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2007 Nov;189(22):8233-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17827282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Immunol Med Microbiol. 2008 Apr;52(3):297-308</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18279340</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 2009 Jun;17(6):251-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19464182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Future Microbiol. 2009 Nov;4(9):1125-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19895216</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2010;11:239</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20398277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Infect. 2010 Jun;16(6):527-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20569263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2002 Nov;46(3):601-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12410819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

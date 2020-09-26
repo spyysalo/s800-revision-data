@@ -1,0 +1,348 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21526927</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-2442</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of insect science (Online)</Title>
+                <ISOAbbreviation>J. Insect Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Wolbachia wSinvictaA infections in natural populations of the fire ant Solenopsis invicta: testing for phenotypic effects.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1673/031.011.0111</ELocationID>
+            <Abstract>
+                <AbstractText>Wolbachia are intracellular bacteria that commonly infect many arthropods and some nematodes. In arthropods, these maternally transmitted bacteria often induce a variety of phenotypic effects to enhance their own spread within host populations. Wolbachia phenotypic effects generally either provide benefits to infected host females (cytoplasmic incompatibility, positive fitness effects) or bias host sex ratio in favor of females (male-killing, parthenogenesis, feminization), all of which increase the relative production of infected females in host populations. Wolbachia surveys have found infections to be exceedingly common in ants, but little is known at this juncture as to what phenotypic effects, if any, they induce in this group. Previous studies have demonstrated that individuals from native populations of the invasive fire ant Solenopsis invicta commonly harbor one or more of three Wolbachia variants. One of the variants, wSinvictaA, typically occurs at low prevalence in S. invicta populations, appears to have been transmitted horizontally into S. invicta three or more times, and has been lost repeatedly from host lineages over time. In order to determine the phenotypic effects and likely population dynamics of wSinvictaA infections in these ants, brood production patterns of newly mated fire ant queens were studied during simulated claustral founding and measured wSinvictaA transmission fidelity within mature single-queen families. No clear evidence was found for Wolbachia-induced cytoplasmic incompatibility, significant fitness effects, or male-killing. Maternal transmission was perfect to both virgin queens and males. Possible mechanisms for how this variant could be maintained in host populations are discussed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bouwma</LastName>
+                    <ForeName>Andrew M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Entomology and Nematology, University of Florida, Bldg. 970 Natural Area Drive, Gainesville, FL 32611, USA. andrew.bg@uky.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shoemaker</LastName>
+                    <ForeName>Dewayne</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Insect Sci</MedlineTA>
+            <NlmUniqueID>101096396</NlmUniqueID>
+            <ISSNLinking>1536-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001000" MajorTopicYN="N">Ants</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001118" MajorTopicYN="N" Type="Geographic">Argentina</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054884" MajorTopicYN="Y">Host-Pathogen Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008565" MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010641" MajorTopicYN="Y">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016133" MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="N">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020577" MajorTopicYN="N">Wolbachia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21526927</ArticleId>
+            <ArticleId IdType="doi">10.1673/031.011.0111</ArticleId>
+            <ArticleId IdType="pmc">PMC3281330</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Anim Behav. 1999 Feb;57(2):371-377</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10049477</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2000 Feb;54(1):191-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10937195</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2000 Aug;9(4):393-405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10971717</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Insect Mol Biol. 2000 Dec;9(6):661-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11122476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2001 Aug;55(8):1710-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11580031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Jan 11;295(5553):328-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11711637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2002 Mar;160(3):1087-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11901124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 2002 Mar 22;269(1491):623-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11916479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Econ Entomol. 2002 Jun;95(3):558-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12076000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Phylogenet Evol. 2003 Jan;26(1):102-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12470942</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 2003 Jul;12(7):1757-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12803629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 2003 Nov;12(11):3057-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14629385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2003 Dec;165(4):1853-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14704171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Evol Biol. 2004 Mar;17(2):322-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15009266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 1997;42:587-609</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15012323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1992 Apr 1;89(7):2699-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1557375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heredity (Edinb). 2005 Mar;94(3):364-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15674380</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 2005 Apr;14(5):1543-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15813792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Evol Biol. 2005 May 31;5:35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15927071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2005 Dec;184(4):199-206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16205909</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2007 May;5(5):e114</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17439303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 2009 Mar;63(3):624-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19054050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1990 Aug 9;346(6284):558-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2377229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 1989 Aug;80(2):236-240</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28313113</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 1996 Oct;50(5):1729-1741</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28565576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evolution. 1994 Oct;48(5):1500-1513</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28568404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1993 Nov;135(3):843-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8293983</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heredity (Edinb). 1996 Jan;76 ( Pt 1):1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8575931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1998 Jan;148(1):221-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9475734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 1998 Mar 22;265(1395):509-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9569669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 1998 Aug 7;265(1404):1447-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9721689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 1998 Dec 22;265(1413):2407-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9921679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

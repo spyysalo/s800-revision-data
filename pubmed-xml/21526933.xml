@@ -1,0 +1,245 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21526933</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-2442</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of insect science (Online)</Title>
+                <ISOAbbreviation>J. Insect Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Parasitism of lepidopterous stem borers in cultivated and natural habitats.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>15</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1673/031.011.0115</ELocationID>
+            <Abstract>
+                <AbstractText>Plant infestation, stem borer density, parasitism, and parasitoid abundance were assessed during two years in two host plants, Zea mays (L.) (Cyperales: Poaceae) and Sorghum bicolor (L.) (Cyperales: Poaceae), in cultivated habitats. The four major host plants (Cyperus spp., Panicum spp., Pennisetum spp., and Sorghum spp.) found in natural habitats were also assessed, and both the cultivated and natural habitat species occurred in four agroecological zones in Kenya. Across habitats, plant infestation (23.2%), stem borer density (2.2 per plant), and larval parasitism (15.0%) were highest in maize in cultivated habitats. Pupal parasitism was not higher than 4.7% in both habitats, and did not vary with locality during each season or with host plant between each season. Cotesia sesamiae (Cameron) and C. flavipes Cameron (Hymenoptera: Braconidae) were the key parasitoids in cultivated habitats (both species accounted for 76.4% of parasitized stem borers in cereal crops), but not in natural habitats (the two Cotesia species accounted for 14.5% of parasitized stem borers in wild host plants). No single parasitoid species exerted high parasitism rates on stem borer populations in wild host plants. Low stem borer densities across seasons in natural habitats indicate that cereal stem borer pests do not necessarily survive the non-cropping season feeding actively in wild host plants. Although natural habitats provided refuges for some parasitoid species, stem borer parasitism was generally low in wild host plants. Overall, because parasitoids contribute little in reducing cereal stem borer pest populations in cultivated habitats, there is need to further enhance their effectiveness in the field to regulate these pests.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mailafiya</LastName>
+                    <ForeName>Duna Madu</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unité de Recherche IRD 072, International Centre of Insect Physiology and Ecology (ICIPE), PO Box 30772, Nairobi, Kenya. dmailafiya@gmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Ru</LastName>
+                    <ForeName>Bruno Pierre</ForeName>
+                    <Initials>BP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kairu</LastName>
+                    <ForeName>Eunice Waitherero</ForeName>
+                    <Initials>EW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dupas</LastName>
+                    <ForeName>Stéphane</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calatayud</LastName>
+                    <ForeName>Paul-André</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Insect Sci</MedlineTA>
+            <NlmUniqueID>101096396</NlmUniqueID>
+            <ISSNLinking>1536-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001517" MajorTopicYN="N">Coleoptera</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006790" MajorTopicYN="N">Host-Parasite Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007300" MajorTopicYN="N">Insect Control</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007630" MajorTopicYN="N">Kenya</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016015" MajorTopicYN="N">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045868" MajorTopicYN="N">Sorghum</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014863" MajorTopicYN="N">Wasps</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003313" MajorTopicYN="N">Zea mays</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21526933</ArticleId>
+            <ArticleId IdType="doi">10.1673/031.011.0115</ArticleId>
+            <ArticleId IdType="pmc">PMC3281318</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Heredity (Edinb). 1999 Aug;83 (Pt 2):127-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10469200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 2000;45:175-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10761575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull Entomol Res. 2001 Jun;91(3):205-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11415475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 2002;47:57-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11729069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 2003 Sep;137(1):123-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12883984</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Nat. 2004 Sep;164(3):423-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15478095</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 2006;51:163-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16332208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull Entomol Res. 2006 Dec;96(6):555-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17201973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Entomol. 2007 Apr;36(2):329-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17445367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull Entomol Res. 2002 Dec;92(6):507-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17598302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Entomol. 2010 Feb;39(1):57-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20146840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Entomol. 1990;35:59-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2405774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Chem Ecol. 1996 Feb;22(2):307-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24227412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 1990 Feb;82(2):162-165</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28312660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oecologia. 2001 Jul;128(2):153-163</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28547463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

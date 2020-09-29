@@ -12,3 +12,15 @@ T1001	Order 142 154	Peltigerales
 N1001	Reference T1001 Taxonomy:388450	
 T1002	Genus 1286 1300	cyanobacterial
 N1002	Reference T1002 Taxonomy:102234	
+T6	Out-of-scope 1063 1068	plant
+N6	Reference T6 Taxonomy:33090	Viridiplantae
+T7	Out-of-scope 1343 1348	plant
+N7	Reference T7 Taxonomy:33090	Viridiplantae
+T8	Out-of-scope 25 38	ascomyceteous
+#1	AnnotatorNotes T8	TODO check (ascomycetous?)
+T9	Out-of-scope 861 874	basidiomycete
+N8	Reference T9 Taxonomy:5204	Basidiomycota
+T10	Out-of-scope 1186 1197	ascomycetes
+N9	Reference T10 Taxonomy:4890	Ascomycota
+T11	Out-of-scope 1415 1428	ascomyceteous
+#2	AnnotatorNotes T11	TODO check (ascomycetous?)

@@ -8,3 +8,12 @@ T1001	Order 502 514	sea anemones
 N1001	Reference T1001 Taxonomy:6103	
 T1002	Order 1744 1751	anemone
 N4	Reference T1002 Taxonomy:6103	
+T4	Family 58 67	clownfish
+#1	AnnotatorNotes T4	TODO document
+T5	Family 404 421	clown anemonefish
+#2	AnnotatorNotes T5	TODO document
+T6	Family 2332 2349	clown anemonefish
+#3	AnnotatorNotes T6	TODO document
+N5	Reference T4 Taxonomy:30863	Pomacentridae
+N6	Reference T5 Taxonomy:30863	Pomacentridae
+N7	Reference T6 Taxonomy:30863	Pomacentridae

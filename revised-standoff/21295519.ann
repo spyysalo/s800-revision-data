@@ -30,14 +30,12 @@ T1009	Genus 325 338	Neoheteromita
 N1009	Reference T1009 Taxonomy:1938445	
 T1010	Genus 343 357	Paracercomonas
 N1010	Reference T1010 Taxonomy:372085	
-T1011	Genus 527 534	amoebae
-N1011	Reference T1011 Taxonomy:5774	
+T1011	Out-of-scope 527 534	amoebae
 T1012	Genus 880 888	Metopion
 N1012	Reference T1012 Taxonomy:188966	
 T1013	Genus 893 903	Metromonas
 N1013	Reference T1013 Taxonomy:281026	
-T1014	Genus 1054 1060	amoeba
-N1014	Reference T1014 Taxonomy:5774	
+T1014	Out-of-scope 1054 1060	amoeba
 T1015	Order 1081 1097	Thaumatomonadida
 N1015	Reference T1015 Taxonomy:188944	
 T1016	Order 1129 1143	Spongomonadida
@@ -81,3 +79,17 @@ T15	Class 1701 1711	Phaeodaria
 N12	Reference T15 Taxonomy:238777	Phaeodarea
 T16	Genus 1263 1276	Auranticordis
 N13	Reference T16 Taxonomy:2547587	Auranticordis
+T17	Class 1373 1383	Phaeodaria
+N14	Reference T17 Taxonomy:238777	Phaeodarea
+T18	Genus 1203 1214	Clautriavia
+N15	Reference T18 Taxonomy:2421310	Clautriavia
+T19	Out-of-scope 1303 1313	Imbricatea
+N16	Reference T19 Taxonomy:1736114	Imbricatea
+T20	Out-of-scope 1402 1412	Imbricatea
+N17	Reference T20 Taxonomy:1736114	Imbricatea
+T21	Out-of-scope 460 466	Filosa
+#3	AnnotatorNotes T21	subphylum
+T22	Out-of-scope 781 788	filosan
+#4	AnnotatorNotes T22	subphylum
+T23	Out-of-scope 836 845	eukaryote
+N18	Reference T23 Taxonomy:2759	Eukaryota

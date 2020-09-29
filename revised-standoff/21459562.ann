@@ -8,16 +8,15 @@ T4	Species 1517 1537	Sterkiella thompsoni
 N4	Reference T4 Taxonomy:1001742
 T5	Genus 1553 1567	Parasterkiella
 N5	Reference T5 Taxonomy:1001743	Parasterkiella
-T6	Class 13 25	hypotrichous
-N6	Reference T6 Taxonomy:5934	Hypotrichia
 T7	Out-of-scope 26 33	ciliate
 N7	Reference T7 Taxonomy:5878	Ciliophora
 T8	Out-of-scope 187 194	ciliate
 N8	Reference T8 Taxonomy:5878	Ciliophora
-T9	Out-of-scope 1011 1020	Primordia
-T10	Out-of-scope 1091 1101	primordium
-T11	Out-of-scope 1150 1159	primordia
 T12	Genus 1221 1231	Urosomoida
 N9	Reference T12 Taxonomy:1537161	Urosomoida
 T13	Family 1418 1431	stylonychines
 N10	Reference T13 Taxonomy:1001748	Stylonychinae
+T6	Class 13 25	hypotrichous
+N6	Reference T6 Taxonomy:5934	Hypotrichia
+T9	Out-of-scope 1477 1486	ciliature
+#1	AnnotatorNotes T9	anatomy

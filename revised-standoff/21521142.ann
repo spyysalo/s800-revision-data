@@ -6,3 +6,15 @@ T3	Class 92 99	insects
 N3	Reference T3 Taxonomy:50557	Insecta
 T4	Class 1436 1443	insects
 N4	Reference T4 Taxonomy:50557	Insecta
+T5	Order 745 758	Passeriformes
+N5	Reference T5 Taxonomy:9126	Passeriformes
+T6	Family 760 767	Paridae
+N6	Reference T6 Taxonomy:9153	Paridae
+T7	Class 774 779	birds
+N7	Reference T7 Taxonomy:8782	Aves
+T8	Out-of-scope 616 628	caterpillars
+#1	AnnotatorNotes T8	artificial
+T9	Out-of-scope 818 829	caterpillar
+#2	AnnotatorNotes T9	artificial
+T10	Out-of-scope 957 969	caterpillars
+#3	AnnotatorNotes T10	artificial

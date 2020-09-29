@@ -16,3 +16,13 @@ T8	Family 26 32	legume
 N8	Reference T8 Taxonomy:3803	Fabaceae
 T9	Family 343 349	legume
 N9	Reference T9 Taxonomy:3803	Fabaceae
+T10	Out-of-scope 273 285	actinorhizal
+#1	AnnotatorNotes T10	TODO confirm OOS
+T11	Out-of-scope 635 640	plant
+T12	Out-of-scope 84 89	plant
+N11	Reference T12 Taxonomy:33090	Viridiplantae
+N10	Reference T11 Taxonomy:33090	Viridiplantae
+T13	Out-of-scope 940 945	plant
+N12	Reference T13 Taxonomy:33090	Viridiplantae
+T14	Out-of-scope 1101 1107	plants
+N13	Reference T14 Taxonomy:33090	Viridiplantae

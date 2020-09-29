@@ -1,6 +1,26 @@
-T1	Genus 1244 1251	amoebae
-N1	Reference T1 Taxonomy:5774	Amoeba
 T2	Order 1253 1264	Arcellinida
 N2	Reference T2 Taxonomy:318493	Arcellinida
 T3	Order 1269 1279	Euglyphida
 N3	Reference T3 Taxonomy:178369	Euglyphida
+T4	Genus 501 509	Sphagnum
+N4	Reference T4 Taxonomy:13804	Sphagnum
+T5	Class 1176 1188	Chrysophytes
+N5	Reference T5 Taxonomy:2825	Chrysophyceae
+T6	Class 1350 1361	cryptomonad
+N6	Reference T6 Taxonomy:3027	Cryptophyceae
+T7	Family 1368 1377	perkinsid
+N7	Reference T7 Taxonomy:27999	Perkinsidae
+T8	Out-of-scope 1236 1251	testate amoebae
+#1	AnnotatorNotes T8	non-taxonomic
+T1	Out-of-scope 296 306	eukaryotic
+N1	Reference T1 Taxonomy:2759	Eukaryota
+T9	Out-of-scope 420 430	eukaryotic
+N8	Reference T9 Taxonomy:2759	Eukaryota
+T10	Out-of-scope 743 753	eukaryotic
+N9	Reference T10 Taxonomy:2759	Eukaryota
+T11	Out-of-scope 840 850	eukaryotic
+N10	Reference T11 Taxonomy:2759	Eukaryota
+T12	Out-of-scope 968 978	eukaryotic
+N11	Reference T12 Taxonomy:2759	Eukaryota
+T13	Out-of-scope 1063 1073	eukaryotic
+N12	Reference T13 Taxonomy:2759	Eukaryota

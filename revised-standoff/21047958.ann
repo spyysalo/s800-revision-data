@@ -14,3 +14,17 @@ T7	Species 49 54	human
 N7	Reference T7 Taxonomy:9606	Homo sapiens
 T8	Species 93 98	Human
 N8	Reference T8 Taxonomy:9606	Homo sapiens
+T9	Family 418 420	Ad
+N9	Reference T9 Taxonomy:10508	Adenoviridae
+#1	AnnotatorNotes T9	TODO: check: reporter construct
+T10	Species 659 662	Ad2
+N10	Reference T10 Taxonomy:10515	Human adenovirus 2
+T11	Species 934 937	Ad2
+N11	Reference T11 Taxonomy:10515	Human adenovirus 2
+T12	Strain 513 523	Ad2-GFP-pV
+T13	Strain 860 870	Ad2-GFP-pV
+T14	Species 1466 1469	Ad2
+N12	Reference T14 Taxonomy:10515	Human adenovirus 2
+T15	Strain 1474 1484	Ad2-GFP-pV
+T16	Strain 1526 1536	Ad2-GFP-pV
+T17	Strain 1595 1605	Ad2-GFP-pV

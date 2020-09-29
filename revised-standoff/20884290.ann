@@ -22,3 +22,30 @@ T11	Genus 937 947	Mantamonas
 N11	Reference T11 Taxonomy:1046569	Mantamonas
 T12	Family 1275 1288	Planomonadida
 N12	Reference T12 Taxonomy:1294546	Planomonadidae
+T13	Out-of-scope 80 88	Apusozoa
+N13	Reference T13 Taxonomy:554296	Apusozoa
+T14	Out-of-scope 200 208	Apusozoa
+N14	Reference T14 Taxonomy:554296	Apusozoa
+T15	Out-of-scope 1491 1499	Apusozoa
+N15	Reference T15 Taxonomy:554296	Apusozoa
+T16	Out-of-scope 1102 1110	Apusozoa
+N16	Reference T16 Taxonomy:554296	Apusozoa
+T17	Out-of-scope 1116 1125	Amoebozoa
+N17	Reference T17 Taxonomy:554915	Amoebozoa
+T18	Out-of-scope 25 38	zooflagellate
+#1	AnnotatorNotes T18	non-taxonomical
+T19	Out-of-scope 139 153	zooflagellates
+#2	AnnotatorNotes T19	non-taxonomical
+T20	Out-of-scope 766 774	Apusozoa
+N18	Reference T20 Taxonomy:554296	Apusozoa
+T21	Family 174 184	apusomonad
+N19	Reference T21 Taxonomy:172820	Apusomonadidae
+T22	Family 189 199	planomonad
+N20	Reference T22 Taxonomy:1294546	Planomonadidae
+T23	Out-of-scope 1078 1086	unikonts
+#3	AnnotatorNotes T23	Taxonomical super group
+T24	Out-of-scope 1088 1100	opisthokonts
+#4	AnnotatorNotes T24	Taxonomical super group
+N21	Reference T18 Taxonomy:253214	Alnus alnobetula subsp. fruticosa
+T25	Out-of-scope 1020 1030	eukaryotes
+N22	Reference T25 Taxonomy:2759	Eukaryota

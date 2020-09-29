@@ -6,7 +6,7 @@ T3	Species 163 166	HIV
 N3	Reference T3 Taxonomy:12721
 T4	Species 275 278	HIV
 N4	Reference T4 Taxonomy:12721
-T5	Species 511 533	Indian rhesus macaques
+T5	Species 518 533	rhesus macaques
 N5	Reference T5 Taxonomy:9544
 T6	Strain 680 689	SIVmac239
 N6	Reference T6 Taxonomy:11723
@@ -18,3 +18,5 @@ T9	Strain 809 818	SIVmac239
 N9	Reference T9 Taxonomy:11723	
 T1001	Genus 0 7	Macaque
 N1001	Reference T1001 Taxonomy:9539	
+T10	Genus 1072 1080	macaques
+N10	Reference T10 Taxonomy:9539	Macaca

@@ -30,3 +30,21 @@ T15	Order 60 69	Astomatia
 N15	Reference T15 Taxonomy:278828	Astomatida
 T16	Order 1204 1213	Astomatia
 N16	Reference T16 Taxonomy:278828	Astomatida
+T17	Class 1276 1291	scuticociliates
+N17	Reference T17 Taxonomy:35094	Scuticociliatia
+T18	Class 135 147	oligochaetes
+N18	Reference T18 Taxonomy:6381	Oligochaeta
+T19	Family 725 738	clausilocolid
+N19	Reference T19 Taxonomy:1002221	Clausilocolidae
+T20	Out-of-scope 317 325	ciliates
+N20	Reference T20 Taxonomy:5878	Ciliophora
+T21	Out-of-scope 774 781	astomes
+T22	Out-of-scope 1140 1147	astomes
+#1	AnnotatorNotes T21	descriptive
+#2	AnnotatorNotes T22	descriptive
+T23	Out-of-scope 1345 1352	astomes
+#3	AnnotatorNotes T23	descriptive
+T24	Out-of-scope 1501 1507	astome
+#4	AnnotatorNotes T24	descriptive
+T25	Out-of-scope 310 316	astome
+#5	AnnotatorNotes T25	descriptive

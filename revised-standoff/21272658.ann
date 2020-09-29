@@ -2,5 +2,8 @@ T1	Species 40 60	Phytophthora ramorum
 N1	Reference T1 Taxonomy:164328
 T2	Species 149 169	Phytophthora ramorum
 N2	Reference T2 Taxonomy:164328
-T3	Out-of-scope 194 197	Oak
-#1	AnnotatorNotes T3	part of disease name "Sudden Oak Death"
+T3	Genus 194 197	Oak
+#1	AnnotatorNotes T3	TODO: check: part of disease name "Sudden Oak Death"
+N3	Reference T3 Taxonomy:3511	Quercus
+T4	Out-of-scope 349 355	plants
+N4	Reference T4 Taxonomy:33090	Viridiplantae

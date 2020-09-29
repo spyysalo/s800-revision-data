@@ -50,3 +50,9 @@ T1001	Order 91 100	Hemiptera
 N1001	Reference T1001 Taxonomy:7524	
 T1002	Family 102 113	Aleyrodidae
 N1002	Reference T1002 Taxonomy:7036	
+T26	Out-of-scope 1223 1229	plants
+N24	Reference T26 Taxonomy:33090	Viridiplantae
+T27	Family 209 217	whitefly
+N25	Reference T27 Taxonomy:7036	
+N26	Reference T23 Taxonomy:7038	
+N27	Reference T24 Taxonomy:7038	

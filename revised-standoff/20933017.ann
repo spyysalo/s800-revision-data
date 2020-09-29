@@ -1,14 +1,28 @@
 T1	Species 28 34	canine
-N1	Reference T1 Taxonomy:9612
 T2	Species 200 206	canine
-N2	Reference T2 Taxonomy:9612
-T3	Family 134 155	avian influenza virus
-T4	Family 620 643	avian influenza viruses
-T5	Family 677 698	avian influenza virus
+T3	Family 140 155	influenza virus
+T4	Family 626 643	influenza viruses
+T5	Family 683 698	influenza virus
 T6	Family 1411 1426	influenza virus
-T7	Family 610 615;626 643	human influenza viruses
+T7	Species 610 615	human
 N3	Reference T3 Taxonomy:11308	Orthomyxoviridae
-N7	Reference T7 Taxonomy:11308	Orthomyxoviridae
 N4	Reference T4 Taxonomy:11308	Orthomyxoviridae
 N6	Reference T6 Taxonomy:11308	Orthomyxoviridae
 N5	Reference T5 Taxonomy:11308	Orthomyxoviridae
+T8	Class 134 139	avian
+N8	Reference T8 Taxonomy:8782	Aves
+N7	Reference T7 Taxonomy:9606	Homo sapiens
+T9	Class 620 625	avian
+N9	Reference T9 Taxonomy:8782	Aves
+T10	Class 677 682	avian
+N10	Reference T10 Taxonomy:8782	Aves
+T11	Family 256 265	influenza
+N11	Reference T11 Taxonomy:11308	Orthomyxoviridae
+T12	Family 884 893	influenza
+N12	Reference T12 Taxonomy:11308	Orthomyxoviridae
+T13	Family 1184 1193	influenza
+N13	Reference T13 Taxonomy:11308	Orthomyxoviridae
+T14	Family 972 981	influenza
+N14	Reference T14 Taxonomy:11308	Orthomyxoviridae
+N1	Reference T1 Taxonomy:9615	Canis lupus familiaris
+N2	Reference T2 Taxonomy:9615	Canis lupus familiaris

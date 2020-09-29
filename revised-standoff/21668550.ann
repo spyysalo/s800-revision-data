@@ -11,22 +11,29 @@ N5	Reference T5 Taxonomy:7159
 T6	Species 32 36	rice
 T7	Species 252 256	rice
 T8	Species 349 353	rice
-T9	Species 334 344	gall midge
-N6	Reference T9 Taxonomy:33408	Orseolia oryzae
+T9	Family 334 344	gall midge
 T10	Species 454 458	rice
 T11	Species 639 654	rice gall midge
 N7	Reference T11 Taxonomy:33408	Orseolia oryzae
-T12	Species 729 739	gall midge
-N8	Reference T12 Taxonomy:33408	Orseolia oryzae
+T12	Family 729 739	gall midge
 T13	Species 740 744	rice
 N9	Reference T6 Taxonomy:4530	Oryza sativa
 N10	Reference T7 Taxonomy:4530	Oryza sativa
 N11	Reference T8 Taxonomy:4530	Oryza sativa
 N12	Reference T10 Taxonomy:4530	Oryza sativa
 N13	Reference T13 Taxonomy:4530	Oryza sativa
-T14	Species 483 493	gall midge
-N14	Reference T14 Taxonomy:33408	Orseolia oryzae
-T15	Species 866 876	gall midge
-N15	Reference T15 Taxonomy:33408	Orseolia oryzae
-T16	Species 1658 1668	gall midge
-N16	Reference T16 Taxonomy:33408	Orseolia oryzae
+T14	Family 483 493	gall midge
+T15	Family 866 876	gall midge
+T16	Family 1658 1668	gall midge
+T17	Out-of-scope 1144 1150	plants
+N17	Reference T17 Taxonomy:33090	Viridiplantae
+N14	Reference T14 Taxonomy:33406	Cecidomyiidae
+N8	Reference T12 Taxonomy:33406	Cecidomyiidae
+N15	Reference T15 Taxonomy:33406	Cecidomyiidae
+N16	Reference T16 Taxonomy:33406	Cecidomyiidae
+N6	Reference T9 Taxonomy:33406	Cecidomyiidae
+T18	Out-of-scope 624 631	maggots
+T19	Out-of-scope 1121 1128	maggots
+T20	Out-of-scope 1217 1224	maggots
+T21	Out-of-scope 1328 1335	maggots
+T22	Out-of-scope 1524 1530	maggot

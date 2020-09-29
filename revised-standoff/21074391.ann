@@ -1,16 +1,20 @@
 T1	Species 653 658	human
 N1	Reference T1 Taxonomy:9606
-T1001	Genus 52 59	amoebae
-N1001	Reference T1001 Taxonomy:5774	
-T1002	Genus 125 132	amoebae
-N1002	Reference T1002 Taxonomy:5774	
-T1003	Genus 248 255	amoebae
-N1003	Reference T1003 Taxonomy:5774	
-T1004	Genus 386 393	amoebae
-N1004	Reference T1004 Taxonomy:5774	
-T1005	Genus 514 521	amoebae
-N1005	Reference T1005 Taxonomy:5774	
-T1006	Genus 709 716	amoebae
-N1006	Reference T1006 Taxonomy:5774	
-T1007	Genus 864 871	amoebae
-N1007	Reference T1007 Taxonomy:5774	
+T2	Out-of-scope 412 419	Lobosea
+N2	Reference T2 Taxonomy:555369	Tubulinea
+T3	Out-of-scope 423 430	Filosea
+#1	AnnotatorNotes T3	TODO check
+T4	Out-of-scope 44 59	testate amoebae
+#2	AnnotatorNotes T4	non-taxonomic
+T5	Out-of-scope 117 132	Testate amoebae
+#3	AnnotatorNotes T5	non-taxonomic
+T6	Out-of-scope 240 255	testate amoebae
+#4	AnnotatorNotes T6	non-taxonomic
+T7	Out-of-scope 378 393	Testate amoebae
+#5	AnnotatorNotes T7	non-taxonomic
+T8	Out-of-scope 506 521	Testate amoebae
+#6	AnnotatorNotes T8	non-taxonomic
+T9	Out-of-scope 701 716	testate amoebae
+#7	AnnotatorNotes T9	non-taxonomic
+T10	Out-of-scope 856 871	testate amoebae
+#8	AnnotatorNotes T10	non-taxonomic

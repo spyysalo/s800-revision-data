@@ -20,10 +20,8 @@ N10	Reference T10 Taxonomy:303301
 T11	Species 1187 1205	H. cantabrigiensis
 T1001	Genus 95 104	Copromyxa
 N1001	Reference T1001 Taxonomy:931553	
-T1002	Genus 455 462	amoebae
-N1002	Reference T1002 Taxonomy:5774	
-T1003	Genus 990 996	amoeba
-N1003	Reference T1003 Taxonomy:5774	
+T1002	Out-of-scope 455 462	amoebae
+T1003	Out-of-scope 990 996	amoeba
 T1004	Genus 1054 1063	Copromyxa
 N1004	Reference T1004 Taxonomy:931553	
 T1005	Genus 1096 1105	Glaeseria
@@ -31,9 +29,28 @@ N1005	Reference T1005 Taxonomy:242546
 T1006	Family 1140 1149	Amoebidae
 N1006	Reference T1006 Taxonomy:35218	
 T1007	Genus 1151 1157	Amoeba
-N1007	Reference T1007 Taxonomy:5774	
 T1008	Genus 1347 1356	Copromyxa
 N1008	Reference T1008 Taxonomy:931553	
 T12	Strain 1250 1258	4/3Da/10
 N7	Reference T7 Taxonomy:5777	Hartmannella
 T13	Strain 1023 1031	4/3Da/10
+T14	Out-of-scope 34 43	Tubulinea
+N11	Reference T14 Taxonomy:555369	Tubulinea
+T15	Out-of-scope 45 54	Amoebozoa
+N12	Reference T15 Taxonomy:554915	Amoebozoa
+N14	Reference T1003 Taxonomy:554915	Amoebozoa
+T17	Genus 1158 1163	Chaos
+N17	Reference T17 Taxonomy:160821	Chaos
+N15	Reference T1007 Taxonomy:5774	Amoeba
+T16	Out-of-scope 700 709	Amoebozoa
+N16	Reference T16 Taxonomy:554915	Amoebozoa
+T18	Out-of-scope 728 737	Tubulinea
+N18	Reference T18 Taxonomy:555369	Tubulinea
+T19	Out-of-scope 6 17	Slime molds
+#1	AnnotatorNotes T19	informal name given to several kinds of unrelated eukaryotic organisms
+T20	Out-of-scope 410 421	slime molds
+#2	AnnotatorNotes T20	informal name given to several kinds of unrelated eukaryotic organisms
+T21	Out-of-scope 146 154	amoeboid
+#3	AnnotatorNotes T1002	form
+T22	Out-of-scope 678 688	eukaryotic
+N13	Reference T22 Taxonomy:2759	Eukaryota

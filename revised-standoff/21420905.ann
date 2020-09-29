@@ -24,3 +24,15 @@ T1008	Genus 1329 1340	Strigomonas
 N1008	Reference T1008 Taxonomy:1003010	
 T1009	Class 1464 1482	Betaproteobacteria
 N1009	Reference T1009 Taxonomy:28216	
+T5	Order 156 171	trypanosomatids
+N5	Reference T5 Taxonomy:2704949	Trypanosomatida
+T6	Order 67 82	trypanosomatids
+N6	Reference T6 Taxonomy:2704949	Trypanosomatida
+T7	Out-of-scope 179 194	proteobacterial
+N7	Reference T7 Taxonomy:1224	Proteobacteria
+T8	Order 357 372	trypanosomatids
+N8	Reference T8 Taxonomy:2704949	Trypanosomatida
+T9	Out-of-scope 1218 1229	kinetoplast
+T10	Order 1559 1574	trypanosomatids
+N9	Reference T10 Taxonomy:2704949	Trypanosomatida
+#1	AnnotatorNotes T9	network of circular DNA

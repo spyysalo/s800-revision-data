@@ -27,3 +27,11 @@ T1008	Family 1197 1203	aphids
 N1008	Reference T1008 Taxonomy:27482	
 T7	Species 121 133	Sitka Spruce
 N6	Reference T7 Taxonomy:3332	
+T9	Family 1385 1390	aphid
+N8	Reference T9 Taxonomy:27482	
+T8	Species 259 277	green spruce aphid
+N7	Reference T8 Taxonomy:527671	Elatobium abietinum
+T10	Out-of-scope 1108 1115	conifer
+N9	Reference T10 Taxonomy:3312	Coniferophyta
+T11	Out-of-scope 1249 1255	plants
+N10	Reference T11 Taxonomy:33090	Viridiplantae

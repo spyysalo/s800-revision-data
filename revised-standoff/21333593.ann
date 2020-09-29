@@ -17,8 +17,7 @@ N8	Reference T8 Taxonomy:413990
 T1001	Genus 91 98	Uronema
 N1001	Reference T1001 Taxonomy:104535	
 N1002	Reference T1001 Taxonomy:35106	
-T1002	Genus 191 202	Chlorophyta
-N1003	Reference T1002 Taxonomy:16046	
+T1002	Out-of-scope 191 202	Chlorophyta
 T1003	Genus 311 318	Uronema
 N1004	Reference T1003 Taxonomy:104535	
 N1005	Reference T1003 Taxonomy:35106	
@@ -38,3 +37,4 @@ N1013	Reference T1008 Taxonomy:35106
 T1009	Genus 1383 1390	Uronema
 N1014	Reference T1009 Taxonomy:104535	
 N1015	Reference T1009 Taxonomy:35106	
+N9	Reference T1002 Taxonomy:3041	Chlorophyta

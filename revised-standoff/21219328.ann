@@ -8,3 +8,18 @@ T1001	Class 1098 1103	birds
 N1001	Reference T1001 Taxonomy:8782	
 T1002	Class 1969 1974	birds
 N1002	Reference T1002 Taxonomy:8782	
+T4	Class 85 89	bird
+N4	Reference T4 Taxonomy:8782	Aves
+T5	Class 1608 1613	Birds
+N5	Reference T5 Taxonomy:8782	Aves
+T6	Class 1684 1689	Birds
+N6	Reference T6 Taxonomy:8782	Aves
+T7	Family 1185 1190	Wrens
+N7	Reference T7 Taxonomy:69501	Troglodytinae
+#1	AnnotatorNotes T7	TODO check
+T8	Family 486 491	Wrens
+N8	Reference T8 Taxonomy:69501	Troglodytinae
+#2	AnnotatorNotes T8	TODO check
+T9	Family 580 584	wren
+N9	Reference T9 Taxonomy:69501	Troglodytinae
+#3	AnnotatorNotes T9	TODO check

@@ -4,3 +4,8 @@ T2	Species 691 710	Salmonella enterica
 N2	Reference T2 Taxonomy:28901
 T3	Strain 117 128	Typhimurium
 T4	Strain 719 730	Typhimurium
+T5	Genus 306 316	Salmonella
+N3	Reference T5 Taxonomy:590	Salmonella
+T6	Genus 322 332	Salmonella
+N4	Reference T6 Taxonomy:590	Salmonella
+#1	AnnotatorNotes T6	TODO check: in a gene name

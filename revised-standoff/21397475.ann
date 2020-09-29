@@ -1,13 +1,21 @@
 T1	Species 40 61	Pseudonebela africana
 T2	Species 434 455	Pseudonebela africana
 T3	Species 638 649	P. africana
-T1001	Genus 33 39	amoeba
-N1001	Reference T1001 Taxonomy:5774	
 T1002	Order 74 85	Arcellinida
 N1002	Reference T1002 Taxonomy:318493	
-T1003	Genus 474 480	amoeba
-N1003	Reference T1003 Taxonomy:5774	
 T1004	Order 482 493	Arcellinida
 N1004	Reference T1004 Taxonomy:318493	
 T4	Out-of-scope 63 72	Amoebozoa
 N1	Reference T4 Taxonomy:554915	Amoebozoa
+T5	Out-of-scope 25 39	testate amoeba
+#1	AnnotatorNotes T5	non-taxonomic
+T6	Out-of-scope 466 480	testate amoeba
+#2	AnnotatorNotes T6	non-taxonomic
+T7	Out-of-scope 18 24	lobose
+N2	Reference T7 Taxonomy:555369	Tubulinea
+T8	Out-of-scope 459 465	lobose
+N3	Reference T8 Taxonomy:555369	Tubulinea
+T9	Out-of-scope 169 178	eukaryote
+N4	Reference T9 Taxonomy:2759	Eukaryota
+T10	Out-of-scope 361 371	eukaryotes
+N5	Reference T10 Taxonomy:2759	Eukaryota

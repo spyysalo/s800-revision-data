@@ -6,10 +6,56 @@ T1004	Order 1151 1160	Dileptida
 N1004	Reference T1004 Taxonomy:5989	
 T1005	Family 1227 1244	Dimacrocaryonidae
 N1005	Reference T1005 Taxonomy:1652551	
-T1006	Order 1279 1289	Dileptidae
-N1006	Reference T1006 Taxonomy:5989	
+T1006	Family 1279 1289	Dileptidae
 T1007	Class 1349 1361	Litostomatea
 N1007	Reference T1007 Taxonomy:5988	
 T1	Order 1109 1120	Tracheliida
 T2	Out-of-scope 125 135	Ciliophora
 N1	Reference T2 Taxonomy:5878	Ciliophora
+T3	Class 137 152	Rhynchostomatia
+T4	Class 872 880	Haptoria
+N2	Reference T4 Taxonomy:197905	Haptoria
+T5	Class 885 899	Trichostomatia
+N3	Reference T5 Taxonomy:163343	Trichostomatia
+T6	Class 1479 1493	Trichostomatia
+T7	Class 1295 1303	Haptoria
+N5	Reference T7 Taxonomy:197905	Haptoria
+N4	Reference T6 Taxonomy:163343	Trichostomatia
+T8	Class 1078 1093	Rhynchostomatia
+T9	Class 245 253	Haptoria
+N6	Reference T9 Taxonomy:197905	Haptoria
+T10	Class 822 837	Rhynchostomatia
+T11	Class 324 334	haptorians
+N7	Reference T11 Taxonomy:197905	Haptoria
+T12	Class 562 572	haptorians
+N8	Reference T12 Taxonomy:197905	Haptoria
+T13	Class 1528 1537	haptorian
+N9	Reference T13 Taxonomy:197905	Haptoria
+T14	Class 905 920	Rhynchostomatia
+T15	Genus 41 49	dileptid
+N10	Reference T15 Taxonomy:71587	Dileptus
+T16	Class 54 64	tracheliid
+N11	Reference T16 Taxonomy:5988	Litostomatea
+T17	Out-of-scope 65 73	ciliates
+N12	Reference T17 Taxonomy:5878	Ciliophora
+N13	Reference T3 Taxonomy:5988	Litostomatea
+T18	Genus 157 165	Dileptid
+N14	Reference T18 Taxonomy:71587	Dileptus
+T19	Class 170 180	tracheliid
+N16	Reference T10 Taxonomy:5988	Litostomatea
+N17	Reference T8 Taxonomy:5988	Litostomatea
+N18	Reference T14 Taxonomy:5988	Litostomatea
+T20	Genus 496 505	dileptids
+N19	Reference T20 Taxonomy:71587	Dileptus
+T21	Class 510 521	tracheliids
+N20	Reference T21 Taxonomy:5988	Litostomatea
+N15	Reference T19 Taxonomy:5988	Litostomatea
+T22	Class 779 790	tracheliids
+N21	Reference T22 Taxonomy:5988	Litostomatea
+T23	Genus 765 774	dileptids
+N22	Reference T23 Taxonomy:71587	Dileptus
+N23	Reference T1006 Taxonomy:1652550	Dileptidae
+#1	AnnotatorNotes T1004	TODO check norm
+#2	AnnotatorNotes T15	TODO check norm and type
+T24	Class 419 432	litostomatean
+N24	Reference T24 Taxonomy:5988	

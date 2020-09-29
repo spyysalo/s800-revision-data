@@ -8,3 +8,5 @@ T4	Species 106 110	Rice
 T5	Species 251 255	rice
 N5	Reference T4 Taxonomy:4530	Oryza sativa
 N4	Reference T5 Taxonomy:4530	Oryza sativa
+T6	Out-of-scope 156 161	plant
+N6	Reference T6 Taxonomy:33090	Viridiplantae

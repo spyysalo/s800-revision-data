@@ -18,3 +18,9 @@ T10	Class 253 260	insects
 N8	Reference T10 Taxonomy:50557	Insecta
 T11	Class 265 275	amphibians
 N9	Reference T11 Taxonomy:8292	Amphibia
+T12	Order 107 112	frogs
+N10	Reference T12 Taxonomy:8342	Anura
+T13	Out-of-scope 41 57	amoeboflagellate
+#1	AnnotatorNotes T13	not a taxonomical term, no norms for this
+T14	Out-of-scope 163 180	amoeboflagellates
+#2	AnnotatorNotes T14	not a taxonomical term, no norms for this

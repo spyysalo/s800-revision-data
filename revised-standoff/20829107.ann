@@ -14,9 +14,22 @@ T1005	Genus 713 725	Lepidodinium
 N1005	Reference T1005 Taxonomy:66470	
 T1006	Genus 855 867	Lepidodinium
 N1006	Reference T1006 Taxonomy:66470	
-T1007	Genus 946 957	Chlorophyta
-N1007	Reference T1007 Taxonomy:16046	
-T1008	Genus 1404 1415	Chlorophyta
-N1008	Reference T1008 Taxonomy:16046	
+T1007	Out-of-scope 946 957	Chlorophyta
+T1008	Out-of-scope 1404 1415	Chlorophyta
 T1009	Genus 1572 1584	Lepidodinium
 N1009	Reference T1009 Taxonomy:66470	
+T3	Class 30 44	dinoflagellate
+N3	Reference T3 Taxonomy:2864	Dinophyceae
+T4	Class 1101 1112	pedinophyte
+N4	Reference T4 Taxonomy:35422	Pedinophyceae
+T5	Class 1126 1135	ulvophyte
+N5	Reference T5 Taxonomy:33103	Ulvophyceae
+T6	Class 1153 1165	prasinophyte
+T7	Out-of-scope 1525 1537	chlorophytes
+N6	Reference T7 Taxonomy:3041	Chlorophyta
+T8	Class 973 986	prasinophytes
+N7	Reference T1008 Taxonomy:3041	Chlorophyta
+T9	Class 430 442	prasinophyte
+T10	Out-of-scope 76 87	chlorophyte
+N8	Reference T10 Taxonomy:3041	Chlorophyta
+N9	Reference T1007 Taxonomy:3041	Chlorophyta

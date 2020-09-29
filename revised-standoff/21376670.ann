@@ -1,2 +1,16 @@
 T1	Species 702 707	human
 N1	Reference T1 Taxonomy:9606
+T2	Out-of-scope 719 728	livestock
+#1	AnnotatorNotes T2	non-taxonomy
+T3	Out-of-scope 167 176	livestock
+#2	AnnotatorNotes T3	non-taxonomy
+T4	Out-of-scope 340 349	livestock
+#3	AnnotatorNotes T4	non-taxonomy
+T5	Out-of-scope 438 444	animal
+N2	Reference T5 Taxonomy:33208	Metazoa
+T6	Out-of-scope 560 569	livestock
+#4	AnnotatorNotes T6	non-taxonomy
+T7	Out-of-scope 591 599	wildlife
+#5	AnnotatorNotes T7	non-taxonomy
+T8	Out-of-scope 690 698	wildlife
+#6	AnnotatorNotes T8	non-taxonomy

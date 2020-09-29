@@ -2,3 +2,8 @@ T1001	Order 113 120	beetles
 N1001	Reference T1001 Taxonomy:7041	
 T1002	Order 293 300	beetles
 N1002	Reference T1002 Taxonomy:7041	
+T1	Order 564 570	beetle
+N1	Reference T1 Taxonomy:7041	Coleoptera
+#1	AnnotatorNotes T1	TODO check span
+#2	AnnotatorNotes T1001	TODO check span ("Neotropical", "dung")
+#3	AnnotatorNotes T1002	TODO check span

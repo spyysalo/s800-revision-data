@@ -16,6 +16,8 @@ T8	Species 691 706	Oryza rufipogon
 N8	Reference T8 Taxonomy:4529
 T9	Species 1258 1262	rice
 N9	Reference T9 Taxonomy:4530
-T10	Species 1392 1405	japonica rice
-N10	Reference T10 Taxonomy:4529
+T10	Strain 1392 1400	japonica
 N11	Reference T10 Taxonomy:39947	Oryza sativa Japonica Group
+#1	AnnotatorNotes T10	TODO: document
+T11	Species 1401 1405	rice
+N10	Reference T11 Taxonomy:4530	

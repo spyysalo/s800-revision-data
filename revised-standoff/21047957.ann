@@ -12,13 +12,20 @@ T7	Species 861 878	influenza A virus
 N7	Reference T7 Taxonomy:11320
 T8	Species 890 895	human
 N8	Reference T8 Taxonomy:9606
-T9	Species 1031 1061	swine-origin influenza A virus
+T9	Species 1044 1061	influenza A virus
 N9	Reference T9 Taxonomy:11320
 T10	Species 1301 1318	influenza A virus
 N10	Reference T10 Taxonomy:11320
 T3	Species 1063 1068	S-OIV
 N3	Reference T3 Taxonomy:11320	
-#2	AnnotatorNotes T6	TODO check
 T11	Strain 451 470	Duck/Hubei/L-1/2004
 T12	Strain 472 476	H5N1
 T13	Strain 1071 1075	H1N1
+T14	Class 433 438	avian
+N11	Reference T14 Taxonomy:8782	Aves
+T15	Class 900 905	avian
+N12	Reference T15 Taxonomy:8782	Aves
+T16	Strain 1127 1130	WSN
+#1	AnnotatorNotes T9	TODO: document ("XX-origine YY virus" and its acronym)
+T17	Species 1031 1036	swine
+N13	Reference T17 Taxonomy:9823	Sus scrofa

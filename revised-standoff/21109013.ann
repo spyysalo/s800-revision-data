@@ -4,3 +4,9 @@ T2	Species 426 444	Phytophthora sojae
 N2	Reference T2 Taxonomy:67593
 T3	Species 788 795	soybean
 N3	Reference T3 Taxonomy:3847
+T4	Class 402 410	oomycete
+N4	Reference T4 Taxonomy:4762	Oomycota
+T5	Out-of-scope 411 416	plant
+N5	Reference T5 Taxonomy:33090	Viridiplantae
+T6	Out-of-scope 321 331	eukaryotic
+N6	Reference T6 Taxonomy:2759	Eukaryota

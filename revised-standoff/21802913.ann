@@ -2,5 +2,8 @@ T1	Species 1152 1173	Vorticella infusionum
 N1	Reference T1 Taxonomy:1126575
 T2	Species 1178 1199	Opercularia coarctata
 T3	Species 1243 1260	Acineria uncinata
-T1001	Genus 760 767	amoebae
-N1001	Reference T1001 Taxonomy:5774	
+T4	Out-of-scope 752 767	shelled amoebae
+T5	Out-of-scope 84 89	plant
+T6	Out-of-scope 328 333	plant
+#1	AnnotatorNotes T5	non-organism
+#2	AnnotatorNotes T6	non-organism

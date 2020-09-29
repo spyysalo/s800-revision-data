@@ -8,11 +8,12 @@ T4	Species 358 376	Salvelinus alpines
 N4	Reference T4 Taxonomy:8036
 T5	Species 461 473	Arctic charr
 N5	Reference T5 Taxonomy:8036
-T6	Species 495 502	charr's
-N6	Reference T6 Taxonomy:8036
-T7	Species 528 533	charr
-N7	Reference T7 Taxonomy:8036
-T8	Species 681 686	charr
-N8	Reference T8 Taxonomy:8036
+T6	Genus 495 500	charr
+T7	Genus 528 533	charr
+T8	Genus 681 686	charr
 T9	Out-of-scope 665 670	trout
 T10	Out-of-scope 442 447	trout
+T11	Out-of-scope 34 38	fish
+N9	Reference T6 Taxonomy:8033	Salvelinus
+N6	Reference T7 Taxonomy:8033	Salvelinus
+N7	Reference T8 Taxonomy:8033	Salvelinus

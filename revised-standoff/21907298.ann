@@ -42,3 +42,9 @@ N1002	Reference T1002 Taxonomy:7136
 T20	Strain 279 288	FGSC 9935
 T21	Class 1024 1031	insects
 N19	Reference T21 Taxonomy:50557	Insecta
+T22	Out-of-scope 174 179	plant
+N20	Reference T22 Taxonomy:33090	Viridiplantae
+T23	Out-of-scope 319 325	plants
+N21	Reference T23 Taxonomy:33090	Viridiplantae
+T24	Out-of-scope 429 434	plant
+N22	Reference T24 Taxonomy:33090	Viridiplantae

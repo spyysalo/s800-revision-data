@@ -1,23 +1,16 @@
 T1	Species 236 256	Fusarium graminearum
 N1	Reference T1 Taxonomy:5518
-T2	Species 266 270	FGSC
-N2	Reference T2 Taxonomy:5518
-T3	Species 541 545	FGSC
-N3	Reference T3 Taxonomy:5518
-T4	Species 847 851	FGSC
-N4	Reference T4 Taxonomy:5518
+T2	Out-of-scope 266 270	FGSC
+T3	Out-of-scope 541 545	FGSC
+T4	Out-of-scope 847 851	FGSC
 T5	Species 861 879	Fusarium nepalense
 T6	Species 918 937	Fusarium ussurianum
-T7	Species 989 993	FGSC
-N7	Reference T7 Taxonomy:5518
+T7	Out-of-scope 989 993	FGSC
 T8	Species 995 1016	Fusarium louisianense
-N8	Reference T8 Taxonomy:5518
 T10	Species 1296 1310	F. graminearum
 N10	Reference T10 Taxonomy:5518
 T11	Species 1428 1440	F. nepalense
-N11	Reference T11 Taxonomy:5518
 T12	Species 1445 1460	F. louisianense
-N12	Reference T12 Taxonomy:5518
 T13	Species 1594 1599	wheat
 N13	Reference T13 Taxonomy:4565	Triticum aestivum
 T14	Species 938 956	Fusarium asiaticum
@@ -26,9 +19,20 @@ T16	Species 1100 1114	F. graminearum
 N16	Reference T16 Taxonomy:5518	
 N6	Reference T6 Taxonomy:1284706	Fusarium ussurianum
 N9	Reference T14 Taxonomy:282267	Fusarium asiaticum
-N5	Reference T5 Taxonomy:1571107	Fusarium nepalense
 N14	Reference T15 Taxonomy:569362	Fusarium gerlachii
 T9	Genus 6 14	Fusarium
 N15	Reference T9 Taxonomy:5506	Fusarium
 T17	Genus 326 334	Fusarium
 N17	Reference T17 Taxonomy:5506	Fusarium
+N2	Reference T2 Taxonomy:569360	Fusarium sambucinum species complex
+#1	AnnotatorNotes T2	Species complex/group
+N3	Reference T3 Taxonomy:569360	Fusarium sambucinum species complex
+#2	AnnotatorNotes T3	Species complex/group
+N4	Reference T4 Taxonomy:569360	Fusarium sambucinum species complex
+#3	AnnotatorNotes T4	Species complex/group
+N7	Reference T7 Taxonomy:569360	Fusarium sambucinum species complex
+#4	AnnotatorNotes T7	Species complex/group
+N5	Reference T5 Taxonomy:1571107	Fusarium nepalense
+N11	Reference T11 Taxonomy:1571107	Fusarium nepalense
+N8	Reference T8 Taxonomy:1571108	Fusarium louisianense
+N12	Reference T12 Taxonomy:1571108	Fusarium louisianense

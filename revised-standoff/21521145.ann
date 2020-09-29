@@ -64,3 +64,13 @@ T16	Class 330 336	insect
 N16	Reference T16 Taxonomy:50557	Insecta
 T17	Class 910 917	insects
 N17	Reference T17 Taxonomy:50557	Insecta
+T18	Genus 258 262	pine
+T19	Genus 227 230	oak
+N19	Reference T19 Taxonomy:3511	Quercus
+T20	Genus 784 787	oak
+N20	Reference T20 Taxonomy:3511	Quercus
+N18	Reference T18 Taxonomy:3337	Pinus
+T21	Genus 660 666	lsaria
+N21	Reference T21 Taxonomy:72232	Isaria
+T22	Out-of-scope 1467 1472	fungi
+N22	Reference T22 Taxonomy:4751	Fungi

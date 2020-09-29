@@ -14,4 +14,18 @@ T7	Strain 1427 1430	Xoo
 N7	Reference T7 Taxonomy:347
 T8	Genus 135 146	Arabidopsis
 N8	Reference T8 Taxonomy:3701	Arabidopsis
-T9	Strain 354 364	pv. oryzae
+T9	Strain 358 364	oryzae
+T10	Out-of-scope 248 254	plants
+N9	Reference T10 Taxonomy:33090	Viridiplantae
+T11	Out-of-scope 720 726	plants
+N10	Reference T11 Taxonomy:33090	Viridiplantae
+T12	Out-of-scope 1013 1019	plants
+N11	Reference T12 Taxonomy:33090	Viridiplantae
+T13	Out-of-scope 1151 1157	plants
+N12	Reference T13 Taxonomy:33090	Viridiplantae
+T14	Out-of-scope 1307 1313	plants
+N13	Reference T14 Taxonomy:33090	Viridiplantae
+T15	Out-of-scope 33 42	bacterial
+N14	Reference T15 Taxonomy:2	Bacteria
+T16	Out-of-scope 354 356	pv
+#1	AnnotatorNotes T16	TODO: document "pathovar"

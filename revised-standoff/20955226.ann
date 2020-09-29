@@ -2,3 +2,7 @@ T1	Species 459 479	Arabidopsis thaliana
 N1	Reference T1 Taxonomy:3702
 T2	Genus 100 111	Arabidopsis
 N2	Reference T2 Taxonomy:3701	Arabidopsis
+T3	Out-of-scope 115 120	Plant
+N3	Reference T3 Taxonomy:33090	Viridiplantae
+T4	Out-of-scope 391 396	plant
+N4	Reference T4 Taxonomy:33090	Viridiplantae

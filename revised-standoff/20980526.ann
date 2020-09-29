@@ -4,8 +4,7 @@ T2	Species 92 106	dengue viruses
 N2	Reference T2 Taxonomy:12637
 T3	Species 395 401	Dengue
 N3	Reference T3 Taxonomy:12637
-T4	Species 451 457	dengue
-N4	Reference T4 Taxonomy:12637
+T4	Out-of-scope 451 457	dengue
 T5	Species 545 551	dengue
 N5	Reference T5 Taxonomy:12637
 T6	Species 855 867	dengue virus
@@ -16,7 +15,8 @@ T8	Species 1405 1411	dengue
 N8	Reference T8 Taxonomy:12637
 T9	Species 1661 1667	dengue
 N9	Reference T9 Taxonomy:12637
-T10	Species 1691 1697	dengue
-N10	Reference T10 Taxonomy:12637
+T10	Out-of-scope 1691 1697	dengue
 T11	Species 702 708	dengue
 N11	Reference T11 Taxonomy:12637	
+#1	AnnotatorNotes T4	Disease
+#2	AnnotatorNotes T10	Disease

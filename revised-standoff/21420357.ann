@@ -16,3 +16,19 @@ T1008	Family 2143 2154	apusomonads
 N1008	Reference T1008 Taxonomy:172820	
 T1	Genus 128 138	Planomonas
 N1	Reference T1 Taxonomy:1291203	Planomonas
+T2	Out-of-scope 37 46	eukaryote
+N2	Reference T2 Taxonomy:2759	Eukaryota
+T3	Out-of-scope 262 271	eukaryote
+N3	Reference T3 Taxonomy:2759	Eukaryota
+T4	Out-of-scope 384 393	excavates
+#1	AnnotatorNotes T4	TODO check (Excavata?)
+T5	Genus 428 439	ancyromonad
+N4	Reference T5 Taxonomy:85706	Ancyromonas
+T6	Out-of-scope 1782 1791	excavates
+#2	AnnotatorNotes T6	TODO check (Excavata?)
+T7	Out-of-scope 2159 2168	excavates
+#3	AnnotatorNotes T7	TODO check (Excavata?)
+T8	Out-of-scope 2212 2222	eukaryotic
+N5	Reference T8 Taxonomy:2759	Eukaryota
+T9	Out-of-scope 2176 2186	eukaryotes
+N6	Reference T9 Taxonomy:2759	Eukaryota

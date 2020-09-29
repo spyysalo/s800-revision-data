@@ -2,3 +2,7 @@ T1	Species 74 81	tobacco
 N1	Reference T1 Taxonomy:4097
 T2	Species 455 462	tobacco
 N2	Reference T2 Taxonomy:4097
+T3	Out-of-scope 14 20	fungal
+N3	Reference T3 Taxonomy:4751	Fungi
+T4	Out-of-scope 140 145	Plant
+N4	Reference T4 Taxonomy:33090	Viridiplantae

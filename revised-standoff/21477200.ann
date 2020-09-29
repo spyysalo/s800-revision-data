@@ -32,9 +32,11 @@ T14	Order 432 444	Lepidopteran
 N14	Reference T14 Taxonomy:7088	Lepidoptera
 T15	Class 327 334	insects
 N15	Reference T15 Taxonomy:50557	Insecta
-T16	Species 885 907	nucleopolyhedroviruses
+T16	Genus 885 907	nucleopolyhedroviruses
 #1	AnnotatorNotes T16	TODO check
-T17	Species 909 913	NPVs
+T17	Genus 909 913	NPVs
 #2	AnnotatorNotes T17	TODO check
 T18	Order 84 96	lepidopteran
 N16	Reference T18 Taxonomy:7088	Lepidoptera
+T19	Family 944 952	noctuids
+N17	Reference T19 Taxonomy:7100	Noctuidae

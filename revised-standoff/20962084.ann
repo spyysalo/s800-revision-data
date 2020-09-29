@@ -45,3 +45,10 @@ T25	Strain 1961 1966	ty/04
 N11	Reference T24 Taxonomy:11320	Influenza A virus
 T11	Strain 1378 1383	ty/04
 T26	Strain 1627 1632	ty/04
+#1	AnnotatorNotes T1	TODO check: is this actually "swine influenza virus"?
+T27	Class 750 755	avian
+N22	Reference T27 Taxonomy:8782	Aves
+#2	AnnotatorNotes T24	TODO check span
+#3	AnnotatorNotes T20	TODO check span
+T28	Family 1153 1162	influenza
+N23	Reference T28 Taxonomy:11308	Orthomyxoviridae

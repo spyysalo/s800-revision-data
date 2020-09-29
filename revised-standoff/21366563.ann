@@ -10,3 +10,12 @@ T5	Out-of-scope 1614 1620	chicks
 #1	AnnotatorNotes T5	TODO revisit decision on whether and how to annotate "non-official" terms for young animals
 T1001	Class 267 274	mammals
 N1001	Reference T1001 Taxonomy:40674	
+T6	Out-of-scope 247 255	seabirds
+N5	Reference T6 Taxonomy:8782	Aves
+#2	AnnotatorNotes T6	TODO check (Aves?)
+T7	Out-of-scope 338 346	seabirds
+N6	Reference T7 Taxonomy:8782	Aves
+#3	AnnotatorNotes T7	TODO check (Aves?)
+T8	Out-of-scope 1796 1803	seabird
+N7	Reference T8 Taxonomy:8782	Aves
+#4	AnnotatorNotes T8	TODO check (Aves?)

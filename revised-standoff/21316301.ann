@@ -2,7 +2,9 @@ T1	Species 80 104	Polysphondylium pallidum
 N1	Reference T1 Taxonomy:13642
 T2	Species 167 191	Polysphondylium pallidum
 N2	Reference T2 Taxonomy:13642
-T1001	Genus 131 138	amoebae
-N1001	Reference T1001 Taxonomy:5774	
-T1002	Genus 510 517	amoebal
-N1002	Reference T1002 Taxonomy:5774	
+T1001	Out-of-scope 131 138	amoebae
+T1002	Out-of-scope 510 517	amoebal
+#1	AnnotatorNotes T1001	form
+#2	AnnotatorNotes T1002	form
+T3	Out-of-scope 155 166	slime mould
+#3	AnnotatorNotes T3	informal name given to several kinds of unrelated eukaryotic organisms

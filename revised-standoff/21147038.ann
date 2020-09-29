@@ -1,2 +1,6 @@
 T1	Species 1199 1205	humans
 N1	Reference T1 Taxonomy:9606
+T2	Out-of-scope 829 836	animals
+N2	Reference T2 Taxonomy:33208	Metazoa
+T3	Out-of-scope 1155 1161	animal
+N3	Reference T3 Taxonomy:33208	Metazoa

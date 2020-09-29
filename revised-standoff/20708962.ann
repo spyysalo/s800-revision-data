@@ -1,15 +1,12 @@
-T1001	Genus 86 93	amoebae
-N1001	Reference T1001 Taxonomy:5774	
-T1002	Genus 167 174	amoebae
-N1002	Reference T1002 Taxonomy:5774	
-T1003	Genus 699 706	amoebae
-N1003	Reference T1003 Taxonomy:5774	
-T1004	Genus 809 816	amoebae
-N1004	Reference T1004 Taxonomy:5774	
-T1005	Genus 1422 1429	amoebae
-N1005	Reference T1005 Taxonomy:5774	
-T1006	Genus 1503 1510	amoebae
-N1006	Reference T1006 Taxonomy:5774	
-T1007	Genus 1574 1583	ephemeral
-N1007	Reference T1007 Taxonomy:50582	
-N1008	Reference T1007 Taxonomy:130430	
+T1003	Out-of-scope 699 706	amoebae
+T1005	Out-of-scope 1422 1429	amoebae
+T1	Out-of-scope 78 93	testate amoebae
+#1	AnnotatorNotes T1	non-taxonomic
+T2	Out-of-scope 159 174	testate amoebae
+#2	AnnotatorNotes T2	non-taxonomic
+T3	Out-of-scope 801 816	testate amoebae
+#3	AnnotatorNotes T3	non-taxonomic
+T4	Out-of-scope 1495 1510	testate amoebae
+#4	AnnotatorNotes T4	non-taxonomic
+#5	AnnotatorNotes T1003	non-taxonomic
+#6	AnnotatorNotes T1005	non-taxonomic

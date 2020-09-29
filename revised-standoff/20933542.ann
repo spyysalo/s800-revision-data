@@ -1,6 +1,5 @@
 T1	Species 35 72	porcine endogenous retrovirus(PERV)-B
 T2	Species 166 197	Porcine endogenous retroviruses
-N2	Reference T2 Taxonomy:369960
 T3	Species 199 204	PERVs
 N3	Reference T3 Taxonomy:369960
 T4	Species 314 319	human
@@ -30,3 +29,10 @@ T15	Family 749 759	retroviral
 N15	Reference T15 Taxonomy:11632	Retroviridae
 T16	Species 902 908	murine
 N16	Reference T16 Taxonomy:10090	Mus musculus
+N2	Reference T2 Taxonomy:61673	Porcine endogenous retrovirus
+#1	AnnotatorNotes T2	TODO check norm
+#2	AnnotatorNotes T8	TODO discuss and document type and norm
+T17	Out-of-scope 456 460	PERV
+#3	AnnotatorNotes T17	TODO discuss and document abbrev as part of name of non-organism type
+T18	Out-of-scope 1243 1249	PERV-A
+#4	AnnotatorNotes T18	TODO discuss and document abbrev as part of name of non-organism type

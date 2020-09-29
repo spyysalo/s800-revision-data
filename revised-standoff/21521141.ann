@@ -16,7 +16,7 @@ T8	Family 102 111	butterfly
 N8	Reference T8 Taxonomy:37572	Papilionoidea
 T9	Family 243 252	Satyrinae
 N9	Reference T9 Taxonomy:42282	Satyrinae
-T10	Out-of-scope 254 266	Pronophilina
+T10	Family 254 266	Pronophilina
 N10	Reference T10 Taxonomy:150885	Pronophilina
 T11	Family 404 415	Bambusoidea
 N11	Reference T11 Taxonomy:147366	Bambusoideae
@@ -26,10 +26,11 @@ T13	Class 704 710	mammal
 N12	Reference T13 Taxonomy:40674	Mammalia
 T14	Genus 357 363	bamboo
 N14	Reference T14 Taxonomy:4581	Bambusa
-#1	AnnotatorNotes T10	TODO check
 T15	Out-of-scope 436 441	plant
-N15	Reference T15 Taxonomy:3193	Embryophyta
 T16	Out-of-scope 498 503	plant
-N16	Reference T16 Taxonomy:3193	Embryophyta
 T17	Out-of-scope 670 675	plant
-N17	Reference T17 Taxonomy:3193	Embryophyta
+N15	Reference T15 Taxonomy:33090	Viridiplantae
+N16	Reference T16 Taxonomy:33090	Viridiplantae
+N17	Reference T17 Taxonomy:33090	Viridiplantae
+T18	Family 93 101	satyrine
+N18	Reference T18 Taxonomy:42282	Satyrinae

@@ -22,16 +22,21 @@ T1001	Class 223 236	ichthyosporea
 N1001	Reference T1001 Taxonomy:127916	
 T1002	Class 238 252	Mesomycetozoea
 N1002	Reference T1002 Taxonomy:127916	
-T1003	Genus 886 893	amoebae
-N1003	Reference T1003 Taxonomy:5774	
-T1004	Genus 939 946	amoebae
-N1004	Reference T1004 Taxonomy:5774	
+T1003	Out-of-scope 886 893	amoebae
+T1004	Out-of-scope 939 946	amoebae
 T1005	Class 1247 1260	ichthyosporea
 N1005	Reference T1005 Taxonomy:127916	
-T11	Genus 872 881	plasmodia
-N11	Reference T11 Taxonomy:5820	Plasmodium
-#1	AnnotatorNotes T11	TODO check
-#2	AnnotatorNotes T1003	TODO check
-T12	Genus 1061 1071	plasmodial
-N12	Reference T12 Taxonomy:5820	Plasmodium
-#3	AnnotatorNotes T12	TODO check
+T11	Out-of-scope 872 881	plasmodia
+#1	AnnotatorNotes T11	form, not organism
+#2	AnnotatorNotes T1003	form, not organism
+T12	Out-of-scope 1061 1071	plasmodial
+#3	AnnotatorNotes T12	form, not organism
+T13	Class 565 580	ichthyosporeans
+N13	Reference T13 Taxonomy:127916	Ichthyosporea
+#4	AnnotatorNotes T1004	form, not organism
+T14	Out-of-scope 1049 1057	amoeboid
+#5	AnnotatorNotes T14	form, not organism
+T15	Class 1336 1350	ichthyosporean
+N11	Reference T15 Taxonomy:127916	
+T16	Out-of-scope 371 381	eukaryotes
+N12	Reference T16 Taxonomy:2759	Eukaryota

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
+import os
 
 
 DEFAULT_ENCODING = 'utf-8'
@@ -13,6 +14,8 @@ def argparser():
                     help='text encoding (default {})'.format(DEFAULT_ENCODING))
     ap.add_argument('-i', '--ignore-errors', default=False, action='store_true',
                     help='ignore format errors')
+    ap.add_argument('-p', '--include-pmid', default=False, action='store_true',
+                    help='include PMID in output')
     ap.add_argument('ann', nargs='+', help='annotation')
     return ap
 
@@ -242,7 +245,7 @@ def normalize_space(string):
     return ' '.join(string.split())
 
 
-def output(annotations, options):
+def output(fn, annotations, options):
     textbounds = [a for a in annotations if isinstance(a, Textbound)]
     textbounds.sort(key=lambda t:(t.offsets[0][0], -t.offsets[-1][1]))
     for t in textbounds:
@@ -252,7 +255,15 @@ def output(annotations, options):
             continue
         if not refs:
             refs = ['0']
-        print('{}\t{}'.format(','.join(refs), t.text))
+        # print('{}\t{}'.format(','.join(refs), t.text))
+        fields = []
+        if options.include_pmid:
+            fields.append(os.path.splitext(os.path.basename(fn))[0])
+        fields.append(','.join(refs))
+        fields.append(t.text)
+        fields.append(t.type_)
+        fields.append(';'.join(notes))
+        print('\t'.join(fields))
         #print('{}\t{}\t{}\t{}'.format(
         #    ','.join(refs), t.text, t.type_, ';'.join(notes)))
 
@@ -262,7 +273,7 @@ def main(argv):
     for fn in args.ann:
         annotations = parse_ann_file(fn, args)
         resolve_references(annotations, args)
-        output(annotations, args)
+        output(fn, annotations, args)
     return 0
 
 

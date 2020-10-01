@@ -10,7 +10,11 @@ T5	Species 1849 1862	S. coelicolor
 N5	Reference T5 Taxonomy:1902
 T6	Genus 394 406	pseudomonads
 N6	Reference T6 Taxonomy:286	Pseudomonas
-T7	Out-of-scope 278 287	bacterial
+T7	Kingdom 278 287	bacterial
 N7	Reference T7 Taxonomy:2	Bacteria
 T8	Strain 1459 1468	DeltasoxR
 N8	Reference T8 Taxonomy:562	Escherichia coli
+T9	Kingdom 438 447	bacterium
+N9	Reference T9 Taxonomy:2	Bacteria
+T10	Kingdom 185 193	bacteria
+N10	Reference T10 Taxonomy:2	Bacteria

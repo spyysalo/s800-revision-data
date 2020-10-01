@@ -42,7 +42,17 @@ T1002	Family 321 332	Potyviridae
 N1002	Reference T1002 Taxonomy:39729	
 T20	Genus 289 301	ipomoviruses
 N20	Reference T20 Taxonomy:137757	Ipomovirus
-T21	Out-of-scope 1063 1069	plants
+T21	Kingdom 1063 1069	plants
 N21	Reference T21 Taxonomy:33090	Viridiplantae
-T22	Out-of-scope 1360 1365	plant
+T22	Kingdom 1360 1365	plant
 N22	Reference T22 Taxonomy:33090	Viridiplantae
+T23	Kingdom 13 18	virus
+N23	Reference T23 Taxonomy:10239	Viruses
+T24	Kingdom 81 88	viruses
+N24	Reference T24 Taxonomy:10239	Viruses
+T25	Kingdom 582 587	virus
+N25	Reference T25 Taxonomy:10239	Viruses
+T26	Kingdom 618 625	viruses
+N26	Reference T26 Taxonomy:10239	Viruses
+T27	Kingdom 1226 1231	virus
+N27	Reference T27 Taxonomy:10239	Viruses

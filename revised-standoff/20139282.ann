@@ -1,7 +1,7 @@
-T1	Out-of-scope 67 72	yeast
-T2	Out-of-scope 283 288	yeast
-T3	Out-of-scope 645 651	yeasts
-T4	Out-of-scope 1176 1181	yeast
+T1	Phylum 67 72	yeast
+T2	Phylum 283 288	yeast
+T3	Phylum 645 651	yeasts
+T4	Phylum 1176 1181	yeast
 T5	Species 842 862	Mingxiaea variabilis
 N5	Reference T5 Taxonomy:1390526	Bulleribasidium variabile
 T6	Species 1419 1440	Mingxiaea hainanensis
@@ -46,5 +46,9 @@ T1008	Genus 942 957	Bulleribasidium
 N1008	Reference T1008 Taxonomy:189446	
 T1009	Genus 1081 1088	Bullera
 N1009	Reference T1009 Taxonomy:4970	
-T9	Out-of-scope 1204 1209	plant
+T9	Kingdom 1204 1209	plant
 N9	Reference T9 Taxonomy:33090	Viridiplantae
+T23	Phylum 51 66	basidiomycetous
+N11	Reference T23 Taxonomy:5204	Basidiomycota
+T24	Phylum 267 282	basidiomycetous
+N12	Reference T24 Taxonomy:5204	Basidiomycota

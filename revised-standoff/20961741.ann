@@ -28,9 +28,9 @@ T7	Genus 841 854	Foissneridium
 #2	AnnotatorNotes T7	TODO check
 T8	Genus 1159 1171	Paratontonia
 #3	AnnotatorNotes T8	TODO check
-T9	Out-of-scope 62 72	Ciliophora
+T9	Phylum 62 72	Ciliophora
 N2	Reference T9 Taxonomy:5878	Ciliophora
-T10	Out-of-scope 52 60	ciliates
+T10	Phylum 52 60	ciliates
 N3	Reference T10 Taxonomy:5878	Ciliophora
 T11	Class 87 100	Oligotrichida
 N4	Reference T11 Taxonomy:211030	Oligotrichia
@@ -38,5 +38,5 @@ T12	Class 39 51	oligotrichid
 N5	Reference T12 Taxonomy:211030	Oligotrichia
 T13	Class 499 511	oligotrichid
 N6	Reference T13 Taxonomy:211030	Oligotrichia
-T14	Out-of-scope 512 520	ciliates
+T14	Phylum 512 520	ciliates
 N7	Reference T14 Taxonomy:5878	Ciliophora

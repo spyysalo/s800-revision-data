@@ -4,9 +4,17 @@ T2	Species 200 221	Aspergillus fumigatus
 N2	Reference T2 Taxonomy:746128
 T3	Species 600 612	A. fumigatus
 N3	Reference T3 Taxonomy:746128
-T4	Out-of-scope 34 39	plant
+T4	Kingdom 34 39	plant
 N4	Reference T4 Taxonomy:33090	Viridiplantae
-T5	Out-of-scope 168 173	plant
+T5	Kingdom 168 173	plant
 N5	Reference T5 Taxonomy:33090	Viridiplantae
-T6	Out-of-scope 529 534	plant
+T6	Kingdom 529 534	plant
 N6	Reference T6 Taxonomy:33090	Viridiplantae
+T7	Kingdom 27 33	fungal
+N7	Reference T7 Taxonomy:4751	Fungi
+T8	Kingdom 161 167	fungal
+N8	Reference T8 Taxonomy:4751	Fungi
+T9	Kingdom 522 528	fungal
+N9	Reference T9 Taxonomy:4751	Fungi
+T10	Kingdom 811 817	fungal
+N10	Reference T10 Taxonomy:4751	Fungi

@@ -1,13 +1,13 @@
-T1	Out-of-scope 0 5	Yeast
+T1	Phylum 0 5	Yeast
 T2	Species 44 47	HIV
 N2	Reference T2 Taxonomy:12721
 T3	Species 500 524	Saccharomyces cerevisiae
 N3	Reference T3 Taxonomy:4932
 T4	Species 615 622	rabbits
 N4	Reference T4 Taxonomy:9986
-T5	Out-of-scope 629 634	yeast
-T6	Out-of-scope 870 875	yeast
-T7	Out-of-scope 1443 1448	yeast
+T5	Phylum 629 634	yeast
+T6	Phylum 870 875	yeast
+T7	Phylum 1443 1448	yeast
 N1	Reference T1 Taxonomy:147537	Saccharomycotina
 N5	Reference T5 Taxonomy:147537	Saccharomycotina
 N6	Reference T6 Taxonomy:147537	Saccharomycotina
@@ -18,3 +18,9 @@ T9	Species 151 154	HIV
 N9	Reference T9 Taxonomy:12721	
 T10	Species 372 375	HIV
 N10	Reference T10 Taxonomy:12721	
+T11	Kingdom 715 720	virus
+N11	Reference T11 Taxonomy:10239	Viruses
+T12	Kingdom 1353 1360	viruses
+N12	Reference T12 Taxonomy:10239	Viruses
+T13	Kingdom 1820 1825	virus
+N13	Reference T13 Taxonomy:10239	Viruses

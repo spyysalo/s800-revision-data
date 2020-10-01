@@ -23,10 +23,10 @@ N11	Reference T11 Taxonomy:36668	Formicidae
 T12	Order 865 872	spiders
 N12	Reference T12 Taxonomy:6893	
 T13	Class 833 839	insect
-N13	Reference T13 Taxonomy:50557	Insecta
-T14	Out-of-scope 1615 1624	arthropod
+T14	Phylum 1615 1624	arthropod
 N14	Reference T14 Taxonomy:6656	Arthropoda
-T15	Out-of-scope 923 933	arthropods
+T15	Phylum 923 933	arthropods
 N15	Reference T15 Taxonomy:6656	Arthropoda
-T16	Out-of-scope 1576 1581	plant
+T16	Kingdom 1576 1581	plant
 N16	Reference T16 Taxonomy:33090	Viridiplantae
+N13	Reference T13 Taxonomy:50557	Insecta

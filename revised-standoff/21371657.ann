@@ -1,2 +1,6 @@
-T1	Out-of-scope 390 400	eukaryotic
+T1	Kingdom 390 400	eukaryotic
 N1	Reference T1 Taxonomy:2759	Eukaryota
+T2	Kingdom 367 374	viruses
+N2	Reference T2 Taxonomy:10239	Viruses
+T3	Kingdom 376 384	bacteria
+N3	Reference T3 Taxonomy:2	Bacteria

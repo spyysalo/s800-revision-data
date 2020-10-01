@@ -2,7 +2,7 @@ T1	Species 31 53	Candida guilliermondii
 N1	Reference T1 Taxonomy:4929
 T2	Species 57 79	Candida guilliermondii
 N2	Reference T2 Taxonomy:4929
-T3	Out-of-scope 169 174	yeast
+T3	Phylum 169 174	yeast
 T4	Species 455 472	C. guilliermondii
 N4	Reference T4 Taxonomy:4929
 T5	Species 627 644	C. guilliermondii
@@ -15,6 +15,8 @@ T8	Species 1274 1291	C. guilliermondii
 N8	Reference T8 Taxonomy:4929
 T9	Species 1401 1418	C. guilliermondii
 N9	Reference T9 Taxonomy:4929
-T10	Out-of-scope 1567 1572	yeast
+T10	Phylum 1567 1572	yeast
 N3	Reference T3 Taxonomy:147537	Saccharomycotina
 N10	Reference T10 Taxonomy:147537	Saccharomycotina
+T11	Kingdom 95 101	fungal
+N11	Reference T11 Taxonomy:4751	Fungi

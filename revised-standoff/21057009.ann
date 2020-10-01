@@ -7,5 +7,13 @@ N2	Reference T3 Taxonomy:382	Sinorhizobium meliloti
 N3	Reference T2 Taxonomy:382	Sinorhizobium meliloti
 N4	Reference T4 Taxonomy:382	Sinorhizobium meliloti
 T5	Out-of-scope 1280 1290	planktonic
-T6	Out-of-scope 506 511	plant
+T6	Kingdom 506 511	plant
 N5	Reference T6 Taxonomy:33090	Viridiplantae
+T7	Kingdom 1347 1356	bacterial
+N6	Reference T7 Taxonomy:2	Bacteria
+T8	Kingdom 1459 1468	bacterial
+N7	Reference T8 Taxonomy:2	Bacteria
+T9	Kingdom 1677 1686	bacterial
+N8	Reference T9 Taxonomy:2	Bacteria
+T10	Kingdom 245 254	bacterium
+N9	Reference T10 Taxonomy:2	Bacteria

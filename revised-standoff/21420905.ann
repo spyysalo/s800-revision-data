@@ -28,7 +28,7 @@ T5	Order 156 171	trypanosomatids
 N5	Reference T5 Taxonomy:2704949	Trypanosomatida
 T6	Order 67 82	trypanosomatids
 N6	Reference T6 Taxonomy:2704949	Trypanosomatida
-T7	Out-of-scope 179 194	proteobacterial
+T7	Phylum 179 194	proteobacterial
 N7	Reference T7 Taxonomy:1224	Proteobacteria
 T8	Order 357 372	trypanosomatids
 N8	Reference T8 Taxonomy:2704949	Trypanosomatida
@@ -36,3 +36,7 @@ T9	Out-of-scope 1218 1229	kinetoplast
 T10	Order 1559 1574	trypanosomatids
 N9	Reference T10 Taxonomy:2704949	Trypanosomatida
 #1	AnnotatorNotes T9	network of circular DNA
+T11	Kingdom 93 102	bacterial
+N10	Reference T11 Taxonomy:2	Bacteria
+T12	Kingdom 383 392	bacterial
+N11	Reference T12 Taxonomy:2	Bacteria

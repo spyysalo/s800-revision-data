@@ -1,2 +1,6 @@
 T1	Out-of-scope 38 48	vertebrate
 N1	Reference T1 Taxonomy:7742	Vertebrata
+T2	Kingdom 1260 1267	animals
+N2	Reference T2 Taxonomy:33208	Metazoa
+T3	Kingdom 1405 1411	animal
+N3	Reference T3 Taxonomy:33208	Metazoa

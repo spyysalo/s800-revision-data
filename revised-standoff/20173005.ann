@@ -26,7 +26,7 @@ T18	Strain 1512 1521	DSM 21436
 N18	Reference T18 Taxonomy:545537
 T19	Strain 1526 1535	JCM 16107
 N19	Reference T19 Taxonomy:545537
-T20	Out-of-scope 546 551	yeast
+T20	Phylum 546 551	yeast
 N20	Reference T20 Taxonomy:147537	Saccharomycotina
 T6	Strain 1071 1080	DSM 18155
 T8	Strain 1112 1121	DSM 18570
@@ -36,3 +36,5 @@ N2	Reference T2 Taxonomy:28216	Betaproteobacteria
 N5	Reference T5 Taxonomy:28216	Betaproteobacteria
 T21	Genus 1413 1422	Thiomonas
 N6	Reference T21 Taxonomy:32012	Thiomonas
+T22	Kingdom 178 187	bacterium
+N8	Reference T22 Taxonomy:2	Bacteria

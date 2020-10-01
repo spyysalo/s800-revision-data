@@ -10,5 +10,11 @@ T1003	Genus 596 607	Arabidopsis
 N1003	Reference T1003 Taxonomy:3701	
 T1004	Genus 1506 1517	Arabidopsis
 N1004	Reference T1004 Taxonomy:3701	
-T1	Out-of-scope 102 107	Plant
+T1	Kingdom 102 107	Plant
 N1	Reference T1 Taxonomy:33090	Viridiplantae
+T3	Kingdom 108 115	viruses
+N3	Reference T3 Taxonomy:10239	Viruses
+T4	Kingdom 273 278	viral
+N4	Reference T4 Taxonomy:10239	Viruses
+T6	Kingdom 502 507	viral
+N6	Reference T6 Taxonomy:10239	Viruses

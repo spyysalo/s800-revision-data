@@ -38,5 +38,9 @@ T14	Out-of-scope 1049 1057	amoeboid
 #5	AnnotatorNotes T14	form, not organism
 T15	Class 1336 1350	ichthyosporean
 N11	Reference T15 Taxonomy:127916	
-T16	Out-of-scope 371 381	eukaryotes
+T16	Kingdom 371 381	eukaryotes
 N12	Reference T16 Taxonomy:2759	Eukaryota
+T17	Out-of-scope 203 214	Opisthokont
+N14	Reference T17 Taxonomy:33154	Opisthokonta
+T18	Out-of-scope 290 302	opisthokonts
+N15	Reference T18 Taxonomy:33154	Opisthokonta

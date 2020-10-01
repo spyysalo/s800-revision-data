@@ -14,7 +14,9 @@ T7	Species 1019 1030	C. albicans
 N7	Reference T7 Taxonomy:5476
 T8	Species 1346 1357	C. albicans
 N8	Reference T8 Taxonomy:5476
-T9	Out-of-scope 98 104	fungal
+T9	Kingdom 98 104	fungal
 N9	Reference T9 Taxonomy:4751	Fungi
-T10	Out-of-scope 256 262	fungal
+T10	Kingdom 256 262	fungal
 N10	Reference T10 Taxonomy:4751	Fungi
+T11	Kingdom 655 662	animals
+N11	Reference T11 Taxonomy:33208	Metazoa

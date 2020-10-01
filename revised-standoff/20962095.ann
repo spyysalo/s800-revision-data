@@ -6,13 +6,13 @@ T3	Species 498 522	Saccharomyces cerevisiae
 N3	Reference T3 Taxonomy:4932
 T4	Species 823 827	TBSV
 N4	Reference T4 Taxonomy:12145
-T5	Out-of-scope 835 840	yeast
-T6	Out-of-scope 880 885	yeast
+T5	Phylum 835 840	yeast
+T6	Phylum 880 885	yeast
 T7	Species 908 912	TBSV
 N7	Reference T7 Taxonomy:12145
 T8	Species 940 944	TBSV
 N8	Reference T8 Taxonomy:12145
-T9	Out-of-scope 1007 1012	yeast
+T9	Phylum 1007 1012	yeast
 T10	Species 1054 1075	Nicotiana benthamiana
 N10	Reference T10 Taxonomy:4100
 T11	Species 1124 1128	TBSV
@@ -22,5 +22,15 @@ N12	Reference T12 Taxonomy:12145
 N5	Reference T5 Taxonomy:147537	Saccharomycotina
 N6	Reference T6 Taxonomy:147537	Saccharomycotina
 N9	Reference T9 Taxonomy:147537	Saccharomycotina
-T13	Out-of-scope 1153 1159	plants
+T13	Kingdom 1153 1159	plants
 N13	Reference T13 Taxonomy:33090	Viridiplantae
+T14	Kingdom 21 26	viral
+N14	Reference T14 Taxonomy:10239	Viruses
+T15	Kingdom 148 153	viral
+N15	Reference T15 Taxonomy:10239	Viruses
+T16	Kingdom 214 219	viral
+N16	Reference T16 Taxonomy:10239	Viruses
+T17	Kingdom 250 255	viral
+N17	Reference T17 Taxonomy:10239	Viruses
+T18	Kingdom 1289 1294	viral
+N18	Reference T18 Taxonomy:10239	Viruses

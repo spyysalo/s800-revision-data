@@ -5,7 +5,8 @@ T2	Out-of-scope 740 747	conifer
 N2	Reference T2 Taxonomy:3312	Coniferophyta
 T3	Family 1058 1075	Cheirolepidiaceae
 N3	Reference T3 Taxonomy:29632	Cheiropleuriaceae
-T4	Out-of-scope 174 182	ciliates
+T4	Phylum 174 182	ciliates
 T5	Out-of-scope 184 195	flagellates
-T6	Out-of-scope 947 952	plant
+T6	Kingdom 947 952	plant
 N4	Reference T6 Taxonomy:33090	Viridiplantae
+N5	Reference T4 Taxonomy:5878	Ciliophora

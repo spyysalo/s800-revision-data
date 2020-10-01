@@ -2,7 +2,7 @@ T1	Species 26 49	Cryptococcus neoformans
 N1	Reference T1 Taxonomy:5207
 T2	Species 104 127	Cryptococcus neoformans
 N2	Reference T2 Taxonomy:5207
-T3	Out-of-scope 188 193	yeast
+T3	Phylum 188 193	yeast
 T4	Species 284 297	C. neoformans
 N4	Reference T4 Taxonomy:5207
 T5	Species 700 713	C. neoformans
@@ -16,5 +16,5 @@ N8	Reference T8 Taxonomy:5207
 T9	Species 1377 1390	C. neoformans
 N9	Reference T9 Taxonomy:5207	Cryptococcus neoformans
 N3	Reference T3 Taxonomy:147537	Saccharomycotina
-T10	Out-of-scope 147 160	basidiomycete
+T10	Phylum 147 160	basidiomycete
 N10	Reference T10 Taxonomy:5204	Basidiomycota

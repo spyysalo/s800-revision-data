@@ -42,5 +42,7 @@ T1001	Genus 327 339	Cochliobolus
 T1002	Genus 2035 2047	Cochliobolus
 N21	Reference T1001 Taxonomy:33194	Bipolaris
 N22	Reference T1002 Taxonomy:33194	Bipolaris
-T21	Out-of-scope 81 86	fungi
+T21	Kingdom 81 86	fungi
 N23	Reference T21 Taxonomy:4751	Fungi
+T22	Phylum 224 235	ascomycetes
+N24	Reference T22 Taxonomy:4890	Ascomycota

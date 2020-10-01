@@ -42,9 +42,19 @@ N1002	Reference T1002 Taxonomy:7136
 T20	Strain 279 288	FGSC 9935
 T21	Class 1024 1031	insects
 N19	Reference T21 Taxonomy:50557	Insecta
-T22	Out-of-scope 174 179	plant
+T22	Kingdom 174 179	plant
 N20	Reference T22 Taxonomy:33090	Viridiplantae
-T23	Out-of-scope 319 325	plants
+T23	Kingdom 319 325	plants
 N21	Reference T23 Taxonomy:33090	Viridiplantae
-T24	Out-of-scope 429 434	plant
+T24	Kingdom 429 434	plant
 N22	Reference T24 Taxonomy:33090	Viridiplantae
+T25	Kingdom 409 415	fungal
+N23	Reference T25 Taxonomy:4751	Fungi
+T26	Kingdom 1039 1045	fungus
+N24	Reference T26 Taxonomy:4751	Fungi
+T27	Kingdom 1047 1053	Fungal
+N25	Reference T27 Taxonomy:4751	Fungi
+T28	Kingdom 439 445	animal
+N26	Reference T28 Taxonomy:33208	Metazoa
+T29	Kingdom 1345 1351	animal
+N27	Reference T29 Taxonomy:33208	Metazoa

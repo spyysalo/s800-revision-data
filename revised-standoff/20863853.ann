@@ -16,7 +16,7 @@ N7	Reference T11 Taxonomy:10508	Adenoviridae
 N3	Reference T3 Taxonomy:10515	Human adenovirus 2
 N8	Reference T5 Taxonomy:10524	Human adenovirus 41
 T12	Strain 396 401	Mad-4
-T13	Out-of-scope 859 864	viral
+T13	Kingdom 859 864	viral
 N10	Reference T13 Taxonomy:10239	Viruses
 N9	Reference T1 Taxonomy:10508	Adenoviridae
 N1	Reference T6 Taxonomy:10508	Adenoviridae
@@ -27,3 +27,11 @@ T15	Species 122 127	Human
 N12	Reference T15 Taxonomy:9606	Homo sapiens
 T16	Species 981 986	human
 N13	Reference T16 Taxonomy:9606	Homo sapiens
+T17	Kingdom 680 687	viruses
+N14	Reference T17 Taxonomy:10239	Viruses
+T18	Kingdom 744 751	viruses
+N15	Reference T18 Taxonomy:10239	Viruses
+T19	Kingdom 1191 1198	viruses
+N16	Reference T19 Taxonomy:10239	Viruses
+T20	Kingdom 1408 1415	viruses
+N17	Reference T20 Taxonomy:10239	Viruses

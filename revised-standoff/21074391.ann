@@ -1,8 +1,8 @@
 T1	Species 653 658	human
 N1	Reference T1 Taxonomy:9606
-T2	Out-of-scope 412 419	Lobosea
+T2	Phylum 412 419	Lobosea
 N2	Reference T2 Taxonomy:555369	Tubulinea
-T3	Out-of-scope 423 430	Filosea
+T3	Phylum 423 430	Filosea
 #1	AnnotatorNotes T3	TODO check
 T4	Out-of-scope 44 59	testate amoebae
 #2	AnnotatorNotes T4	non-taxonomic
@@ -18,3 +18,5 @@ T9	Out-of-scope 701 716	testate amoebae
 #7	AnnotatorNotes T9	non-taxonomic
 T10	Out-of-scope 856 871	testate amoebae
 #8	AnnotatorNotes T10	non-taxonomic
+T11	Out-of-scope 474 480	lobose
+#9	AnnotatorNotes T11	form

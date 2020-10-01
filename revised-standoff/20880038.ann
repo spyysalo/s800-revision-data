@@ -1,10 +1,12 @@
-T1	Out-of-scope 61 66	fungi
+T1	Kingdom 61 66	fungi
 N1	Reference T1 Taxonomy:4751	Fungi
-T2	Out-of-scope 232 237	fungi
+T2	Kingdom 232 237	fungi
 N2	Reference T2 Taxonomy:4751	Fungi
-T3	Out-of-scope 948 954	fungal
+T3	Kingdom 948 954	fungal
 N3	Reference T3 Taxonomy:4751	Fungi
-T4	Out-of-scope 899 904	plant
+T4	Kingdom 899 904	plant
 N4	Reference T4 Taxonomy:33090	Viridiplantae
-T5	Out-of-scope 1109 1114	plant
+T5	Kingdom 1109 1114	plant
 N5	Reference T5 Taxonomy:33090	Viridiplantae
+T6	Out-of-scope 239 242	AMF
+#1	AnnotatorNotes T6	TODO check: abbref head is "fungi"

@@ -13,5 +13,11 @@ T4	Genus 1353 1360	truffle
 N4	Reference T4 Taxonomy:36048	
 T5	Genus 1315 1320	Tuber
 N5	Reference T5 Taxonomy:36048	Tuber
-T6	Out-of-scope 61 71	ascomycete
+T6	Phylum 61 71	ascomycete
 N6	Reference T6 Taxonomy:4890	Ascomycota
+T8	Kingdom 261 267	fungus
+N7	Reference T8 Taxonomy:4751	Fungi
+T9	Kingdom 577 583	fungus
+N8	Reference T9 Taxonomy:4751	Fungi
+T10	Kingdom 1227 1233	fungal
+N9	Reference T10 Taxonomy:4751	Fungi

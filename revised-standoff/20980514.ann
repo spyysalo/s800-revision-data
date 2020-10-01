@@ -2,9 +2,12 @@ T1	Species 20 31	Lassa virus
 N1	Reference T1 Taxonomy:11620
 T2	Species 302 313	Lassa virus
 N2	Reference T2 Taxonomy:11620
-T3	Species 620 634	Lassa virus AV
+T3	Species 620 631	Lassa virus
 N3	Reference T3 Taxonomy:11620
 T4	Species 1439 1450	Lassa virus
 N4	Reference T4 Taxonomy:11620
 T5	Genus 69 81	arenaviruses
 N5	Reference T5 Taxonomy:11618	Arenavirus
+T6	Kingdom 106 111	viral
+N6	Reference T6 Taxonomy:10239	Viruses
+T7	Strain 632 634	AV

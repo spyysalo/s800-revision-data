@@ -1,6 +1,14 @@
 T1	Species 1771 1791	Aspergillus nidulans
 N1	Reference T1 Taxonomy:162425
-T2	Out-of-scope 185 191	fungal
+T2	Kingdom 185 191	fungal
 T1001	Genus 750 761	Aspergillus
 N1001	Reference T1001 Taxonomy:5052	
 N2	Reference T2 Taxonomy:4751	Fungi
+T3	Kingdom 0 6	Fungal
+N3	Reference T3 Taxonomy:4751	Fungi
+T4	Kingdom 89 94	fungi
+N4	Reference T4 Taxonomy:4751	Fungi
+T5	Kingdom 301 306	fungi
+N5	Reference T5 Taxonomy:4751	Fungi
+T6	Kingdom 719 724	fungi
+N6	Reference T6 Taxonomy:4751	Fungi

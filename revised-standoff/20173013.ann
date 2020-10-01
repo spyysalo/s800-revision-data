@@ -4,7 +4,7 @@ T2	Species 219 225	tomato
 N2	Reference T2 Taxonomy:4081
 T3	Species 380 386	potato
 N3	Reference T3 Taxonomy:4113
-T4	Out-of-scope 405 410	yeast
+T4	Phylum 405 410	yeast
 T5	Species 785 801	Escherichia coli
 N5	Reference T5 Taxonomy:562
 T6	Species 803 825	Pseudomonas aeruginosa
@@ -48,7 +48,9 @@ T1002	Genus 1405 1417	Streptomyces
 N1002	Reference T1002 Taxonomy:1883	
 T1003	Genus 1625 1637	Streptomyces
 N1003	Reference T1003 Taxonomy:1883	
-T28	Out-of-scope 118 124	plants
+T28	Kingdom 118 124	plants
 N18	Reference T28 Taxonomy:33090	Viridiplantae
-T29	Out-of-scope 226 232	plants
+T29	Kingdom 226 232	plants
 N19	Reference T29 Taxonomy:33090	Viridiplantae
+T30	Class 136 148	actinomycete
+N20	Reference T30 Taxonomy:1760	Actinobacteria

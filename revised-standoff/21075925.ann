@@ -2,5 +2,11 @@ T1	Species 88 113	Methanococcus maripaludis
 N1	Reference T1 Taxonomy:39152
 T2	Species 157 182	Methanococcus maripaludis
 N2	Reference T2 Taxonomy:39152
-T3	Out-of-scope 79 87	archaeon
+T3	Kingdom 79 87	archaeon
 N3	Reference T3 Taxonomy:2157	Archaea
+T4	Kingdom 148 156	archaeon
+N4	Reference T4 Taxonomy:2157	Archaea
+T5	Kingdom 205 214	bacterial
+N5	Reference T5 Taxonomy:2	Bacteria
+T6	Kingdom 648 657	bacterial
+N6	Reference T6 Taxonomy:2	Bacteria

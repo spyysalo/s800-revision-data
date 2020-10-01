@@ -1,7 +1,10 @@
 T1	Species 674 697	Helicostomella subulata
 N1	Reference T1 Taxonomy:1169006	Helicostomella subulata
-T2	Order 67 85	tintinnid ciliates
+T2	Order 67 76	tintinnid
 N2	Reference T2 Taxonomy:200604	Tintinnida
 T3	Order 128 137	tintinnid
 N3	Reference T3 Taxonomy:200604	Tintinnida
-#1	AnnotatorNotes T2	TODO: check span (two mentions?)
+T4	Phylum 77 85	ciliates
+N4	Reference T4 Taxonomy:5878	Ciliophora
+T5	Phylum 766 773	ciliate
+N5	Reference T5 Taxonomy:5878	Ciliophora

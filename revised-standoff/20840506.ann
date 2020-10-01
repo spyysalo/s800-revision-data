@@ -4,9 +4,9 @@ T2	Species 155 159	rice
 N2	Reference T2 Taxonomy:4530
 T3	Species 161 173	Oryza sativa
 N3	Reference T3 Taxonomy:4530
-T5	Out-of-scope 852 857	yeast
-T6	Out-of-scope 912 917	yeast
-T7	Out-of-scope 1047 1052	yeast
+T5	Phylum 852 857	yeast
+T6	Phylum 912 917	yeast
+T7	Phylum 1047 1052	yeast
 T8	Species 1184 1188	rice
 N8	Reference T8 Taxonomy:4530
 T9	Species 1493 1497	rice
@@ -15,7 +15,7 @@ N5	Reference T5 Taxonomy:147537	Saccharomycotina
 N6	Reference T6 Taxonomy:147537	Saccharomycotina
 N7	Reference T7 Taxonomy:147537	Saccharomycotina
 T4	Strain 175 189	cv Cho-Ko-Koku
-T10	Out-of-scope 841 847	plants
+T10	Kingdom 841 847	plants
 N4	Reference T10 Taxonomy:33090	Viridiplantae
-T11	Out-of-scope 1189 1195	plants
+T11	Kingdom 1189 1195	plants
 N10	Reference T11 Taxonomy:33090	Viridiplantae

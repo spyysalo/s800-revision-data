@@ -9,11 +9,19 @@ T5	Strain 213 218	FZB42
 T6	Strain 492 497	FZB42
 T7	Out-of-scope 628 633	bears
 #1	AnnotatorNotes T7	verb
-T8	Out-of-scope 722 744	Gram-positive bacteria
+T8	Out-of-scope 722 735	Gram-positive
 #2	AnnotatorNotes T8	TODO confirm OOS
-T9	Out-of-scope 296 301	plant
+T9	Kingdom 296 301	plant
 N4	Reference T9 Taxonomy:33090	Viridiplantae
-T10	Out-of-scope 402 407	plant
+T10	Kingdom 402 407	plant
 N5	Reference T10 Taxonomy:33090	Viridiplantae
-T11	Out-of-scope 995 1001	plants
+T11	Kingdom 995 1001	plants
 N6	Reference T11 Taxonomy:33090	Viridiplantae
+T12	Kingdom 395 401	fungal
+N7	Reference T12 Taxonomy:4751	Fungi
+T13	Kingdom 736 744	bacteria
+N8	Reference T13 Taxonomy:2	Bacteria
+T14	Kingdom 381 390	bacterial
+N9	Reference T14 Taxonomy:2	Bacteria
+T15	Kingdom 241 250	bacterium
+N10	Reference T15 Taxonomy:2	Bacteria

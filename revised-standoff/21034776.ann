@@ -8,5 +8,11 @@ T4	Species 439 444	HIV-1
 N4	Reference T4 Taxonomy:11676
 T5	Species 809 812	HIV
 N5	Reference T5 Taxonomy:12721
-T6	Out-of-scope 41 60	pseudotyped viruses
-T7	Out-of-scope 514 533	pseudotyped viruses
+T6	Out-of-scope 41 52	pseudotyped
+T7	Out-of-scope 514 525	pseudotyped
+T8	Kingdom 53 60	viruses
+N6	Reference T8 Taxonomy:10239	Viruses
+T9	Kingdom 526 533	viruses
+N7	Reference T9 Taxonomy:10239	Viruses
+T10	Kingdom 763 768	viral
+N8	Reference T10 Taxonomy:10239	Viruses

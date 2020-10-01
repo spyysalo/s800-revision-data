@@ -4,7 +4,7 @@ T2	Species 876 889	D. papillatum
 N2	Reference T2 Taxonomy:91734
 T1001	Genus 47 56	Diplonema
 N1001	Reference T1001 Taxonomy:91373	
-T3	Out-of-scope 78 89	euglenozoan
+T3	Phylum 78 89	euglenozoan
 N3	Reference T3 Taxonomy:33682	Euglenozoa
 T4	Class 64 77	kinetoplastid
 N4	Reference T4 Taxonomy:5653	Kinetoplastea
@@ -18,7 +18,7 @@ T7	Class 350 363	kinetoplastid
 N7	Reference T7 Taxonomy:5653	Kinetoplastea
 T9	Class 822 836	kinetoplastids
 N9	Reference T9 Taxonomy:5653	Kinetoplastea
-T10	Out-of-scope 942 952	Euglenozoa
+T10	Phylum 942 952	Euglenozoa
 N10	Reference T10 Taxonomy:33682	Euglenozoa
 T11	Class 897 907	euglenoids
 N11	Reference T11 Taxonomy:3035	Euglenida
@@ -26,5 +26,5 @@ T12	Order 1115 1126	diplonemids
 N12	Reference T12 Taxonomy:191814	Diplonemea
 T13	Class 1131 1145	kinetoplastids
 N13	Reference T13 Taxonomy:5653	Kinetoplastea
-T14	Out-of-scope 1230 1241	euglenozoan
+T14	Phylum 1230 1241	euglenozoan
 N14	Reference T14 Taxonomy:33682	Euglenozoa

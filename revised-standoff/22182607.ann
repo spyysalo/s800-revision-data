@@ -38,5 +38,7 @@ T19	Out-of-scope 597 602	flora
 #1	AnnotatorNotes T19	TODO confirm OOS
 T20	Out-of-scope 1310 1315	flora
 #2	AnnotatorNotes T20	TODO confirm OOS
-T21	Out-of-scope 358 363	plant
+T21	Kingdom 358 363	plant
 N19	Reference T21 Taxonomy:33090	Viridiplantae
+T22	Kingdom 1200 1208	bacteria
+N20	Reference T22 Taxonomy:2	Bacteria

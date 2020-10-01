@@ -65,13 +65,13 @@ T8	Genus 316 323	Agitata
 #1	AnnotatorNotes T8	TODO check
 T9	Order 790 799	Tremulida
 #2	AnnotatorNotes T9	TODO check
-T10	Out-of-scope 76 84	cercozoa
+T10	Phylum 76 84	cercozoa
 N7	Reference T10 Taxonomy:136419	Cercozoa
-T11	Out-of-scope 202 210	Cercozoa
+T11	Phylum 202 210	Cercozoa
 N8	Reference T11 Taxonomy:136419	Cercozoa
-T12	Out-of-scope 421 429	Cercozoa
+T12	Phylum 421 429	Cercozoa
 N9	Reference T12 Taxonomy:136419	Cercozoa
-T13	Out-of-scope 748 756	Cercozoa
+T13	Phylum 748 756	Cercozoa
 N10	Reference T13 Taxonomy:136419	Cercozoa
 T14	Family 1692 1699	Ebriida
 N11	Reference T14 Taxonomy:361424	Ebriacea
@@ -83,13 +83,14 @@ T17	Class 1373 1383	Phaeodaria
 N14	Reference T17 Taxonomy:238777	Phaeodarea
 T18	Genus 1203 1214	Clautriavia
 N15	Reference T18 Taxonomy:2421310	Clautriavia
-T19	Out-of-scope 1303 1313	Imbricatea
+T19	Phylum 1303 1313	Imbricatea
 N16	Reference T19 Taxonomy:1736114	Imbricatea
-T20	Out-of-scope 1402 1412	Imbricatea
+T20	Phylum 1402 1412	Imbricatea
 N17	Reference T20 Taxonomy:1736114	Imbricatea
-T21	Out-of-scope 460 466	Filosa
-#3	AnnotatorNotes T21	subphylum
-T22	Out-of-scope 781 788	filosan
-#4	AnnotatorNotes T22	subphylum
-T23	Out-of-scope 836 845	eukaryote
+T21	Phylum 460 466	Filosa
+#3	AnnotatorNotes T21	TODO: check
+T22	Phylum 781 788	filosan
+#4	AnnotatorNotes T22	TODO: check
+T23	Kingdom 836 845	eukaryote
 N18	Reference T23 Taxonomy:2759	Eukaryota
+T24	Phylum 194 201	filosan

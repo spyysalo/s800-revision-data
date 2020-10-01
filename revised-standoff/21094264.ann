@@ -2,15 +2,21 @@ T1	Species 147 165	Tuber melanosporum
 N1	Reference T1 Taxonomy:39416
 T2	Species 453 471	Tuber melanosporum
 N2	Reference T2 Taxonomy:39416
-T3	Out-of-scope 886 891	yeast
-T4	Out-of-scope 1174 1179	yeast
+T3	Phylum 886 891	yeast
+T4	Phylum 1174 1179	yeast
 N3	Reference T3 Taxonomy:147537	Saccharomycotina
 N4	Reference T4 Taxonomy:147537	Saccharomycotina
-T5	Out-of-scope 597 607	ascomycete
+T5	Phylum 597 607	ascomycete
 N5	Reference T5 Taxonomy:4890	Ascomycota
-T6	Out-of-scope 992 1003	ascomycetes
+T6	Phylum 992 1003	ascomycetes
 N6	Reference T6 Taxonomy:4890	Ascomycota
-T7	Out-of-scope 246 252	plants
+T7	Kingdom 246 252	plants
 N7	Reference T7 Taxonomy:33090	Viridiplantae
-T8	Out-of-scope 581 586	plant
+T8	Kingdom 581 586	plant
 N8	Reference T8 Taxonomy:33090	Viridiplantae
+T9	Kingdom 140 146	fungus
+N9	Reference T9 Taxonomy:4751	Fungi
+T10	Kingdom 185 190	fungi
+N10	Reference T10 Taxonomy:4751	Fungi
+T11	Kingdom 1394 1400	fungal
+N11	Reference T11 Taxonomy:4751	Fungi

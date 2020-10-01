@@ -8,7 +8,7 @@ T4	Species 410 421	C. albicans
 N4	Reference T4 Taxonomy:5476
 T5	Species 460 473	S. cerevisiae
 N5	Reference T5 Taxonomy:4932
-T6	Out-of-scope 816 821	Yeast
+T6	Phylum 816 821	Yeast
 T7	Species 933 946	S. cerevisiae
 N7	Reference T7 Taxonomy:4932
-N6	Reference T6 Taxonomy:147537	Saccharomycotina
+N8	Reference T6 Taxonomy:147537	Saccharomycotina

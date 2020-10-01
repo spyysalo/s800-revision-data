@@ -20,19 +20,19 @@ T11	Order 864 875	Hymenoptera
 N10	Reference T11 Taxonomy:7399	Hymenoptera
 T12	Family 877 888	Aphelinidae
 N11	Reference T12 Taxonomy:108385	Aphelinidae
-T13	Out-of-scope 115 143	arbuscular mycorrhizal fungi
+T13	Kingdom 138 143	fungi
 N12	Reference T13 Taxonomy:4751	Fungi
-T14	Out-of-scope 13 30	Mycorrhizal Fungi
+T14	Kingdom 25 30	Fungi
 N13	Reference T14 Taxonomy:4751	Fungi
-T15	Out-of-scope 290 296	fungal
+T15	Kingdom 290 296	fungal
 N14	Reference T15 Taxonomy:4751	Fungi
-T16	Out-of-scope 329 335	fungal
+T16	Kingdom 329 335	fungal
 N15	Reference T16 Taxonomy:4751	Fungi
 T17	Out-of-scope 430 433	AMF
 N16	Reference T17 Taxonomy:4751	Fungi
 T18	Out-of-scope 145 148	AMF
 N17	Reference T18 Taxonomy:4751	Fungi
-T19	Out-of-scope 638 656	mycorrhizal fungus
+T19	Kingdom 650 656	fungus
 N18	Reference T19 Taxonomy:4751	Fungi
 T20	Out-of-scope 945 948	AMF
 N19	Reference T20 Taxonomy:4751	Fungi
@@ -41,15 +41,15 @@ N20	Reference T21 Taxonomy:4751	Fungi
 T22	Out-of-scope 1323 1326	AMF
 N21	Reference T22 Taxonomy:4751	Fungi
 N2	Reference T2 Taxonomy:937382	Claroideoglomus etunicatum
-T23	Out-of-scope 161 166	plant
+T23	Kingdom 161 166	plant
 N22	Reference T23 Taxonomy:33090	Viridiplantae
-T24	Out-of-scope 196 201	plant
+T24	Kingdom 196 201	plant
 N23	Reference T24 Taxonomy:33090	Viridiplantae
-T25	Out-of-scope 399 405	Plants
+T25	Kingdom 399 405	Plants
 N24	Reference T25 Taxonomy:33090	Viridiplantae
-T26	Out-of-scope 996 1002	plants
+T26	Kingdom 996 1002	plants
 N25	Reference T26 Taxonomy:33090	Viridiplantae
-T27	Out-of-scope 1103 1108	plant
+T27	Kingdom 1103 1108	plant
 N26	Reference T27 Taxonomy:33090	Viridiplantae
 T28	Family 901 909	Whitefly
 N27	Reference T28 Taxonomy:7036	Aleyrodidae

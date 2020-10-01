@@ -22,9 +22,9 @@ T11	Family 1080 1094	Gonostomatidae
 N11	Reference T11 Taxonomy:2025516	Gonostomatidae
 T12	Family 117 129	Bromeliaceae
 N12	Reference T12 Taxonomy:4613	Bromeliaceae
-T13	Out-of-scope 71 81	Ciliophora
+T13	Phylum 71 81	Ciliophora
 N13	Reference T13 Taxonomy:5878	Ciliophora
-T14	Out-of-scope 62 69	ciliate
+T14	Phylum 62 69	ciliate
 N14	Reference T14 Taxonomy:5878	Ciliophora
 T15	Class 83 93	Hypotricha
 N15	Reference T15 Taxonomy:5934	Hypotrichia
@@ -42,3 +42,5 @@ T21	Family 940 950	kahliellid
 N21	Reference T21 Taxonomy:1513333	Kahliellidae
 T22	Class 1589 1598	hypotrich
 N22	Reference T22 Taxonomy:5934	Hypotrichia
+T23	Phylum 1599 1607	ciliates
+N23	Reference T23 Taxonomy:5878	Ciliophora

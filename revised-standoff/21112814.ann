@@ -34,7 +34,7 @@ N1008	Reference T1008 Taxonomy:931553
 T12	Strain 1250 1258	4/3Da/10
 N7	Reference T7 Taxonomy:5777	Hartmannella
 T13	Strain 1023 1031	4/3Da/10
-T14	Out-of-scope 34 43	Tubulinea
+T14	Phylum 34 43	Tubulinea
 N11	Reference T14 Taxonomy:555369	Tubulinea
 T15	Out-of-scope 45 54	Amoebozoa
 N12	Reference T15 Taxonomy:554915	Amoebozoa
@@ -44,7 +44,7 @@ N17	Reference T17 Taxonomy:160821	Chaos
 N15	Reference T1007 Taxonomy:5774	Amoeba
 T16	Out-of-scope 700 709	Amoebozoa
 N16	Reference T16 Taxonomy:554915	Amoebozoa
-T18	Out-of-scope 728 737	Tubulinea
+T18	Phylum 728 737	Tubulinea
 N18	Reference T18 Taxonomy:555369	Tubulinea
 T19	Out-of-scope 6 17	Slime molds
 #1	AnnotatorNotes T19	informal name given to several kinds of unrelated eukaryotic organisms
@@ -52,5 +52,5 @@ T20	Out-of-scope 410 421	slime molds
 #2	AnnotatorNotes T20	informal name given to several kinds of unrelated eukaryotic organisms
 T21	Out-of-scope 146 154	amoeboid
 #3	AnnotatorNotes T1002	form
-T22	Out-of-scope 678 688	eukaryotic
+T22	Kingdom 678 688	eukaryotic
 N13	Reference T22 Taxonomy:2759	Eukaryota

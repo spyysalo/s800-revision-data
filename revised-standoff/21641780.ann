@@ -10,7 +10,7 @@ T1006	Family 1279 1289	Dileptidae
 T1007	Class 1349 1361	Litostomatea
 N1007	Reference T1007 Taxonomy:5988	
 T1	Order 1109 1120	Tracheliida
-T2	Out-of-scope 125 135	Ciliophora
+T2	Phylum 125 135	Ciliophora
 N1	Reference T2 Taxonomy:5878	Ciliophora
 T3	Class 137 152	Rhynchostomatia
 T4	Class 872 880	Haptoria
@@ -36,7 +36,7 @@ T15	Genus 41 49	dileptid
 N10	Reference T15 Taxonomy:71587	Dileptus
 T16	Class 54 64	tracheliid
 N11	Reference T16 Taxonomy:5988	Litostomatea
-T17	Out-of-scope 65 73	ciliates
+T17	Phylum 65 73	ciliates
 N12	Reference T17 Taxonomy:5878	Ciliophora
 N13	Reference T3 Taxonomy:5988	Litostomatea
 T18	Genus 157 165	Dileptid
@@ -59,3 +59,5 @@ N23	Reference T1006 Taxonomy:1652550	Dileptidae
 #2	AnnotatorNotes T15	TODO check norm and type
 T24	Class 419 432	litostomatean
 N24	Reference T24 Taxonomy:5988	
+T25	Phylum 181 189	ciliates
+N25	Reference T25 Taxonomy:5878	Ciliophora

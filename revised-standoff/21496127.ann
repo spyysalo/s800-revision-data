@@ -26,5 +26,17 @@ T9	Out-of-scope 158 167	arbovirus
 #1	AnnotatorNotes T9	TODO confirm non-taxonomy
 T10	Out-of-scope 457 466	arbovirus
 #2	AnnotatorNotes T10	TODO confirm non-taxonomy
-T11	Out-of-scope 135 156	arthropod-borne virus
-#3	AnnotatorNotes T11	TODO confirm non-taxonomy
+T12	Phylum 135 144	arthropod
+N9	Reference T12 Taxonomy:6656	Arthropoda
+T11	Kingdom 151 156	virus
+N10	Reference T11 Taxonomy:10239	Viruses
+T13	Kingdom 740 745	virus
+N11	Reference T13 Taxonomy:10239	Viruses
+T14	Kingdom 802 807	virus
+N12	Reference T14 Taxonomy:10239	Viruses
+T15	Kingdom 1027 1032	virus
+N13	Reference T15 Taxonomy:10239	Viruses
+T16	Kingdom 683 688	viral
+N14	Reference T16 Taxonomy:10239	Viruses
+T17	Kingdom 930 935	viral
+N15	Reference T17 Taxonomy:10239	Viruses

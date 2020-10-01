@@ -22,5 +22,13 @@ T1001	Genus 192 202	alphavirus
 N1001	Reference T1001 Taxonomy:11019	
 T11	Family 171 179	mosquito
 N11	Reference T11 Taxonomy:7157	Culicidae
-T12	Out-of-scope 1282 1292	eukaryotic
+T12	Kingdom 1282 1292	eukaryotic
 N12	Reference T12 Taxonomy:2759	Eukaryota
+T13	Kingdom 323 328	virus
+N13	Reference T13 Taxonomy:10239	Viruses
+T14	Kingdom 560 565	virus
+N14	Reference T14 Taxonomy:10239	Viruses
+T15	Kingdom 842 847	virus
+N15	Reference T15 Taxonomy:10239	Viruses
+T16	Kingdom 1154 1159	viral
+N16	Reference T16 Taxonomy:10239	Viruses

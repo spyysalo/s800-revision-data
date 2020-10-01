@@ -4,7 +4,7 @@ T2	Species 224 244	Aspergillus nidulans
 N2	Reference T2 Taxonomy:162425
 T3	Species 294 310	Escherichia coli
 N3	Reference T3 Taxonomy:562
-T4	Out-of-scope 465 470	yeast
+T4	Phylum 465 470	yeast
 T5	Species 471 495	Saccharomyces cerevisiae
 N5	Reference T5 Taxonomy:4932
 T6	Species 530 541	A. nidulans
@@ -18,9 +18,19 @@ N9	Reference T9 Taxonomy:746128
 N4	Reference T4 Taxonomy:147537	Saccharomycotina
 T1001	Class 762 770	oomycota
 N1001	Reference T1001 Taxonomy:4762	
-T10	Out-of-scope 751 757	plants
+T10	Kingdom 751 757	plants
 N10	Reference T10 Taxonomy:33090	Viridiplantae
-T11	Out-of-scope 721 735	basidiomycetes
+T11	Phylum 721 735	basidiomycetes
 N11	Reference T11 Taxonomy:5204	Basidiomycota
-T12	Out-of-scope 797 806	eukaryota
+T12	Kingdom 797 806	eukaryota
 N12	Reference T12 Taxonomy:2759	Eukaryota
+T13	Phylum 932 946	pezizomycotina
+N13	Reference T13 Taxonomy:147538	Pezizomycotina
+T14	Phylum 688 698	ascomycete
+N14	Reference T14 Taxonomy:4890	Ascomycota
+T15	Kingdom 217 223	fungus
+N15	Reference T15 Taxonomy:4751	Fungi
+T16	Kingdom 711 716	fungi
+N16	Reference T16 Taxonomy:4751	Fungi
+T17	Kingdom 448 456	bacteria
+N17	Reference T17 Taxonomy:2	Bacteria

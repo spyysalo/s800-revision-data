@@ -4,7 +4,7 @@ T2	Species 105 121	Candida albicans
 N2	Reference T2 Taxonomy:5476
 T3	Species 252 263	C. albicans
 N3	Reference T3 Taxonomy:5476
-T4	Out-of-scope 478 483	yeast
+T4	Phylum 478 483	yeast
 T5	Species 579 590	C. albicans
 N5	Reference T5 Taxonomy:5476
 T6	Species 1278 1289	C. albicans
@@ -14,3 +14,5 @@ N4	Reference T4 Taxonomy:147537	Saccharomycotina
 N7	Reference T7 Taxonomy:4892	Saccharomycetales
 T1001	Class 487 494	mammals
 N1001	Reference T1001 Taxonomy:40674	
+T8	Kingdom 142 148	fungal
+N8	Reference T8 Taxonomy:4751	Fungi

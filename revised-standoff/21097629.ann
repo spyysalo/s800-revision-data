@@ -1,4 +1,4 @@
-T1	Out-of-scope 125 132	archaea
+T1	Kingdom 125 132	archaea
 T3	Species 134 163	Methanocaldococcus jannaschii
 N3	Reference T3 Taxonomy:2190
 T4	Species 203 242	Methanothermobacter thermoautotrophicus
@@ -15,18 +15,20 @@ T10	Species 1487 1501	M. maripaludis
 N10	Reference T10 Taxonomy:39152
 T11	Species 1586 1600	M. maripaludis
 N11	Reference T11 Taxonomy:39152
-T12	Out-of-scope 879 892	Crenarchaeota
+T12	Phylum 879 892	Crenarchaeota
 N12	Reference T12 Taxonomy:28889	Crenarchaeota
-T13	Out-of-scope 861 874	Euryarchaeota
+T13	Phylum 861 874	Euryarchaeota
 N13	Reference T13 Taxonomy:28890	Euryarchaeota
-T14	Out-of-scope 780 788	archaeal
+T14	Kingdom 780 788	archaeal
 N14	Reference T14 Taxonomy:2157	Archaea
-T15	Out-of-scope 908 920	euryarchaeal
+T15	Phylum 908 920	euryarchaeal
 N15	Reference T15 Taxonomy:28890	Euryarchaeota
-T16	Out-of-scope 995 1007	crenarchaeal
+T16	Phylum 995 1007	crenarchaeal
 N16	Reference T16 Taxonomy:28889	Crenarchaeota
 N17	Reference T1 Taxonomy:2157	Archaea
-T17	Out-of-scope 56 63	archaea
+T17	Kingdom 56 63	archaea
 N1	Reference T17 Taxonomy:2157	Archaea
-T18	Out-of-scope 322 329	archaea
+T18	Kingdom 322 329	archaea
 N18	Reference T18 Taxonomy:2157	Archaea
+T2	Kingdom 664 672	archaeal
+N2	Reference T2 Taxonomy:2157	Archaea

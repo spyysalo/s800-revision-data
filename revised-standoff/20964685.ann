@@ -2,22 +2,22 @@ T1	Species 666 684	Ammophila arenaria
 N1	Reference T1 Taxonomy:96047
 T2	Species 1633 1644	A. arenaria
 N2	Reference T2 Taxonomy:96047
-T3	Out-of-scope 78 83	plant
-T4	Out-of-scope 186 192	plants
+T3	Kingdom 78 83	plant
+T4	Kingdom 186 192	plants
 T5	Out-of-scope 655 665	dune grass
 #1	AnnotatorNotes T5	TODO confirm OOS
-T6	Out-of-scope 735 741	plants
+T6	Kingdom 735 741	plants
 T7	Out-of-scope 1445 1457	invertebrate
-T8	Out-of-scope 1870 1875	plant
-T9	Out-of-scope 1876 1882	animal
+T8	Kingdom 1870 1875	plant
+T9	Kingdom 1876 1882	animal
 N7	Reference T9 Taxonomy:33208	Metazoa
-T10	Out-of-scope 1992 1998	plants
-T11	Out-of-scope 2020 2026	animal
+T10	Kingdom 1992 1998	plants
+T11	Kingdom 2020 2026	animal
 N9	Reference T11 Taxonomy:33208	Metazoa
 N3	Reference T3 Taxonomy:33090	Viridiplantae
 N4	Reference T4 Taxonomy:33090	Viridiplantae
 N5	Reference T6 Taxonomy:33090	Viridiplantae
-T12	Out-of-scope 1485 1490	plant
+T12	Kingdom 1485 1490	plant
 N10	Reference T12 Taxonomy:33090	Viridiplantae
 N6	Reference T8 Taxonomy:33090	Viridiplantae
 N8	Reference T10 Taxonomy:33090	Viridiplantae

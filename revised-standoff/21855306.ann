@@ -49,7 +49,7 @@ T29	Family 795 804	elephants
 N20	Reference T29 Taxonomy:9780	Elephantidae
 T30	Genus 24 35	Triplumaria
 N21	Reference T30 Taxonomy:692884	Triplumaria
-T31	Out-of-scope 45 55	Ciliophora
+T31	Phylum 45 55	Ciliophora
 N22	Reference T31 Taxonomy:5878	Ciliophora
 T32	Order 57 74	Entodiniomorphida
 N23	Reference T32 Taxonomy:40634	Entodiniomorphida
@@ -65,3 +65,9 @@ T37	Family 929 941	rhinoceroses
 N28	Reference T37 Taxonomy:9803	Rhinocerotidae
 T38	Family 1222 1237	ophryoscolecids
 N29	Reference T38 Taxonomy:47890	Ophryoscolecidae
+T39	Phylum 151 159	ciliates
+N30	Reference T39 Taxonomy:5878	Ciliophora
+T40	Phylum 1088 1096	ciliates
+N31	Reference T40 Taxonomy:5878	Ciliophora
+T41	Phylum 1326 1333	Ciliate
+N32	Reference T41 Taxonomy:5878	Ciliophora

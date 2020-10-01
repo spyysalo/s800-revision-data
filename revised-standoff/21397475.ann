@@ -11,11 +11,11 @@ T5	Out-of-scope 25 39	testate amoeba
 #1	AnnotatorNotes T5	non-taxonomic
 T6	Out-of-scope 466 480	testate amoeba
 #2	AnnotatorNotes T6	non-taxonomic
-T7	Out-of-scope 18 24	lobose
+T7	Phylum 18 24	lobose
 N2	Reference T7 Taxonomy:555369	Tubulinea
-T8	Out-of-scope 459 465	lobose
+T8	Phylum 459 465	lobose
 N3	Reference T8 Taxonomy:555369	Tubulinea
-T9	Out-of-scope 169 178	eukaryote
+T9	Kingdom 169 178	eukaryote
 N4	Reference T9 Taxonomy:2759	Eukaryota
-T10	Out-of-scope 361 371	eukaryotes
+T10	Kingdom 361 371	eukaryotes
 N5	Reference T10 Taxonomy:2759	Eukaryota

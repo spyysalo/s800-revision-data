@@ -4,7 +4,7 @@ T2	Species 73 98	Blastocladiella emersonii
 N2	Reference T2 Taxonomy:4808
 T3	Species 102 127	Agrobacterium tumefaciens
 N3	Reference T3 Taxonomy:358
-T4	Out-of-scope 223 228	yeast
+T4	Phylum 223 228	yeast
 T5	Species 257 262	human
 N5	Reference T5 Taxonomy:9606
 T6	Species 371 396	Blastocladiella emersonii
@@ -14,9 +14,19 @@ N7	Reference T7 Taxonomy:162425
 T8	Species 926 951	Agrobacterium tumefsciens
 N8	Reference T8 Taxonomy:358
 N4	Reference T4 Taxonomy:147537	Saccharomycotina
-T9	Out-of-scope 147 152	plant
+T9	Kingdom 147 152	plant
 N9	Reference T9 Taxonomy:33090	Viridiplantae
 T10	Class 400 418	Blastocladiomycete
 N10	Reference T10 Taxonomy:451460	Blastocladiomycetes
 T11	Class 1446 1461	Chytridiomycete
 N11	Reference T11 Taxonomy:451435	Chytridiomycetes
+T12	Kingdom 66 72	fungus
+N12	Reference T12 Taxonomy:4751	Fungi
+T13	Kingdom 242 247	fungi
+N13	Reference T13 Taxonomy:4751	Fungi
+T14	Kingdom 364 370	fungus
+N14	Reference T14 Taxonomy:4751	Fungi
+T15	Kingdom 444 450	fungal
+N15	Reference T15 Taxonomy:4751	Fungi
+T16	Kingdom 1430 1435	fungi
+N16	Reference T16 Taxonomy:4751	Fungi

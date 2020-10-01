@@ -45,7 +45,11 @@ N20	Reference T22 Taxonomy:1294546	Planomonadidae
 T23	Out-of-scope 1078 1086	unikonts
 #3	AnnotatorNotes T23	Taxonomical super group
 T24	Out-of-scope 1088 1100	opisthokonts
-#4	AnnotatorNotes T24	Taxonomical super group
 N21	Reference T18 Taxonomy:253214	Alnus alnobetula subsp. fruticosa
-T25	Out-of-scope 1020 1030	eukaryotes
+T25	Kingdom 1020 1030	eukaryotes
 N22	Reference T25 Taxonomy:2759	Eukaryota
+T26	Out-of-scope 1398 1407	apusozoan
+N23	Reference T26 Taxonomy:554296	Apusozoa
+T27	Out-of-scope 1408 1418	amoebozoan
+N24	Reference T27 Taxonomy:554915	Amoebozoa
+N25	Reference T24 Taxonomy:33154	Opisthokonta

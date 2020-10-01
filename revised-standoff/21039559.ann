@@ -38,11 +38,15 @@ N19	Reference T19 Taxonomy:12302	Brome mosaic virus
 T20	Species 822 825	BMV
 N20	Reference T20 Taxonomy:12302	Brome mosaic virus
 N5	Reference T5 Taxonomy:5269	Ustilago
-T21	Out-of-scope 172 178	plants
+T21	Kingdom 172 178	plants
 N21	Reference T21 Taxonomy:33090	Viridiplantae
-T22	Out-of-scope 332 337	plant
+T22	Kingdom 332 337	plant
 N22	Reference T22 Taxonomy:33090	Viridiplantae
-T23	Out-of-scope 451 457	plants
+T23	Kingdom 451 457	plants
 N23	Reference T23 Taxonomy:33090	Viridiplantae
-T24	Out-of-scope 844 850	plants
+T24	Kingdom 844 850	plants
 N24	Reference T24 Taxonomy:33090	Viridiplantae
+T25	Kingdom 9 14	virus
+N25	Reference T25 Taxonomy:10239	Viruses
+T26	Kingdom 655 660	virus
+N26	Reference T26 Taxonomy:10239	Viruses

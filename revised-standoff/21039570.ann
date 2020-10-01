@@ -6,9 +6,15 @@ T3	Species 880 895	T. melanosporum
 N3	Reference T3 Taxonomy:39416
 T4	Species 1645 1660	T. melanosporum
 N4	Reference T4 Taxonomy:39416
-T5	Out-of-scope 574 584	ascomycete
+T5	Phylum 574 584	ascomycete
 N5	Reference T5 Taxonomy:4890	Ascomycota
-T6	Out-of-scope 558 563	plant
+T6	Kingdom 558 563	plant
 N6	Reference T6 Taxonomy:33090	Viridiplantae
-T7	Out-of-scope 1230 1235	plant
+T7	Kingdom 1230 1235	plant
 N7	Reference T7 Taxonomy:33090	Viridiplantae
+T8	Kingdom 68 74	fungus
+N8	Reference T8 Taxonomy:4751	Fungi
+T9	Kingdom 1258 1264	fungus
+N9	Reference T9 Taxonomy:4751	Fungi
+T10	Out-of-scope 266 276	macrofungi
+#1	AnnotatorNotes T10	TODO check

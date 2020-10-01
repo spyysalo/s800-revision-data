@@ -60,17 +60,27 @@ T30	Class 523 530	mammals
 N30	Reference T30 Taxonomy:40674	
 T31	Class 1834 1841	mammals
 N31	Reference T31 Taxonomy:40674	
-T32	Out-of-scope 133 139	animal
+T32	Kingdom 133 139	animal
 N32	Reference T32 Taxonomy:33208	Metazoa
 T33	Strain 65 67	H5
 N33	Reference T33 Taxonomy:11320	
-T34	Out-of-scope 589 594	viral
+T34	Kingdom 589 594	viral
 N34	Reference T34 Taxonomy:10239	Viruses
-T35	Out-of-scope 909 914	virus
+T35	Kingdom 909 914	virus
 N35	Reference T35 Taxonomy:10239	Viruses
-T36	Out-of-scope 1063 1068	virus
+T36	Kingdom 1063 1068	virus
 N36	Reference T36 Taxonomy:10239	Viruses
-T37	Out-of-scope 1157 1162	virus
+T37	Kingdom 1157 1162	virus
 N37	Reference T37 Taxonomy:10239	Viruses
-T38	Out-of-scope 1034 1039	viral
+T38	Kingdom 1034 1039	viral
 N38	Reference T38 Taxonomy:10239	Viruses
+T39	Kingdom 407 412	virus
+N39	Reference T39 Taxonomy:10239	Viruses
+T40	Kingdom 495 502	viruses
+N40	Reference T40 Taxonomy:10239	Viruses
+T41	Kingdom 839 844	virus
+N41	Reference T41 Taxonomy:10239	Viruses
+T42	Kingdom 1279 1286	viruses
+N42	Reference T42 Taxonomy:10239	Viruses
+T43	Kingdom 1424 1431	viruses
+N43	Reference T43 Taxonomy:10239	Viruses

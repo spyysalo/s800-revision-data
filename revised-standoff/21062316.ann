@@ -4,13 +4,17 @@ T2	Species 333 347	Potato virus X
 N2	Reference T2 Taxonomy:12183
 T3	Species 349 352	PVX
 N3	Reference T3 Taxonomy:12183
-T4	Out-of-scope 185 191	plants
+T4	Kingdom 185 191	plants
 N4	Reference T4 Taxonomy:33090	Viridiplantae
-T5	Out-of-scope 307 313	plants
+T5	Kingdom 307 313	plants
 N5	Reference T5 Taxonomy:33090	Viridiplantae
-T6	Out-of-scope 423 428	Plant
+T6	Kingdom 423 428	Plant
 N6	Reference T6 Taxonomy:33090	Viridiplantae
-T7	Out-of-scope 819 825	plants
+T7	Kingdom 819 825	plants
 N7	Reference T7 Taxonomy:33090	Viridiplantae
-T8	Out-of-scope 1182 1188	plants
+T8	Kingdom 1182 1188	plants
 N8	Reference T8 Taxonomy:33090	Viridiplantae
+T9	Kingdom 43 48	virus
+N9	Reference T9 Taxonomy:10239	Viruses
+T10	Kingdom 804 809	Virus
+N10	Reference T10 Taxonomy:10239	Viruses

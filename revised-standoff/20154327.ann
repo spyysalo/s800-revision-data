@@ -16,3 +16,9 @@ T1002	Genus 1407 1423	Actinopolymorpha
 N1002	Reference T1002 Taxonomy:117156	
 T1003	Family 1537 1552	Nocardioidaceae
 N1003	Reference T1003 Taxonomy:85015	
+T10	Kingdom 130 139	bacterium
+N4	Reference T10 Taxonomy:2	Bacteria
+T11	Class 1124 1136	actinomycete
+T12	Class 62 74	actinomycete
+N6	Reference T12 Taxonomy:1760	Actinobacteria
+N5	Reference T11 Taxonomy:1760	Actinobacteria

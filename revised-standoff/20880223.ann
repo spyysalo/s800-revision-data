@@ -1,4 +1,4 @@
-T1	Out-of-scope 427 433	fungal
+T1	Kingdom 427 433	fungal
 T2	Species 479 498	Medicago truncatula
 N2	Reference T2 Taxonomy:3880
 T3	Species 503 516	Daucus carota
@@ -10,13 +10,15 @@ T5	Family 92 98	legume
 N5	Reference T5 Taxonomy:3803	Fabaceae
 T6	Family 323 330	legumes
 N6	Reference T6 Taxonomy:3803	Fabaceae
-T7	Out-of-scope 236 241	fungi
+T7	Kingdom 236 241	fungi
 N7	Reference T7 Taxonomy:4751	Fungi
-T8	Out-of-scope 819 825	fungal
+T8	Kingdom 819 825	fungal
 N8	Reference T8 Taxonomy:4751	Fungi
-T9	Out-of-scope 1136 1142	fungal
+T9	Kingdom 1136 1142	fungal
 N9	Reference T9 Taxonomy:4751	Fungi
 T10	Out-of-scope 1286 1293	asterid
 N10	Reference T10 Taxonomy:71274	asterids
 T11	Out-of-scope 1298 1303	rosid
 N11	Reference T11 Taxonomy:71275	rosids
+T12	Kingdom 1342 1348	fungal
+N12	Reference T12 Taxonomy:4751	Fungi

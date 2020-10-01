@@ -4,5 +4,7 @@ T2	Species 732 754	Amylostereum areolatum
 N2	Reference T2 Taxonomy:103385
 T3	Species 1384 1396	A. areolatum
 N3	Reference T3 Taxonomy:103385
-T4	Out-of-scope 1354 1368	Basidiomycetes
+T4	Phylum 1354 1368	Basidiomycetes
 N4	Reference T4 Taxonomy:5204	Basidiomycota
+T5	Kingdom 103 108	fungi
+N5	Reference T5 Taxonomy:4751	Fungi

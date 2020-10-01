@@ -4,9 +4,7 @@ T2	Order 358 371	Rhopalodiales
 N2	Reference T2 Taxonomy:245176	Rhopalodiales
 T3	Order 377 389	Surirellales
 N3	Reference T3 Taxonomy:216751	Surirellales
-T4	Order 783 798	pennate diatoms
-T5	Out-of-scope 867 873	diatom
-N5	Reference T5 Taxonomy:2836	Bacillariophyta
+T4	Order 776 798	raphid pennate diatoms
 T6	Order 1050 1063	Bacillariales
 N6	Reference T6 Taxonomy:33851	Bacillariales
 T7	Order 1099 1112	Rhopalodiales
@@ -16,7 +14,7 @@ N8	Reference T8 Taxonomy:216751	Surirellales
 N4	Reference T4 Taxonomy:33849	Bacillariophyceae
 T9	Order 75 90	pennate diatoms
 N9	Reference T9 Taxonomy:33849	Bacillariophyceae
-T10	Order 188 203	pennate diatoms
+T10	Order 181 203	Raphid pennate diatoms
 N10	Reference T10 Taxonomy:33849	Bacillariophyceae
 T11	Out-of-scope 34 39	raphe
 #1	AnnotatorNotes T11	anatomy
@@ -32,3 +30,7 @@ T16	Out-of-scope 965 970	raphe
 #6	AnnotatorNotes T16	anatomy
 T17	Out-of-scope 982 987	raphe
 #7	AnnotatorNotes T17	anatomy
+T5	Phylum 50 57	diatoms
+N5	Reference T5 Taxonomy:2836	Bacillariophyta
+T18	Phylum 867 873	diatom
+N11	Reference T18 Taxonomy:2836	Bacillariophyta

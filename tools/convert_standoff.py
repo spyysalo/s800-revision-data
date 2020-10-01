@@ -33,12 +33,16 @@ class Annotation(object):
         self.id_ = id_
         self.type_ = type_
         self.normalizations = []
+        self.notes = []
 
     def resolve_references(self, ann_by_id):
         pass
 
     def add_normalization(self, ann):
         self.normalizations.append(ann)
+
+    def add_note(self, ann):
+        self.notes.append(ann)
 
 
 class Textbound(Annotation):
@@ -119,6 +123,7 @@ class Note(Annotation):
 
     def resolve_references(self, ann_by_id):
         self.target = ann_by_id[self.target_id]
+        self.target.add_note(self)
 
 
 def parse_xml(fields):
@@ -233,14 +238,23 @@ def resolve_references(annotations, options):
         a.resolve_references(ann_by_id)
 
 
+def normalize_space(string):
+    return ' '.join(string.split())
+
+
 def output(annotations, options):
     textbounds = [a for a in annotations if isinstance(a, Textbound)]
-    textbounds.sort(key=lambda t:t.offsets[0][0])
+    textbounds.sort(key=lambda t:(t.offsets[0][0], -t.offsets[-1][1]))
     for t in textbounds:
         refs = [n.ref.replace('Taxonomy:', '') for n in t.normalizations]
+        notes = [normalize_space(n.text) for n in t.notes]
+        if not refs and t.type_ == 'Out-of-scope':
+            continue
         if not refs:
             refs = ['0']
         print('{}\t{}'.format(','.join(refs), t.text))
+        #print('{}\t{}\t{}\t{}'.format(
+        #    ','.join(refs), t.text, t.type_, ';'.join(notes)))
 
 
 def main(argv):

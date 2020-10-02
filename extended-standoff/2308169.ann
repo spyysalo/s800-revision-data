@@ -1,0 +1,22 @@
+T1	Out-of-scope 41 51	green alga
+N1	Reference T1 Taxonomy:3041	Chlorophyta
+T2	Species 53 75	Enteromorpha prolifera
+N2	Reference T2 Taxonomy:3117	Ulva prolifera
+T3	Species 173 195	Enteromorpha prolifera
+N3	Reference T3 Taxonomy:3117	Ulva prolifera
+T4	Out-of-scope 162 172	green alga
+N4	Reference T4 Taxonomy:3041	Chlorophyta
+T5	Out-of-scope 595 600	algal
+T6	Genus 649 655	poplar
+N5	Reference T6 Taxonomy:3689	Populus
+T7	Species 662 675	Populus nigra
+N6	Reference T7 Taxonomy:3691	Populus nigra
+T8	Out-of-scope 681 688	italica
+#1	AnnotatorNotes T8	cultivar
+T9	Genus 1292 1298	poplar
+N7	Reference T9 Taxonomy:3689	Populus
+T10	Out-of-scope 1342 1347	algal
+T11	Out-of-scope 1661 1666	algal
+#2	AnnotatorNotes T5	TODO: document
+#3	AnnotatorNotes T10	TODO: document
+#4	AnnotatorNotes T11	TODO: document

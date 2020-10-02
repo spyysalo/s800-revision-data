@@ -1,0 +1,38 @@
+T1	Species 17 32	praying mantids
+N1	Reference T1 Taxonomy:7507	Mantis religiosa
+T2	Genus 34 42	Mantodea
+N2	Reference T2 Taxonomy:7504	Mantodea
+T3	Out-of-scope 45 56	Dictyoptera
+N3	Reference T3 Taxonomy:6970	Dictyoptera
+#1	AnnotatorNotes T3	TODO: document
+T4	Order 74 85	cockroaches
+N4	Reference T4 Taxonomy:85823	Blattodea
+T5	Family 87 95	termites
+N5	Reference T5 Taxonomy:1912919	Termitoidae
+#2	AnnotatorNotes T5	TODO: document
+T6	Species 101 116	praying mantids
+N6	Reference T6 Taxonomy:7507	Mantis religiosa
+T7	Class 148 155	insects
+N7	Reference T7 Taxonomy:50557	Insecta
+T8	Order 236 247	cockroaches
+N8	Reference T8 Taxonomy:85823	Blattodea
+T9	Order 659 670	cockroaches
+N9	Reference T9 Taxonomy:85823	Blattodea
+T10	Order 840 851	cockroaches
+N10	Reference T10 Taxonomy:85823	Blattodea
+T11	Family 853 865	Polyphagidae
+N11	Reference T11 Taxonomy:30007	Corydiidae
+T12	Species 328 343	praying mantids
+N12	Reference T12 Taxonomy:7507	Mantis religiosa
+T13	Species 1135 1150	praying mantids
+N13	Reference T13 Taxonomy:7507	Mantis religiosa
+T14	Family 676 683	mantids
+N14	Reference T14 Taxonomy:7504	Mantodea
+T15	Genus 620 628	Mantodea
+N15	Reference T15 Taxonomy:7504	Mantodea
+T16	Species 742 758	Mantis religiosa
+N16	Reference T16 Taxonomy:7507	Mantis religiosa
+T17	Genus 898 906	Mantodea
+N17	Reference T17 Taxonomy:7504	Mantodea
+T18	Family 908 920	Paramantinae
+N18	Reference T18 Taxonomy:627846	Paramantini

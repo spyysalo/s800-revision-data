@@ -1,0 +1,32 @@
+T1	Species 75 92	Liparis tunicatus
+N1	Reference T1 Taxonomy:420949	Liparis tunicatus
+T2	Out-of-scope 70 74	fish
+T3	Out-of-scope 310 314	fish
+T4	Order 354 368	Notothenioidei
+N2	Reference T4 Taxonomy:8205	Notothenioidei
+T5	Species 630 647	Liparis tunicatus
+N3	Reference T5 Taxonomy:420949	Liparis tunicatus
+T6	Order 658 667	Cottoidei
+N4	Reference T6 Taxonomy:8100	Cottioidei
+T7	Family 676 685	Liparidae
+N5	Reference T7 Taxonomy:183715	Liparidae
+T8	Species 837 849	L. tunicatus
+N6	Reference T8 Taxonomy:420949	Liparis tunicatus
+T9	Species 1381 1393	L. tunicatus
+N7	Reference T9 Taxonomy:420949	Liparis tunicatus
+T10	Out-of-scope 1129 1133	fish
+T11	Out-of-scope 1375 1379	fish
+T12	Order 1523 1532	Cottoidei
+N8	Reference T12 Taxonomy:8100	Cottioidei
+T13	Order 1537 1551	Notothenioidei
+N9	Reference T13 Taxonomy:8205	Notothenioidei
+T14	Family 493 507	Anarhichadidae
+N10	Reference T14 Taxonomy:8202	Anarhichadidae
+T15	Family 518 525	Gadidae
+N11	Reference T15 Taxonomy:8045	Gadidae
+T16	Species 462 478	spotted wolffish
+N12	Reference T16 Taxonomy:65739	Anarhichas minor
+T17	Order 608 621	notothenioids
+N13	Reference T17 Taxonomy:8205	Notothenioidei
+T18	Class 1458 1468	teleostean
+N14	Reference T18 Taxonomy:32443	Teleostei

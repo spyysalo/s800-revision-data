@@ -1,0 +1,34 @@
+T1	Species 19 39	human papillomavirus
+N1	Reference T1 Taxonomy:10566	Human papillomavirus
+T2	Strain 41 47	HPV 63
+T3	Strain 52 58	HPV 65
+T4	Species 143 146	HPV
+N2	Reference T4 Taxonomy:10566	Human papillomavirus
+T5	Species 256 259	HPV
+N3	Reference T5 Taxonomy:10566	Human papillomavirus
+T6	Species 1238 1241	HPV
+N4	Reference T6 Taxonomy:10566	Human papillomavirus
+T7	Strain 284 289	HPV 1
+T8	Strain 393 398	HPV 4
+N6	Reference T2 Taxonomy:10566	Human papillomavirus
+N7	Reference T3 Taxonomy:10566	Human papillomavirus
+N5	Reference T7 Taxonomy:10566	Human papillomavirus
+N8	Reference T8 Taxonomy:10566	Human papillomavirus
+T9	Strain 613 619	HPV 63
+N9	Reference T9 Taxonomy:10566	Human papillomavirus
+T10	Strain 716 722	HPV 63
+N10	Reference T10 Taxonomy:10566	Human papillomavirus
+T11	Strain 804 809	HPV 1
+N11	Reference T11 Taxonomy:10566	Human papillomavirus
+T12	Strain 995 1000	HPV 4
+N12	Reference T12 Taxonomy:10566	Human papillomavirus
+T13	Strain 1002 1008	HPV 60
+N13	Reference T13 Taxonomy:10566	Human papillomavirus
+T14	Strain 1013 1019	HPV 65
+N14	Reference T14 Taxonomy:10566	Human papillomavirus
+T15	Strain 1074 1080	HPV 65
+N15	Reference T15 Taxonomy:10566	Human papillomavirus
+T16	Strain 1177 1182	HPV 4
+N16	Reference T16 Taxonomy:10566	Human papillomavirus
+T17	Strain 1227 1233	HPV 60
+N17	Reference T17 Taxonomy:10566	Human papillomavirus

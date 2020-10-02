@@ -1,0 +1,144 @@
+T1	Order 58 64	simian
+N1	Reference T1 Taxonomy:314293	Simiiformes
+T2	Genus 26 45	type D retroviruses
+T3	Order 101 107	Simian
+N3	Reference T3 Taxonomy:314293	Simiiformes
+T4	Genus 154 169	macaque monkeys
+N4	Reference T4 Taxonomy:9539	Macaca
+T6	Genus 183 202	type D retroviruses
+T7	Genus 1397 1423	simian type D retroviruses
+T8	Genus 1691 1717	simian type D retroviruses
+T9	Genus 2148 2174	simian type D retroviruses
+T10	Genus 2274 2293	type D retroviruses
+T11	Species 303 307	MPMV
+N11	Reference T11 Taxonomy:11855	Mason-Pfizer monkey virus
+T12	Species 309 334	Mason-Pfizer monkey virus
+N12	Reference T12 Taxonomy:11855	Mason-Pfizer monkey virus
+T13	Species 655 659	MPMV
+N13	Reference T13 Taxonomy:11855	Mason-Pfizer monkey virus
+T14	Species 781 785	MPMV
+N14	Reference T14 Taxonomy:11855	Mason-Pfizer monkey virus
+T15	Species 990 994	MPMV
+N15	Reference T15 Taxonomy:11855	Mason-Pfizer monkey virus
+T16	Species 1192 1196	MPMV
+N16	Reference T16 Taxonomy:11855	Mason-Pfizer monkey virus
+T17	Species 1244 1248	MPMV
+N17	Reference T17 Taxonomy:11855	Mason-Pfizer monkey virus
+T18	Species 1117 1121	MPMV
+N18	Reference T18 Taxonomy:11855	Mason-Pfizer monkey virus
+T19	Species 1321 1325	MPMV
+N19	Reference T19 Taxonomy:11855	Mason-Pfizer monkey virus
+T20	Species 2106 2110	MPMV
+N20	Reference T20 Taxonomy:11855	Mason-Pfizer monkey virus
+N2	Reference T2 Taxonomy:140052	Betaretrovirus
+#3	AnnotatorNotes T2	TODO: document
+N7	Reference T7 Taxonomy:140052	Betaretrovirus
+#4	AnnotatorNotes T7	TODO: document
+N8	Reference T8 Taxonomy:140052	Betaretrovirus
+#5	AnnotatorNotes T8	TODO: document
+N9	Reference T9 Taxonomy:140052	Betaretrovirus
+#6	AnnotatorNotes T9	TODO: document
+N10	Reference T10 Taxonomy:140052	Betaretrovirus
+#7	AnnotatorNotes T10	TODO: document
+T5	Strain 292 297	SRV-2
+T21	Strain 255 260	SRV-1
+T22	Strain 262 289	SAIDS retrovirus-serotype 1
+T23	Strain 450 455	SRV-2
+T24	Strain 593 598	SRV-2
+T25	Strain 645 650	SRV-1
+T26	Strain 771 776	SRV-1
+T27	Family 690 702	retroviruses
+N5	Reference T27 Taxonomy:11632	Retroviridae
+T28	Family 707 717	retroviral
+N21	Reference T28 Taxonomy:11632	Retroviridae
+T29	Family 2464 2476	retroviruses
+N22	Reference T29 Taxonomy:11632	Retroviridae
+N6	Reference T6 Taxonomy:140052	Betaretrovirus
+#1	AnnotatorNotes T6	TODO: document
+T30	Strain 906 911	SRV-2
+T31	Strain 981 986	SRV-1
+T32	Strain 1107 1112	SRV-1
+T33	Strain 1148 1153	SRV-2
+T34	Strain 1183 1188	SRV-1
+T35	Strain 1311 1316	SRV-1
+T36	Strain 1234 1239	SRV-1
+T37	Strain 1269 1274	SRV-2
+T38	Strain 1654 1659	SRV-1
+T39	Strain 1663 1668	SRV-2
+T40	Strain 2088 2093	SRV-1
+T41	Strain 2095 2100	SRV-2
+N23	Reference T21 Taxonomy:11855	Mason-Pfizer monkey virus
+N24	Reference T22 Taxonomy:11855	Mason-Pfizer monkey virus
+N25	Reference T5 Taxonomy:11855	Mason-Pfizer monkey virus
+N26	Reference T23 Taxonomy:11855	Mason-Pfizer monkey virus
+N27	Reference T24 Taxonomy:11855	Mason-Pfizer monkey virus
+N28	Reference T25 Taxonomy:11855	Mason-Pfizer monkey virus
+N29	Reference T26 Taxonomy:11855	Mason-Pfizer monkey virus
+N30	Reference T31 Taxonomy:11855	Mason-Pfizer monkey virus
+N31	Reference T34 Taxonomy:11855	Mason-Pfizer monkey virus
+N32	Reference T32 Taxonomy:11855	Mason-Pfizer monkey virus
+N33	Reference T33 Taxonomy:11855	Mason-Pfizer monkey virus
+N34	Reference T36 Taxonomy:11855	Mason-Pfizer monkey virus
+N35	Reference T37 Taxonomy:11855	Mason-Pfizer monkey virus
+N36	Reference T35 Taxonomy:11855	Mason-Pfizer monkey virus
+N37	Reference T38 Taxonomy:11855	Mason-Pfizer monkey virus
+N38	Reference T39 Taxonomy:11855	Mason-Pfizer monkey virus
+N39	Reference T40 Taxonomy:11855	Mason-Pfizer monkey virus
+N40	Reference T41 Taxonomy:11855	Mason-Pfizer monkey virus
+#2	AnnotatorNotes T21	TODO: document
+#8	AnnotatorNotes T22	TODO: document
+#9	AnnotatorNotes T5	TODO: document
+#10	AnnotatorNotes T23	TODO: document
+#11	AnnotatorNotes T24	TODO: document
+#12	AnnotatorNotes T25	TODO: document
+#13	AnnotatorNotes T26	TODO: document
+#14	AnnotatorNotes T31	TODO: document
+N41	Reference T30 Taxonomy:11855	Mason-Pfizer monkey virus
+#15	AnnotatorNotes T30	TODO: document
+#16	AnnotatorNotes T32	TODO: document
+#17	AnnotatorNotes T33	TODO: document
+#18	AnnotatorNotes T34	TODO: document
+#19	AnnotatorNotes T36	TODO: document
+#20	AnnotatorNotes T37	TODO: document
+#21	AnnotatorNotes T35	TODO: document
+#22	AnnotatorNotes T38	TODO: document
+#23	AnnotatorNotes T39	TODO: document
+#24	AnnotatorNotes T40	TODO: document
+#25	AnnotatorNotes T41	TODO: document
+T42	Genus 2299 2305;2326 2336	type A retrovirus
+T43	Genus 2307 2313;2326 2336	type B retrovirus
+T44	Genus 2319 2336	type C retrovirus
+T45	Genus 1888 1911	avian type C retrovirus
+T46	Species 1954 1984	type C baboon endogenous virus
+T47	Species 1583 1587	MMTV
+T48	Genus 1447 1464	type B retrovirus
+T49	Species 1466 1491	mouse mammary tumor virus
+T50	Species 1493 1497	MMTV
+N42	Reference T49 Taxonomy:11757	Mouse mammary tumor virus
+N43	Reference T50 Taxonomy:11757	Mouse mammary tumor virus
+N44	Reference T47 Taxonomy:11757	Mouse mammary tumor virus
+T51	Species 1794 1798	MMTV
+N45	Reference T51 Taxonomy:11757	Mouse mammary tumor virus
+T52	Species 1912 1939	reticuloendotheliosis virus
+N46	Reference T52 Taxonomy:11636	Reticuloendotheliosis virus
+N47	Reference T48 Taxonomy:140052	Betaretrovirus
+N48	Reference T43 Taxonomy:140052	Betaretrovirus
+#26	AnnotatorNotes T48	TODO: document
+#27	AnnotatorNotes T43	TODO: document
+#28	AnnotatorNotes T44	TODO: document
+#29	AnnotatorNotes T45	TODO: document
+N50	Reference T45 Taxonomy:153057	Alpharetrovirus
+N49	Reference T44 Taxonomy:153057	Alpharetrovirus
+T53	Species 1941 1944	REV
+N51	Reference T53 Taxonomy:11636	Reticuloendotheliosis virus
+N52	Reference T46 Taxonomy:196403	Baboon endogenous virus
+T54	Species 1986 1990	BaEV
+N53	Reference T54 Taxonomy:196403	Baboon endogenous virus
+#30	AnnotatorNotes T42	TODO: document
+N54	Reference T42 Taxonomy:2169668	Simiispumavirus
+T55	Class 1529 1534	human
+N55	Reference T55 Taxonomy:9606	Homo sapiens
+T56	Family 1807 1814	hamster
+N56	Reference T56 Taxonomy:10026	Cricetinae
+T57	Species 2214 2217	rat
+N57	Reference T57 Taxonomy:10116	Rattus norvegicus

@@ -1,0 +1,40 @@
+T1	Class 34 40	insect
+N1	Reference T1 Taxonomy:50557	Insecta
+T2	Class 77 83	insect
+N2	Reference T2 Taxonomy:50557	Insecta
+T3	Class 1545 1552	insects
+N3	Reference T3 Taxonomy:50557	Insecta
+T4	Out-of-scope 90 101	Dictyoptera
+T5	Order 103 114	Blattoptera
+N4	Reference T5 Taxonomy:85823	Blattodea
+N5	Reference T4 Taxonomy:6970	Dictyoptera
+#1	AnnotatorNotes T4	TODO: document
+T6	Order 461 472	cockroaches
+N6	Reference T6 Taxonomy:85823	Blattodea
+T7	Family 474 484	Blaberidae
+N7	Reference T7 Taxonomy:6979	Blaberidae
+T8	Family 486 498	Blattellidae
+N8	Reference T8 Taxonomy:1049651	Ectobiidae
+T9	Family 500 509	Blattidae
+N9	Reference T9 Taxonomy:6974	Blattidae
+T10	Family 511 523	Polyphagidae
+N10	Reference T10 Taxonomy:30007	Corydiidae
+T11	Family 525 539	Cryptocercidae
+N11	Reference T11 Taxonomy:36982	Cryptocercidae
+T12	Family 552 559	termite
+N12	Reference T12 Taxonomy:1912919	Termitoidae
+#2	AnnotatorNotes T12	TODO: document
+T13	Species 560 584	Mastotermes darwiniensis
+N13	Reference T13 Taxonomy:13139	Mastotermes darwiniensis
+T14	Out-of-scope 693 704	Dictyoptera
+N14	Reference T14 Taxonomy:6970	Dictyoptera
+#3	AnnotatorNotes T14	TODO: document
+T15	Species 706 721	praying mantids
+N15	Reference T15 Taxonomy:7507	Mantis religiosa
+T16	Family 723 731	termites
+N16	Reference T16 Taxonomy:1912919	Termitoidae
+#4	AnnotatorNotes T16	TODO: document
+T17	Order 736 747	cockroaches
+N17	Reference T17 Taxonomy:85823	Blattodea
+T18	Order 1240 1251	cockroaches
+N18	Reference T18 Taxonomy:85823	Blattodea

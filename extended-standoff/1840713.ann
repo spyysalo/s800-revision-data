@@ -1,0 +1,20 @@
+T1	Species 80 97	Seoul 80-39 virus
+T2	Genus 115 125	hantavirus
+N2	Reference T2 Taxonomy:1980442	Orthohantavirus
+N3	Reference T1 Taxonomy:1980490	Seoul orthohantavirus
+T3	Species 197 214	Seoul 80-39 virus
+N1	Reference T3 Taxonomy:1980490	Seoul orthohantavirus
+T4	Species 861 878	Seoul 80-39 virus
+N4	Reference T4 Taxonomy:1980490	Seoul orthohantavirus
+T5	Out-of-scope 390 395	viral
+N5	Reference T5 Taxonomy:10239	Viruses
+T6	Out-of-scope 691 696	viral
+N6	Reference T6 Taxonomy:10239	Viruses
+T7	Out-of-scope 264 270	virion
+N7	Reference T7 Taxonomy:10239	Viruses
+T8	Out-of-scope 947 954	viruses
+N8	Reference T8 Taxonomy:10239	Viruses
+T9	Species 1005 1021	Bunyamwera virus
+N10	Reference T9 Taxonomy:1933179	Bunyamwera orthobunyavirus
+T10	Family 1097 1112	influenza virus
+N9	Reference T10 Taxonomy:11308	Orthomyxoviridae

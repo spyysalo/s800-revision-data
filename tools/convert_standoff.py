@@ -3,19 +3,20 @@
 import sys
 import os
 
+import nltk
 
-DEFAULT_ENCODING = 'utf-8'
+from collections import defaultdict
+
+from nltk.stem import WordNetLemmatizer
 
 
 def argparser():
     from argparse import ArgumentParser
     ap = ArgumentParser()
-    ap.add_argument('-e', '--encoding', default=DEFAULT_ENCODING,
-                    help='text encoding (default {})'.format(DEFAULT_ENCODING))
     ap.add_argument('-i', '--ignore-errors', default=False, action='store_true',
                     help='ignore format errors')
-    ap.add_argument('-p', '--include-pmid', default=False, action='store_true',
-                    help='include PMID in output')
+    ap.add_argument('nodes', default=None, help='NCBI taxonomy nodes.dmp')
+    ap.add_argument('names', default=None, help='NCBI taxonomy names.dmp')
     ap.add_argument('ann', nargs='+', help='annotation')
     return ap
 
@@ -222,7 +223,7 @@ def parse_standoff_line(l, ln, fn, options):
 
 def parse_ann_file(fn, options):
     annotations = []
-    with open(fn, 'r', encoding=options.encoding) as f:
+    with open(fn) as f:
         for ln, l in enumerate(f, start=1):
             l = l.rstrip('\n')
             if not l or l.isspace():
@@ -241,11 +242,31 @@ def resolve_references(annotations, options):
         a.resolve_references(ann_by_id)
 
 
+########## end annotation ##########
+
+
+NON_WN_LEMMAS = {
+    'bacteria': 'bacterium',
+    'fungi': 'fungus',
+}
+
+
+def lemmatize(string):
+    if lemmatize.lemmatizer is None:
+        nltk.download('wordnet')
+        lemmatize.lemmatizer = WordNetLemmatizer()
+    if string in NON_WN_LEMMAS:
+        return NON_WN_LEMMAS[string]
+    else:
+        return lemmatize.lemmatizer.lemmatize(string)
+lemmatize.lemmatizer = None
+
+
 def normalize_space(string):
     return ' '.join(string.split())
 
 
-def output(fn, annotations, options):
+def output(fn, annotations, ranks, names, options):
     textbounds = [a for a in annotations if isinstance(a, Textbound)]
     textbounds.sort(key=lambda t:(t.offsets[0][0], -t.offsets[-1][1]))
     for t in textbounds:
@@ -255,25 +276,92 @@ def output(fn, annotations, options):
             continue
         if not refs:
             refs = ['0']
+            name_classes = ['NO-NORM']
+            norm_ranks = ['NO-NORM']
+        else:
+            name_classes = names[refs[0]][t.text]
+            norm_ranks = [ranks[r] for r in refs]
+        if not name_classes:
+            name_classes = names[refs[0]][t.text.lower()]
+        if not name_classes:
+            name_classes = ['UNKNOWN']
         # print('{}\t{}'.format(','.join(refs), t.text))
         fields = []
-        if options.include_pmid:
-            fields.append(os.path.splitext(os.path.basename(fn))[0])
+        fields.append(os.path.splitext(os.path.basename(fn))[0])
         fields.append(','.join(refs))
         fields.append(t.text)
         fields.append(t.type_)
         fields.append(';'.join(notes))
+        fields.append(','.join(norm_ranks))
+        fields.append(','.join(name_classes))
         print('\t'.join(fields))
         #print('{}\t{}\t{}\t{}'.format(
         #    ','.join(refs), t.text, t.type_, ';'.join(notes)))
 
 
+def name_variants(text, name_class):
+    if name_class == 'scientific name':
+        # "Homo sapiens" -> "H. sapiens" etc.
+        parts = text.split()
+        initial, rest = parts[0][0], ' '.join(parts[1:])
+        yield (initial + '. ' + rest, name_class + ' (abbrev)')
+        yield (initial + ' ' + rest, name_class + ' (abbrev)')
+        yield (initial + '.' + rest, name_class + ' (abbrev)')
+
+    if name_class in ['common name', 'genbank common name', 'blast name']:
+        parts = text.split()
+        start, last = parts[:-1], parts[-1]
+        lemma = lemmatize(last)
+        yield (' '.join(start + [lemma]), name_class + ' (lemma)')
+
+
+def parse_dump_line(line):
+    line = line.rstrip('\n')
+    fields = line.split('|')
+    fields = [f.strip() for f in fields]
+    return fields
+
+
+def read_nodes(fn):
+    ranks = {}
+    with open(fn) as f:
+        for ln, l in enumerate(f, start=1):
+            fields = parse_dump_line(l)
+            tax_id, parent_id, rank = fields[:3]
+            assert tax_id not in ranks
+            ranks[tax_id] = rank
+    return ranks
+
+
+def read_taxnames(fn):
+    names = defaultdict(lambda: defaultdict(list))
+    with open(fn) as f:
+        for ln, l in enumerate(f, start=1):
+            fields = parse_dump_line(l)
+            tax_id, text, unique_name, name_class, _ = fields
+            names[tax_id][text].append(name_class)
+    new_names = defaultdict(lambda: defaultdict(list))
+    for tax_id in names:
+        for text in names[tax_id]:
+            for name_class in names[tax_id][text]:
+                for t, c in name_variants(text, name_class):
+                    new_names[tax_id][t].append(c)
+    for tax_id in new_names:
+        for text in new_names[tax_id]:
+            for name_class in new_names[tax_id][text]:
+                if text not in names[tax_id]:
+                    names[tax_id][text].append(name_class)
+    return names
+
+
 def main(argv):
     args = argparser().parse_args(argv[1:])
+    ranks = read_nodes(args.nodes)
+    names = read_taxnames(args.names)
     for fn in args.ann:
         annotations = parse_ann_file(fn, args)
         resolve_references(annotations, args)
-        output(fn, annotations, args)
+        output(fn, annotations, ranks, names, args)
     return 0
 
 

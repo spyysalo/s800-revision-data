@@ -1,6 +1,8 @@
 T1	Species 109 128	Salmonella enterica
 T2	Species 230 249	Salmonella enterica
-N1	Reference T1 Taxonomy:90371	Salmonella enterica subsp. enterica serovar Typhimurium
-N2	Reference T2 Taxonomy:90371	Salmonella enterica subsp. enterica serovar Typhimurium
 T3	Strain 137 148	Typhimurium
 T4	Strain 258 269	Typhimurium
+N3	Reference T3 Taxonomy:90371	Salmonella enterica subsp. enterica serovar Typhimurium
+N4	Reference T4 Taxonomy:90371	Salmonella enterica subsp. enterica serovar Typhimurium
+N1	Reference T1 Taxonomy:28901	
+N2	Reference T2 Taxonomy:28901	

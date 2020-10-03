@@ -9,7 +9,6 @@ T5	Species 1839 1844	mouse
 N5	Reference T5 Taxonomy:10090
 T6	Species 2137 2150	P. aeruginosa
 N6	Reference T6 Taxonomy:287
-N7	Reference T4 Taxonomy:1081927	Pseudomonas aeruginosa PA103
 T7	Strain 675 680	PA103
 T8	Strain 692 695	O11
 T9	Kingdom 248 256	bacteria
@@ -25,3 +24,5 @@ T15	Strain 1021 1028	Wzy::GM
 T16	Strain 1490 1499	DeltaWzz1
 T17	Strain 1620 1627	Wzy::GM
 T18	Strain 1632 1639	DDeltaM
+N10	Reference T7 Taxonomy:1081927	Pseudomonas aeruginosa PA103
+N7	Reference T4 Taxonomy:287	

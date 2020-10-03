@@ -16,7 +16,6 @@ N8	Reference T8 Taxonomy:239731
 T9	Species 1209 1227	C. cantabrigiensis
 N9	Reference T9 Taxonomy:239731
 T10	Species 1262 1271	C. protea
-N10	Reference T10 Taxonomy:303301
 T11	Species 1187 1205	H. cantabrigiensis
 T1001	Genus 95 104	Copromyxa
 N1001	Reference T1001 Taxonomy:931553	
@@ -54,3 +53,6 @@ T21	Out-of-scope 146 154	amoeboid
 #3	AnnotatorNotes T1002	form
 T22	Kingdom 678 688	eukaryotic
 N13	Reference T22 Taxonomy:2759	Eukaryota
+N19	Reference T11 Taxonomy:239731	
+N20	Reference T12 Taxonomy:303301	Hartmannella sp. 2 4/3Da/10
+N10	Reference T10 Taxonomy:931554	

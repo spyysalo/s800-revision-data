@@ -5,7 +5,6 @@ N2	Reference T2 Taxonomy:4081
 T3	Species 425 431	tomato
 N3	Reference T3 Taxonomy:4081
 T4	Species 646 652	potato
-N4	Reference T4 Taxonomy:4081
 T5	Species 1448 1454	tomato
 N5	Reference T5 Taxonomy:4081
 T6	Out-of-scope 207 227	Tomatiga de Ramellet
@@ -22,3 +21,4 @@ T11	Out-of-scope 1124 1126	TR
 #6	AnnotatorNotes T11	cultivar name, OOS
 T12	Kingdom 674 680	Plants
 N6	Reference T12 Taxonomy:33090	Viridiplantae
+N4	Reference T4 Taxonomy:4113	Solanum tuberosum

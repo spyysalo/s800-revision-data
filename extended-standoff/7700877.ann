@@ -40,3 +40,8 @@ T18	Family 977 989	caenolestids
 N18	Reference T18 Taxonomy:30659	Caenolestidae
 T19	Family 994 1004	didelphids
 N19	Reference T19 Taxonomy:9265	Didelphidae
+T20	Out-of-scope 249 259	marsupials
+N20	Reference T20 Taxonomy:9263	Metatheria
+#5	AnnotatorNotes T20	TODO: document
+T21	Class 420 427	mammals
+N21	Reference T21 Taxonomy:40674	Mammalia

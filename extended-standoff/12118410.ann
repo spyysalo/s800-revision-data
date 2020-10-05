@@ -1,11 +1,5 @@
-T1	Out-of-scope 27 33	plants
-N1	Reference T1 Taxonomy:33090	Viridiplantae
 T2	Out-of-scope 160 166	plants
 N2	Reference T2 Taxonomy:33090	Viridiplantae
-T3	Out-of-scope 324 330	plants
-N3	Reference T3 Taxonomy:33090	Viridiplantae
-T4	Out-of-scope 451 457	plants
-N4	Reference T4 Taxonomy:33090	Viridiplantae
 T5	Class 876 887	angiosperms
 N5	Reference T5 Taxonomy:3398	Magnoliopsida
 T6	Out-of-scope 978 986	monocots
@@ -54,3 +48,9 @@ N23	Reference T26 Taxonomy:3398	Magnoliopsida
 N24	Reference T15 Taxonomy:71240	eudicotyledons
 #5	AnnotatorNotes T16	TODO: document
 #6	AnnotatorNotes T17	TODO: document
+T27	Class 17 33	flowering plants
+N25	Reference T27 Taxonomy:3398	
+T28	Class 314 330	flowering plants
+N26	Reference T28 Taxonomy:3398	
+T29	Class 441 457	flowering plants
+N27	Reference T29 Taxonomy:3398	

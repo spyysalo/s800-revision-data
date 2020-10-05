@@ -1,0 +1,54 @@
+T1	Out-of-scope 89 100	seed plants
+T2	Out-of-scope 251 262	seed plants
+T3	Out-of-scope 297 312	vascular plants
+T4	Order 581 589	Gnetales
+N4	Reference T4 Taxonomy:3378	
+T5	Order 642 650	Gnetales
+N5	Reference T5 Taxonomy:3378	
+T6	Class 700 711	seed plants
+T7	Order 820 828	Gnetales
+N7	Reference T7 Taxonomy:3378	
+T8	Class 852 868	flowering plants
+N8	Reference T8 Taxonomy:3398	
+T9	Order 1300 1308	Gnetales
+N9	Reference T9 Taxonomy:3378	
+T10	Out-of-scope 1333 1344	seed plants
+T11	Order 1994 2002	Gnetales
+N11	Reference T11 Taxonomy:3378	
+N1	Reference T1 Taxonomy:58024	Spermatophyta
+#1	AnnotatorNotes T1	TODO check
+N2	Reference T2 Taxonomy:58024	Spermatophyta
+#2	AnnotatorNotes T2	TODO check
+N6	Reference T6 Taxonomy:58024	Spermatophyta
+#3	AnnotatorNotes T6	TODO check
+N10	Reference T10 Taxonomy:58024	Spermatophyta
+#4	AnnotatorNotes T10	TODO check
+N3	Reference T3 Taxonomy:58023	Tracheophyta
+#5	AnnotatorNotes T3	TODO check
+T12	Out-of-scope 718 729	gymnosperms
+#6	AnnotatorNotes T12	TODO check
+T13	Out-of-scope 783 793	anthophyte
+#7	AnnotatorNotes T13	TODO check
+T14	Out-of-scope 1452 1462	anthophyte
+#8	AnnotatorNotes T14	TODO check
+T15	Out-of-scope 1700 1710	gymnosperm
+#9	AnnotatorNotes T15	TODO check
+T16	Kingdom 94 100	plants
+N12	Reference T16 Taxonomy:33090	Viridiplantae
+T17	Kingdom 256 262	plants
+N13	Reference T17 Taxonomy:33090	Viridiplantae
+T18	Kingdom 306 312	plants
+N14	Reference T18 Taxonomy:33090	Viridiplantae
+T19	Kingdom 705 711	plants
+N15	Reference T19 Taxonomy:33090	Viridiplantae
+T20	Kingdom 1338 1344	plants
+N16	Reference T20 Taxonomy:33090	Viridiplantae
+T21	Kingdom 1940 1945	plant
+N17	Reference T21 Taxonomy:33090	Viridiplantae
+T22	Kingdom 2015 2020	plant
+N18	Reference T22 Taxonomy:33090	Viridiplantae
+T23	Out-of-scope 1935 1945	seed plant
+N19	Reference T23 Taxonomy:58024	Spermatophyta
+#10	AnnotatorNotes T23	TODO check
+T24	Out-of-scope 1677 1687	anthophyte
+#11	AnnotatorNotes T24	TODO check

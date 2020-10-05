@@ -1,0 +1,80 @@
+T1	Family 40 55	Phycodnaviridae
+N1	Reference T1 Taxonomy:10501	
+T2	Kingdom 136 143	viruses
+N2	Reference T2 Taxonomy:10239	
+T3	Family 282 297	Phycodnaviridae
+N3	Reference T3 Taxonomy:10501	
+T4	Kingdom 369 376	viruses
+N4	Reference T4 Taxonomy:10239	
+T5	Family 384 399	Phycodnaviridae
+N5	Reference T5 Taxonomy:10501	
+T6	Kingdom 707 714	viruses
+N6	Reference T6 Taxonomy:10239	
+T7	Family 821 836	Phycodnaviridae
+N7	Reference T7 Taxonomy:10501	
+T8	Kingdom 878 885	viruses
+N8	Reference T8 Taxonomy:10239	
+T9	Species 915 937	Pyramimonas orientalis
+N9	Reference T9 Taxonomy:36893	
+T10	Species 958 979	Phaeocystis pouchetii
+N10	Reference T10 Taxonomy:33659	
+T11	Species 984 1008	Chrysochromulina ericina
+N11	Reference T11 Taxonomy:156174	
+T12	Species 1010 1038	Pyramimonas orientalis virus
+N12	Reference T12 Taxonomy:455367	
+T13	Species 1054 1081	Phaeocystis pouchetii virus
+N13	Reference T13 Taxonomy:455365	
+T15	Species 1099 1129	Chrysochromulina ericina virus
+N15	Reference T15 Taxonomy:455364	
+T17	Kingdom 1434 1441	viruses
+N17	Reference T17 Taxonomy:10239	
+T18	Family 1624 1639	Phycodnaviridae
+N18	Reference T18 Taxonomy:10501	
+T19	Family 1793 1808	Phycodnaviridae
+N19	Reference T19 Taxonomy:10501	
+T20	Genus 1864 1873	mimivirus
+N20	Reference T20 Taxonomy:315393	
+T21	Species 1914 1920	PBCV-1
+N21	Reference T21 Taxonomy:10506	
+T22	Family 1925 1940	Phycodnaviridae
+N22	Reference T22 Taxonomy:10501	
+T23	Kingdom 1966 1973	viruses
+N23	Reference T23 Taxonomy:10239	
+T26	Kingdom 2253 2260	viruses
+N26	Reference T26 Taxonomy:10239	
+T27	Kingdom 2283 2290	viruses
+N27	Reference T27 Taxonomy:10239	
+#1	AnnotatorNotes T6	TODO check span ("DNA")
+T29	Out-of-scope 900 914	prymnesiophyte
+N29	Reference T29 Taxonomy:2608131	Prymnesiophyceae
+T30	Class 946 957	haptophytes
+N30	Reference T30 Taxonomy:2830	Haptophyta
+T31	Strain 1039 1042	01B
+#2	AnnotatorNotes T31	TODO check
+T32	Strain 1044 1051	PoV-01B
+#3	AnnotatorNotes T32	TODO check
+T33	Strain 1082 1084	01
+#4	AnnotatorNotes T33	TODO check
+T34	Strain 1086 1092	PpV-01
+#5	AnnotatorNotes T34	TODO check
+T35	Strain 1130 1133	01B
+#6	AnnotatorNotes T35	TODO check
+T36	Strain 1135 1142	CeV-01B
+#7	AnnotatorNotes T36	TODO check
+T14	Kingdom 1475 1480	viral
+N14	Reference T14 Taxonomy:10239	
+T16	Strain 1998 2005	PoV-01B
+#8	AnnotatorNotes T16	TODO check
+T37	Strain 2007 2013	PpV-01
+#9	AnnotatorNotes T37	TODO check
+T38	Strain 2019 2026	CeV-01B
+#10	AnnotatorNotes T38	TODO check
+T24	Genus 2064 2081	coccolithoviruses
+N16	Reference T24 Taxonomy:346673	Coccolithovirus
+T25	Genus 2086 2098	phaeoviruses
+N24	Reference T25 Taxonomy:181085	Phaeovirus
+T39	Kingdom 2174 2179	virus
+N25	Reference T39 Taxonomy:10239	
+T40	Out-of-scope 2316 2330	prymnesiophyte
+N31	Reference T40 Taxonomy:2608131	Prymnesiophyceae
+T41	Out-of-scope 2335 2347	prasinophyte

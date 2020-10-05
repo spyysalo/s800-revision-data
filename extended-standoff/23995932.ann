@@ -1,0 +1,36 @@
+T1	Genus 41 55	flavobacterium
+N1	Reference T1 Taxonomy:237	
+T2	Species 56 74	Formosa agariphila
+N2	Reference T2 Taxonomy:320324	
+T3	Class 193 206	Bacteroidetes
+N3	Reference T3 Taxonomy:200643	
+T4	Genus 295 302	Formosa
+N4	Reference T4 Taxonomy:225842	
+T5	Class 317 330	Bacteroidetes
+N5	Reference T5 Taxonomy:200643	
+T6	Genus 354 367	Flavobacteria
+N6	Reference T6 Taxonomy:237	
+T7	Species 621 639	Formosa agariphila
+N7	Reference T7 Taxonomy:320324	
+T8	Strain 641 649	KMM 3901
+T9	Species 686 706	Acrosiphonia sonderi
+N9	Reference T9 Taxonomy:932719	
+T10	Species 708 721	F. agariphila
+N10	Reference T10 Taxonomy:320324	
+T11	Species 1335 1348	F. agariphila
+N11	Reference T11 Taxonomy:320324	
+T12	Class 1441 1452	brown algae
+N12	Reference T12 Taxonomy:2870	
+#1	AnnotatorNotes T1	TODO check norm
+#2	AnnotatorNotes T6	TODO check type/norm ("class" -> Flavobacteriia?)
+T13	Strain 75 84	KMM 3901T
+N13	Reference T13 Taxonomy:1347342	Formosa agariphila KMM 3901
+N8	Reference T8 Taxonomy:1347342	Formosa agariphila KMM 3901
+T14	Phylum 675 685	green alga
+N14	Reference T14 Taxonomy:3041	Chlorophyta
+T15	Phylum 1425 1430;1447 1452	green algae
+N15	Reference T15 Taxonomy:3041	Chlorophyta
+T16	Phylum 1432 1435;1447 1452	red algae
+N16	Reference T16 Taxonomy:2763	Rhodophyta
+T17	Phylum 1272 1285	bacteroidetal
+N17	Reference T17 Taxonomy:976	Bacteroidetes

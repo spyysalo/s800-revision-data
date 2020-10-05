@@ -1,0 +1,45 @@
+T1	Species 23 46	Yaba-like disease virus
+T2	Genus 50 62	yatapoxvirus
+N2	Reference T2 Taxonomy:10282	
+T3	Species 87 110	Yaba-like disease virus
+T4	Species 112 116	YLDV
+T5	Genus 149 161	yatapoxvirus
+N5	Reference T5 Taxonomy:10282	
+T6	Species 232 236	YLDV
+T7	Species 987 1001	vaccinia virus
+N7	Reference T7 Taxonomy:10245	
+T8	Species 1202 1206	YLDV
+T9	Species 1539 1543	YLDV
+T10	Species 1571 1594	yaba monkey tumor virus
+N10	Reference T10 Taxonomy:38804	
+T11	Genus 1612 1624	yatapoxvirus
+N11	Reference T11 Taxonomy:10282	
+T12	Species 1631 1635	YLDV
+T13	Species 1663 1677	swinepox virus
+N13	Reference T13 Taxonomy:10276	
+#1	AnnotatorNotes T1	TODO document type and norm (from "no rank")
+T14	Family 411 421	poxviruses
+N14	Reference T14 Taxonomy:10240	Poxviridae
+T15	Family 728 738	poxviruses
+N15	Reference T15 Taxonomy:10240	Poxviridae
+T16	Family 1186 1196	poxviruses
+N16	Reference T16 Taxonomy:10240	Poxviridae
+T17	Family 1430 1438	poxvirus
+N17	Reference T17 Taxonomy:10240	Poxviridae
+T18	Genus 1682 1698	leporipoxviruses
+N18	Reference T18 Taxonomy:10270	Leporipoxvirus
+T19	Family 1713 1727	chordopoxvirus
+N19	Reference T19 Taxonomy:10241	Chordopoxvirinae
+#2	AnnotatorNotes T3	TODO document type and norm (from "no rank")
+#3	AnnotatorNotes T4	TODO document type and norm (from "no rank")
+#4	AnnotatorNotes T6	TODO document type and norm (from "no rank")
+#5	AnnotatorNotes T8	TODO document type and norm (from "no rank")
+#6	AnnotatorNotes T9	TODO document type and norm (from "no rank")
+#7	AnnotatorNotes T12	TODO document type and norm (from "no rank")
+N20	Reference T1 Taxonomy:132475	Yaba-like disease virus
+N1	Reference T3 Taxonomy:132475	Yaba-like disease virus
+N3	Reference T4 Taxonomy:132475	Yaba-like disease virus
+N4	Reference T6 Taxonomy:132475	Yaba-like disease virus
+N6	Reference T8 Taxonomy:132475	Yaba-like disease virus
+N8	Reference T9 Taxonomy:132475	Yaba-like disease virus
+N9	Reference T12 Taxonomy:132475	Yaba-like disease virus

@@ -1,0 +1,49 @@
+T1	Species 245 261	Plasmodium vivax
+N1	Reference T1 Taxonomy:5855	
+T2	Species 372 377	human
+N2	Reference T2 Taxonomy:9606	
+T3	Species 414 419	human
+N3	Reference T3 Taxonomy:9606	
+T4	Order 474 482	primates
+N4	Reference T4 Taxonomy:9443	
+T5	Class 502 509	mammals
+N5	Reference T5 Taxonomy:40674	
+T6	Genus 567 574	gorilla
+T7	Species 576 582	gibbon
+N8	Reference T7 Taxonomy:9581	
+T8	Genus 584 590	baboon
+T9	Species 602 609	tamarin
+N14	Reference T9 Taxonomy:9491	
+T10	Species 611 623	night monkey
+N15	Reference T10 Taxonomy:9505	
+T11	Species 628 634	cattle
+N16	Reference T11 Taxonomy:9913	
+T12	Species 857 862	human
+N17	Reference T12 Taxonomy:9606	
+T13	Species 867 877	chimpanzee
+N18	Reference T13 Taxonomy:9598	
+T14	Species 906 918	night monkey
+N19	Reference T14 Taxonomy:9505	
+T16	Species 945 955	chimpanzee
+N21	Reference T16 Taxonomy:9598	
+T17	Genus 1051 1058	gorilla
+T18	Genus 1060 1066	baboon
+T19	Species 1071 1084	rhesus monkey
+N29	Reference T19 Taxonomy:9544	
+T20	Order 1099 1116	new world monkeys
+N30	Reference T20 Taxonomy:9479	
+T21	Order 1270 1277	primate
+N31	Reference T21 Taxonomy:9443	
+T22	Species 1426 1442	Plasmodium vivax
+N32	Reference T22 Taxonomy:5855	
+T23	Class 53 62	mammalian
+N33	Reference T23 Taxonomy:40674	Mammalia
+#1	AnnotatorNotes T2	NOTE: "anti-" prefix
+N34	Reference T6 Taxonomy:9592	Gorilla
+N6	Reference T8 Taxonomy:9554	Papio
+T24	Species 592 600	marmoset
+N7	Reference T24 Taxonomy:38020	marmosets
+T15	Genus 923 938	squirrel monkey
+N9	Reference T15 Taxonomy:9520	Saimiri
+N10	Reference T17 Taxonomy:9592	Gorilla
+N11	Reference T18 Taxonomy:9554	Papio

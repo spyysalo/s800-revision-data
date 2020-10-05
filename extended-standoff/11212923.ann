@@ -1,0 +1,11 @@
+T1	Kingdom 777 788	eubacterial
+T2	Class 97 106	Euglenoid
+N2	Reference T2 Taxonomy:3035	Euglenida
+T3	Species 187 198	E. gracilis
+N3	Reference T3 Taxonomy:3039	Euglena gracilis
+T4	Class 629 638	Euglenoid
+N4	Reference T4 Taxonomy:3035	Euglenida
+N1	Reference T1 Taxonomy:2	Bacteria
+#1	AnnotatorNotes T1	TODO check
+T5	Class 1028 1037	Euglenoid
+N5	Reference T5 Taxonomy:3035	Euglenida

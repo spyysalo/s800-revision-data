@@ -1,0 +1,54 @@
+T1	Kingdom 74 82	archaeon
+T2	Genus 83 93	Sulfolobus
+N2	Reference T2 Taxonomy:2284	
+T3	Species 95 99	SSV1
+N3	Reference T3 Taxonomy:244589	
+T4	Species 104 108	SSV2
+N4	Reference T4 Taxonomy:244590	
+T5	Species 127 131	SSV2
+N5	Reference T5 Taxonomy:244590	
+T6	Genus 150 160	Sulfolobus
+N6	Reference T6 Taxonomy:2284	
+T7	Species 242 246	SSV2
+N7	Reference T7 Taxonomy:244590	
+T8	Species 377 381	SSV1
+N8	Reference T8 Taxonomy:244589	
+T9	Kingdom 546 559	bacteriophage
+T10	Kingdom 576 583	viruses
+N10	Reference T10 Taxonomy:10239	
+T11	Genus 607 617	Sulfolobus
+N11	Reference T11 Taxonomy:2284	
+T12	Kingdom 705 712	viruses
+N12	Reference T12 Taxonomy:10239	
+T13	Species 813 817	SSV1
+N13	Reference T13 Taxonomy:244589	
+T14	Species 835 839	SSV2
+N14	Reference T14 Taxonomy:244590	
+T15	Species 1020 1024	SSV2
+N15	Reference T15 Taxonomy:244590	
+T16	Species 1103 1107	SSV2
+N16	Reference T16 Taxonomy:244590	
+T17	Family 1138 1150	fusellovirus
+T18	Strain 1175 1201	Sulfolobus solfataricus P2
+N18	Reference T18 Taxonomy:273057	
+T19	Genus 1248 1258	Sulfolobus
+N19	Reference T19 Taxonomy:2284	
+T20	Species 1320 1324	SSV1
+N20	Reference T20 Taxonomy:244589	
+T21	Species 1329 1333	SSV2
+N21	Reference T21 Taxonomy:244590	
+T22	Family 1355 1369	Fuselloviridae
+N22	Reference T22 Taxonomy:10474	
+N1	Reference T1 Taxonomy:2157	Archaea
+T23	Family 114 126	fusellovirus
+N23	Reference T23 Taxonomy:10474	Fuselloviridae
+T24	Kingdom 432 437	virus
+N24	Reference T24 Taxonomy:10239	
+N9	Reference T9 Taxonomy:10239	
+T25	Genus 592 603	rudiviruses
+N25	Reference T25 Taxonomy:187213	Rudivirus
+T26	Species 619 624	SIRV1
+#1	AnnotatorNotes T26	TODO check
+T27	Species 629 634	SIRV2
+#2	AnnotatorNotes T27	TODO check
+N17	Reference T17 Taxonomy:10474	Fuselloviridae

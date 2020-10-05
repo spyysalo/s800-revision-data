@@ -1,0 +1,59 @@
+T1	Species 37 61	Pseudomonas solanacearum
+N1	Reference T1 Taxonomy:305	
+T2	Species 244 268	Pseudomonas solanacearum
+N2	Reference T2 Taxonomy:305	
+T3	Species 370 376	tomato
+N3	Reference T3 Taxonomy:4081	
+T4	Species 1118 1124	tomato
+N4	Reference T4 Taxonomy:4081	
+T5	Species 1383 1398	Yersinia pestis
+N5	Reference T5 Taxonomy:632	
+T6	Species 1403 1420	Y. enterocolitica
+N6	Reference T6 Taxonomy:630	
+T7	Species 1430 1452	Caulobacter crescentus
+N7	Reference T7 Taxonomy:155892	
+T8	Species 1462 1479	Bacillus subtilis
+N8	Reference T8 Taxonomy:1423	
+T9	Species 1498 1515	Shigella flexneri
+N9	Reference T9 Taxonomy:623	
+T10	Out-of-scope 1525 1547	Salmonella typhimurium
+T11	Species 1561 1599	Xanthomonas campestris pv. vesicatoria
+N11	Reference T11 Taxonomy:56460	
+T12	Kingdom 1668 1676	bacteria
+T14	Species 1805 1822	Shigella flexneri
+N15	Reference T14 Taxonomy:623	
+T15	Genus 1831 1839	Yersinia
+N17	Reference T15 Taxonomy:629	
+T16	Species 2291 2306	P. solanacearum
+N18	Reference T16 Taxonomy:305	
+T17	Species 2311 2324	X. campestris
+N19	Reference T17 Taxonomy:339	
+T18	Species 2415 2430	P. solanacearum
+N20	Reference T18 Taxonomy:305	
+T19	Species 2440 2446	tomato
+N21	Reference T19 Taxonomy:4081	
+T20	Kingdom 66 75	bacterial
+N22	Reference T20 Taxonomy:2	Bacteria
+T21	Strain 233 240	GMI1000
+N23	Reference T21 Taxonomy:267608	Ralstonia solanacearum GMI1000
+T22	Species 451 458	tobacco
+N24	Reference T22 Taxonomy:4097	Nicotiana tabacum
+T23	Kingdom 471 476	plant
+N25	Reference T23 Taxonomy:33090	Viridiplantae
+T24	Species 1092 1099	tobacco
+N26	Reference T24 Taxonomy:4097	Nicotiana tabacum
+T25	Kingdom 377 383	plants
+N27	Reference T25 Taxonomy:33090	Viridiplantae
+T26	Kingdom 1125 1131	plants
+N28	Reference T26 Taxonomy:33090	Viridiplantae
+N10	Reference T10 Taxonomy:90371	Salmonella enterica subsp. enterica serovar Typhimurium
+#1	AnnotatorNotes T10	TODO check (no rank)
+T13	Species 2451 2458	tobacco
+N13	Reference T13 Taxonomy:4097	Nicotiana tabacum
+T27	Kingdom 2561 2566	plant
+N14	Reference T27 Taxonomy:33090	Viridiplantae
+N12	Reference T12 Taxonomy:2	Bacteria
+T28	Kingdom 2567 2576	bacterial
+N16	Reference T28 Taxonomy:2	Bacteria
+T29	Kingdom 2711 2716	plant
+N29	Reference T29 Taxonomy:33090	Viridiplantae

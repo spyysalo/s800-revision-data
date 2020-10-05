@@ -1,0 +1,32 @@
+T1	Phylum 52 66	cyanobacterial
+T2	Phylum 180 193	cyanobacteria
+T3	Kingdom 457 468	eubacterial
+T4	Phylum 884 893	red algae
+N4	Reference T4 Taxonomy:2763	
+T5	Species 913 932	Cyanophora paradoxa
+N5	Reference T5 Taxonomy:2762	
+T6	Phylum 960 973	cyanobacteria
+T7	Phylum 993 1007	cyanobacterial
+T8	Phylum 1252 1261	red algae
+N8	Reference T8 Taxonomy:2763	
+T9	Phylum 1431 1444	cyanobacteria
+T10	Kingdom 1571 1582	eubacterial
+T11	Kingdom 1686 1696	eubacteria
+T12	Kingdom 1732 1743	eubacterial
+T13	Phylum 1763 1776	cyanobacteria
+N1	Reference T1 Taxonomy:1117	Cyanobacteria
+N2	Reference T2 Taxonomy:1117	Cyanobacteria
+N3	Reference T3 Taxonomy:2	Bacteria
+N6	Reference T6 Taxonomy:1117	Cyanobacteria
+N9	Reference T9 Taxonomy:1117	Cyanobacteria
+N13	Reference T13 Taxonomy:1117	Cyanobacteria
+N10	Reference T10 Taxonomy:2	Bacteria
+N12	Reference T12 Taxonomy:2	Bacteria
+N11	Reference T11 Taxonomy:2	Bacteria
+N7	Reference T7 Taxonomy:1117	Cyanobacteria
+T14	Phylum 874 879;888 893	green algae
+N14	Reference T14 Taxonomy:3041	Chlorophyta
+T15	Kingdom 895 907	chromophytes
+#1	AnnotatorNotes T15	TODO check
+T16	Kingdom 1266 1278	chromophytes
+#2	AnnotatorNotes T16	TODO check

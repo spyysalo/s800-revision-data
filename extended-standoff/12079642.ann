@@ -1,0 +1,60 @@
+T1	Order 140 146	rodent
+N1	Reference T1 Taxonomy:9989	
+T2	Species 228 232	mice
+N2	Reference T2 Taxonomy:10090	
+T3	Genus 609 616	Pyromys
+N3	Reference T3 Taxonomy:862511	
+T4	Genus 618 626	Coelomys
+N4	Reference T4 Taxonomy:862508	
+T5	Genus 632 640	Nannomys
+N5	Reference T5 Taxonomy:862510	
+T6	Species 684 690	murine
+N6	Reference T6 Taxonomy:10090	
+T7	Species 1152 1156	mice
+N7	Reference T7 Taxonomy:10090	
+T8	Species 1350 1361	M. musculus
+N8	Reference T8 Taxonomy:10090	
+T9	Species 1363 1377	M. macedonicus
+N9	Reference T9 Taxonomy:10100	
+T10	Species 1379 1392	M. spicilegus
+N10	Reference T10 Taxonomy:10103	
+T11	Species 1398 1408	M. spretus
+N12	Reference T11 Taxonomy:10096	
+T12	Species 1421 1434	M. cervicolor
+N13	Reference T12 Taxonomy:10097	
+T13	Species 1436 1445	M. cookii
+N14	Reference T13 Taxonomy:10098	
+T14	Species 1451 1460	M. caroli
+N18	Reference T14 Taxonomy:10089	
+T15	Species 1487 1497	house mice
+N19	Reference T15 Taxonomy:10090	
+T16	Species 1499 1513	M. m. musculus
+T17	Species 1516 1532	M. m. molossinus
+N21	Reference T17 Taxonomy:57486	
+T18	Species 1535 1550	M. m. castaneus
+N22	Reference T18 Taxonomy:10091	
+T19	Species 1556 1572	M. m. domesticus
+N23	Reference T19 Taxonomy:10092	
+T20	Species 1615 1629	M. macedonicus
+N24	Reference T20 Taxonomy:10100	
+T21	Species 1634 1647	M. spicilegus
+N25	Reference T21 Taxonomy:10103	
+T22	Genus 153 156	Mus
+T23	Genus 40 43	mus
+T24	Genus 474 477	Mus
+T25	Genus 568 571	Mus
+N29	Reference T25 Taxonomy:862507	Mus
+T26	Genus 1268 1271	Mus
+N27	Reference T23 Taxonomy:10088	Mus
+N26	Reference T22 Taxonomy:10088	Mus
+N28	Reference T24 Taxonomy:10088	Mus
+N30	Reference T26 Taxonomy:10088	Mus
+T27	Genus 1299 1302	Mus
+N31	Reference T27 Taxonomy:862507	Mus
+T28	Genus 1329 1332	Mus
+N32	Reference T28 Taxonomy:862507	Mus
+#1	AnnotatorNotes T16	TODO check
+#2	AnnotatorNotes T17	TODO check
+#3	AnnotatorNotes T18	TODO check
+#4	AnnotatorNotes T19	TODO check
+N11	Reference T16 Taxonomy:39442	Mus musculus musculus

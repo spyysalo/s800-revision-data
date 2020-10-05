@@ -1,0 +1,38 @@
+T1	Species 60 77	Achlya bisexualis
+N1	Reference T1 Taxonomy:4766	
+T2	Class 79 87	Oomycota
+N2	Reference T2 Taxonomy:4762	
+T3	Species 93 109	Costaria costata
+N3	Reference T3 Taxonomy:2872	
+T4	Class 111 122	Chromophyta
+T5	Species 219 236	Achlya bisexualis
+N7	Reference T5 Taxonomy:4766	
+T6	Class 238 246	Oomycota
+N8	Reference T6 Taxonomy:4762	
+T7	Species 252 268	Costaria costata
+N9	Reference T7 Taxonomy:2872	
+T8	Class 270 281	Chromophyta
+T9	Species 454 464	C. costata
+N13	Reference T9 Taxonomy:2872	
+T10	Species 631 644	A. bisexualis
+N14	Reference T10 Taxonomy:4766	
+T11	Species 649 659	C. costata
+N15	Reference T11 Taxonomy:2872	
+T12	Kingdom 764 769	fungi
+N16	Reference T12 Taxonomy:4751	
+T13	Kingdom 771 783	green plants
+N17	Reference T13 Taxonomy:33090	
+T14	Kingdom 1047 1057	eukaryotes
+N18	Reference T14 Taxonomy:2759	
+T15	Kingdom 1285 1290	fungi
+N19	Reference T15 Taxonomy:4751	
+T16	Class 1295 1311	flowering plants
+N20	Reference T16 Taxonomy:3398	
+#1	AnnotatorNotes T4	TODO check, norm
+#2	AnnotatorNotes T8	TODO check, norm
+T17	Out-of-scope 186 196	heterokont
+N4	Reference T17 Taxonomy:33634	Stramenopiles
+T18	Kingdom 789 796	animals
+N5	Reference T18 Taxonomy:33208	Metazoa
+T19	Kingdom 1366 1372	animal
+N6	Reference T19 Taxonomy:33208	Metazoa

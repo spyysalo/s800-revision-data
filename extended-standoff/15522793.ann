@@ -1,0 +1,49 @@
+T1	Genus 47 55	Microtus
+N1	Reference T1 Taxonomy:10053	
+T2	Family 57 68	Arvicolinae
+N2	Reference T2 Taxonomy:39087	
+T3	Order 70 78	Rodentia
+N3	Reference T3 Taxonomy:9989	
+T4	Genus 142 150	Microtus
+N4	Reference T4 Taxonomy:10053	
+T5	Genus 262 270	Microtus
+N5	Reference T5 Taxonomy:10053	
+T6	Genus 410 418	Microtus
+N6	Reference T6 Taxonomy:10053	
+T7	Genus 672 680	Microtus
+N7	Reference T7 Taxonomy:10053	
+T8	Genus 795 804	Chionomys
+N8	Reference T8 Taxonomy:269648	
+T9	Genus 887 895	Microtus
+N9	Reference T9 Taxonomy:10053	
+T10	Genus 910 918	Microtus
+N10	Reference T10 Taxonomy:10053	
+T11	Genus 1337 1345	Microtus
+N11	Reference T11 Taxonomy:10053	
+T12	Genus 1517 1525	Microtus
+N12	Reference T12 Taxonomy:10053	
+T13	Genus 1781 1789	Microtus
+N13	Reference T13 Taxonomy:10053	
+T14	Class 1868 1875	mammals
+N14	Reference T14 Taxonomy:40674	
+T15	Out-of-scope 36 40	vole
+#1	AnnotatorNotes T15	TODO check, consistency
+T16	Class 186 195	mammalian
+N15	Reference T16 Taxonomy:40674	Mammalia
+T17	Out-of-scope 123 128	Voles
+#2	AnnotatorNotes T17	TODO check, consistency
+T18	Genus 806 816	snow voles
+N16	Reference T18 Taxonomy:269648	Chionomys
+#3	AnnotatorNotes T18	TODO check
+T19	Out-of-scope 1023 1030	arvalis
+#4	AnnotatorNotes T19	TODO check
+T20	Species 1046 1058	common voles
+N17	Reference T20 Taxonomy:47230	Microtus arvalis
+T21	Out-of-scope 1068 1076	socialis
+#5	AnnotatorNotes T21	TODO check
+T22	Species 1092 1104	social voles
+N18	Reference T22 Taxonomy:269658	Microtus socialis
+T23	Genus 1160 1169	Terricola
+N19	Reference T23 Taxonomy:2681584	Terricola
+T24	Out-of-scope 1135 1149	pitymyid voles
+#6	AnnotatorNotes T24	TODO check

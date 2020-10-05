@@ -1,0 +1,28 @@
+T1	Order 103 109	snakes
+N1	Reference T1 Taxonomy:8570	
+T2	Order 188 194	snakes
+N2	Reference T2 Taxonomy:8570	
+T3	Order 1397 1403	snakes
+N3	Reference T3 Taxonomy:8570	
+T4	Order 1527 1533	snakes
+N4	Reference T4 Taxonomy:8570	
+T5	Order 2193 2199	snakes
+N5	Reference T5 Taxonomy:8570	
+T6	Out-of-scope 111 122	Caenophidia
+#1	AnnotatorNotes T6	TODO: confirm OOS (clade)
+T7	Out-of-scope 196 207	Caenophidia
+#2	AnnotatorNotes T7	TODO: confirm OOS (clade)
+T8	Order 539 544	snake
+N6	Reference T8 Taxonomy:8570	
+T9	Out-of-scope 824 829	cobra
+#3	AnnotatorNotes T9	TODO check
+T10	Order 964 969	snake
+N7	Reference T10 Taxonomy:8570	
+T11	Family 1519 1526	viperid
+N8	Reference T11 Taxonomy:8689	Viperidae
+T12	Out-of-scope 1782 1787	slugs
+#4	AnnotatorNotes T12	TODO check
+T13	Out-of-scope 1788 1794	snails
+#5	AnnotatorNotes T13	TODO check
+T14	Order 1879 1884	snake
+N9	Reference T14 Taxonomy:8570	

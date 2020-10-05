@@ -1,0 +1,24 @@
+T1	Order 359 366	beetles
+N1	Reference T1 Taxonomy:7041	
+T2	Family 378 388	Cetoniinae
+N2	Reference T2 Taxonomy:7056	
+T3	Species 421 439	Pachnoda marginata
+T4	Species 441 451	P. sinuata
+T7	Species 580 590	P. sinuata
+T9	Species 730 740	P. sinuata
+T10	Species 1309 1319	P. sinuata
+T11	Family 82 89	cetonid
+T12	Order 90 96	beetle
+N39	Reference T12 Taxonomy:7041	Coleoptera
+N40	Reference T11 Taxonomy:7056	
+T13	Family 348 358	scarabaeid
+N41	Reference T13 Taxonomy:7055	Scarabaeidae
+N3	Reference T3 Taxonomy:7058	Pachnoda marginata
+T14	Species 456 466	P. aemulae
+T5	Species 501 524	Trichostetha fascularis
+N4	Reference T5 Taxonomy:1207211	Trichostetha fascicularis
+T6	Species 529 541	T. albopicta
+T15	Family 632 652	American cockroaches
+T16	Species 695 712	migratory locusts
+N6	Reference T16 Taxonomy:7004	Locusta migratoria
+N7	Reference T15 Taxonomy:6978	Periplaneta americana

@@ -1,0 +1,48 @@
+T1	Family 76 87	coronaviral
+T2	Genus 92 101	toroviral
+N4	Reference T2 Taxonomy:11155	
+T3	Kingdom 136 143	viruses
+N5	Reference T3 Taxonomy:10239	
+T4	Species 650 656	bovine
+N6	Reference T4 Taxonomy:9913	
+T5	Species 661 666	human
+N7	Reference T5 Taxonomy:9606	
+T6	Species 696 702	equine
+N8	Reference T6 Taxonomy:9796	
+T9	Species 987 1005	murine coronavirus
+N11	Reference T9 Taxonomy:694005	
+T10	Species 1194 1198	mice
+N12	Reference T10 Taxonomy:10090	
+T12	Order 0 9	Nidovirus
+N14	Reference T12 Taxonomy:76804	Nidovirales
+N1	Reference T1 Taxonomy:11118	Coronaviridae
+T13	Genus 288 299	Toroviruses
+N2	Reference T13 Taxonomy:11155	Torovirus
+T14	Family 312 325	coronaviruses
+N3	Reference T14 Taxonomy:11118	Coronaviridae
+T15	Family 667 680	coronaviruses
+N15	Reference T15 Taxonomy:11118	Coronaviridae
+T16	Family 703 716	coronaviruses
+N16	Reference T16 Taxonomy:11118	Coronaviridae
+T20	Species 745 763	Bovine toroviruses
+N20	Reference T20 Taxonomy:74501	Bovine torovirus
+T7	Species 724 743	porcine toroviruses
+N9	Reference T7 Taxonomy:237020	Porcine torovirus
+T17	Species 919 939	rodent coronaviruses
+N17	Reference T17 Taxonomy:2050018	Rodent coronavirus
+T8	Strain 1006 1010	DVIM
+N10	Reference T8 Taxonomy:231423	Murine coronavirus strain DVIM
+T18	Family 1177 1190	coronaviruses
+N18	Reference T18 Taxonomy:11118	Coronaviridae
+T19	Order 1252 1261	nidovirus
+N19	Reference T19 Taxonomy:76804	Nidovirales
+T21	Family 1237 1246;1256 1261	orthomyxo virus
+N21	Reference T21 Taxonomy:11308	Orthomyxoviridae
+T22	Family 1306 1322	orthomyxoviruses
+N22	Reference T22 Taxonomy:11308	Orthomyxoviridae
+T23	Species 1324 1344	rodent coronaviruses
+N23	Reference T23 Taxonomy:2050018	Rodent coronavirus
+T11	Family 1438 1452	orthomyxovirus
+N13	Reference T11 Taxonomy:11308	Orthomyxoviridae
+T24	Order 1482 1491	nidovirus
+N24	Reference T24 Taxonomy:76804	Nidovirales

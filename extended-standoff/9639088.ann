@@ -1,0 +1,22 @@
+T1	Species 303 308	human
+N1	Reference T1 Taxonomy:9606	
+T2	Species 682 697	Atlantic salmon
+N2	Reference T2 Taxonomy:8030	
+T3	Species 699 710	Salmo salar
+N3	Reference T3 Taxonomy:8030	
+T4	Species 720 728	wolffish
+N4	Reference T4 Taxonomy:8204	
+T5	Species 730 746	Anarhichas lupus
+N5	Reference T5 Taxonomy:8204	
+T6	Species 754 766	Gadus morhua
+N6	Reference T6 Taxonomy:8049	
+T7	Species 781 806	Hippoglossus hippoglossus
+N7	Reference T7 Taxonomy:8267	
+T8	Species 1019 1024	human
+N8	Reference T8 Taxonomy:9606	
+T9	Out-of-scope 60 64	fish
+T10	Genus 749 752	cod
+N9	Reference T10 Taxonomy:8048	Gadus
+T11	Out-of-scope 772 779	halibut
+#1	AnnotatorNotes T11	TODO check
+T12	Out-of-scope 1168 1172	fish

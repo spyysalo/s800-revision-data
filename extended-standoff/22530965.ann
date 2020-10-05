@@ -1,0 +1,40 @@
+T1	Species 79 101	Listeria monocytogenes
+N1	Reference T1 Taxonomy:1639	
+T2	Species 115 137	Listeria monocytogenes
+N2	Reference T2 Taxonomy:1639	
+T3	Species 331 347	L. monocytogenes
+N3	Reference T3 Taxonomy:1639	
+T4	Species 585 601	L. monocytogenes
+N4	Reference T4 Taxonomy:1639	
+T5	Species 695 701	humans
+N5	Reference T5 Taxonomy:9606	
+T6	Species 1119 1135	L. monocytogenes
+N6	Reference T6 Taxonomy:1639	
+T7	Genus 1307 1315	Listeria
+N7	Reference T7 Taxonomy:1637	
+T9	Species 1825 1831	murine
+N9	Reference T9 Taxonomy:10090	
+T10	Species 1912 1928	L. monocytogenes
+N10	Reference T10 Taxonomy:1639	
+T11	Strain 378 380	4a
+#1	AnnotatorNotes T11	TODO check (serotype)
+T12	Strain 382 385	L99
+T13	Strain 391 393	4b
+#3	AnnotatorNotes T13	TODO check (serotype)
+T14	Strain 395 404	CLIP80459
+T15	Strain 635 641	4a L99
+#2	AnnotatorNotes T15	TODO check
+T16	Strain 757 760	L99
+T17	Strain 770 772	4a
+T18	Strain 884 896	4b CLIP80459
+T19	Strain 937 945	4b F2365
+#4	AnnotatorNotes T18	TODO check
+#5	AnnotatorNotes T19	TODO check
+T20	Strain 1159 1165	4a L99
+#6	AnnotatorNotes T20	TODO check
+T21	Strain 1405 1411	4a L99
+#7	AnnotatorNotes T21	TODO check
+T22	Strain 1144 1154	1/2a EGD-e
+#8	AnnotatorNotes T22	TODO check
+T23	Strain 1751 1761	EGD-e 1/2a
+#9	AnnotatorNotes T23	TODO check

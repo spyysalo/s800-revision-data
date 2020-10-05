@@ -1,0 +1,19 @@
+T1	Order 4 9	flies
+N1	Reference T1 Taxonomy:7147	
+T2	Order 69 76	Diptera
+N2	Reference T2 Taxonomy:7147	
+T3	Family 260 273	Drosophilidae
+N3	Reference T3 Taxonomy:7214	
+T4	Family 287 300	Drosophilidae
+N4	Reference T4 Taxonomy:7214	
+T5	Family 392 405	Drosophilidae
+N5	Reference T5 Taxonomy:7214	
+T6	Family 554 567	Drosophilidae
+N6	Reference T6 Taxonomy:7214	
+T7	Species 846 870	Drosophila pseudoobscura
+T8	Order 215 223	Dipteran
+N8	Reference T8 Taxonomy:7147	
+T9	Family 759 771	drosophilids
+N9	Reference T9 Taxonomy:7214	Drosophilidae
+T10	Out-of-scope 957 972	nondrosophilids
+N7	Reference T7 Taxonomy:7237	Drosophila pseudoobscura

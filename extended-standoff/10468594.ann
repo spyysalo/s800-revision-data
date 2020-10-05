@@ -1,0 +1,69 @@
+T1	Species 56 77	Nephroselmis olivacea
+N1	Reference T1 Taxonomy:31312	
+T2	Kingdom 144 156	Green plants
+N2	Reference T2 Taxonomy:33090	
+T3	Phylum 191 202	Chlorophyta
+N3	Reference T3 Taxonomy:3041	
+T4	Class 239 253	Prasinophyceae
+T5	Class 255 266	Ulvophyceae
+N5	Reference T5 Taxonomy:33103	
+T6	Class 268 284	Trebouxiophyceae
+N6	Reference T6 Taxonomy:75966	
+T7	Class 290 303	Chlorophyceae
+N7	Reference T7 Taxonomy:3166	
+T8	Phylum 309 321	Streptophyta
+N8	Reference T8 Taxonomy:35493	
+T9	Class 338 350	Charophyceae
+N9	Reference T9 Taxonomy:304574	
+T10	Out-of-scope 355 366	land plants
+T11	Species 449 470	Nephroselmis olivacea
+N11	Reference T11 Taxonomy:31312	
+T12	Class 495 509	Prasinophyceae
+T13	Phylum 568 579	green algae
+N13	Reference T13 Taxonomy:3041	
+T14	Genus 740 752	Nephroselmis
+N14	Reference T14 Taxonomy:31311	
+T15	Genus 1057 1069	Nephroselmis
+N15	Reference T15 Taxonomy:31311	
+T16	Genus 1355 1367	Nephroselmis
+N16	Reference T16 Taxonomy:31311	
+T17	Phylum 1379 1390	Chlorophyta
+N17	Reference T17 Taxonomy:3041	
+T18	Phylum 1740 1754	cyanobacterial
+T19	Phylum 45 55	green alga
+N19	Reference T19 Taxonomy:3041	
+T20	Out-of-scope 685 695	land plant
+T21	Phylum 669 680	green algal
+N21	Reference T21 Taxonomy:3041	
+T22	Phylum 219 230	green algal
+N22	Reference T22 Taxonomy:3041	
+#1	AnnotatorNotes T4	TODO norm
+N4	Reference T10 Taxonomy:3193	Embryophyta
+#2	AnnotatorNotes T10	TODO check
+#3	AnnotatorNotes T12	TODO norm
+N10	Reference T20 Taxonomy:3193	Embryophyta
+#4	AnnotatorNotes T20	TODO check
+T23	Out-of-scope 1074 1084	land plant
+N12	Reference T23 Taxonomy:3193	Embryophyta
+#5	AnnotatorNotes T23	TODO check
+T24	Phylum 1489 1501	chlorophytes
+N20	Reference T24 Taxonomy:3041	
+T25	Phylum 1506 1519	streptophytes
+N23	Reference T25 Taxonomy:35493	
+T26	Out-of-scope 1651 1661	land plant
+N24	Reference T26 Taxonomy:3193	Embryophyta
+#6	AnnotatorNotes T26	TODO check
+N18	Reference T18 Taxonomy:1117	Cyanobacteria
+#7	AnnotatorNotes T18	TODO check
+T27	Phylum 1833 1844	chlorophyte
+N25	Reference T27 Taxonomy:3041	
+T28	Class 1857 1869	euglenophyte
+N26	Reference T28 Taxonomy:3035	Euglenida
+T29	Kingdom 360 366	plants
+N27	Reference T29 Taxonomy:33090	Viridiplantae
+T30	Kingdom 1079 1084	plant
+N28	Reference T30 Taxonomy:33090	Viridiplantae
+T31	Kingdom 1656 1661	plant
+N29	Reference T31 Taxonomy:33090	Viridiplantae
+T32	Kingdom 690 695	plant
+N30	Reference T32 Taxonomy:33090	Viridiplantae

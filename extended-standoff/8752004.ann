@@ -1,0 +1,40 @@
+T1	Order 37 46	cetaceans
+N1	Reference T1 Taxonomy:9721	
+T2	Order 471 480	cetaceans
+N2	Reference T2 Taxonomy:9721	
+T4	Order 695 704	cetaceans
+N4	Reference T4 Taxonomy:9721	
+T5	Class 750 757	mammals
+N5	Reference T5 Taxonomy:40674	
+T6	Order 887 894	Cetacea
+N6	Reference T6 Taxonomy:9721	
+T7	Family 895 909	Hippopotamidae
+N7	Reference T7 Taxonomy:9831	
+T8	Order 981 990	cetaceans
+N8	Reference T8 Taxonomy:9721	
+T9	Order 1030 1037	Cetacea
+N9	Reference T9 Taxonomy:9721	
+T10	Family 1042 1056	Hippopotamidae
+N10	Reference T10 Taxonomy:9831	
+T11	Order 1086 1093	Cetacea
+N11	Reference T11 Taxonomy:9721	
+T12	Species 1171 1183	Hippopotamus
+N12	Reference T12 Taxonomy:9833	
+T13	Family 70 82	hippopotamid
+N13	Reference T13 Taxonomy:9831	Hippopotamidae
+T14	Order 83 95	artiodactyls
+T15	Class 145 151	mammal
+N15	Reference T15 Taxonomy:40674	Mammalia
+T16	Order 169 177	cetacean
+N16	Reference T16 Taxonomy:9721	Cetacea
+T17	Out-of-scope 491 508	placental mammals
+N17	Reference T17 Taxonomy:9347	Eutheria
+T3	Class 501 508	mammals
+N3	Reference T3 Taxonomy:40674	Mammalia
+T18	Family 641 653	hippopotamid
+N18	Reference T18 Taxonomy:9831	Hippopotamidae
+T19	Order 654 666	artiodactyls
+N19	Reference T19 Taxonomy:91561	Artiodactyla
+N14	Reference T14 Taxonomy:91561	Artiodactyla
+T20	Order 719 731	artiodactyls
+N20	Reference T20 Taxonomy:91561	Artiodactyla

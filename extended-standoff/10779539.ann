@@ -5,7 +5,7 @@ T4	Order 581 589	Gnetales
 N4	Reference T4 Taxonomy:3378	
 T5	Order 642 650	Gnetales
 N5	Reference T5 Taxonomy:3378	
-T6	Class 700 711	seed plants
+T6	Out-of-scope 700 711	seed plants
 T7	Order 820 828	Gnetales
 N7	Reference T7 Taxonomy:3378	
 T8	Class 852 868	flowering plants
@@ -52,3 +52,7 @@ N19	Reference T23 Taxonomy:58024	Spermatophyta
 #10	AnnotatorNotes T23	TODO check
 T24	Out-of-scope 1677 1687	anthophyte
 #11	AnnotatorNotes T24	TODO check
+T25	Out-of-scope 563 574	gymnosperms
+#12	AnnotatorNotes T25	TODO check
+T26	Out-of-scope 1754 1764	anthophyte
+#13	AnnotatorNotes T26	TODO check

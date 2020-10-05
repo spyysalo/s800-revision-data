@@ -6,8 +6,7 @@ T3	Species 329 339	sugar beet
 N3	Reference T3 Taxonomy:3555	
 T4	Species 810 831	Nicotiana benthamiana
 N4	Reference T4 Taxonomy:4100	
-T5	Phylum 832 838	plants
-N5	Reference T5 Taxonomy:131221	
+T5	Kingdom 832 838	plants
 T6	Species 981 991	sugar beet
 N6	Reference T6 Taxonomy:3555	
 T7	Species 1015 1029	N. benthamiana
@@ -20,3 +19,14 @@ T10	Species 1270 1275	BNYVV
 N10	Reference T10 Taxonomy:31721	
 T11	Kingdom 671 676	virus
 N11	Reference T11 Taxonomy:10239	Viruses
+T12	Genus 635 639	Beta
+N12	Reference T12 Taxonomy:3554	Beta
+T13	Kingdom 230 235	virus
+N13	Reference T13 Taxonomy:10239	Viruses
+T14	Kingdom 379 384	virus
+N14	Reference T14 Taxonomy:10239	Viruses
+T15	Kingdom 857 862	viral
+N15	Reference T15 Taxonomy:10239	Viruses
+T16	Kingdom 1240 1245	viral
+N16	Reference T16 Taxonomy:10239	Viruses
+N5	Reference T5 Taxonomy:33090	Viridiplantae

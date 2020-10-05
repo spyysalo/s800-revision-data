@@ -1,10 +1,10 @@
-T1	Out-of-scope 95 105	eukaryotic
+T1	Kingdom 95 105	eukaryotic
 N1	Reference T1 Taxonomy:2759	Eukaryota
 T2	Species 163 190	Brevibacterium liquefaciens
 N2	Reference T2 Taxonomy:37929	Glutamicibacter nicotianae
-T3	Out-of-scope 259 268	bacterium
+T3	Kingdom 259 268	bacterium
 N3	Reference T3 Taxonomy:2	Bacteria
-T4	Out-of-scope 520 530	eukaryotes
+T4	Kingdom 520 530	eukaryotes
 N4	Reference T4 Taxonomy:2759	Eukaryota
 T5	Out-of-scope 567 577	prokaryote
 #1	AnnotatorNotes T5	Bacteria + Archaea

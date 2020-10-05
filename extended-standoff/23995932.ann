@@ -2,12 +2,10 @@ T1	Genus 41 55	flavobacterium
 N1	Reference T1 Taxonomy:237	
 T2	Species 56 74	Formosa agariphila
 N2	Reference T2 Taxonomy:320324	
-T3	Class 193 206	Bacteroidetes
-N3	Reference T3 Taxonomy:200643	
+T3	Phylum 193 206	Bacteroidetes
 T4	Genus 295 302	Formosa
 N4	Reference T4 Taxonomy:225842	
-T5	Class 317 330	Bacteroidetes
-N5	Reference T5 Taxonomy:200643	
+T5	Phylum 317 330	Bacteroidetes
 T6	Genus 354 367	Flavobacteria
 N6	Reference T6 Taxonomy:237	
 T7	Species 621 639	Formosa agariphila
@@ -34,3 +32,5 @@ T16	Phylum 1432 1435;1447 1452	red algae
 N16	Reference T16 Taxonomy:2763	Rhodophyta
 T17	Phylum 1272 1285	bacteroidetal
 N17	Reference T17 Taxonomy:976	Bacteroidetes
+N3	Reference T3 Taxonomy:976	Bacteroidetes
+N5	Reference T5 Taxonomy:976	Bacteroidetes

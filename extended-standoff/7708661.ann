@@ -1,32 +1,32 @@
-T1	Out-of-scope 517 525	Bacteria
+T1	Kingdom 517 525	Bacteria
 N1	Reference T1 Taxonomy:2	Bacteria
-T2	Out-of-scope 527 537	eubacteria
+T2	Kingdom 527 537	eubacteria
 N2	Reference T2 Taxonomy:2	Bacteria
-T3	Out-of-scope 587 594	Archaea
+T3	Kingdom 587 594	Archaea
 N3	Reference T3 Taxonomy:2157	Archaea
-T4	Out-of-scope 596 610	archaebacteria
+T4	Kingdom 596 610	archaebacteria
 N4	Reference T4 Taxonomy:2157	Archaea
-T5	Out-of-scope 616 623	Eucarya
+T5	Kingdom 616 623	Eucarya
 N5	Reference T5 Taxonomy:2759	Eukaryota
-T6	Out-of-scope 625 635	eukaryotes
+T6	Kingdom 625 635	eukaryotes
 N6	Reference T6 Taxonomy:2759	Eukaryota
 T7	Out-of-scope 1032 1043	prokaryotes
 #1	AnnotatorNotes T7	Bacteria + Archaea
-T8	Out-of-scope 1048 1058	eukaryotes
+T8	Kingdom 1048 1058	eukaryotes
 N7	Reference T8 Taxonomy:2759	Eukaryota
-T9	Out-of-scope 1214 1224	eukaryotes
+T9	Kingdom 1214 1224	eukaryotes
 N8	Reference T9 Taxonomy:2759	Eukaryota
-T10	Out-of-scope 1914 1924	eukaryotic
+T10	Kingdom 1914 1924	eukaryotic
 N9	Reference T10 Taxonomy:2759	Eukaryota
 T11	Species 1226 1241	Nosema locustae
 N10	Reference T11 Taxonomy:278021	Antonospora locustae
-T12	Out-of-scope 1244 1252	Bacteria
+T12	Kingdom 1244 1252	Bacteria
 N11	Reference T12 Taxonomy:2	Bacteria
 T13	Species 1254 1272	Aquifex pyrophilus
 N12	Reference T13 Taxonomy:2714	Aquifex pyrophilus
 T14	Species 1277 1296	Thermotoga maritima
 N13	Reference T14 Taxonomy:2336	Thermotoga maritima
-T15	Out-of-scope 1302 1309	Archaea
+T15	Kingdom 1302 1309	Archaea
 N14	Reference T15 Taxonomy:2157	Archaea
 T16	Species 1311 1330	Pyrococcus furiosus
 N15	Reference T16 Taxonomy:2261	Pyrococcus furiosus
@@ -36,15 +36,15 @@ T18	Out-of-scope 1431 1438	protist
 #2	AnnotatorNotes T18	TODO: document
 T19	Species 1439 1460	Trichomonas vaginalis
 N17	Reference T19 Taxonomy:5722	Trichomonas vaginalis
-T20	Out-of-scope 1640 1647	Archaea
+T20	Kingdom 1640 1647	Archaea
 N18	Reference T20 Taxonomy:2157	Archaea
-T21	Out-of-scope 1652 1659	Eucarya
+T21	Kingdom 1652 1659	Eucarya
 N19	Reference T21 Taxonomy:2759	Eukaryota
-T22	Out-of-scope 1834 1841	Archaea
+T22	Kingdom 1834 1841	Archaea
 N20	Reference T22 Taxonomy:2157	Archaea
 T23	Species 1879 1892	Tr. vaginalis
 N21	Reference T23 Taxonomy:5722	Trichomonas vaginalis
 T24	Order 2059 2070	trichomonad
 N22	Reference T24 Taxonomy:37104	Trichomonadida
-T25	Out-of-scope 2102 2111	bacterium
+T25	Kingdom 2102 2111	bacterium
 N23	Reference T25 Taxonomy:2	Bacteria

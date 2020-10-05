@@ -1,14 +1,10 @@
-T1	Genus 28 36	Listeria
-N1	Reference T1 Taxonomy:1637	Listeria
-T2	Out-of-scope 51 65	bacteriophages
+T2	Kingdom 51 65	bacteriophages
 N2	Reference T2 Taxonomy:10239	Viruses
-T3	Genus 168 176	Listeria
-N3	Reference T3 Taxonomy:1637	Listeria
 T4	Genus 489 497	Listeria
 N4	Reference T4 Taxonomy:1637	Listeria
 T5	Genus 1022 1030	Listeria
 N5	Reference T5 Taxonomy:1637	Listeria
-T7	Out-of-scope 256 261	phage
+T7	Kingdom 256 261	phage
 N7	Reference T7 Taxonomy:10239	Viruses
 T9	Species 191 210	bacteriophages A118
 N9	Reference T9 Taxonomy:40521	Listeria phage A118
@@ -18,7 +14,7 @@ T10	Species 191 205;221 225	bacteriophages A511
 N10	Reference T10 Taxonomy:40523	Listeria virus A511
 T11	Species 359 375	Escherichia coli
 N11	Reference T11 Taxonomy:562	Escherichia coli
-T12	Out-of-scope 1091 1099	bacteria
+T12	Kingdom 1091 1099	bacteria
 N12	Reference T12 Taxonomy:2	Bacteria
 T13	Genus 1130 1139	listerial
 N13	Reference T13 Taxonomy:1637	Listeria
@@ -26,3 +22,11 @@ T14	Genus 1464 1473	listerial
 N14	Reference T14 Taxonomy:1637	Listeria
 T15	Species 1809 1821	phage lambda
 N15	Reference T15 Taxonomy:10710	Escherichia virus Lambda
+T8	Species 28 50	Listeria monocytogenes
+N8	Reference T8 Taxonomy:1639	Listeria monocytogenes
+T1	Species 168 190	Listeria monocytogenes
+N1	Reference T1 Taxonomy:1639	Listeria monocytogenes
+T3	Family 140 150	siphoviral
+N3	Reference T3 Taxonomy:10699	Siphoviridae
+T16	Family 2034 2044	siphoviral
+N16	Reference T16 Taxonomy:10699	Siphoviridae

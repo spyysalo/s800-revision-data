@@ -32,8 +32,7 @@ T17	Species 1424 1454	Dermatophagoides pteronyssinus
 N17	Reference T17 Taxonomy:6956	
 T18	Family 1642 1658	house dust mites
 N18	Reference T18 Taxonomy:6952	
-T19	Phylum 1669 1676	insects
-N19	Reference T19 Taxonomy:6960	
+T19	Class 1669 1676	insects
 T20	Species 1694 1699	mouse
 N20	Reference T20 Taxonomy:10090	
 T21	Species 1743 1754	C. kiiensis
@@ -48,3 +47,4 @@ T25	Family 490 500	chironomid
 N25	Reference T25 Taxonomy:7149	Chironomidae
 T26	Species 1397 1415	Panulirus stimpson
 N26	Reference T26 Taxonomy:71578	Panulirus stimpsoni
+N16	Reference T19 Taxonomy:50557	Insecta

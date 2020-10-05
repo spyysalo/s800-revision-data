@@ -67,3 +67,8 @@ T31	Kingdom 1656 1661	plant
 N29	Reference T31 Taxonomy:33090	Viridiplantae
 T32	Kingdom 690 695	plant
 N30	Reference T32 Taxonomy:33090	Viridiplantae
+T33	Kingdom 1043 1048	plant
+N31	Reference T33 Taxonomy:33090	Viridiplantae
+T34	Out-of-scope 1038 1048	land plant
+N32	Reference T34 Taxonomy:3193	Embryophyta
+#8	AnnotatorNotes T34	TODO check

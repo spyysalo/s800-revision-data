@@ -8,9 +8,11 @@ T4	Strain 350 356	UMN179
 N4	Reference T4 Taxonomy:1005058	
 T5	Species 28 49	Gallibacterium anatis
 N5	Reference T5 Taxonomy:750	Gallibacterium anatis
-T6	Species 167 172	avian
+T6	Class 167 172	avian
 N6	Reference T6 Taxonomy:8782	Aves
 T7	Out-of-scope 253 257	hens
 #1	AnnotatorNotes T7	TODO check
 T8	Out-of-scope 387 390	hen
 #2	AnnotatorNotes T8	TODO check
+T9	Out-of-scope 88 91	hen
+#3	AnnotatorNotes T9	TODO check

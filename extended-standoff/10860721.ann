@@ -42,3 +42,9 @@ N20	Reference T20 Taxonomy:37554	Escherichia virus HK97
 T21	Kingdom 1843 1848	phage
 N21	Reference T21 Taxonomy:10239	Viruses
 T22	Out-of-scope 1940 1948	prophage
+T23	Out-of-scope 273 302	lambdoid or lambda-like group
+#2	AnnotatorNotes T23	TODO check
+T24	Kingdom 509 514	phage
+N22	Reference T24 Taxonomy:10239	Viruses
+T25	Kingdom 2020 2026	phages
+N23	Reference T25 Taxonomy:10239	Viruses

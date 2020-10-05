@@ -1,6 +1,6 @@
 T1	Species 23 28	human
 N1	Reference T1 Taxonomy:9606	Homo sapiens
-T2	Out-of-scope 84 93	bacterial
+T2	Kingdom 84 93	bacterial
 N2	Reference T2 Taxonomy:2	Bacteria
 T3	Species 111 116	human
 N3	Reference T3 Taxonomy:9606	Homo sapiens
@@ -8,13 +8,13 @@ T4	Species 827 832	human
 N4	Reference T4 Taxonomy:9606	Homo sapiens
 T5	Species 1647 1652	human
 N5	Reference T5 Taxonomy:9606	Homo sapiens
-T6	Out-of-scope 176 185	bacterial
+T6	Kingdom 176 185	bacterial
 N6	Reference T6 Taxonomy:2	Bacteria
-T7	Out-of-scope 1755 1764	bacterial
+T7	Kingdom 1755 1764	bacterial
 N7	Reference T7 Taxonomy:2	Bacteria
-T8	Out-of-scope 209 219	Firmicutes
+T8	Phylum 209 219	Firmicutes
 N8	Reference T8 Taxonomy:1239	Firmicutes
-T9	Out-of-scope 228 241	Bacteroidetes
+T9	Phylum 228 241	Bacteroidetes
 N9	Reference T9 Taxonomy:976	Bacteroidetes
 T11	Species 469 479	E. eligens
 N11	Reference T11 Taxonomy:39485	Lachnospira eligens
@@ -22,15 +22,15 @@ T12	Species 445 464	Eubacterium rectale
 N12	Reference T12 Taxonomy:39491	[Eubacterium] rectale
 T10	Genus 497 508	Clostridium
 N10	Reference T10 Taxonomy:1485	Clostridium
-T13	Out-of-scope 550 559	Firmicute
+T13	Phylum 550 559	Firmicute
 N13	Reference T13 Taxonomy:1239	Firmicutes
-T14	Out-of-scope 605 615	Firmicutes
+T14	Phylum 605 615	Firmicutes
 N14	Reference T14 Taxonomy:1239	Firmicutes
-T15	Out-of-scope 620 633	Bacteroidetes
+T15	Phylum 620 633	Bacteroidetes
 N15	Reference T15 Taxonomy:976	Bacteroidetes
-T16	Out-of-scope 653 663	Firmicutes
+T16	Phylum 653 663	Firmicutes
 N16	Reference T16 Taxonomy:1239	Firmicutes
-T17	Out-of-scope 837 850	Bacteroidetes
+T17	Phylum 837 850	Bacteroidetes
 N17	Reference T17 Taxonomy:976	Bacteroidetes
 T18	Species 767 771	mice
 N18	Reference T18 Taxonomy:10090	Mus musculus

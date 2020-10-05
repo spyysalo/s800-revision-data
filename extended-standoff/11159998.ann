@@ -1,12 +1,10 @@
-T1	Out-of-scope 0 14	Microsporidian
+T1	Phylum 0 14	Microsporidian
 N1	Reference T1 Taxonomy:6029	Microsporidia
-T2	Out-of-scope 165 178	Microsporidia
+T2	Phylum 165 178	Microsporidia
 N2	Reference T2 Taxonomy:6029	Microsporidia
-T3	Genus 61 66	polar
-N3	Reference T3 Taxonomy:2078619	Polaria
 T4	Genus 140 155	Encephalitozoon
 N4	Reference T4 Taxonomy:6033	Encephalitozoon
-T5	Out-of-scope 195 205	eukaryotes
+T5	Kingdom 195 205	eukaryotes
 N5	Reference T5 Taxonomy:2759	Eukaryota
 T6	Species 546 570	Encephalitozoon cuniculi
 N6	Reference T6 Taxonomy:6035	Encephalitozoon cuniculi
@@ -26,3 +24,5 @@ T13	Genus 1098 1113	Encephalitozoon
 N13	Reference T13 Taxonomy:6033	Encephalitozoon
 T14	Species 1162 1177	E. intestinalis
 N14	Reference T14 Taxonomy:58839	Encephalitozoon intestinalis
+T3	Species 778 783	mouse
+N3	Reference T3 Taxonomy:10090	

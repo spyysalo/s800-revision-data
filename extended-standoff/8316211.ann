@@ -16,7 +16,7 @@ T8	Species 1462 1479	Bacillus subtilis
 N8	Reference T8 Taxonomy:1423	
 T9	Species 1498 1515	Shigella flexneri
 N9	Reference T9 Taxonomy:623	
-T10	Out-of-scope 1525 1547	Salmonella typhimurium
+T10	Species 1525 1547	Salmonella typhimurium
 T11	Species 1561 1599	Xanthomonas campestris pv. vesicatoria
 N11	Reference T11 Taxonomy:56460	
 T12	Kingdom 1668 1676	bacteria
@@ -57,3 +57,5 @@ T28	Kingdom 2567 2576	bacterial
 N16	Reference T28 Taxonomy:2	Bacteria
 T29	Kingdom 2711 2716	plant
 N29	Reference T29 Taxonomy:33090	Viridiplantae
+T30	Kingdom 2339 2344	plant
+N30	Reference T30 Taxonomy:33090	Viridiplantae

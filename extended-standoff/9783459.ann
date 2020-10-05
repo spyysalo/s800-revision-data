@@ -2,7 +2,7 @@ T1	Genus 63 77	Chlorarachnion
 N1	Reference T1 Taxonomy:29198	Chlorarachnion
 T2	Genus 87 97	Cercomonas
 N2	Reference T2 Taxonomy:45109	Cercomonas
-T3	Out-of-scope 99 107	Cercozoa
+T3	Phylum 99 107	Cercozoa
 N3	Reference T3 Taxonomy:136419	Cercozoa
 T4	Genus 144 158	Chlorarachnion
 N4	Reference T4 Taxonomy:29198	Chlorarachnion
@@ -26,11 +26,11 @@ T13	Genus 239 249	Cercomonas
 N13	Reference T13 Taxonomy:45109	Cercomonas
 T14	Genus 417 427	Cercomonas
 N14	Reference T14 Taxonomy:45109	Cercomonas
-T15	Out-of-scope 472 485	Heterolobosea
+T15	Phylum 472 485	Heterolobosea
 N15	Reference T15 Taxonomy:5752	Heterolobosea
-T16	Out-of-scope 487 497	Euglenozoa
+T16	Phylum 487 497	Euglenozoa
 N16	Reference T16 Taxonomy:33682	Euglenozoa
-T17	Out-of-scope 499 511	chlorophytes
+T17	Phylum 499 511	chlorophytes
 N17	Reference T17 Taxonomy:3041	Chlorophyta
 T18	Out-of-scope 513 524	heterokonts
 N18	Reference T18 Taxonomy:33634	Stramenopiles
@@ -38,5 +38,5 @@ T19	Out-of-scope 530 540	alveolates
 N19	Reference T19 Taxonomy:33630	Alveolata
 #1	AnnotatorNotes T19	TODO: document
 #2	AnnotatorNotes T18	TODO: document
-T20	Out-of-scope 729 740	green algal
+T20	Phylum 729 740	green algal
 N20	Reference T20 Taxonomy:3041	Chlorophyta

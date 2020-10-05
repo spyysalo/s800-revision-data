@@ -1,4 +1,4 @@
-T1	Out-of-scope 101 110	bacterium
+T1	Kingdom 101 110	bacterium
 N1	Reference T1 Taxonomy:2	Bacteria
 T2	Species 112 135	Halobacillus halophilus
 N2	Reference T2 Taxonomy:1570	Halobacillus halophilus
@@ -8,9 +8,9 @@ T4	Species 315 328	H. halophilus
 N4	Reference T4 Taxonomy:1570	Halobacillus halophilus
 T5	Species 591 604	H. halophilus
 N5	Reference T5 Taxonomy:1570	Halobacillus halophilus
-T6	Out-of-scope 187 196	bacterium
+T6	Kingdom 187 196	bacterium
 N6	Reference T6 Taxonomy:2	Bacteria
-T7	Out-of-scope 1818 1827	bacterium
+T7	Kingdom 1818 1827	bacterium
 N7	Reference T7 Taxonomy:2	Bacteria
 T8	Out-of-scope 355 365	prokaryote
 #1	AnnotatorNotes T8	TODO: document

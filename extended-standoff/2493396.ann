@@ -1,21 +1,21 @@
-T1	Genus 31 45	cyanobacterial
-T2	Genus 211 225	cyanobacterium
-T3	Genus 628 642	cyanobacterial
-T4	Genus 727 741	cyanobacterial
-T5	Genus 1259 1273	cyanobacterial
-N6	Reference T2 Taxonomy:102234	Cyanobacterium
-N1	Reference T1 Taxonomy:102234	Cyanobacterium
-N2	Reference T3 Taxonomy:102234	Cyanobacterium
-N3	Reference T4 Taxonomy:102234	Cyanobacterium
-N4	Reference T5 Taxonomy:102234	Cyanobacterium
+T1	Phylum 31 45	cyanobacterial
+T2	Phylum 211 225	cyanobacterium
+T3	Phylum 628 642	cyanobacterial
+T4	Phylum 727 741	cyanobacterial
+T5	Phylum 1259 1273	cyanobacterial
 T6	Species 227 249	Synechococcus vulcanus
 N5	Reference T6 Taxonomy:32053	Thermosynechococcus vulcanus
-T7	Out-of-scope 913 918	plant
+T7	Kingdom 913 918	plant
 N7	Reference T7 Taxonomy:33090	Viridiplantae
-T8	Out-of-scope 1048 1054	plants
+T8	Kingdom 1048 1054	plants
 N8	Reference T8 Taxonomy:33090	Viridiplantae
-T9	Out-of-scope 1132 1138	plants
+T9	Kingdom 1132 1138	plants
 N9	Reference T9 Taxonomy:33090	Viridiplantae
-T10	Out-of-scope 654 659	plant
+T10	Kingdom 654 659	plant
 N10	Reference T10 Taxonomy:33090	Viridiplantae
 #1	AnnotatorNotes T9	TODO check span "higher plants"
+N1	Reference T1 Taxonomy:1117	Cyanobacteria
+N6	Reference T2 Taxonomy:1117	Cyanobacteria
+N2	Reference T3 Taxonomy:1117	Cyanobacteria
+N3	Reference T4 Taxonomy:1117	Cyanobacteria
+N4	Reference T5 Taxonomy:1117	Cyanobacteria

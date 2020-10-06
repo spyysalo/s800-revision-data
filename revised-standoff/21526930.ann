@@ -1,7 +1,6 @@
 T1	Species 93 105	P. tricuspis
 N1	Reference T1 Taxonomy:378805
 T2	Species 110 121	P. curvatus
-N2	Reference T2 Taxonomy:378805
 T3	Species 255 273	Solenopsis invicta
 N3	Reference T3 Taxonomy:13686
 T4	Species 280 291	S. richteri
@@ -9,7 +8,6 @@ N4	Reference T4 Taxonomy:30203
 T5	Species 673 694	Pseudacteon tricuspis
 N5	Reference T5 Taxonomy:378805
 T6	Species 709 720	P. curvatus
-N6	Reference T6 Taxonomy:378805
 T7	Species 1363 1375	P. tricuspis
 N7	Reference T7 Taxonomy:378805
 T8	Species 1735 1757	red imported fire ants
@@ -17,7 +15,6 @@ N8	Reference T8 Taxonomy:13686
 T9	Species 1759 1769	S. invicta
 N9	Reference T9 Taxonomy:13686
 T10	Species 1822 1833	P. curvatus
-N10	Reference T10 Taxonomy:378805
 T11	Species 1908 1913;1925 1943	black imported fire ants
 N11	Reference T11 Taxonomy:30203
 T12	Species 1971 1993	red imported fire ants
@@ -61,3 +58,6 @@ N18	Reference T18 Taxonomy:13685	Solenopsis
 T19	Genus 2021 2029	fire ant
 N19	Reference T19 Taxonomy:13685	Solenopsis
 #1	AnnotatorNotes T20	TODO: overlaps completely with fragment of different annotation
+N6	Reference T6 Taxonomy:378800	Pseudacteon curvatus
+N10	Reference T10 Taxonomy:378800	Pseudacteon curvatus
+N2	Reference T2 Taxonomy:378800	Pseudacteon curvatus

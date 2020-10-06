@@ -9,13 +9,13 @@ T6	Strain 1092 1103	DeltasigBCD
 T7	Strain 1105 1116	DeltasigBCE
 T8	Strain 1122 1133	DeltasigBDE
 T9	Strain 1283 1294	DeltasigBCE
-T1001	Genus 146 159	cyanobacteria
-N1001	Reference T1001 Taxonomy:102234	
-T1002	Genus 476 489	Cyanobacteria
-N1002	Reference T1002 Taxonomy:102234	
+T1001	Phylum 146 159	cyanobacteria
+T1002	Phylum 476 489	Cyanobacteria
 T1003	Genus 646 659	Synechocystis
 N1003	Reference T1003 Taxonomy:1142	
-T10	Genus 360 374	cyanobacterium
-N3	Reference T10 Taxonomy:102234	
+T10	Phylum 360 374	cyanobacterium
 N4	Reference T3 Taxonomy:1148	Synechocystis sp. PCC 6803
 N5	Reference T4 Taxonomy:1148	Synechocystis sp. PCC 6803
+N3	Reference T10 Taxonomy:1117	Cyanobacteria
+N6	Reference T1001 Taxonomy:1117	Cyanobacteria
+N7	Reference T1002 Taxonomy:1117	Cyanobacteria

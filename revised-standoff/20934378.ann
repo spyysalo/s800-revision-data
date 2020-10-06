@@ -4,8 +4,7 @@ T2	Species 850 865	S. canaliculata
 N2	Reference T2 Taxonomy:1955064	Sinophysis canaliculata
 T3	Species 686 709	Sinophysis canaliculata
 N3	Reference T3 Taxonomy:1955064	Sinophysis canaliculata
-T1001	Genus 0 14	Cyanobacterial
-N1001	Reference T1001 Taxonomy:102234	
+T1001	Phylum 0 14	Cyanobacterial
 T1002	Order 84 97	Dinophysiales
 N1002	Reference T1002 Taxonomy:447211	
 T1003	Class 99 110	Dinophyceae
@@ -20,12 +19,10 @@ T1007	Genus 410 420	Dinophysis
 N1007	Reference T1007 Taxonomy:47933	
 T1008	Class 452 464	cryptophytes
 N1008	Reference T1008 Taxonomy:3027	
-T1009	Genus 534 547	cyanobacteria
-N1009	Reference T1009 Taxonomy:102234	
+T1009	Phylum 534 547	cyanobacteria
 T1010	Genus 771 781	Dinophysis
 N1010	Reference T1010 Taxonomy:47933	
-T1011	Genus 818 832	cyanobacterial
-N1011	Reference T1011 Taxonomy:102234	
+T1011	Phylum 818 832	cyanobacterial
 T4	Class 44 58	dinoflagellate
 N4	Reference T4 Taxonomy:2864	Dinophyceae
 T5	Class 468 479	haptophytes
@@ -34,3 +31,6 @@ T6	Class 671 685	dinoflagellate
 N6	Reference T6 Taxonomy:2864	
 T7	Class 955 969	dinoflagellate
 N7	Reference T7 Taxonomy:2864	
+N8	Reference T1001 Taxonomy:1117	Cyanobacteria
+N9	Reference T1009 Taxonomy:1117	Cyanobacteria
+N10	Reference T1011 Taxonomy:1117	Cyanobacteria

@@ -1,14 +1,14 @@
-T1001	Genus 82 95	cyanobacteria
-N1001	Reference T1001 Taxonomy:102234	
-T1002	Genus 161 174	cyanobacteria
-N1002	Reference T1002 Taxonomy:102234	
-T1003	Genus 456 470	cyanobacterial
-N1003	Reference T1003 Taxonomy:102234	
-T1004	Genus 590 604	cyanobacterial
-N1004	Reference T1004 Taxonomy:102234	
-T1005	Genus 1152 1165	cyanobacteria
-N1005	Reference T1005 Taxonomy:102234	
-T1006	Genus 1262 1276	cyanobacterial
-N1006	Reference T1006 Taxonomy:102234	
-T1007	Genus 1327 1341	cyanobacterial
-N1007	Reference T1007 Taxonomy:102234	
+T1001	Phylum 82 95	cyanobacteria
+T1002	Phylum 161 174	cyanobacteria
+T1003	Phylum 456 470	cyanobacterial
+T1004	Phylum 590 604	cyanobacterial
+T1005	Phylum 1152 1165	cyanobacteria
+T1006	Phylum 1262 1276	cyanobacterial
+T1007	Phylum 1327 1341	cyanobacterial
+N1	Reference T1001 Taxonomy:1117	Cyanobacteria
+N2	Reference T1002 Taxonomy:1117	Cyanobacteria
+N3	Reference T1003 Taxonomy:1117	Cyanobacteria
+N4	Reference T1004 Taxonomy:1117	Cyanobacteria
+N5	Reference T1005 Taxonomy:1117	Cyanobacteria
+N6	Reference T1006 Taxonomy:1117	Cyanobacteria
+N7	Reference T1007 Taxonomy:1117	Cyanobacteria

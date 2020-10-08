@@ -2,12 +2,111 @@
 
 import sys
 import os
+import re
 
 import nltk
 
 from collections import defaultdict
 
 from nltk.stem import WordNetLemmatizer
+
+
+BINOMIAL_NAME_REGEX = re.compile(r'^[A-Z][a-z]+ [a-z-]{2,}$')
+
+
+ADDITIONAL_SYNONYMS = [
+    ('4929', 'Candida guilliermondii'),    # Meyerozyma guilliermondii
+    ('279896', 'Maize mosaic rhabdovirus'),    # Maize mosaic nucleorhabdovirus
+    ('2832', 'Pavlova lutherii'),    # Pavlova lutheri
+    ('50053', 'Pleurotus sajor-caju'),    # Lentinus sajor-caju (Pleurotus sajor-caju)
+    ('2050018', 'rodent coronaviruses'),    # Rodent coronavirus
+    ('59241', 'Dp-1'),    # Streptococcus phage Dp-1
+]
+
+
+ADDITIONAL_COMMON_NAMES = [
+    ('9606', 'humans'),    # Homo sapiens
+    ('33090', 'plants'),    # Viridiplantae
+    ('10090', 'mice'),    # Mus musculus
+    ('147537', 'yeasts'),    # Saccharomycotina (true yeasts)
+    ('7157', 'mosquitoes'),    # Culicidae (mosquitos)
+    ('9796', 'horses'),    # Equus caballus (horse)
+    ('8495', 'alligators'),     # Alligator
+    ('8032', 'brown trouts'),    # Salmo trutta
+    ('8036', 'Arctic charr'),    # Salvelinus alpinus (Arctic char)
+    ('9852', 'moose'),    # Alces alces (elk, european elk, moose)
+    ('11320', 'influenza A'),    # Influenza A virus
+    ('4236', 'lettuce'),    # Lactuca sativa (cultivated lettuce)
+    ('11270', 'rhabdoviruses'),    # Rhabdoviridae
+    ('10508', 'adenoviruses'),    # Adenoviridae
+    ('10880', 'reoviruses'),    # Reoviridae
+    ('7460', 'honey bees'),    # Apis mellifera (honey bee)
+    ('7460', 'honeybees'),    # Apis mellifera (honey bee)
+    ('7460', 'bees'),    # Apis mellifera (bee)
+    ('7819', 'tiger sharks'),    # Galeocerdo cuvier (tiger shark)
+    ('46612', 'bull sharks'),    # Carcharhinus leucas (bull shark)
+    ('7370', 'houseflies'),    # Musca domestica (house fly)
+    ('7370', 'house flies'),    # Musca domestica (house fly)
+    ('39416', 'Perigord black truffle'),    # Tuber melanosporum (Perigord truffle, black truffle)
+    ('58886', 'Mexican palo verde'),    # Parkinsonia aculeata (Mexican paloverde)
+    ('9178', 'grey-crowned babbler'),    # Pomatostomus temporalis (gray-crowned babbler)
+]
+
+
+ADDITIONAL_ACRONYMS = [
+    ('10359', 'HCMV'),    # Human betaherpesvirus 5 (Human cytomegalovirus)
+    ('37124', 'CHIKV'),    # Chikungunya virus
+    ('11234', 'MV'),    # Measles morbillivirus
+    ('11276', 'VSV'),    # Vesicular stomatitis virus
+    ('12814', 'RSV'),    # Respiratory syncytial virus
+    ('223303', 'PHV'),    # Pepper huasteco yellow vein virus
+    ('932662', 'MCDV'),    # Mud crab virus (Mud crab dicistrovirus)
+    ('696863', 'SVCV'),    # Carp sprivivirus (Spring viraemia of carp virus)
+    ('2169991', 'JUNV'),    # Argentinian mammarenavirus (Junin virus)
+    ('11620', 'LASV'),    # Lassa mammarenavirus (Lassa virus)
+    ('137758', 'CBSV'),    # Cassava brown streak virus
+    ('132475', 'YLDV'),    # Yaba-like disease virus
+    ('562', 'EHEC'),    # [Enterohemorrhagic] Escherichia coli
+    ('562', 'STEC'),    # [Shiga toxin-producing] Escherichia coli
+    ('1972584', 'TIBV'),    # Tibrogargan tibrovirus
+    ('10245', 'VV'),    # Vaccinia virus
+    ('10376', 'EBV'),    # Human gammaherpesvirus 4 (Epstein-Barr virus)
+    ('138950', 'PV'),    # Enterovirus C (Poliovirus)
+    ('10566', 'HPV'),    # Human papillomavirus
+    ('31721', 'BNYVV'),    # Beet necrotic yellow vein virus
+    ('279896', 'MMV'),    # Maize mosaic nucleorhabdovirus
+    ('10244', 'MPX'),    # Monkeypox virus
+    ('10245', 'VacV'),    # Vaccinia virus
+    ('10255', 'VarV'),    # Variola virus
+    ('51655', 'DBM'),    # Plutella xylostella (diamondback moth)
+    ('11072', 'JEV'),    # Japanese encephalitis virus
+    ('11292', 'RABV'),    # Rabies lyssavirus (Rabies virus)
+    ('11272', 'CHPV'),    # Chandipura virus
+]
+
+
+ADDITIONAL_ADJECTIVES = [
+    ('2', 'eubacterial'),    # Bacteria (eubacteria)
+    ('10090', 'murine'),    # Mus musculus (mouse)
+    ('10239', 'viral'),    # Viruses
+    ('4751', 'fungal'),    # Fungi
+    ('2', 'bacterial'),    # Bacteria
+    ('2759', 'eukaryotic'),    # Eukaryota
+    ('40674', 'mammalian'),    # Mammalia
+    ('7088', 'lepidopteran'),    # Lepidoptera
+    ('1117', 'cyanobacterial'),    # Cyanobacterium (cyanobacteria)
+    ('102234', 'cyanobacterial'),    # Cyanobacteria
+    ('11632', 'retroviral'),    # Retroviridae
+    ('9615', 'canine'),    # Canis lupus familiaris (dog)
+]
+
+
+ADDITIONAL_NAME_CLASSES = (
+    [n + ('synonym',) for n in ADDITIONAL_SYNONYMS] +
+    [n + ('common name',) for n in ADDITIONAL_COMMON_NAMES] +
+    [n + ('acronym',) for n in ADDITIONAL_ACRONYMS] +
+    [n + ('adjective',) for n in ADDITIONAL_ADJECTIVES]
+)
 
 
 def argparser():
@@ -262,6 +361,10 @@ def lemmatize(string):
 lemmatize.lemmatizer = None
 
 
+def pluralize(string):
+    return string + 's'    # TODO
+
+
 def normalize_space(string):
     return ' '.join(string.split())
 
@@ -279,13 +382,12 @@ def output(fn, annotations, ranks, names, options):
             name_classes = ['NO-NORM']
             norm_ranks = ['NO-NORM']
         else:
-            name_classes = names[refs[0]][t.text]
+            name_classes = names[refs[0]][normalize_space(t.text)]
             norm_ranks = [ranks[r] for r in refs]
         if not name_classes:
-            name_classes = names[refs[0]][t.text.lower()]
+            name_classes = names[refs[0]][normalize_space(t.text.lower())]
         if not name_classes:
             name_classes = ['UNKNOWN']
-        # print('{}\t{}'.format(','.join(refs), t.text))
         fields = []
         fields.append(os.path.splitext(os.path.basename(fn))[0])
         fields.append(','.join(refs))
@@ -299,20 +401,28 @@ def output(fn, annotations, ranks, names, options):
         #    ','.join(refs), t.text, t.type_, ';'.join(notes)))
 
 
-def name_variants(text, name_class):
-    if name_class == 'scientific name':
+def is_binomial_name(name):
+    return BINOMIAL_NAME_REGEX.match(name)
+
+
+def name_variations(text, name_class):
+    if (name_class in ['scientific name', 'synonym', 'genbank synonym'] and
+        is_binomial_name(text)):
         # "Homo sapiens" -> "H. sapiens" etc.
         parts = text.split()
-        initial, rest = parts[0][0], ' '.join(parts[1:])
-        yield (initial + '. ' + rest, name_class + ' (abbrev)')
-        yield (initial + ' ' + rest, name_class + ' (abbrev)')
-        yield (initial + '.' + rest, name_class + ' (abbrev)')
+        first, rest = parts[0], ' '.join(parts[1:])
+        for abbrev in (first[0], first[0:2], first[0:4]):
+            yield (abbrev + '. ' + rest, name_class + ' (abbrev)')
+            yield (abbrev + ' ' + rest, name_class + ' (abbrev)')
+            yield (abbrev + '.' + rest, name_class + ' (abbrev)')
 
     if name_class in ['common name', 'genbank common name', 'blast name']:
         parts = text.split()
         start, last = parts[:-1], parts[-1]
         lemma = lemmatize(last)
         yield (' '.join(start + [lemma]), name_class + ' (lemma)')
+        plural = pluralize(last)
+        yield (' '.join(start + [plural]), name_class + ' (plural)')
 
 
 def parse_dump_line(line):
@@ -340,17 +450,37 @@ def read_taxnames(fn):
             fields = parse_dump_line(l)
             tax_id, text, unique_name, name_class, _ = fields
             names[tax_id][text].append(name_class)
-    new_names = defaultdict(lambda: defaultdict(list))
+
+    # Add in additional names
+    for tax_id, text, name_class in ADDITIONAL_NAME_CLASSES:
+        if name_class not in names[tax_id][text]:
+            names[tax_id][text].append(name_class)
+
+    # Add in name variations
+    variations = defaultdict(lambda: defaultdict(list))
     for tax_id in names:
         for text in names[tax_id]:
             for name_class in names[tax_id][text]:
-                for t, c in name_variants(text, name_class):
-                    new_names[tax_id][t].append(c)
-    for tax_id in new_names:
-        for text in new_names[tax_id]:
-            for name_class in new_names[tax_id][text]:
+                for t, c in name_variations(text, name_class):
+                    variations[tax_id][t].append(c)
+    for tax_id in variations:
+        for text in variations[tax_id]:
+            for name_class in variations[tax_id][text]:
                 if text not in names[tax_id]:
                     names[tax_id][text].append(name_class)
+
+    # Add in lowercase forms
+    lower = defaultdict(lambda: defaultdict(list))
+    for tax_id in names:
+        for text in names[tax_id]:
+            for name_class in names[tax_id][text]:
+                lower[tax_id][text.lower()].append(name_class + ' (lowercase)')
+    for tax_id in lower:
+        for text in lower[tax_id]:
+            for name_class in lower[tax_id][text]:
+                if text not in names[tax_id]:
+                    names[tax_id][text].append(name_class)
+
     return names
 
 

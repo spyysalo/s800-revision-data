@@ -7,19 +7,15 @@ N3	Reference T3 Taxonomy:122892
 T4	Species 476 498	Conotrachelus nenuphar
 N4	Reference T4 Taxonomy:122892
 T5	Species 528 549	western corn rootworm
-N5	Reference T5 Taxonomy:50389
 T6	Species 551 581	Diabrotica virgifera virgifera
-N6	Reference T6 Taxonomy:50389
 T7	Species 708 731	Colorado potato beetles
 N7	Reference T7 Taxonomy:7539
 T8	Species 849 863	plum curculios
 N8	Reference T8 Taxonomy:122892
 T9	Species 868 890	western corn rootworms
-N9	Reference T9 Taxonomy:50389
 T10	Species 945 958	plum curculio
 N10	Reference T10 Taxonomy:122892
 T11	Species 1348 1369	western corn rootworm
-N11	Reference T11 Taxonomy:50389
 T1001	Family 445 458	Chrysomelidae
 N1001	Reference T1001 Taxonomy:27439	
 T1002	Family 508 521	Curculionidae
@@ -38,3 +34,7 @@ T16	Class 1178 1185	insects
 N16	Reference T16 Taxonomy:50557	Insecta
 T17	Class 1480 1487	insects
 N17	Reference T17 Taxonomy:50557	Insecta
+N6	Reference T6 Taxonomy:50390	Diabrotica virgifera virgifera
+N9	Reference T9 Taxonomy:50390	Diabrotica virgifera virgifera
+N11	Reference T11 Taxonomy:50390	Diabrotica virgifera virgifera
+N5	Reference T5 Taxonomy:50390	Diabrotica virgifera virgifera

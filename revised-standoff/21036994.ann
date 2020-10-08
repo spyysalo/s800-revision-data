@@ -1,7 +1,5 @@
 T1	Species 66 90	Saccharophagus degradans
-N1	Reference T1 Taxonomy:203122	Saccharophagus degradans 2-40
 T2	Species 186 210	Saccharophagus degradans
-N2	Reference T2 Taxonomy:203122	Saccharophagus degradans 2-40
 T3	Strain 91 95	2-40
 T4	Strain 218 222	2-40
 T5	Kingdom 56 65	bacterium
@@ -10,3 +8,7 @@ T6	Kingdom 176 185	bacterium
 N4	Reference T6 Taxonomy:2	Bacteria
 T7	Kingdom 527 536	bacterium
 N5	Reference T7 Taxonomy:2	Bacteria
+N6	Reference T3 Taxonomy:203122	Saccharophagus degradans 2-40
+N7	Reference T4 Taxonomy:203122	Saccharophagus degradans 2-40
+N1	Reference T1 Taxonomy:86304	Saccharophagus degradans
+N2	Reference T2 Taxonomy:86304	Saccharophagus degradans

@@ -1,26 +1,19 @@
 T1	Species 77 100	Cryptococcus neoformans
 N1	Reference T1 Taxonomy:5207
 T2	Strain 285 290	JEC21
-N2	Reference T2 Taxonomy:5207
 T3	Strain 306 311	JEC21
-N3	Reference T3 Taxonomy:5207
 T4	Strain 464 469	JEC21
-N4	Reference T4 Taxonomy:5207
 T5	Strain 594 599	JEC21
-N5	Reference T5 Taxonomy:5207
 T6	Strain 873 876	H99
 N6	Reference T6 Taxonomy:5207
 T7	Strain 911 914	H99
 N7	Reference T7 Taxonomy:5207
 T8	Strain 997 1002	JEC21
-N8	Reference T8 Taxonomy:5207
 T9	Strain 1050 1055	JEC21
-N9	Reference T9 Taxonomy:5207
 T10	Species 253 276	Cryptococcus neoformans
 T11	Species 230 235	human
 T12	Phylum 247 252	yeast
 T13	Strain 820 825	JEC21
-N10	Reference T13 Taxonomy:5207	
 N11	Reference T10 Taxonomy:5207	Cryptococcus neoformans
 T14	Strain 101 106	JEC21
 T15	Strain 864 865	A
@@ -30,3 +23,11 @@ T1002	Genus 1189 1201	cryptococcal
 N1003	Reference T1002 Taxonomy:5206	
 N12	Reference T11 Taxonomy:9606	Homo sapiens
 N13	Reference T12 Taxonomy:147537	Saccharomycotina
+N14	Reference T14 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
+N2	Reference T2 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
+N3	Reference T3 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
+N4	Reference T4 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
+N5	Reference T5 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
+N10	Reference T13 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
+N9	Reference T9 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
+N8	Reference T8 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21

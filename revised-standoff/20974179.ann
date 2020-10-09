@@ -1,15 +1,9 @@
-T1	Species 451 468	coxsackievirus A9
-N1	Reference T1 Taxonomy:138949
-T2	Species 470 474	CAV9
-N2	Reference T2 Taxonomy:138949
-T3	Species 814 818	CAV9
-N3	Reference T3 Taxonomy:138949
-T4	Species 994 998	CAV9
-N4	Reference T4 Taxonomy:138949
-T5	Species 1115 1119	CAV9
-N5	Reference T5 Taxonomy:138949
-T6	Species 1217 1221	CAV9
-N6	Reference T6 Taxonomy:138949
+T1	Strain 466 468	A9
+T2	Strain 470 474	CAV9
+T3	Strain 814 818	CAV9
+T4	Strain 994 998	CAV9
+T5	Strain 1115 1119	CAV9
+T6	Strain 1217 1221	CAV9
 T1001	Genus 41 54	enteroviruses
 N1001	Reference T1001 Taxonomy:12059	
 T1002	Genus 180 191	enteroviral
@@ -24,3 +18,11 @@ T8	Kingdom 231 236	virus
 N8	Reference T8 Taxonomy:10239	Viruses
 T9	Kingdom 604 609	virus
 N9	Reference T9 Taxonomy:10239	Viruses
+N1	Reference T1 Taxonomy:12067	Coxsackievirus A9
+T10	Species 451 465	coxsackievirus
+N10	Reference T10 Taxonomy:12066	Coxsackievirus
+N2	Reference T2 Taxonomy:12067	Coxsackievirus A9
+N3	Reference T3 Taxonomy:12067	Coxsackievirus A9
+N4	Reference T4 Taxonomy:12067	Coxsackievirus A9
+N5	Reference T5 Taxonomy:12067	Coxsackievirus A9
+N6	Reference T6 Taxonomy:12067	Coxsackievirus A9

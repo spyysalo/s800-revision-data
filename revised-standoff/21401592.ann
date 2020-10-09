@@ -1,7 +1,6 @@
 T1	Species 576 587	house mouse
 N1	Reference T1 Taxonomy:10090
 T2	Species 589 603	Mus domesticus
-N2	Reference T2 Taxonomy:10090
 T3	Species 824 829	mouse
 N3	Reference T3 Taxonomy:10090
 T4	Species 858 863	mouse
@@ -16,3 +15,4 @@ T8	Species 1566 1571	Mouse
 N8	Reference T8 Taxonomy:10090
 T9	Species 1898 1902	mice
 N9	Reference T9 Taxonomy:10090
+N2	Reference T2 Taxonomy:10092	Mus musculus domesticus

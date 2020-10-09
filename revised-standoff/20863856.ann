@@ -18,14 +18,7 @@ T12	Species 850 855	DAstV
 T13	Species 901 906	DAstV
 T14	Species 1082 1087	DAstV
 T15	Species 314 319	DAstV
-N15	Reference T15 Taxonomy:905828	
 N1	Reference T1 Taxonomy:1239439	Avastrovirus 3
-N2	Reference T2 Taxonomy:1239439	Avastrovirus 3
-N3	Reference T3 Taxonomy:1239439	Avastrovirus 3
-N11	Reference T11 Taxonomy:1239439	Avastrovirus 3
-N12	Reference T12 Taxonomy:1239439	Avastrovirus 3
-N13	Reference T13 Taxonomy:1239439	Avastrovirus 3
-N14	Reference T14 Taxonomy:1239439	Avastrovirus 3
 T1002	Genus 770 775	ducks
 N1002	Reference T1002 Taxonomy:8835	
 T17	Genus 159 163	duck
@@ -36,3 +29,10 @@ N16	Reference T18 Taxonomy:8835
 N17	Reference T19 Taxonomy:8835	
 T9	Kingdom 164 169	viral
 N18	Reference T9 Taxonomy:10239	Viruses
+N19	Reference T2 Taxonomy:1239441	Duck astrovirus
+N2	Reference T3 Taxonomy:1239441	Duck astrovirus
+N3	Reference T11 Taxonomy:1239441	Duck astrovirus
+N11	Reference T15 Taxonomy:1239441	Duck astrovirus
+N12	Reference T12 Taxonomy:1239441	Duck astrovirus
+N13	Reference T13 Taxonomy:1239441	Duck astrovirus
+N14	Reference T14 Taxonomy:1239441	Duck astrovirus

@@ -1,22 +1,16 @@
 T1	Family 0 10	Adenovirus
-T2	Species 67 84	Adenovirus type 5
-N2	Reference T2 Taxonomy:129951
-T3	Species 86 89	Ad5
-N3	Reference T3 Taxonomy:129951
-T4	Species 461 464	Ad5
-N4	Reference T4 Taxonomy:129951
+T2	Family 67 77	Adenovirus
+T3	Strain 86 89	Ad5
+T4	Strain 461 464	Ad5
 T5	Species 503 508	human
 N5	Reference T5 Taxonomy:9606
 T6	Species 572 577	mouse
 N6	Reference T6 Taxonomy:10090
-T7	Species 639 642	Ad5
-N7	Reference T7 Taxonomy:129951
+T7	Strain 639 642	Ad5
 T8	Family 940 942	Ad
-T9	Species 969 972	Ad5
-N9	Reference T9 Taxonomy:129951
+T9	Strain 969 972	Ad5
 T10	Family 1069 1071	Ad
-T11	Species 1098 1101	Ad5
-N11	Reference T11 Taxonomy:129951
+T11	Strain 1098 1101	Ad5
 N1	Reference T1 Taxonomy:10508	Adenoviridae
 N8	Reference T8 Taxonomy:10508	Adenoviridae
 N10	Reference T10 Taxonomy:10508	Adenoviridae
@@ -26,3 +20,12 @@ T1001	Genus 284 294	lentivirus
 N1001	Reference T1001 Taxonomy:11646	
 T13	Kingdom 1264 1271	virally
 N13	Reference T13 Taxonomy:10239	Viruses
+N3	Reference T3 Taxonomy:28285	Human adenovirus 5
+N4	Reference T4 Taxonomy:28285	Human adenovirus 5
+N7	Reference T7 Taxonomy:28285	Human adenovirus 5
+N9	Reference T9 Taxonomy:28285	Human adenovirus 5
+N11	Reference T11 Taxonomy:28285	Human adenovirus 5
+T15	Strain 78 84	type 5
+N15	Reference T15 Taxonomy:28285	Human adenovirus 5
+N2	Reference T2 Taxonomy:10508	Adenoviridae
+#1	AnnotatorNotes T2	TODO check / document

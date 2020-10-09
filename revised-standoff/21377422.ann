@@ -1,7 +1,5 @@
 T1	Species 417 437	Diplonema papillatum
-N1	Reference T1 Taxonomy:91734
 T2	Species 876 889	D. papillatum
-N2	Reference T2 Taxonomy:91734
 T1001	Genus 47 56	Diplonema
 N1001	Reference T1001 Taxonomy:91373	
 T3	Phylum 78 89	euglenozoan
@@ -28,3 +26,5 @@ T13	Class 1131 1145	kinetoplastids
 N13	Reference T13 Taxonomy:5653	Kinetoplastea
 T14	Phylum 1230 1241	euglenozoan
 N14	Reference T14 Taxonomy:33682	Euglenozoa
+N1	Reference T1 Taxonomy:91374	Diplonema papillatum
+N2	Reference T2 Taxonomy:91374	Diplonema papillatum

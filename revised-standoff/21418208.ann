@@ -1,6 +1,5 @@
 T1	Family 36 44	elephant
-T2	Species 439 455	African elephant
-N2	Reference T2 Taxonomy:9785
+T2	Genus 439 455	African elephant
 T3	Family 737 745	elephant
 T4	Family 968 976	elephant
 T5	Family 1139 1147	elephant
@@ -26,3 +25,4 @@ N12	Reference T12 Taxonomy:33090	Viridiplantae
 N13	Reference T13 Taxonomy:33090	Viridiplantae
 T14	Kingdom 396 402	animal
 N14	Reference T14 Taxonomy:33208	Metazoa
+N2	Reference T2 Taxonomy:9784	Loxodonta

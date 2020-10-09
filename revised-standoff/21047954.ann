@@ -1,22 +1,22 @@
 T1	Family 246 256	retroviral
 T2	Species 633 661	Friend murine leukemia virus
-N2	Reference T2 Taxonomy:11786
 T3	Species 214 219	mouse
-T4	Strain 33 45	friend virus
-N3	Reference T4 Taxonomy:11786	
-T5	Strain 166 178	Friend virus
-N4	Reference T5 Taxonomy:11786	
-T6	Strain 180 182	FV
-N5	Reference T6 Taxonomy:11786	
+T4	Species 33 45	friend virus
+T5	Species 166 178	Friend virus
+T6	Species 180 182	FV
 N6	Reference T3 Taxonomy:10090	Mus musculus
-T7	Strain 392 394	FV
-N7	Reference T7 Taxonomy:11786	
-T8	Strain 543 545	FV
-N8	Reference T8 Taxonomy:11786	
+T7	Species 392 394	FV
+T8	Species 543 545	FV
 N1	Reference T1 Taxonomy:11632	Retroviridae
 T9	Species 663 669	F-MuLV
-N9	Reference T9 Taxonomy:11786	
-T10	Strain 765 767	FV
-N10	Reference T10 Taxonomy:11786	
+T10	Species 765 767	FV
 T11	Kingdom 93 98	virus
 N11	Reference T11 Taxonomy:10239	Viruses
+N3	Reference T4 Taxonomy:11795	Friend murine leukemia virus
+N4	Reference T5 Taxonomy:11795	Friend murine leukemia virus
+N5	Reference T6 Taxonomy:11795	Friend murine leukemia virus
+N8	Reference T8 Taxonomy:11795	Friend murine leukemia virus
+N7	Reference T7 Taxonomy:11795	Friend murine leukemia virus
+N10	Reference T10 Taxonomy:11795	Friend murine leukemia virus
+N2	Reference T2 Taxonomy:11795	Friend murine leukemia virus
+N9	Reference T9 Taxonomy:11795	Friend murine leukemia virus

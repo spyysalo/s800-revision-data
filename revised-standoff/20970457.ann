@@ -1,32 +1,38 @@
-T1	Species 40 58	Coxsackievirus A16
-T2	Species 84 102	Coxsackievirus A16
-T3	Species 104 108	CA16
-T4	Species 366 370	CA16
-T5	Species 430 434	CA16
-T6	Species 495 499	CA16
-T7	Species 697 701	CA16
-T8	Species 1062 1066	CA16
-T9	Species 1140 1144	CA16
-T10	Species 1215 1219	CA16
+T1	Strain 55 58	A16
+T3	Strain 104 108	CA16
+T4	Strain 366 370	CA16
+T5	Strain 430 434	CA16
+T6	Strain 495 499	CA16
+T7	Strain 697 701	CA16
+T8	Strain 1062 1066	CA16
+T9	Strain 1140 1144	CA16
+T10	Strain 1215 1219	CA16
 T1001	Genus 1067 1080	enteroviruses
 N1001	Reference T1001 Taxonomy:12059	
-#1	AnnotatorNotes T4	Note: "anti-" prefix
-#2	AnnotatorNotes T9	Note: "anti-" prefix
-#3	AnnotatorNotes T1	TODO check span and type (strain?)
+#1	AnnotatorNotes T4	TODO check
+#2	AnnotatorNotes T9	TODO check
+#3	AnnotatorNotes T1	TODO check
 N1	Reference T1 Taxonomy:31704	Coxsackievirus A16
-N2	Reference T2 Taxonomy:31704	Coxsackievirus A16
-#4	AnnotatorNotes T2	TODO check span and type (strain?)
 N3	Reference T3 Taxonomy:31704	Coxsackievirus A16
-#5	AnnotatorNotes T3	TODO check span and type (strain?)
+#5	AnnotatorNotes T3	TODO check
 N5	Reference T5 Taxonomy:31704	Coxsackievirus A16
-#6	AnnotatorNotes T5	TODO check span and type (strain?)
+#6	AnnotatorNotes T5	TODO check
 N6	Reference T6 Taxonomy:31704	Coxsackievirus A16
-#7	AnnotatorNotes T6	TODO check span and type (strain?)
+#7	AnnotatorNotes T6	TODO check
 N7	Reference T7 Taxonomy:31704	Coxsackievirus A16
-#8	AnnotatorNotes T7	TODO check span and type (strain?)
+#8	AnnotatorNotes T7	TODO check
 N8	Reference T8 Taxonomy:31704	Coxsackievirus A16
-#9	AnnotatorNotes T8	TODO check span and type (strain?)
+#9	AnnotatorNotes T8	TODO check
 N10	Reference T10 Taxonomy:31704	Coxsackievirus A16
-#10	AnnotatorNotes T10	TODO check span and type (strain?)
+#10	AnnotatorNotes T10	TODO check
 N4	Reference T4 Taxonomy:31704	Coxsackievirus A16
 N9	Reference T9 Taxonomy:31704	Coxsackievirus A16
+T11	Species 40 54	Coxsackievirus
+N11	Reference T11 Taxonomy:12066	Coxsackievirus
+#4	AnnotatorNotes T11	TODO check
+T2	Species 84 98	Coxsackievirus
+N2	Reference T2 Taxonomy:12066	Coxsackievirus
+#11	AnnotatorNotes T2	TODO check
+T12	Strain 99 102	A16
+N12	Reference T12 Taxonomy:31704	Coxsackievirus A16
+#12	AnnotatorNotes T12	TODO check

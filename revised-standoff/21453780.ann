@@ -3,11 +3,8 @@ N1	Reference T1 Taxonomy:5518
 T2	Species 1385 1401	Fusariumsacchari
 N2	Reference T2 Taxonomy:42676
 T3	Species 574 593	Gibberellafujikuroi
-N3	Reference T3 Taxonomy:171627	Fusarium fujikuroi species complex
 T4	Species 1459 1470	G.fujikuroi
-N4	Reference T4 Taxonomy:171627	Fusarium fujikuroi species complex
 T5	Species 81 100	Gibberellafujikuroi
-N5	Reference T5 Taxonomy:171627	Fusarium fujikuroi species complex
 T1001	Genus 31 39	Fusarium
 N1001	Reference T1001 Taxonomy:5506	
 T1002	Genus 455 463	Fusarium
@@ -29,3 +26,6 @@ N8	Reference T8 Taxonomy:4890	Ascomycota
 T9	Out-of-scope 465 475	Teleomorph
 T10	Kingdom 197 202	fungi
 N9	Reference T10 Taxonomy:4751	Fungi
+N5	Reference T5 Taxonomy:5127	Fusarium fujikuroi
+N3	Reference T3 Taxonomy:5127	Fusarium fujikuroi
+N4	Reference T4 Taxonomy:5127	Fusarium fujikuroi

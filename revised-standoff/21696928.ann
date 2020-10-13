@@ -2,10 +2,10 @@ T1	Species 103 124	Chlorella minutissima
 N1	Reference T1 Taxonomy:3081
 T2	Species 276 297	Chlorella minutissima
 N2	Reference T2 Taxonomy:3081
-T3	Species 845 854	Chlorella
-N3	Reference T3 Taxonomy:3081
+T3	Genus 845 854	Chlorella
 T4	Out-of-scope 86 101	freshwater alga
 T5	Out-of-scope 402 406	alga
 T6	Out-of-scope 882 887	algae
 T7	Out-of-scope 1428 1433	algal
 T8	Out-of-scope 271 275	alga
+N4	Reference T3 Taxonomy:3071	Chlorella

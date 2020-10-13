@@ -1,9 +1,7 @@
-T1	Species 79 91	garter snake
-N1	Reference T1 Taxonomy:35005
+T1	Genus 79 91	garter snake
 T2	Species 93 111	Thamnophis elegans
 N2	Reference T2 Taxonomy:35005
-T3	Species 565 577	garter snake
-N3	Reference T3 Taxonomy:35005
+T3	Genus 565 577	garter snake
 T4	Species 578 596	Thamnophis elegans
 N4	Reference T4 Taxonomy:35005
 T5	Order 668 674	snakes
@@ -14,3 +12,5 @@ T7	Order 1490 1496	snakes
 N7	Reference T7 Taxonomy:8570	Serpentes
 T8	Order 1367 1373	snakes
 N8	Reference T8 Taxonomy:8570	Serpentes
+N1	Reference T1 Taxonomy:34999	Thamnophis
+N3	Reference T3 Taxonomy:34999	Thamnophis

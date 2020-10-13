@@ -13,9 +13,7 @@ N6	Reference T6 Taxonomy:342409
 T7	Species 1142 1146	WSSV
 N7	Reference T7 Taxonomy:342409
 T8	Species 1149 1166	yellow head virus
-N8	Reference T8 Taxonomy:96491
 T9	Species 1168 1171	YHV
-N9	Reference T9 Taxonomy:96491
 T10	Species 1174 1194	Taura syndrome virus
 N10	Reference T10 Taxonomy:142102
 T11	Species 1196 1199	TSV
@@ -50,3 +48,5 @@ N21	Reference T24 Taxonomy:111520	Penaeoidea
 #5	AnnotatorNotes T24	TODO check
 T25	Kingdom 1097 1104	viruses
 N22	Reference T25 Taxonomy:10239	Viruses
+N23	Reference T8 Taxonomy:96029	Yellow head virus
+N8	Reference T9 Taxonomy:96029	Yellow head virus

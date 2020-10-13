@@ -11,8 +11,8 @@ T6	Genus 649 655	poplar
 N5	Reference T6 Taxonomy:3689	Populus
 T7	Species 662 675	Populus nigra
 N6	Reference T7 Taxonomy:3691	Populus nigra
-T8	Out-of-scope 681 688	italica
-#1	AnnotatorNotes T8	cultivar
+T8	Strain 681 688	italica
+#1	AnnotatorNotes T8	TODO check (cultivar)
 T9	Genus 1292 1298	poplar
 N7	Reference T9 Taxonomy:3689	Populus
 T10	Out-of-scope 1342 1347	algal
@@ -20,3 +20,4 @@ T11	Out-of-scope 1661 1666	algal
 #2	AnnotatorNotes T5	TODO: document
 #3	AnnotatorNotes T10	TODO: document
 #4	AnnotatorNotes T11	TODO: document
+N8	Reference T8 Taxonomy:1954247	Populus nigra var. italica

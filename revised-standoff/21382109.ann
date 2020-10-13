@@ -1,17 +1,11 @@
-T1	Species 77 88	Apis cerana
-T2	Species 372 383	Apis cerana
+T1	Species 77 95	Apis cerana cerana
+T2	Species 372 390	Apis cerana cerana
 T3	Species 708 717	honeybees
 T4	Species 1072 1081	honeybees
-N1	Reference T1 Taxonomy:7461	Apis cerana
-N2	Reference T2 Taxonomy:7461	Apis cerana
-T6	Strain 89 95	cerana
-#1	AnnotatorNotes T6	TODO: document
-T7	Strain 384 390	cerana
-#2	AnnotatorNotes T7	TODO: document
-T8	Strain 392 395	Acc
+T8	Species 392 395	Acc
 #3	AnnotatorNotes T8	TODO: document
-N5	Reference T7 Taxonomy:94128	Apis cerana cerana
 N6	Reference T8 Taxonomy:94128	Apis cerana cerana
-N7	Reference T6 Taxonomy:94128	Apis cerana cerana
 N3	Reference T3 Taxonomy:7460	Apis mellifera
 N4	Reference T4 Taxonomy:7460	Apis mellifera
+N1	Reference T1 Taxonomy:94128	Apis cerana cerana
+N2	Reference T2 Taxonomy:94128	Apis cerana cerana

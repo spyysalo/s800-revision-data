@@ -29,7 +29,7 @@ N15	Reference T15 Taxonomy:244590
 T16	Species 1103 1107	SSV2
 N16	Reference T16 Taxonomy:244590	
 T17	Family 1138 1150	fusellovirus
-T18	Strain 1175 1201	Sulfolobus solfataricus P2
+T18	Strain 1199 1201	P2
 N18	Reference T18 Taxonomy:273057	
 T19	Genus 1248 1258	Sulfolobus
 N19	Reference T19 Taxonomy:2284	
@@ -60,3 +60,5 @@ T30	Kingdom 769 774	virus
 N28	Reference T30 Taxonomy:10239	
 T31	Kingdom 569 575	animal
 N29	Reference T31 Taxonomy:33208	Metazoa
+T32	Species 1175 1198	Sulfolobus solfataricus
+N30	Reference T32 Taxonomy:2287	Saccharolobus solfataricus

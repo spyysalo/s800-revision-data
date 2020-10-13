@@ -24,7 +24,7 @@ T12	Species 405 421	Lepus brachyurus
 N12	Reference T12 Taxonomy:156448	Lepus brachyurus
 T13	Species 462 475	mountain hare
 N13	Reference T13 Taxonomy:62621	Lepus timidus
-T14	Species 476 489	Lepus timidus
+T14	Species 476 494	Lepus timidus ainu
 N14	Reference T14 Taxonomy:62621	Lepus timidus
 T15	Family 564 572	leporids
 N15	Reference T15 Taxonomy:9979	Leporidae
@@ -44,5 +44,7 @@ T22	Species 865 878	L. brachyurus
 N22	Reference T22 Taxonomy:156448	Lepus brachyurus
 T23	Genus 931 936	Lepus
 N23	Reference T23 Taxonomy:9980	Lepus
-T24	Species 1004 1009	L. t.
+T24	Species 1004 1014	L. t. ainu
 N24	Reference T24 Taxonomy:62621	Lepus timidus
+#1	AnnotatorNotes T14	TODO norm
+#2	AnnotatorNotes T24	TODO norm

@@ -109,7 +109,7 @@ T42	Genus 2299 2305;2326 2336	type A retrovirus
 T43	Genus 2307 2313;2326 2336	type B retrovirus
 T44	Genus 2319 2336	type C retrovirus
 T45	Genus 1888 1911	avian type C retrovirus
-T46	Species 1954 1984	type C baboon endogenous virus
+T46	Species 1961 1984	baboon endogenous virus
 T47	Species 1583 1587	MMTV
 T48	Genus 1447 1464	type B retrovirus
 T49	Species 1466 1491	mouse mammary tumor virus
@@ -144,3 +144,5 @@ T57	Species 2214 2217	rat
 N57	Reference T57 Taxonomy:10116	Rattus norvegicus
 T58	Kingdom 222 227	virus
 N58	Reference T58 Taxonomy:10239	
+T59	Strain 1954 1960	type C
+#31	AnnotatorNotes T59	TODO norm

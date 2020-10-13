@@ -2,8 +2,7 @@ T1	Species 48 76	foot-and-mouth disease virus
 N1	Reference T1 Taxonomy:12110
 T2	Species 261 295	foot-and-mouth disease (FMD) virus
 N2	Reference T2 Taxonomy:12110
-T3	Species 949 952	FMD
-N3	Reference T3 Taxonomy:12110
+T3	Out-of-scope 949 952	FMD
 T4	Strain 46 47	A
 T5	Strain 259 260	A
 #1	AnnotatorNotes T3	TODO check type (disease?)

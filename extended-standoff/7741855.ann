@@ -1,7 +1,4 @@
-T1	Genus 115 128	Synechococcus
-N1	Reference T1 Taxonomy:1129	
-T2	Genus 149 162	Synechococcus
-N2	Reference T2 Taxonomy:1129	
+T2	Species 149 178	Synechococcus species PCC7942
 T3	Phylum 317 331	cyanobacterial
 T4	Genus 938 951	Synechococcus
 N4	Reference T4 Taxonomy:1129	
@@ -9,8 +6,9 @@ T5	Genus 1726 1739	Synechococcus
 N5	Reference T5 Taxonomy:1129	
 T6	Genus 1950 1963	Synechococcus
 N6	Reference T6 Taxonomy:1129	
-T7	Strain 137 144	PCC7942
-N7	Reference T7 Taxonomy:1140	Synechococcus elongatus PCC 7942 = FACHB-805
-T8	Strain 171 178	PCC7942
-N8	Reference T8 Taxonomy:1140	Synechococcus elongatus PCC 7942 = FACHB-805
 N3	Reference T3 Taxonomy:1117	Cyanobacteria
+T9	Species 115 144	Synechococcus species PCC7942
+N9	Reference T9 Taxonomy:115747	Synechococcus sp. PCC 7943
+N1	Reference T2 Taxonomy:115747	Synechococcus sp. PCC 7943
+#1	AnnotatorNotes T2	TODO check
+#2	AnnotatorNotes T9	TODO check

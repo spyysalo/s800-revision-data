@@ -30,15 +30,15 @@ N28	Reference T12 Taxonomy:62688	Blumeria graminis f. sp. hordei
 N29	Reference T14 Taxonomy:62688	Blumeria graminis f. sp. hordei
 N30	Reference T18 Taxonomy:62688	Blumeria graminis f. sp. hordei
 T19	Strain 208 215	tritici
-N3	Reference T19 Taxonomy:62688	Blumeria graminis f. sp. hordei
-N4	Reference T4 Taxonomy:62688	Blumeria graminis f. sp. hordei
-N5	Reference T9 Taxonomy:62688	Blumeria graminis f. sp. hordei
-N6	Reference T11 Taxonomy:62688	Blumeria graminis f. sp. hordei
-N9	Reference T13 Taxonomy:62688	Blumeria graminis f. sp. hordei
-N10	Reference T17 Taxonomy:62688	Blumeria graminis f. sp. hordei
 T20	Out-of-scope 448 454	cereal
 #1	AnnotatorNotes T20	TODO confirm OOS
 T21	Kingdom 65 70	fungi
 N11	Reference T21 Taxonomy:4751	Fungi
 T22	Kingdom 166 172	fungal
 N12	Reference T22 Taxonomy:4751	Fungi
+N4	Reference T4 Taxonomy:62690	Blumeria graminis f. sp. tritici
+N5	Reference T9 Taxonomy:62690	Blumeria graminis f. sp. tritici
+N6	Reference T11 Taxonomy:62690	Blumeria graminis f. sp. tritici
+N9	Reference T13 Taxonomy:62690	Blumeria graminis f. sp. tritici
+N10	Reference T17 Taxonomy:62690	Blumeria graminis f. sp. tritici
+N3	Reference T19 Taxonomy:62690	Blumeria graminis f. sp. tritici

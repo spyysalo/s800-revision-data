@@ -9,14 +9,12 @@ N4	Reference T4 Taxonomy:562
 T5	Species 1169 1182	S. negevensis
 N5	Reference T5 Taxonomy:83561
 T6	Strain 449 450	Z
-T1001	Genus 46 56	Chlamydiae
-N1001	Reference T1001 Taxonomy:810	
+T1001	Phylum 46 56	Chlamydiae
 T1002	Genus 454 464	chlamydial
 N1002	Reference T1002 Taxonomy:810	
 T1003	Genus 663 675	Acanthamoeba
 N1003	Reference T1003 Taxonomy:5754	
-T1004	Genus 1315 1325	chlamydiae
-N1004	Reference T1004 Taxonomy:810	
+T1004	Phylum 1315 1325	chlamydiae
 T7	Kingdom 292 302	eukaryotic
 N6	Reference T7 Taxonomy:2759	Eukaryota
 T8	Kingdom 317 326	bacterial
@@ -25,3 +23,5 @@ T9	Kingdom 74 82	bacteria
 N8	Reference T9 Taxonomy:2	Bacteria
 T10	Out-of-scope 1058 1069	prokaryotic
 #1	AnnotatorNotes T10	TODO check
+N9	Reference T1001 Taxonomy:204428	Chlamydiae
+N10	Reference T1004 Taxonomy:204428	Chlamydiae

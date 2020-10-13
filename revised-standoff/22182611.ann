@@ -9,7 +9,6 @@ N4	Reference T4 Taxonomy:7370
 T5	Species 358 380	Bacillus thuringiensis
 N5	Reference T5 Taxonomy:1428
 T6	Strain 402 405	Bti
-N6	Reference T6 Taxonomy:1428
 T7	Species 552 564	M. domestica
 N7	Reference T7 Taxonomy:7370
 T8	Species 604 612	chickens
@@ -17,15 +16,10 @@ N8	Reference T8 Taxonomy:9031
 T9	Species 708 720	M. domestica
 N9	Reference T9 Taxonomy:7370
 T10	Strain 766 769	Bti
-N10	Reference T10 Taxonomy:1428
 T11	Strain 857 860	Bti
-N11	Reference T11 Taxonomy:1428
 T12	Strain 949 952	Bti
-N12	Reference T12 Taxonomy:1428
 T13	Strain 1063 1066	Bti
-N13	Reference T13 Taxonomy:1428
 T14	Strain 1176 1179	Bti
-N14	Reference T14 Taxonomy:1428
 T15	Species 1183 1190	chicken
 N15	Reference T15 Taxonomy:9031
 T16	Species 1266 1277	house flies
@@ -36,3 +30,11 @@ T1001	Order 168 175	Diptera
 N1001	Reference T1001 Taxonomy:7147	
 T1002	Family 177 185	Muscidae
 N1002	Reference T1002 Taxonomy:7366	
+N17	Reference T18 Taxonomy:1430	Bacillus thuringiensis serovar israelensis
+N18	Reference T6 Taxonomy:1430	Bacillus thuringiensis serovar israelensis
+N6	Reference T10 Taxonomy:1430	Bacillus thuringiensis serovar israelensis
+N10	Reference T11 Taxonomy:1430	Bacillus thuringiensis serovar israelensis
+N11	Reference T12 Taxonomy:1430	Bacillus thuringiensis serovar israelensis
+N12	Reference T13 Taxonomy:1430	Bacillus thuringiensis serovar israelensis
+N13	Reference T14 Taxonomy:1430	Bacillus thuringiensis serovar israelensis
+N14	Reference T17 Taxonomy:1430	Bacillus thuringiensis serovar israelensis

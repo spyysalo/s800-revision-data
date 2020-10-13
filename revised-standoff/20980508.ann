@@ -16,31 +16,19 @@ N1	Reference T1 Taxonomy:11308	Orthomyxoviridae
 N3	Reference T3 Taxonomy:11308	Orthomyxoviridae
 T9	Genus 0 9	Norovirus
 T10	Strain 186 191	GII.4
-N10	Reference T10 Taxonomy:11983	Norwalk virus
 T11	Genus 45 56	Noroviruses
 T12	Strain 460 465	GII.4
-N12	Reference T12 Taxonomy:11983	Norwalk virus
 T13	Strain 631 636	GII.4
-N13	Reference T13 Taxonomy:11983	Norwalk virus
 T14	Strain 663 668	GII.4
-N14	Reference T14 Taxonomy:11983	Norwalk virus
 T15	Strain 675 680	GII.4
-N15	Reference T15 Taxonomy:11983	Norwalk virus
 T17	Strain 760 765	GII.4
-N17	Reference T17 Taxonomy:11983	Norwalk virus
 T18	Strain 855 860	GII.4
-N18	Reference T18 Taxonomy:11983	Norwalk virus
 T19	Strain 870 875	GII.4
-N19	Reference T19 Taxonomy:11983	Norwalk virus
 T20	Strain 896 901	GII.4
-N20	Reference T20 Taxonomy:11983	Norwalk virus
 T21	Strain 913 918	GII.4
 T22	Strain 968 973	GII.4
-N22	Reference T22 Taxonomy:11983	Norwalk virus
 T23	Strain 1108 1113	GII.4
-N23	Reference T23 Taxonomy:11983	Norwalk virus
 T24	Strain 1177 1182	GII.4
-N24	Reference T24 Taxonomy:11983	Norwalk virus
 T25	Genus 1537 1548	noroviruses
 T26	Genus 1675 1684	norovirus
 N11	Reference T11 Taxonomy:142786	Norovirus
@@ -57,3 +45,19 @@ N16	Reference T29 Taxonomy:142786	Norovirus
 #3	AnnotatorNotes T13	TODO check span (many in abstract)
 T30	Kingdom 580 585	virus
 N21	Reference T30 Taxonomy:10239	Viruses
+N27	Reference T27 Taxonomy:489821	Norovirus GII.4
+N28	Reference T10 Taxonomy:489821	Norovirus GII.4
+N29	Reference T12 Taxonomy:489821	Norovirus GII.4
+N13	Reference T13 Taxonomy:489821	Norovirus GII.4
+N14	Reference T14 Taxonomy:489821	Norovirus GII.4
+N15	Reference T15 Taxonomy:489821	Norovirus GII.4
+N17	Reference T17 Taxonomy:489821	Norovirus GII.4
+N30	Reference T16 Taxonomy:489821	Norovirus GII.4
+N31	Reference T21 Taxonomy:489821	Norovirus GII.4
+N18	Reference T18 Taxonomy:489821	Norovirus GII.4
+N19	Reference T19 Taxonomy:489821	Norovirus GII.4
+N20	Reference T20 Taxonomy:489821	Norovirus GII.4
+N22	Reference T22 Taxonomy:489821	Norovirus GII.4
+N23	Reference T23 Taxonomy:489821	Norovirus GII.4
+N24	Reference T24 Taxonomy:489821	Norovirus GII.4
+N32	Reference T28 Taxonomy:489821	Norovirus GII.4

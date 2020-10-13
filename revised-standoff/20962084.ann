@@ -1,6 +1,5 @@
 T1	Family 43 48;73 88	swine influenza virus
 T3	Strain 148 152	H1N1
-N3	Reference T3 Taxonomy:11320
 T4	Species 261 285	swine-origin influenza A
 N4	Reference T4 Taxonomy:11320
 T5	Family 386 401	influenza virus
@@ -14,7 +13,6 @@ N9	Reference T9 Taxonomy:9031
 T10	Species 1043 1048	swine
 N10	Reference T10 Taxonomy:9823
 T12	Strain 1334 1338	H1N1
-N12	Reference T12 Taxonomy:11320
 T13	Species 2082 2088	humans
 N13	Reference T13 Taxonomy:9606
 T14	Species 903 907	mice
@@ -23,15 +21,10 @@ T16	Species 1726 1730	mice
 N14	Reference T14 Taxonomy:10090	Mus musculus
 N15	Reference T15 Taxonomy:10090	Mus musculus
 N16	Reference T16 Taxonomy:10090	Mus musculus
-N8	Reference T8 Taxonomy:11320	
 T17	Strain 346 350	H1N1
-N17	Reference T17 Taxonomy:11320	
 T18	Strain 1900 1904	H1N1
-N18	Reference T18 Taxonomy:11320	
 T19	Strain 1699 1706	H1N1pdm
-N19	Reference T19 Taxonomy:11320	
 T20	Strain 1777 1791	ty/04 att-H1N1
-N20	Reference T20 Taxonomy:11320	
 T21	Species 1765 1769	pigs
 N21	Reference T21 Taxonomy:9823	Sus scrofa
 T2	Species 488 495	turkeys
@@ -49,7 +42,7 @@ T26	Strain 1627 1632	ty/04
 T27	Class 750 755	avian
 N22	Reference T27 Taxonomy:8782	Aves
 #2	AnnotatorNotes T24	TODO check span
-#3	AnnotatorNotes T20	TODO check span
+#3	AnnotatorNotes T20	TODO check span and norm
 T28	Family 1153 1162	influenza
 N23	Reference T28 Taxonomy:11308	Orthomyxoviridae
 T29	Kingdom 593 599	animal
@@ -72,3 +65,10 @@ T37	Kingdom 1707 1712	virus
 N32	Reference T37 Taxonomy:10239	Viruses
 T38	Kingdom 1914 1919	virus
 N33	Reference T38 Taxonomy:10239	Viruses
+N3	Reference T3 Taxonomy:114727	H1N1 subtype
+N17	Reference T17 Taxonomy:114727	H1N1 subtype
+N12	Reference T12 Taxonomy:114727	H1N1 subtype
+N18	Reference T18 Taxonomy:114727	H1N1 subtype
+N8	Reference T8 Taxonomy:102796	H9N2 subtype
+N19	Reference T19 Taxonomy:114727	H1N1 subtype
+N20	Reference T23 Taxonomy:114727	H1N1 subtype

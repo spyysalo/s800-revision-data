@@ -40,13 +40,13 @@ N9	Reference T9 Taxonomy:140052	Betaretrovirus
 #6	AnnotatorNotes T9	TODO: document
 N10	Reference T10 Taxonomy:140052	Betaretrovirus
 #7	AnnotatorNotes T10	TODO: document
-T5	Strain 292 297	SRV-2
-T21	Strain 255 260	SRV-1
-T22	Strain 262 289	SAIDS retrovirus-serotype 1
-T23	Strain 450 455	SRV-2
-T24	Strain 593 598	SRV-2
-T25	Strain 645 650	SRV-1
-T26	Strain 771 776	SRV-1
+T5	Species 292 297	SRV-2
+T21	Species 255 260	SRV-1
+T22	Species 262 289	SAIDS retrovirus-serotype 1
+T23	Species 450 455	SRV-2
+T24	Species 593 598	SRV-2
+T25	Species 645 650	SRV-1
+T26	Species 771 776	SRV-1
 T27	Family 690 702	retroviruses
 N5	Reference T27 Taxonomy:11632	Retroviridae
 T28	Family 707 717	retroviral
@@ -55,56 +55,21 @@ T29	Family 2464 2476	retroviruses
 N22	Reference T29 Taxonomy:11632	Retroviridae
 N6	Reference T6 Taxonomy:140052	Betaretrovirus
 #1	AnnotatorNotes T6	TODO: document
-T30	Strain 906 911	SRV-2
-T31	Strain 981 986	SRV-1
-T32	Strain 1107 1112	SRV-1
-T33	Strain 1148 1153	SRV-2
-T34	Strain 1183 1188	SRV-1
-T35	Strain 1311 1316	SRV-1
-T36	Strain 1234 1239	SRV-1
-T37	Strain 1269 1274	SRV-2
-T38	Strain 1654 1659	SRV-1
-T39	Strain 1663 1668	SRV-2
-T40	Strain 2088 2093	SRV-1
-T41	Strain 2095 2100	SRV-2
-N23	Reference T21 Taxonomy:11855	Mason-Pfizer monkey virus
-N24	Reference T22 Taxonomy:11855	Mason-Pfizer monkey virus
-N25	Reference T5 Taxonomy:11855	Mason-Pfizer monkey virus
-N26	Reference T23 Taxonomy:11855	Mason-Pfizer monkey virus
-N27	Reference T24 Taxonomy:11855	Mason-Pfizer monkey virus
-N28	Reference T25 Taxonomy:11855	Mason-Pfizer monkey virus
-N29	Reference T26 Taxonomy:11855	Mason-Pfizer monkey virus
-N30	Reference T31 Taxonomy:11855	Mason-Pfizer monkey virus
-N31	Reference T34 Taxonomy:11855	Mason-Pfizer monkey virus
-N32	Reference T32 Taxonomy:11855	Mason-Pfizer monkey virus
-N33	Reference T33 Taxonomy:11855	Mason-Pfizer monkey virus
-N34	Reference T36 Taxonomy:11855	Mason-Pfizer monkey virus
-N35	Reference T37 Taxonomy:11855	Mason-Pfizer monkey virus
-N36	Reference T35 Taxonomy:11855	Mason-Pfizer monkey virus
-N37	Reference T38 Taxonomy:11855	Mason-Pfizer monkey virus
-N38	Reference T39 Taxonomy:11855	Mason-Pfizer monkey virus
-N39	Reference T40 Taxonomy:11855	Mason-Pfizer monkey virus
-N40	Reference T41 Taxonomy:11855	Mason-Pfizer monkey virus
+T30	Species 906 911	SRV-2
+T31	Species 981 986	SRV-1
+T32	Species 1107 1112	SRV-1
+T33	Species 1148 1153	SRV-2
+T34	Species 1183 1188	SRV-1
+T35	Species 1311 1316	SRV-1
+T36	Species 1234 1239	SRV-1
+T37	Species 1269 1274	SRV-2
+T38	Species 1654 1659	SRV-1
+T39	Species 1663 1668	SRV-2
+T40	Species 2088 2093	SRV-1
+T41	Species 2095 2100	SRV-2
 #2	AnnotatorNotes T21	TODO: document
-#8	AnnotatorNotes T22	TODO: document
+#8	AnnotatorNotes T22	TODO: check
 #9	AnnotatorNotes T5	TODO: document
-#10	AnnotatorNotes T23	TODO: document
-#11	AnnotatorNotes T24	TODO: document
-#12	AnnotatorNotes T25	TODO: document
-#13	AnnotatorNotes T26	TODO: document
-#14	AnnotatorNotes T31	TODO: document
-N41	Reference T30 Taxonomy:11855	Mason-Pfizer monkey virus
-#15	AnnotatorNotes T30	TODO: document
-#16	AnnotatorNotes T32	TODO: document
-#17	AnnotatorNotes T33	TODO: document
-#18	AnnotatorNotes T34	TODO: document
-#19	AnnotatorNotes T36	TODO: document
-#20	AnnotatorNotes T37	TODO: document
-#21	AnnotatorNotes T35	TODO: document
-#22	AnnotatorNotes T38	TODO: document
-#23	AnnotatorNotes T39	TODO: document
-#24	AnnotatorNotes T40	TODO: document
-#25	AnnotatorNotes T41	TODO: document
 T42	Genus 2299 2305;2326 2336	type A retrovirus
 T43	Genus 2307 2313;2326 2336	type B retrovirus
 T44	Genus 2319 2336	type C retrovirus
@@ -146,3 +111,22 @@ T58	Kingdom 222 227	virus
 N58	Reference T58 Taxonomy:10239	
 T59	Strain 1954 1960	type C
 #31	AnnotatorNotes T59	TODO norm
+N59	Reference T21 Taxonomy:11942	Simian retrovirus 1
+N23	Reference T22 Taxonomy:11942	Simian retrovirus 1
+N24	Reference T5 Taxonomy:39068	Simian retrovirus 2
+N25	Reference T23 Taxonomy:39068	Simian retrovirus 2
+N26	Reference T24 Taxonomy:39068	Simian retrovirus 2
+N27	Reference T39 Taxonomy:39068	Simian retrovirus 2
+N38	Reference T41 Taxonomy:39068	Simian retrovirus 2
+N28	Reference T25 Taxonomy:11942	Simian retrovirus 1
+N40	Reference T30 Taxonomy:39068	Simian retrovirus 2
+N32	Reference T32 Taxonomy:11942	Simian retrovirus 1
+N33	Reference T33 Taxonomy:39068	Simian retrovirus 2
+N29	Reference T26 Taxonomy:11942	Simian retrovirus 1
+N30	Reference T31 Taxonomy:11942	Simian retrovirus 1
+N31	Reference T34 Taxonomy:11942	Simian retrovirus 1
+N36	Reference T35 Taxonomy:11942	Simian retrovirus 1
+N39	Reference T40 Taxonomy:11942	Simian retrovirus 1
+N34	Reference T36 Taxonomy:11942	Simian retrovirus 1
+N37	Reference T38 Taxonomy:11942	Simian retrovirus 1
+N35	Reference T37 Taxonomy:39068	Simian retrovirus 2

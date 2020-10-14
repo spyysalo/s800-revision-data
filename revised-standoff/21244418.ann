@@ -1,19 +1,15 @@
-T1	Species 781 789	redshank
-N1	Reference T1 Taxonomy:171271
+T1	Genus 781 789	redshank
 T2	Species 790 804	Tringa totanus
 N2	Reference T2 Taxonomy:171271
 T3	Species 828 849	Eurasian sparrowhawks
 N3	Reference T3 Taxonomy:211598
 T4	Species 850 865	Accipiter nisus
 N4	Reference T4 Taxonomy:211598
-T5	Species 1001 1009	redshank
-N5	Reference T5 Taxonomy:171271
+T5	Genus 1001 1009	redshank
 T6	Genus 1312 1323	Sparrowhawk
-T7	Species 1401 1410	redshanks
-N7	Reference T7 Taxonomy:171271
+T7	Genus 1401 1410	redshanks
 T8	Genus 1412 1423	Sparrowhawk
-T9	Species 1720 1729	Redshanks
-N9	Reference T9 Taxonomy:171271
+T9	Genus 1720 1729	Redshanks
 N10	Reference T6 Taxonomy:8956	Accipiter
 N6	Reference T8 Taxonomy:8956	Accipiter
 T1001	Class 1261 1266	birds
@@ -22,3 +18,7 @@ T10	Kingdom 2326 2332	animal
 N8	Reference T10 Taxonomy:33208	Metazoa
 T11	Kingdom 236 242	animal
 N11	Reference T11 Taxonomy:33208	Metazoa
+N1	Reference T1 Taxonomy:161681	Tringa
+N5	Reference T5 Taxonomy:161681	Tringa
+N7	Reference T7 Taxonomy:161681	Tringa
+N9	Reference T9 Taxonomy:161681	Tringa

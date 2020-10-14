@@ -1,11 +1,8 @@
 T1	Strain 154 155	A
-N1	Reference T1 Taxonomy:12110
 T2	Strain 151 152	O
-N2	Reference T2 Taxonomy:12110
 T3	Species 122 150	foot-and-mouth disease virus
 N3	Reference T3 Taxonomy:12110
 T6	Strain 291 292	A
-N6	Reference T6 Taxonomy:12110
 T9	Species 330 337	rabbits
 N9	Reference T9 Taxonomy:9986
 T10	Strain 405 413	O/CHA/99
@@ -23,17 +20,12 @@ N15	Reference T15 Taxonomy:12110
 T16	Strain 506 520	Asia 1/YNBS/58
 N16	Reference T16 Taxonomy:12110
 T17	Strain 627 628	O
-N17	Reference T17 Taxonomy:12110
 T18	Strain 630 631	A
-N18	Reference T18 Taxonomy:12110
 T19	Strain 636 642	Asia 1
-N19	Reference T19 Taxonomy:12110
 T20	Species 1081 1085	FMDV
 N20	Reference T20 Taxonomy:12110
 T22	Strain 1096 1097	O
-N22	Reference T22 Taxonomy:12110
 T23	Strain 1099 1100	A
-N23	Reference T23 Taxonomy:12110
 T24	Species 1232 1236	FMDV
 N24	Reference T24 Taxonomy:12110
 T21	Species 342 353	guinea pigs
@@ -43,11 +35,8 @@ N4	Reference T4 Taxonomy:12110
 T7	Species 272 276	FMDV
 N7	Reference T7 Taxonomy:12110	
 T5	Strain 160 166	Asia 1
-N5	Reference T5 Taxonomy:12110	
 T8	Strain 288 289	O
-N8	Reference T8 Taxonomy:12110	
 T25	Strain 297 303	Asia 1
-N25	Reference T25 Taxonomy:12110	
 T26	Strain 1105 1111	Asia 1
 T27	Strain 1242 1248	Asia 1
 T28	Kingdom 1030 1037	animals
@@ -56,3 +45,16 @@ T29	Kingdom 390 395	virus
 N27	Reference T29 Taxonomy:10239	Viruses
 T30	Kingdom 469 474	virus
 N28	Reference T30 Taxonomy:10239	Viruses
+N2	Reference T2 Taxonomy:12118	Foot-and-mouth disease virus - type O
+N1	Reference T1 Taxonomy:12111	Foot-and-mouth disease virus - type A
+N5	Reference T5 Taxonomy:110195	Foot-and-mouth disease virus - type Asia 1
+N25	Reference T25 Taxonomy:110195	Foot-and-mouth disease virus - type Asia 1
+N29	Reference T26 Taxonomy:110195	Foot-and-mouth disease virus - type Asia 1
+N19	Reference T19 Taxonomy:110195	Foot-and-mouth disease virus - type Asia 1
+N30	Reference T27 Taxonomy:110195	Foot-and-mouth disease virus - type Asia 1
+N8	Reference T8 Taxonomy:12118	Foot-and-mouth disease virus - type O
+N17	Reference T17 Taxonomy:12118	Foot-and-mouth disease virus - type O
+N22	Reference T22 Taxonomy:12118	Foot-and-mouth disease virus - type O
+N6	Reference T6 Taxonomy:12111	Foot-and-mouth disease virus - type A
+N18	Reference T18 Taxonomy:12111	Foot-and-mouth disease virus - type A
+N23	Reference T23 Taxonomy:12111	Foot-and-mouth disease virus - type A

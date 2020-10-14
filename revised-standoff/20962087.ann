@@ -8,8 +8,6 @@ T4	Strain 1276 1280	H5N1
 T5	Species 1360 1364	mice
 N5	Reference T5 Taxonomy:10090
 T6	Strain 1547 1551	H5N1
-N6	Reference T6 Taxonomy:11320
-N4	Reference T4 Taxonomy:11320	
 T7	Family 80 89	influenza
 N7	Reference T7 Taxonomy:11308	Orthomyxoviridae
 T8	Family 192 201	influenza
@@ -20,3 +18,5 @@ T10	Kingdom 1552 1559	viruses
 N10	Reference T10 Taxonomy:10239	Viruses
 T11	Kingdom 122 127	viral
 N11	Reference T11 Taxonomy:10239	Viruses
+N4	Reference T4 Taxonomy:102793	H5N1 subtype
+N6	Reference T6 Taxonomy:102793	H5N1 subtype

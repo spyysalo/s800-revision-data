@@ -9,7 +9,6 @@ N4	Reference T4 Taxonomy:562
 T5	Species 987 994	E. coli
 N5	Reference T5 Taxonomy:562
 T6	Strain 1102 1106	K-12
-N6	Reference T6 Taxonomy:562
 T7	Species 1236 1243	E. coli
 N7	Reference T7 Taxonomy:562
 T8	Species 1277 1284	E. coli
@@ -21,7 +20,6 @@ N10	Reference T10 Taxonomy:28901
 T11	Species 1556 1563	E. coli
 N11	Reference T11 Taxonomy:562
 T12	Strain 380 384	K-12
-N12	Reference T12 Taxonomy:562	
 T13	Strain 995 999	K-12
 T14	Strain 1333 1334	B
 T15	Strain 1564 1568	K-12
@@ -29,3 +27,8 @@ T16	Kingdom 1195 1204	bacterial
 N13	Reference T16 Taxonomy:2	Bacteria
 T17	Kingdom 1521 1529	bacteria
 N14	Reference T17 Taxonomy:2	Bacteria
+N15	Reference T13 Taxonomy:83333	Escherichia coli K-12
+N12	Reference T12 Taxonomy:83333	Escherichia coli K-12
+N6	Reference T6 Taxonomy:83333	Escherichia coli K-12
+N16	Reference T15 Taxonomy:83333	Escherichia coli K-12
+N17	Reference T14 Taxonomy:37762	Escherichia coli B

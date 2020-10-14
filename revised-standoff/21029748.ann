@@ -7,9 +7,7 @@ N3	Reference T3 Taxonomy:11320
 T4	Species 189 200	influenza A
 N4	Reference T4 Taxonomy:11320
 T5	Strain 359 368	A/H1N1pdm
-N5	Reference T5 Taxonomy:11320
 T6	Strain 534 543	A/H1N1pdm
-N6	Reference T6 Taxonomy:11320
 T7	Species 600 605	human
 N7	Reference T7 Taxonomy:9606
 T8	Strain 615 621	A/H1N1
@@ -21,7 +19,6 @@ N16	Reference T16 Taxonomy:11320
 T17	Family 1610 1627	influenza viruses
 T18	Family 1662 1679	influenza viruses
 T19	Strain 212 221	A/H1N1pdm
-N19	Reference T19 Taxonomy:11320	
 T20	Strain 623 625	H1
 N20	Reference T20 Taxonomy:11320	
 T21	Strain 671 673	H3
@@ -80,3 +77,4 @@ N35	Reference T32 Taxonomy:114727	H1N1 subtype
 N36	Reference T19 Taxonomy:114727	H1N1 subtype
 N37	Reference T5 Taxonomy:114727	H1N1 subtype
 N38	Reference T6 Taxonomy:114727	H1N1 subtype
+N5	Reference T39 Taxonomy:114727	H1N1 subtype

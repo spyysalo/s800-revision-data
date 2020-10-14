@@ -1,28 +1,19 @@
 T1	Species 35 72	porcine endogenous retrovirus(PERV)-B
 T2	Species 166 197	Porcine endogenous retroviruses
 T3	Species 199 204	PERVs
-N3	Reference T3 Taxonomy:369960
 T4	Species 314 319	human
 N4	Reference T4 Taxonomy:9606
 T5	Species 381 385	pigs
 N5	Reference T5 Taxonomy:9823
 T6	Species 394 399	PERVs
-N6	Reference T6 Taxonomy:369960
 T7	Family 630 640	retroviral
 T8	Species 665 671	PERV-B
-N8	Reference T8 Taxonomy:369960
 T9	Species 787 793	PERV-B
-N9	Reference T9 Taxonomy:369960
 T10	Family 909 919	retroviral
 T11	Species 984 990	PERV-B
-N11	Reference T11 Taxonomy:369960
 T12	Species 1135 1141	PERV-A
-N12	Reference T12 Taxonomy:369960
-N1	Reference T1 Taxonomy:61673	Porcine endogenous retrovirus
 T14	Species 874 880	PERV-B
-N14	Reference T14 Taxonomy:369960	
 T13	Species 149 155	PERV-A
-N13	Reference T13 Taxonomy:369960	
 N10	Reference T10 Taxonomy:11632	Retroviridae
 N7	Reference T7 Taxonomy:11632	Retroviridae
 T15	Family 749 759	retroviral
@@ -30,9 +21,17 @@ N15	Reference T15 Taxonomy:11632	Retroviridae
 T16	Species 902 908	murine
 N16	Reference T16 Taxonomy:10090	Mus musculus
 N2	Reference T2 Taxonomy:61673	Porcine endogenous retrovirus
-#1	AnnotatorNotes T2	TODO check norm
 #2	AnnotatorNotes T8	TODO discuss and document type and norm
 T17	Out-of-scope 456 460	PERV
 #3	AnnotatorNotes T17	TODO discuss and document abbrev as part of name of non-organism type
 T18	Out-of-scope 1243 1249	PERV-A
 #4	AnnotatorNotes T18	TODO discuss and document abbrev as part of name of non-organism type
+N3	Reference T3 Taxonomy:61673	Porcine endogenous retrovirus
+N6	Reference T6 Taxonomy:61673	Porcine endogenous retrovirus
+N1	Reference T1 Taxonomy:194959	Porcine endogenous retrovirus B
+N8	Reference T8 Taxonomy:194959	Porcine endogenous retrovirus B
+N9	Reference T9 Taxonomy:194959	Porcine endogenous retrovirus B
+N14	Reference T14 Taxonomy:194959	Porcine endogenous retrovirus B
+N11	Reference T11 Taxonomy:194959	Porcine endogenous retrovirus B
+N13	Reference T13 Taxonomy:194958	Porcine endogenous retrovirus A
+N12	Reference T12 Taxonomy:194958	Porcine endogenous retrovirus A

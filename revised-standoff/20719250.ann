@@ -5,9 +5,7 @@ T3	Strain 306 311	JEC21
 T4	Strain 464 469	JEC21
 T5	Strain 594 599	JEC21
 T6	Strain 873 876	H99
-N6	Reference T6 Taxonomy:5207
 T7	Strain 911 914	H99
-N7	Reference T7 Taxonomy:5207
 T8	Strain 997 1002	JEC21
 T9	Strain 1050 1055	JEC21
 T10	Species 253 276	Cryptococcus neoformans
@@ -31,3 +29,6 @@ N5	Reference T5 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
 N10	Reference T13 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
 N9	Reference T9 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
 N8	Reference T8 Taxonomy:214684	Cryptococcus neoformans var. neoformans JEC21
+N15	Reference T15 Taxonomy:178876	Cryptococcus neoformans var. grubii
+N16	Reference T6 Taxonomy:235443	Cryptococcus neoformans var. grubii H99
+N6	Reference T7 Taxonomy:235443	Cryptococcus neoformans var. grubii H99

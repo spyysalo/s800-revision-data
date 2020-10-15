@@ -23,11 +23,11 @@ N1009	Reference T1009 Taxonomy:1230319
 T1010	Genus 1397 1412	Varistrombidium
 N1010	Reference T1010 Taxonomy:395881	
 T6	Genus 688 706	Opisthostrombidium
-#1	AnnotatorNotes T6	TODO check
+#1	AnnotatorNotes T6	Not found in NCBI Taxonomy as of 10/2020
 T7	Genus 841 854	Foissneridium
-#2	AnnotatorNotes T7	TODO check
+#2	AnnotatorNotes T7	Not found in NCBI Taxonomy as of 10/2020
 T8	Genus 1159 1171	Paratontonia
-#3	AnnotatorNotes T8	TODO check
+#3	AnnotatorNotes T8	Not found in NCBI Taxonomy as of 10/2020
 T9	Phylum 62 72	Ciliophora
 N2	Reference T9 Taxonomy:5878	Ciliophora
 T10	Phylum 52 60	ciliates
@@ -40,3 +40,7 @@ T13	Class 499 511	oligotrichid
 N6	Reference T13 Taxonomy:211030	Oligotrichia
 T14	Phylum 512 520	ciliates
 N7	Reference T14 Taxonomy:5878	Ciliophora
+#4	AnnotatorNotes T2	Not found in NCBI Taxonomy as of 10/2020
+#5	AnnotatorNotes T3	Not found in NCBI Taxonomy as of 10/2020
+#6	AnnotatorNotes T4	Not found in NCBI Taxonomy as of 10/2020
+#7	AnnotatorNotes T5	Not found in NCBI Taxonomy as of 10/2020

@@ -3,7 +3,6 @@ N1	Reference T1 Taxonomy:1972584
 T2	Species 160 164	TIBV
 N2	Reference T2 Taxonomy:1972584	
 T3	Species 170 190	Coastal Plains virus
-N3	Reference T3 Taxonomy:1972586	
 T4	Species 216 222	cattle
 N4	Reference T4 Taxonomy:9913	
 T5	Species 240 244	TIBV
@@ -29,7 +28,6 @@ N14	Reference T14 Taxonomy:11270	Rhabdoviridae
 T15	Out-of-scope 130 139	livestock
 #1	AnnotatorNotes T15	TODO check
 T16	Species 192 195	CPV
-N15	Reference T16 Taxonomy:1972586	
 T17	Species 839 842	CPV
 N16	Reference T17 Taxonomy:1972586	
 T18	Out-of-scope 881 896	dimarhabdovirus
@@ -40,3 +38,5 @@ T20	Kingdom 437 442	virus
 N18	Reference T20 Taxonomy:10239	
 T21	Kingdom 568 573	viral
 N19	Reference T21 Taxonomy:10239	
+N3	Reference T3 Taxonomy:764599	Coastal Plains virus
+N15	Reference T16 Taxonomy:764599	Coastal Plains virus

@@ -2,25 +2,25 @@ T1	Species 50 62	dengue virus
 N1	Reference T1 Taxonomy:12637
 T2	Species 92 106	dengue viruses
 N2	Reference T2 Taxonomy:12637
-T3	Species 395 401	Dengue
-N3	Reference T3 Taxonomy:12637
+T3	Out-of-scope 395 401	Dengue
 T4	Out-of-scope 451 457	dengue
-T5	Species 545 551	dengue
-N5	Reference T5 Taxonomy:12637
+T5	Out-of-scope 545 551	dengue
 T6	Species 855 867	dengue virus
 N6	Reference T6 Taxonomy:12637
-T7	Species 1214 1220	dengue
-N7	Reference T7 Taxonomy:12637
-T8	Species 1405 1411	dengue
-N8	Reference T8 Taxonomy:12637
-T9	Species 1661 1667	dengue
-N9	Reference T9 Taxonomy:12637
+T7	Out-of-scope 1214 1220	dengue
+T8	Out-of-scope 1405 1411	dengue
+T9	Out-of-scope 1661 1667	dengue
 T10	Out-of-scope 1691 1697	dengue
-T11	Species 702 708	dengue
-N11	Reference T11 Taxonomy:12637	
-#1	AnnotatorNotes T4	Disease
-#2	AnnotatorNotes T10	Disease
+T11	Out-of-scope 702 708	dengue
+#1	AnnotatorNotes T4	TODO confirm OOS (disease)
+#2	AnnotatorNotes T10	TODO confirm OOS (disease)
 T12	Kingdom 830 837	viruses
 N4	Reference T12 Taxonomy:10239	Viruses
 T13	Kingdom 355 360	viral
 N10	Reference T13 Taxonomy:10239	Viruses
+#3	AnnotatorNotes T3	TODO confirm OOS (disease)
+#4	AnnotatorNotes T5	TODO confirm OOS (disease)
+#5	AnnotatorNotes T11	TODO confirm OOS (disease)
+#6	AnnotatorNotes T7	TODO confirm OOS (disease)
+#7	AnnotatorNotes T8	TODO confirm OOS (disease)
+#8	AnnotatorNotes T9	TODO confirm OOS (disease)

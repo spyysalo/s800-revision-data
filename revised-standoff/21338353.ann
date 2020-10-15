@@ -1,13 +1,12 @@
 T1	Species 474 490	Florida panthers
 T2	Species 492 511	Puma concolor coryi
 T3	Species 642 658	P. c. stanleyana
-N3	Reference T3 Taxonomy:9696
 T4	Species 624 629	pumas
 N4	Reference T4 Taxonomy:9696	Puma concolor
 T5	Kingdom 232 238	animal
 N5	Reference T5 Taxonomy:33208	Metazoa
 N2	Reference T2 Taxonomy:29062	Puma concolor coryi
 N1	Reference T1 Taxonomy:29062	Puma concolor coryi
-#1	AnnotatorNotes T3	TODO norm
+#1	AnnotatorNotes T3	Not found in NCBI Taxonomy as of 10/2020
 T6	Family 97 102	felid
 N6	Reference T6 Taxonomy:9681	Felidae

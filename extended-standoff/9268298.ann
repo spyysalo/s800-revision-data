@@ -6,7 +6,7 @@ T3	Species 1154 1170	Escherichia coli
 N3	Reference T3 Taxonomy:562	
 T5	Kingdom 30 36	fungus
 N5	Reference T5 Taxonomy:4751	Fungi
-T6	Species 37 59	Phaeosphaeria sp. L487
+T6	Strain 55 59	L487
 N6	Reference T6 Taxonomy:65784	Phaeosphaeria sp. L487
 T4	Kingdom 159 165	fungal
 N4	Reference T4 Taxonomy:4751	Fungi
@@ -24,5 +24,9 @@ T12	Kingdom 304 310	plants
 N12	Reference T12 Taxonomy:33090	Viridiplantae
 T13	Kingdom 798 803	plant
 N13	Reference T13 Taxonomy:33090	Viridiplantae
-T14	Species 522 544	Phaeosphaeria sp. L487
+T14	Strain 540 544	L487
 N14	Reference T14 Taxonomy:65784	Phaeosphaeria sp. L487
+T15	Genus 37 50	Phaeosphaeria
+N15	Reference T15 Taxonomy:55067	Phaeosphaeria
+T16	Genus 522 535	Phaeosphaeria
+N16	Reference T16 Taxonomy:55067	Phaeosphaeria

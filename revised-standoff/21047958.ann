@@ -21,12 +21,22 @@ T10	Strain 659 662	Ad2
 N10	Reference T10 Taxonomy:10515	Human adenovirus 2
 T11	Strain 934 937	Ad2
 N11	Reference T11 Taxonomy:10515	Human adenovirus 2
-T12	Strain 513 523	Ad2-GFP-pV
-T13	Strain 860 870	Ad2-GFP-pV
 T14	Strain 1466 1469	Ad2
 N12	Reference T14 Taxonomy:10515	Human adenovirus 2
-T15	Strain 1474 1484	Ad2-GFP-pV
-T16	Strain 1526 1536	Ad2-GFP-pV
-T17	Strain 1595 1605	Ad2-GFP-pV
 T18	Kingdom 272 277	viral
 N13	Reference T18 Taxonomy:10239	Viruses
+T12	Strain 513 516	Ad2
+N14	Reference T12 Taxonomy:10515	Human adenovirus 2
+#2	AnnotatorNotes T12	TODO document
+T13	Strain 860 863	Ad2
+N15	Reference T13 Taxonomy:10515	Human adenovirus 2
+#3	AnnotatorNotes T13	TODO document
+T19	Strain 1474 1477	Ad2
+N16	Reference T19 Taxonomy:10515	Human adenovirus 2
+#7	AnnotatorNotes T19	TODO document
+T20	Strain 1595 1598	Ad2
+N17	Reference T20 Taxonomy:10515	Human adenovirus 2
+#8	AnnotatorNotes T20	TODO document
+T15	Strain 1526 1529	Ad2
+N18	Reference T15 Taxonomy:10515	Human adenovirus 2
+#4	AnnotatorNotes T15	TODO document

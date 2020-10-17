@@ -29,7 +29,11 @@ T16	Kingdom 1134 1139	plant
 N13	Reference T16 Taxonomy:33090	Viridiplantae
 T17	Kingdom 1413 1419	plants
 N14	Reference T17 Taxonomy:33090	Viridiplantae
-T19	Strain 644 648	spr2
+T19	Out-of-scope 644 648	spr2
 T18	Strain 682 693	35S::prosys
-T20	Strain 895 899	spr2
+T20	Out-of-scope 895 899	spr2
 T21	Strain 1122 1133	35S::prosys
+#1	AnnotatorNotes T19	TODO confirm OOS (protein)
+#2	AnnotatorNotes T20	TODO confirm OOS (protein)
+#3	AnnotatorNotes T18	TODO check type
+#4	AnnotatorNotes T21	TODO check type

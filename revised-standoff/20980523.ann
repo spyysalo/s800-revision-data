@@ -1,8 +1,8 @@
-T1	Strain 56 76	H1N1 influenza virus
+T1	Strain 56 60	H1N1
 T2	Family 144 159	influenza virus
 T3	Family 309 324	influenza virus
-T4	Strain 424 438	H1N1 influenza
-T5	Strain 524 536	H1N1 viruses
+T4	Strain 424 428	H1N1
+T5	Strain 524 528	H1N1
 T7	Strain 797 799;807 822	H1 influenza virus
 N7	Reference T7 Taxonomy:11309
 T8	Strain 804 822	H3 influenza virus
@@ -11,7 +11,7 @@ T9	Strain 889 910	H1N1 A/CA/04/09 virus
 N9	Reference T9 Taxonomy:11320
 T10	Strain 981 983	H1
 N10	Reference T10 Taxonomy:11309
-T11	Strain 1498 1518	H1N1 influenza virus
+T11	Strain 1498 1502	H1N1
 T12	Species 92 97	mouse
 T13	Species 787 791	mice
 T14	Species 1109 1113	mice
@@ -28,11 +28,11 @@ N6	Reference T16 Taxonomy:11308	Orthomyxoviridae
 T6	Strain 918 926	CA/E3/09
 N16	Reference T17 Taxonomy:11308	Orthomyxoviridae
 T18	Strain 1041 1049	CA/E3/09
-#1	AnnotatorNotes T5	TODO check span (head "viruses")
-#2	AnnotatorNotes T1	TODO check span
+#1	AnnotatorNotes T5	TODO confirm span
+#2	AnnotatorNotes T1	TODO confirm span
 #3	AnnotatorNotes T18	TODO check
 #4	AnnotatorNotes T6	TODO check
-#5	AnnotatorNotes T4	TODO check span
+#5	AnnotatorNotes T4	TODO confirm span
 T19	Kingdom 612 617	virus
 N19	Reference T19 Taxonomy:10239	Viruses
 T20	Kingdom 861 866	virus
@@ -44,5 +44,11 @@ N22	Reference T22 Taxonomy:10239	Viruses
 N5	Reference T5 Taxonomy:114727	H1N1 subtype
 N1	Reference T1 Taxonomy:114727	H1N1 subtype
 N11	Reference T11 Taxonomy:114727	H1N1 subtype
-#6	AnnotatorNotes T11	TODO check span
+#6	AnnotatorNotes T11	TODO confirm span
 N4	Reference T4 Taxonomy:114727	H1N1 subtype
+T23	Family 61 76	influenza virus
+N15	Reference T23 Taxonomy:11308	Orthomyxoviridae
+T24	Kingdom 529 536	viruses
+N18	Reference T24 Taxonomy:10239	Viruses
+T25	Family 1503 1518	influenza virus
+N23	Reference T25 Taxonomy:11308	Orthomyxoviridae

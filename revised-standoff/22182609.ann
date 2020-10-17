@@ -28,17 +28,17 @@ T15	Kingdom 290 296	fungal
 N14	Reference T15 Taxonomy:4751	Fungi
 T16	Kingdom 329 335	fungal
 N15	Reference T16 Taxonomy:4751	Fungi
-T17	Out-of-scope 430 433	AMF
+T17	Kingdom 430 433	AMF
 N16	Reference T17 Taxonomy:4751	Fungi
-T18	Out-of-scope 145 148	AMF
+T18	Kingdom 145 148	AMF
 N17	Reference T18 Taxonomy:4751	Fungi
 T19	Kingdom 650 656	fungus
 N18	Reference T19 Taxonomy:4751	Fungi
-T20	Out-of-scope 945 948	AMF
+T20	Kingdom 945 948	AMF
 N19	Reference T20 Taxonomy:4751	Fungi
-T21	Out-of-scope 1139 1142	AMF
+T21	Kingdom 1139 1142	AMF
 N20	Reference T21 Taxonomy:4751	Fungi
-T22	Out-of-scope 1323 1326	AMF
+T22	Kingdom 1323 1326	AMF
 N21	Reference T22 Taxonomy:4751	Fungi
 N2	Reference T2 Taxonomy:937382	Claroideoglomus etunicatum
 T23	Kingdom 161 166	plant
@@ -57,3 +57,8 @@ T29	Family 1080 1088	whitefly
 N28	Reference T29 Taxonomy:7036	Aleyrodidae
 N29	Reference T6 Taxonomy:4097	Nicotiana tabacum
 #1	AnnotatorNotes T6	TODO check norm
+#2	AnnotatorNotes T18	TODO check type
+#3	AnnotatorNotes T17	TODO check type
+#4	AnnotatorNotes T20	TODO check type
+#5	AnnotatorNotes T21	TODO check type
+#6	AnnotatorNotes T22	TODO check type

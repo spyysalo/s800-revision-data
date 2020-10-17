@@ -4,5 +4,7 @@ N1	Reference T1 Taxonomy:4097	Nicotiana tabacum
 N2	Reference T2 Taxonomy:4565	Triticum aestivum
 T3	Genus 499 510	Arabidopsis
 N3	Reference T3 Taxonomy:3701	Arabidopsis
-T4	Strain 560 564	ost1
-T5	Strain 1268 1272	ost1
+T4	Out-of-scope 560 564	ost1
+T5	Out-of-scope 1268 1272	ost1
+#1	AnnotatorNotes T4	TODO confirm OOS (protein)
+#2	AnnotatorNotes T5	TODO confirm OOS (protein)

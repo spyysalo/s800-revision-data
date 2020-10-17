@@ -23,10 +23,11 @@ T12	Strain 910 915	NL4-3
 #2	AnnotatorNotes T9	Note: "anti-" prefix
 T13	Species 164 167	HIV
 N10	Reference T13 Taxonomy:12721	Human immunodeficiency virus
-#3	AnnotatorNotes T12	TODO recheck type
+#3	AnnotatorNotes T12	TODO recheck type and norm
 T14	Species 1456 1459	HIV
 N11	Reference T14 Taxonomy:12721	Human immunodeficiency virus
 T15	Kingdom 334 339	virus
 N12	Reference T15 Taxonomy:10239	Viruses
 N13	Reference T10 Taxonomy:9606	
 N14	Reference T11 Taxonomy:9606	
+N15	Reference T12 Taxonomy:151458	HIV-1 vector pNL4-3

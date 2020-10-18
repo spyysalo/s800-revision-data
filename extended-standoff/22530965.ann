@@ -17,10 +17,8 @@ N9	Reference T9 Taxonomy:10090
 T10	Species 1912 1928	L. monocytogenes
 N10	Reference T10 Taxonomy:1639	
 T11	Strain 378 380	4a
-#1	AnnotatorNotes T11	TODO check (serotype)
 T12	Strain 382 385	L99
 T13	Strain 391 393	4b
-#3	AnnotatorNotes T13	TODO check (serotype)
 T14	Strain 395 404	CLIP80459
 T15	Strain 635 641	4a L99
 #2	AnnotatorNotes T15	TODO check
@@ -41,3 +39,4 @@ T23	Strain 1751 1761	EGD-e 1/2a
 N8	Reference T13 Taxonomy:176281	Listeria monocytogenes ATCC 19115
 N12	Reference T12 Taxonomy:563174	Listeria monocytogenes L99
 N11	Reference T16 Taxonomy:563174	Listeria monocytogenes L99
+N13	Reference T14 Taxonomy:568819	Listeria monocytogenes serotype 4b str. CLIP 80459

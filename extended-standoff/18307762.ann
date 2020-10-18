@@ -44,7 +44,7 @@ T22	Species 912 933	Acromyrmex echinatior
 N22	Reference T22 Taxonomy:103372	Acromyrmex echinatior
 T23	Phylum 989 994	yeast
 N23	Reference T23 Taxonomy:147537	Saccharomycotina
-T24	Family 1341 1351	gongylidia
-N24	Reference T24 Taxonomy:1907092	Gongylidium
+T24	Out-of-scope 1341 1351	gongylidia
 T25	Species 1714 1735	Acromyrmex echinatior
 N25	Reference T25 Taxonomy:103372	Acromyrmex echinatior
+#1	AnnotatorNotes T24	anatomy

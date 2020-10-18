@@ -6,23 +6,23 @@ N3	Reference T3 Taxonomy:11676
 T4	Species 569 574	HIV-1
 N4	Reference T4 Taxonomy:11676
 T5	Species 707 715	CRF01_AE
-T6	Strain 840 849	subtype B
-N6	Reference T6 Taxonomy:11676
+T6	Strain 848 849	B
 T7	Species 914 922	CRF01_AE
 T8	Species 1063 1066	HIV
 N8	Reference T8 Taxonomy:12721
 T9	Species 1127 1135	CRF01_AE
-T10	Strain 1140 1149	subtype B
-N10	Reference T10 Taxonomy:11676
+T10	Strain 1148 1149	B
 T11	Species 1378 1381	HIV
 N11	Reference T11 Taxonomy:12721
 T12	Species 1550 1553	HIV
 N12	Reference T12 Taxonomy:12721
-#1	AnnotatorNotes T6	TODO check
-#2	AnnotatorNotes T10	TODO check
+#1	AnnotatorNotes T6	TODO confirm span ("subtype")
+#2	AnnotatorNotes T10	TODO confirm span ("subtype")
 T13	Kingdom 1098 1103	Virus
 N13	Reference T13 Taxonomy:10239	Viruses
 N1	Reference T1 Taxonomy:471721	HIV-1 CRF01_AE
 N5	Reference T5 Taxonomy:471721	HIV-1 CRF01_AE
 N7	Reference T7 Taxonomy:471721	HIV-1 CRF01_AE
 N9	Reference T9 Taxonomy:471721	HIV-1 CRF01_AE
+N6	Reference T6 Taxonomy:388795	HIV-1 group M
+N10	Reference T10 Taxonomy:388795	HIV-1 group M

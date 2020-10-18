@@ -20,7 +20,7 @@ T10	Species 1022 1025	HAV
 N10	Reference T10 Taxonomy:12092
 T11	Species 1118 1121	HAV
 N11	Reference T11 Taxonomy:12092
-T12	Species 1131 1135	hens
+T12	Out-of-scope 1131 1135	hens
 N12	Reference T12 Taxonomy:9031
 T13	Species 1300 1317	hepatitis A virus
 N13	Reference T13 Taxonomy:12092
@@ -34,3 +34,4 @@ T15	Class 894 899	birds
 N15	Reference T15 Taxonomy:8782	Aves
 T16	Kingdom 1052 1057	Viral
 N16	Reference T16 Taxonomy:10239	Viruses
+#5	AnnotatorNotes T12	TODO check

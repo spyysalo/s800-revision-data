@@ -11,7 +11,6 @@ N5	Reference T5 Taxonomy:10245
 T6	Species 1248 1262	vaccinia virus
 N6	Reference T6 Taxonomy:10245
 T7	Strain 1282 1287	VVCop
-N7	Reference T7 Taxonomy:10245
 T8	Species 1693 1707	vaccinia virus
 N8	Reference T8 Taxonomy:10245
 T9	Species 1849 1863	vaccinia virus
@@ -19,7 +18,6 @@ N9	Reference T9 Taxonomy:10245
 T10	Species 1904 1918	vaccinia virus
 N10	Reference T10 Taxonomy:10245
 T11	Strain 1270 1280	Copenhagen
-N11	Reference T11 Taxonomy:10245	
 T12	Family 1630 1638	poxvirus
 N12	Reference T12 Taxonomy:10240	Poxviridae
 T13	Family 543 553	poxviruses
@@ -27,14 +25,16 @@ N13	Reference T13 Taxonomy:10240	Poxviridae
 T14	Family 374 384	Poxviruses
 N14	Reference T14 Taxonomy:10240	Poxviridae
 T15	Strain 757 762	VV811
-N15	Reference T15 Taxonomy:10245	Vaccinia virus
 T16	Strain 1024 1029	VV811
-N16	Reference T16 Taxonomy:10245	Vaccinia virus
 T17	Strain 1163 1168	VV811
-N17	Reference T17 Taxonomy:10245	Vaccinia virus
 T18	Strain 1305 1310	VV811
-N18	Reference T18 Taxonomy:10245	Vaccinia virus
 T19	Strain 1523 1528	VV811
-N19	Reference T19 Taxonomy:10245	Vaccinia virus
 T20	Kingdom 282 287	virus
 N20	Reference T20 Taxonomy:10239	Viruses
+N21	Reference T11 Taxonomy:10249	Vaccinia virus Copenhagen
+N22	Reference T7 Taxonomy:10249	Vaccinia virus Copenhagen
+#1	AnnotatorNotes T15	TODO norm
+#2	AnnotatorNotes T16	TODO norm
+#3	AnnotatorNotes T17	TODO norm
+#4	AnnotatorNotes T18	TODO norm
+#5	AnnotatorNotes T19	TODO norm

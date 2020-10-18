@@ -22,10 +22,8 @@ T16	Species 902 908	murine
 N16	Reference T16 Taxonomy:10090	Mus musculus
 N2	Reference T2 Taxonomy:61673	Porcine endogenous retrovirus
 #2	AnnotatorNotes T8	TODO discuss and document type and norm
-T17	Out-of-scope 456 460	PERV
-#3	AnnotatorNotes T17	TODO discuss and document abbrev as part of name of non-organism type
-T18	Out-of-scope 1243 1249	PERV-A
-#4	AnnotatorNotes T18	TODO discuss and document abbrev as part of name of non-organism type
+T17	Species 456 460	PERV
+T18	Species 1243 1249	PERV-A
 N3	Reference T3 Taxonomy:61673	Porcine endogenous retrovirus
 N6	Reference T6 Taxonomy:61673	Porcine endogenous retrovirus
 N1	Reference T1 Taxonomy:194959	Porcine endogenous retrovirus B
@@ -35,3 +33,7 @@ N14	Reference T14 Taxonomy:194959	Porcine endogenous retrovirus B
 N11	Reference T11 Taxonomy:194959	Porcine endogenous retrovirus B
 N13	Reference T13 Taxonomy:194958	Porcine endogenous retrovirus A
 N12	Reference T12 Taxonomy:194958	Porcine endogenous retrovirus A
+N17	Reference T17 Taxonomy:61673	Porcine endogenous retrovirus
+#1	AnnotatorNotes T17	TODO discuss and document abbrev as part of name of non-organism type
+N18	Reference T18 Taxonomy:194958	Porcine endogenous retrovirus A
+#3	AnnotatorNotes T18	TODO discuss and document abbrev as part of name of non-organism type

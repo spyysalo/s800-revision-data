@@ -2,20 +2,20 @@ T1	Species 719 724	peach
 N1	Reference T1 Taxonomy:3760
 T2	Out-of-scope 61 72	stone fruit
 #1	AnnotatorNotes T2	TODO confirm OOS
-T3	Family 52 56;67 72	pome fruit
+T3	Family 52 56	pome
 N2	Reference T3 Taxonomy:3745	Rosaceae
-#2	AnnotatorNotes T3	TODO check
 T4	Out-of-scope 257 268	stone fruit
 #3	AnnotatorNotes T4	TODO confirm OOS
-T5	Family 248 252;263 268	pome fruit
-N3	Reference T5 Taxonomy:3745	Rosaceae
-#4	AnnotatorNotes T5	TODO check
-T6	Family 641 651	pome fruit
+T6	Family 641 645	pome
 N4	Reference T6 Taxonomy:3745	Rosaceae
-#5	AnnotatorNotes T6	TODO check
 T7	Out-of-scope 669 680	stone fruit
 #6	AnnotatorNotes T7	TODO confirm OOS
 T8	Genus 710 714	pear
 N5	Reference T8 Taxonomy:3766	Pyrus
 T9	Kingdom 1194 1199	plant
 N6	Reference T9 Taxonomy:33090	Viridiplantae
+T5	Family 248 252	pome
+N3	Reference T5 Taxonomy:3745	Rosaceae
+#2	AnnotatorNotes T6	TODO check
+#4	AnnotatorNotes T3	TODO check
+#5	AnnotatorNotes T5	TODO check

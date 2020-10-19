@@ -4,10 +4,8 @@ T2	Species 157 165	WN virus
 N2	Reference T2 Taxonomy:11082
 T3	Species 405 432	Japanese encephalitis virus
 N3	Reference T3 Taxonomy:11072
-T4	Species 493 495	WN
-N4	Reference T4 Taxonomy:11082
-T5	Species 682 684	WN
-N5	Reference T5 Taxonomy:11082
+T4	Out-of-scope 493 495	WN
+T5	Out-of-scope 682 684	WN
 T6	Species 899 902	WNV
 N6	Reference T6 Taxonomy:11082
 T7	Species 1265 1268	WNV
@@ -18,12 +16,9 @@ T10	Species 266 281	West Nile virus
 N10	Reference T10 Taxonomy:11082	
 T11	Species 283 286	WNV
 N11	Reference T11 Taxonomy:11082	
-T12	Species 482 491	West Nile
-N12	Reference T12 Taxonomy:11082	
-T13	Species 1025 1027	WN
-N13	Reference T13 Taxonomy:11082	
-T14	Species 204 206	WN
-N14	Reference T14 Taxonomy:11082	
+T12	Out-of-scope 482 491	West Nile
+T13	Out-of-scope 1025 1027	WN
+T14	Out-of-scope 204 206	WN
 T15	Species 320 323	WNV
 N15	Reference T15 Taxonomy:11082	
 T16	Species 434 437	JEV
@@ -44,3 +39,8 @@ T23	Species 950 956	horses
 N23	Reference T23 Taxonomy:9796	Equus caballus
 T9	Genus 381 393	flaviviruses
 N9	Reference T9 Taxonomy:11051	Flavivirus
+#1	AnnotatorNotes T12	TODO confirm OOS
+#2	AnnotatorNotes T4	TODO confirm OOS
+#3	AnnotatorNotes T5	TODO confirm OOS
+#4	AnnotatorNotes T13	TODO confirm OOS
+#5	AnnotatorNotes T14	TODO confirm OOS

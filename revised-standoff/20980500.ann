@@ -24,12 +24,12 @@ N15	Reference T15 Taxonomy:10239	Viruses
 T16	Kingdom 786 791	viral
 N16	Reference T16 Taxonomy:10239	Viruses
 N1	Reference T1 Taxonomy:10579	Human papillomavirus type 8
-#2	AnnotatorNotes T1	TODO check
+#2	AnnotatorNotes T1	TODO check span ("type")
 T17	Species 27 47	human papillomavirus
 N17	Reference T17 Taxonomy:10566	Human papillomavirus
 T18	Strain 141 147	type 8
 N18	Reference T18 Taxonomy:10579	Human papillomavirus type 8
-#3	AnnotatorNotes T18	TODO check
+#3	AnnotatorNotes T18	TODO check span ("type")
 N5	Reference T5 Taxonomy:10579	Human papillomavirus type 8
 #4	AnnotatorNotes T5	TODO check
 N8	Reference T8 Taxonomy:10579	Human papillomavirus type 8

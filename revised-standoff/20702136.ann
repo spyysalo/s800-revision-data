@@ -18,9 +18,8 @@ T11	Phylum 631 639	Cercozoa
 N11	Reference T11 Taxonomy:136419	Cercozoa
 T12	Out-of-scope 459 467	Rhizaria
 N12	Reference T12 Taxonomy:543769	Rhizaria
-T13	Genus 604 613	euglyphid
-N13	Reference T13 Taxonomy:39713	Euglypha
-#1	AnnotatorNotes T13	TODO discuss span
+T13	Order 604 613	euglyphid
+#1	AnnotatorNotes T13	TODO discuss span, confirm norm and type
 T2	Out-of-scope 120 135	testate amoebae
 #2	AnnotatorNotes T2	non-taxonomic
 T1	Out-of-scope 614 629	testate amoebae
@@ -29,3 +28,4 @@ T14	Kingdom 313 323	eukaryotes
 N1	Reference T14 Taxonomy:2759	Eukaryota
 T15	Kingdom 278 284	animal
 N2	Reference T15 Taxonomy:33208	Metazoa
+N14	Reference T13 Taxonomy:178369	Euglyphida

@@ -21,13 +21,10 @@ N10	Reference T10 Taxonomy:11176
 T11	Species 988 990	MV
 N11	Reference T11 Taxonomy:11234
 T12	Strain 1006 1011	NDV-H
-N12	Reference T12 Taxonomy:11176
 T13	Species 1029 1031	MV
 N13	Reference T13 Taxonomy:11234
 T14	Strain 1033 1038	NDV-H
-N14	Reference T14 Taxonomy:11176
 T15	Strain 1162 1167	NDV-H
-N15	Reference T15 Taxonomy:11176
 T16	Species 1411 1413	MV
 N16	Reference T16 Taxonomy:11234
 T17	Species 1436 1438	MV
@@ -46,3 +43,6 @@ T1001	Genus 455 466	cotton rats
 N1001	Reference T1001 Taxonomy:42414	
 T1002	Genus 1135 1146	cotton rats
 N1002	Reference T1002 Taxonomy:42414	
+#1	AnnotatorNotes T12	TODO check span and norm
+#2	AnnotatorNotes T14	TODO check span and norm
+#3	AnnotatorNotes T15	TODO check span and norm

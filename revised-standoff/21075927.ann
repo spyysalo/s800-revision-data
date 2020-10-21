@@ -3,14 +3,14 @@ N1	Reference T1 Taxonomy:485
 T2	Species 215 237	Neisseria meningitidis
 N2	Reference T2 Taxonomy:487
 T3	Species 1634 1647	meningococcal
-T1001	Genus 76 86	gonococcal
-N1001	Reference T1001 Taxonomy:482	
-T1002	Genus 159 169	gonococcal
-N1002	Reference T1002 Taxonomy:482	
-T1003	Genus 701 711	gonococcal
-N1003	Reference T1003 Taxonomy:482	
-T1004	Genus 1556 1566	gonococcal
-N1004	Reference T1004 Taxonomy:482	
-T1005	Genus 1619 1629	gonococcal
-N1005	Reference T1005 Taxonomy:482	
+T1001	Species 76 86	gonococcal
+T1002	Species 159 169	gonococcal
+T1003	Species 701 711	gonococcal
+T1004	Species 1556 1566	gonococcal
+T1005	Species 1619 1629	gonococcal
 N3	Reference T3 Taxonomy:487	Neisseria meningitidis
+N4	Reference T1001 Taxonomy:485	Neisseria gonorrhoeae
+N5	Reference T1002 Taxonomy:485	Neisseria gonorrhoeae
+N6	Reference T1003 Taxonomy:485	Neisseria gonorrhoeae
+N7	Reference T1004 Taxonomy:485	Neisseria gonorrhoeae
+N8	Reference T1005 Taxonomy:485	Neisseria gonorrhoeae

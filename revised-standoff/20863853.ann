@@ -1,7 +1,7 @@
 T1	Family 47 59	adenoviruses
 T2	Species 64 81	JC polyomaviruses
 N2	Reference T2 Taxonomy:10632
-T3	Species 358 359	2
+T3	Strain 358 359	2
 T4	Species 371 388	JC polyomaviruses
 N4	Reference T4 Taxonomy:10632
 T6	Family 128 140	adenoviruses
@@ -11,9 +11,8 @@ T9	Species 171 176	JCPyV
 T10	Species 240 245	human
 T11	Family 987 999	adenoviruses
 N5	Reference T10 Taxonomy:9606	Homo sapiens
-T5	Species 364 366	41
+T5	Strain 364 366	41
 N7	Reference T11 Taxonomy:10508	Adenoviridae
-N3	Reference T3 Taxonomy:10515	Human adenovirus 2
 N8	Reference T5 Taxonomy:10524	Human adenovirus 41
 T12	Strain 396 401	Mad-4
 T13	Kingdom 859 864	viral
@@ -41,3 +40,5 @@ T21	Family 339 351	adenoviruses
 N20	Reference T21 Taxonomy:10508	Adenoviridae
 T22	Species 333 338	human
 N21	Reference T22 Taxonomy:9606	Homo sapiens
+#1	AnnotatorNotes T7	TODO document (partial abbrev) 
+N3	Reference T3 Taxonomy:10515	Human adenovirus 2

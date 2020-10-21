@@ -27,12 +27,14 @@ N7	Reference T7 Taxonomy:5193
 T2	Phylum 192 202	Ascomycota
 N2	Reference T2 Taxonomy:4890	Ascomycota
 T8	Out-of-scope 1337 1346	Esculenta
-#1	AnnotatorNotes T8	clade
+#1	AnnotatorNotes T8	TODO check type/norm (clade?)
 T9	Out-of-scope 1293 1298	Elata
-#2	AnnotatorNotes T9	clade
 T10	Species 1655 1660	morel
 N8	Reference T10 Taxonomy:39407	
 T11	Kingdom 269 274	fungi
 N9	Reference T11 Taxonomy:4751	Fungi
 T12	Out-of-scope 335 345	macrofungi
 #3	AnnotatorNotes T12	TODO check
+N10	Reference T8 Taxonomy:385002	Morella esculenta
+N11	Reference T9 Taxonomy:39930	Morchella elata
+#2	AnnotatorNotes T9	TODO check type/norm (clade?)

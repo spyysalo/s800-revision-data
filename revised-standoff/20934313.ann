@@ -12,7 +12,7 @@ T7	Genus 558 569	Rhizomastix
 N5	Reference T7 Taxonomy:1211399	Rhizomastix
 T8	Genus 706 717	Rhizomastix
 N6	Reference T8 Taxonomy:1211399	Rhizomastix
-T9	Out-of-scope 721 732	Archamoebae
+T9	Phylum 721 732	Archamoebae
 N7	Reference T9 Taxonomy:555406	Archamoebae
 T10	Class 253 260	insects
 N8	Reference T10 Taxonomy:50557	Insecta
@@ -26,3 +26,4 @@ T14	Out-of-scope 163 180	amoeboflagellates
 #2	AnnotatorNotes T14	not a taxonomical term, no norms for this
 #3	AnnotatorNotes T1	Not found in NCBI Taxonomy as of 10/2020
 #4	AnnotatorNotes T2	Not found in NCBI Taxonomy as of 10/2020
+#5	AnnotatorNotes T9	Type assigned based on rank of first non-clade ancestor node 2605435

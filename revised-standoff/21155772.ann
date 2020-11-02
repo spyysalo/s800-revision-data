@@ -12,5 +12,7 @@ T6	Species 1605 1610	human
 N6	Reference T6 Taxonomy:9606
 T7	Species 2018 2023	human
 N7	Reference T7 Taxonomy:9606
-T8	Out-of-scope 796 807	vertebrates
+T8	Phylum 796 807	vertebrates
 N8	Reference T8 Taxonomy:7742	Vertebrata
+#1	AnnotatorNotes T8	Type assigned based on rank of first non-clade ancestor node 89593
+T9	Out-of-scope 1355 1365	herbivores

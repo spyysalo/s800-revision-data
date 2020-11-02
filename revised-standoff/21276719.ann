@@ -1,7 +1,7 @@
 T1001	Out-of-scope 200 207	amoebae
-T1	Out-of-scope 364 374	coniferous
+T1	Phylum 364 374	coniferous
 N1	Reference T1 Taxonomy:3312	Coniferophyta
-T2	Out-of-scope 740 747	conifer
+T2	Phylum 740 747	conifer
 N2	Reference T2 Taxonomy:3312	Coniferophyta
 T3	Family 1058 1075	Cheirolepidiaceae
 N3	Reference T3 Taxonomy:29632	Cheiropleuriaceae
@@ -10,3 +10,5 @@ T5	Out-of-scope 184 195	flagellates
 T6	Kingdom 947 952	plant
 N4	Reference T6 Taxonomy:33090	Viridiplantae
 N5	Reference T4 Taxonomy:5878	Ciliophora
+#1	AnnotatorNotes T2	Type assigned based on rank of first non-clade ancestor node 131221
+#2	AnnotatorNotes T1	Type assigned based on rank of first non-clade ancestor node 131221

@@ -18,3 +18,12 @@ N8	Reference T8 Taxonomy:4762	Oomycota
 N7	Reference T7 Taxonomy:1577725	Conticribra weissflogii
 T9	Phylum 1356 1363	diatoms
 N9	Reference T9 Taxonomy:2836	Bacillariophyta
+T10	Kingdom 156 168	stramenopile
+N10	Reference T10 Taxonomy:33634	Stramenopiles
+#1	AnnotatorNotes T10	Type assigned based on rank of first non-clade ancestor node 2759
+T11	Kingdom 714 726	stramenopile
+N11	Reference T11 Taxonomy:33634	Stramenopiles
+#2	AnnotatorNotes T11	Type assigned based on rank of first non-clade ancestor node 2759
+T12	Kingdom 1232 1244	stramenopile
+N12	Reference T12 Taxonomy:33634	Stramenopiles
+#3	AnnotatorNotes T12	Type assigned based on rank of first non-clade ancestor node 2759

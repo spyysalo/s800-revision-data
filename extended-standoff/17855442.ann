@@ -22,7 +22,7 @@ T11	Family 1519 1526	viperid
 N8	Reference T11 Taxonomy:8689	Viperidae
 T12	Out-of-scope 1782 1787	slugs
 #4	AnnotatorNotes T12	TODO check
-T13	Out-of-scope 1788 1794	snails
-#5	AnnotatorNotes T13	TODO check
+T13	Class 1788 1794	snails
 T14	Order 1879 1884	snake
 N9	Reference T14 Taxonomy:8570	
+N10	Reference T13 Taxonomy:6448	Gastropoda

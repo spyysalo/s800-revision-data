@@ -26,7 +26,7 @@ T13	Genus 1219 1230	Spongospora
 N13	Reference T13 Taxonomy:70185	Spongospora
 T14	Genus 1294 1305	Spongospora
 N14	Reference T14 Taxonomy:70185	Spongospora
-T15	Out-of-scope 193 206	stramenopiles
+T15	Kingdom 193 206	stramenopiles
 N15	Reference T15 Taxonomy:33634	Stramenopiles
 T16	Kingdom 24 29	plant
 T17	Kingdom 182 188	plants
@@ -42,3 +42,4 @@ N18	Reference T18 Taxonomy:33090	Viridiplantae
 N19	Reference T19 Taxonomy:33090	Viridiplantae
 N20	Reference T20 Taxonomy:33090	Viridiplantae
 N21	Reference T21 Taxonomy:33090	Viridiplantae
+#1	AnnotatorNotes T15	Type assigned based on rank of first non-clade ancestor node 2759

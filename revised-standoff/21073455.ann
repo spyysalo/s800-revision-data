@@ -14,3 +14,6 @@ T5	Family 358 364	bovids
 N5	Reference T5 Taxonomy:9895	Bovidae
 T6	Kingdom 538 545	animals
 N6	Reference T6 Taxonomy:33208	Metazoa
+T7	Phylum 175 186	vertebrates
+N7	Reference T7 Taxonomy:7742	Vertebrata
+#1	AnnotatorNotes T7	Type assigned based on rank of first non-clade ancestor node 89593

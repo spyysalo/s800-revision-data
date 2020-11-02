@@ -45,7 +45,7 @@ N26	Reference T26 Taxonomy:10239
 T27	Kingdom 2283 2290	viruses
 N27	Reference T27 Taxonomy:10239	
 #1	AnnotatorNotes T6	TODO check span ("DNA")
-T29	Out-of-scope 900 914	prymnesiophyte
+T29	Class 900 914	prymnesiophyte
 N29	Reference T29 Taxonomy:2608131	Prymnesiophyceae
 T30	Class 946 957	haptophytes
 N30	Reference T30 Taxonomy:2830	Haptophyta
@@ -75,7 +75,7 @@ T25	Genus 2086 2098	phaeoviruses
 N24	Reference T25 Taxonomy:181085	Phaeovirus
 T39	Kingdom 2174 2179	virus
 N25	Reference T39 Taxonomy:10239	
-T40	Out-of-scope 2316 2330	prymnesiophyte
+T40	Class 2316 2330	prymnesiophyte
 N31	Reference T40 Taxonomy:2608131	Prymnesiophyceae
 T41	Class 2335 2347	prasinophyte
 T28	Kingdom 1717 1722	viral
@@ -83,3 +83,5 @@ N28	Reference T28 Taxonomy:10239
 T42	Kingdom 56 61	virus
 N32	Reference T42 Taxonomy:10239	
 #11	AnnotatorNotes T41	Not found in NCBI Taxonomy as of 10/2020 <http://www.marinespecies.org/aphia.php?p=taxdetails&id=17329>
+#12	AnnotatorNotes T29	Type assigned based on rank of first non-clade ancestor node 2830
+#13	AnnotatorNotes T40	Type assigned based on rank of first non-clade ancestor node 2830

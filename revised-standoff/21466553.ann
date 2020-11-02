@@ -31,5 +31,6 @@ N15	Reference T15 Taxonomy:8015	Salmonidae
 T16	Out-of-scope 1464 1468	fish
 T17	Out-of-scope 1488 1492	fish
 T18	Out-of-scope 2367 2371	fish
-T19	Out-of-scope 2262 2273	vertebrates
+T19	Phylum 2262 2273	vertebrates
 N16	Reference T19 Taxonomy:7742	Vertebrata
+#1	AnnotatorNotes T19	Type assigned based on rank of first non-clade ancestor node 89593

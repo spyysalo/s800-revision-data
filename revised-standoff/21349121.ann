@@ -10,3 +10,6 @@ T5	Class 361 368	insects
 N5	Reference T5 Taxonomy:50557	Insecta
 T6	Class 870 877	insects
 N6	Reference T6 Taxonomy:50557	Insecta
+T7	Phylum 179 190	vertebrates
+N7	Reference T7 Taxonomy:7742	Vertebrata
+#1	AnnotatorNotes T7	Type assigned based on rank of first non-clade ancestor node 89593

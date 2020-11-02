@@ -6,7 +6,9 @@ T3	Class 1427 1442	dinoflagellates
 N3	Reference T3 Taxonomy:2864	Dinophyceae
 T4	Phylum 1447 1460	apicomplexans
 N4	Reference T4 Taxonomy:5794	Apicomplexa
-T5	Out-of-scope 227 236	alveolate
+T5	Kingdom 227 236	alveolate
 N5	Reference T5 Taxonomy:33630	Alveolata
-T6	Out-of-scope 1499 1509	alveolates
+T6	Kingdom 1499 1509	alveolates
 N6	Reference T6 Taxonomy:33630	Alveolata
+#1	AnnotatorNotes T5	Type assigned based on rank of first non-clade ancestor node 2759
+#2	AnnotatorNotes T6	Type assigned based on rank of first non-clade ancestor node 2759

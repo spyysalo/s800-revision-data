@@ -30,10 +30,11 @@ N6	Reference T7 Taxonomy:3332
 T9	Family 1385 1390	aphid
 N8	Reference T9 Taxonomy:27482	
 T8	Species 259 277	green spruce aphid
-T10	Out-of-scope 1108 1115	conifer
+T10	Phylum 1108 1115	conifer
 N9	Reference T10 Taxonomy:3312	Coniferophyta
 T11	Kingdom 1249 1255	plants
 N10	Reference T11 Taxonomy:33090	Viridiplantae
 N11	Reference T6 Taxonomy:527671	Elatobium abietinum
 N7	Reference T8 Taxonomy:527605	Cinara fornacula
 #1	AnnotatorNotes T8	TODO confirm norm
+#2	AnnotatorNotes T10	Type assigned based on rank of first non-clade ancestor node 131221

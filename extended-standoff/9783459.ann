@@ -32,11 +32,11 @@ T16	Phylum 487 497	Euglenozoa
 N16	Reference T16 Taxonomy:33682	Euglenozoa
 T17	Phylum 499 511	chlorophytes
 N17	Reference T17 Taxonomy:3041	Chlorophyta
-T18	Out-of-scope 513 524	heterokonts
+T18	Kingdom 513 524	heterokonts
 N18	Reference T18 Taxonomy:33634	Stramenopiles
-T19	Out-of-scope 530 540	alveolates
+T19	Kingdom 530 540	alveolates
 N19	Reference T19 Taxonomy:33630	Alveolata
-#1	AnnotatorNotes T19	TODO: document
-#2	AnnotatorNotes T18	TODO: document
+#1	AnnotatorNotes T19	Type assigned based on rank of first non-clade ancestor node 2759
+#2	AnnotatorNotes T18	Type assigned based on rank of first non-clade ancestor node 2759
 T20	Phylum 729 740	green algal
 N20	Reference T20 Taxonomy:3041	Chlorophyta

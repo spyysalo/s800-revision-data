@@ -5,7 +5,7 @@ T1002	Order 74 85	Arcellinida
 N1002	Reference T1002 Taxonomy:318493	
 T1004	Order 482 493	Arcellinida
 N1004	Reference T1004 Taxonomy:318493	
-T4	Out-of-scope 63 72	Amoebozoa
+T4	Kingdom 63 72	Amoebozoa
 N1	Reference T4 Taxonomy:554915	Amoebozoa
 T5	Out-of-scope 25 39	testate amoeba
 #1	AnnotatorNotes T5	non-taxonomic
@@ -22,3 +22,4 @@ N5	Reference T10 Taxonomy:2759	Eukaryota
 #3	AnnotatorNotes T1	Not found in NCBI Taxonomy as of 10/2020 [genus of uncertain affiliation]
 #4	AnnotatorNotes T2	Not found in NCBI Taxonomy as of 10/2020 [genus of uncertain affiliation]
 #5	AnnotatorNotes T3	Not found in NCBI Taxonomy as of 10/2020 [genus of uncertain affiliation]
+#6	AnnotatorNotes T4	Type assigned based on rank of first non-clade ancestor node 2759

@@ -22,21 +22,21 @@ T11	Genus 937 947	Mantamonas
 N11	Reference T11 Taxonomy:1046569	Mantamonas
 T12	Family 1275 1288	Planomonadida
 N12	Reference T12 Taxonomy:1294546	Planomonadidae
-T13	Out-of-scope 80 88	Apusozoa
+T13	Kingdom 80 88	Apusozoa
 N13	Reference T13 Taxonomy:554296	Apusozoa
-T14	Out-of-scope 200 208	Apusozoa
+T14	Kingdom 200 208	Apusozoa
 N14	Reference T14 Taxonomy:554296	Apusozoa
-T15	Out-of-scope 1491 1499	Apusozoa
+T15	Kingdom 1491 1499	Apusozoa
 N15	Reference T15 Taxonomy:554296	Apusozoa
-T16	Out-of-scope 1102 1110	Apusozoa
+T16	Kingdom 1102 1110	Apusozoa
 N16	Reference T16 Taxonomy:554296	Apusozoa
-T17	Out-of-scope 1116 1125	Amoebozoa
+T17	Kingdom 1116 1125	Amoebozoa
 N17	Reference T17 Taxonomy:554915	Amoebozoa
 T18	Out-of-scope 25 38	zooflagellate
 #1	AnnotatorNotes T18	non-taxonomical
 T19	Out-of-scope 139 153	zooflagellates
 #2	AnnotatorNotes T19	non-taxonomical
-T20	Out-of-scope 766 774	Apusozoa
+T20	Kingdom 766 774	Apusozoa
 N18	Reference T20 Taxonomy:554296	Apusozoa
 T21	Family 174 184	apusomonad
 N19	Reference T21 Taxonomy:172820	Apusomonadidae
@@ -44,11 +44,20 @@ T22	Family 189 199	planomonad
 N20	Reference T22 Taxonomy:1294546	Planomonadidae
 T23	Out-of-scope 1078 1086	unikonts
 #3	AnnotatorNotes T23	Taxonomical super group
-T24	Out-of-scope 1088 1100	opisthokonts
+T24	Kingdom 1088 1100	opisthokonts
 T25	Kingdom 1020 1030	eukaryotes
 N22	Reference T25 Taxonomy:2759	Eukaryota
-T26	Out-of-scope 1398 1407	apusozoan
+T26	Kingdom 1398 1407	apusozoan
 N23	Reference T26 Taxonomy:554296	Apusozoa
-T27	Out-of-scope 1408 1418	amoebozoan
+T27	Kingdom 1408 1418	amoebozoan
 N24	Reference T27 Taxonomy:554915	Amoebozoa
 N25	Reference T24 Taxonomy:33154	Opisthokonta
+#4	AnnotatorNotes T13	Type assigned based on rank of first non-clade ancestor node 2759
+#5	AnnotatorNotes T14	Type assigned based on rank of first non-clade ancestor node 2759
+#6	AnnotatorNotes T20	Type assigned based on rank of first non-clade ancestor node 2759
+#7	AnnotatorNotes T16	Type assigned based on rank of first non-clade ancestor node 2759
+#8	AnnotatorNotes T17	Type assigned based on rank of first non-clade ancestor node 2759
+#9	AnnotatorNotes T26	Type assigned based on rank of first non-clade ancestor node 2759
+#10	AnnotatorNotes T27	Type assigned based on rank of first non-clade ancestor node 2759
+#11	AnnotatorNotes T15	Type assigned based on rank of first non-clade ancestor node 2759
+#12	AnnotatorNotes T24	Type assigned based on rank of first non-clade ancestor node 2759

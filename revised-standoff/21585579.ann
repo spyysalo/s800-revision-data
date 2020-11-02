@@ -1,8 +1,9 @@
 T1	Species 324 344	Helicoverpa armigera
 N1	Reference T1 Taxonomy:29058
-T2	Out-of-scope 188 199	vertebrates
-N2	Reference T2 Taxonomy:7742	Vertebrata
+T2	Phylum 188 199	vertebrates
 T3	Kingdom 787 796	bacterial
 N3	Reference T3 Taxonomy:2	Bacteria
 T4	Kingdom 801 806	viral
 N4	Reference T4 Taxonomy:10239	Viruses
+#1	AnnotatorNotes T2	Type assigned based on rank of first non-clade ancestor node 89593
+N2	Reference T2 Taxonomy:7742	Vertebrata

@@ -2,7 +2,7 @@ T1	Species 92 110	Porphyra yezoensis
 N1	Reference T1 Taxonomy:2788	
 T2	Species 259 277	Porphyra yezoensis
 N2	Reference T2 Taxonomy:2788	
-T3	Out-of-scope 570 583	higher plants
+T3	Phylum 570 583	higher plants
 T4	Class 585 592	mammals
 N4	Reference T4 Taxonomy:40674	
 T5	Phylum 606 619	cyanobacteria
@@ -10,9 +10,8 @@ T8	Phylum 82 90	red alga
 N8	Reference T8 Taxonomy:2763	Rhodophyta
 T9	Phylum 249 257	red alga
 N3	Reference T3 Taxonomy:3193	Embryophyta
-T10	Kingdom 577 583	plants
-N9	Reference T10 Taxonomy:33090	Viridiplantae
 T11	Phylum 594 600	yeasts
 N10	Reference T11 Taxonomy:147537	Saccharomycotina
 N11	Reference T5 Taxonomy:1117	Cyanobacteria
 N5	Reference T9 Taxonomy:2763	Rhodophyta
+#1	AnnotatorNotes T3	Type assigned based on rank of first non-clade ancestor node 131221

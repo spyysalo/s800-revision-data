@@ -1,10 +1,7 @@
-T2	Kingdom 160 166	plants
-N2	Reference T2 Taxonomy:33090	Viridiplantae
 T5	Class 876 887	angiosperms
 N5	Reference T5 Taxonomy:3398	Magnoliopsida
-T6	Out-of-scope 978 986	monocots
-N6	Reference T6 Taxonomy:4447	Liliopsida
-#1	AnnotatorNotes T6	TODO: document
+T6	Class 978 986	monocots
+#1	AnnotatorNotes T6	Type assigned based on rank of first non-clade ancestor node 3398
 T7	Order 992 1000	Laurales
 N7	Reference T7 Taxonomy:3432	Laurales
 T8	Order 1002 1013	Magnoliales
@@ -21,11 +18,11 @@ T13	Family 1074 1085	Illiciaceae
 N13	Reference T13 Taxonomy:16733	Schisandraceae
 T14	Out-of-scope 923 934	noneudicots
 #2	AnnotatorNotes T14	TODO: document
-T15	Out-of-scope 1095 1103	eudicots
-#3	AnnotatorNotes T15	TODO: document
-T16	Out-of-scope 1144 1152	asterids
+T15	Class 1095 1103	eudicots
+#3	AnnotatorNotes T15	Type assigned based on rank of first non-clade ancestor node 3398
+T16	Class 1144 1152	asterids
 N14	Reference T16 Taxonomy:71274	asterids
-T17	Out-of-scope 1157 1163	rosids
+T17	Class 1157 1163	rosids
 N15	Reference T17 Taxonomy:71275	rosids
 T18	Out-of-scope 1214 1225	noneudicots
 #4	AnnotatorNotes T18	TODO: document
@@ -46,11 +43,15 @@ N22	Reference T25 Taxonomy:16733	Schisandraceae
 T26	Class 1539 1550	angiosperms
 N23	Reference T26 Taxonomy:3398	Magnoliopsida
 N24	Reference T15 Taxonomy:71240	eudicotyledons
-#5	AnnotatorNotes T16	TODO: document
-#6	AnnotatorNotes T17	TODO: document
+#5	AnnotatorNotes T16	Type assigned based on rank of first non-clade ancestor node 3398
+#6	AnnotatorNotes T17	Type assigned based on rank of first non-clade ancestor node 3398
 T27	Class 17 33	flowering plants
 N25	Reference T27 Taxonomy:3398	
 T28	Class 314 330	flowering plants
 N26	Reference T28 Taxonomy:3398	
 T29	Class 441 457	flowering plants
 N27	Reference T29 Taxonomy:3398	
+T1	Phylum 155 166	seed plants
+N1	Reference T1 Taxonomy:58024	Spermatophyta
+#7	AnnotatorNotes T1	Type assigned based on rank of first non-clade ancestor node 131221
+N3	Reference T6 Taxonomy:4447	Liliopsida

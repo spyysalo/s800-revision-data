@@ -10,3 +10,6 @@ T1005	Order 1521 1528	primate
 N1005	Reference T1005 Taxonomy:9443	
 T1006	Order 1830 1837	primate
 N1006	Reference T1006 Taxonomy:9443	
+T1	Phylum 1623 1633	vertebrate
+N1	Reference T1 Taxonomy:7742	Vertebrata
+#1	AnnotatorNotes T1	Type assigned based on rank of first non-clade ancestor node 89593

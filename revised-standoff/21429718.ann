@@ -13,7 +13,7 @@ T1003	Genus 144 154	Dermamoeba
 N1003	Reference T1003 Taxonomy:242548	
 T1004	Out-of-scope 181 188	amoebae
 T1005	Out-of-scope 651 658	amoebae
-T6	Out-of-scope 28 37	Amoebozoa
+T6	Kingdom 28 37	Amoebozoa
 N4	Reference T6 Taxonomy:554915	Amoebozoa
 N5	Reference T1002 Taxonomy:554915	Amoebozoa
 N6	Reference T1004 Taxonomy:554915	Amoebozoa
@@ -22,3 +22,4 @@ T7	Phylum 69 75	lobose
 N8	Reference T7 Taxonomy:555369	Tubulinea
 #1	AnnotatorNotes T5	Not found in NCBI Taxonomy as of 10/2020
 #2	AnnotatorNotes T4	Not found in NCBI Taxonomy as of 10/2020
+#3	AnnotatorNotes T6	Type assigned based on rank of first non-clade ancestor node 2759

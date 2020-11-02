@@ -2,9 +2,9 @@ T1	Species 17 32	praying mantids
 N1	Reference T1 Taxonomy:7507	Mantis religiosa
 T2	Genus 34 42	Mantodea
 N2	Reference T2 Taxonomy:7504	Mantodea
-T3	Out-of-scope 45 56	Dictyoptera
+T3	Class 45 56	Dictyoptera
 N3	Reference T3 Taxonomy:6970	Dictyoptera
-#1	AnnotatorNotes T3	TODO: document
+#1	AnnotatorNotes T3	Type assigned based on rank of first non-clade ancestor node 33341
 T4	Order 74 85	cockroaches
 N4	Reference T4 Taxonomy:85823	Blattodea
 T5	Family 87 95	termites

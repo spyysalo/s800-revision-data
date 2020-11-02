@@ -38,3 +38,6 @@ T19	Family 1557 1570	sphenodontids
 N9	Reference T19 Taxonomy:8506	Sphenodontidae
 T20	Species 1620 1633	Gullus gullus
 #2	AnnotatorNotes T20	Not found in NCBI Taxonomy as of 10/2020
+T21	Phylum 988 998	vertebrate
+N19	Reference T21 Taxonomy:7742	Vertebrata
+#3	AnnotatorNotes T21	Type assigned based on rank of first non-clade ancestor node 89593

@@ -1,15 +1,15 @@
-T1	Out-of-scope 37 46	marsupial
-#1	AnnotatorNotes T1	TODO: document
+T1	Class 37 46	marsupial
+#1	AnnotatorNotes T1	Type assigned based on rank of first non-clade ancestor node 40674
 N1	Reference T1 Taxonomy:9263	Metatheria
-T2	Out-of-scope 205 214	marsupial
+T2	Class 205 214	marsupial
 N2	Reference T2 Taxonomy:9263	Metatheria
-#2	AnnotatorNotes T2	TODO: document
-T3	Out-of-scope 353 362	Marsupial
+#2	AnnotatorNotes T2	Type assigned based on rank of first non-clade ancestor node 40674
+T3	Class 353 362	Marsupial
 N3	Reference T3 Taxonomy:9263	Metatheria
-#3	AnnotatorNotes T3	TODO: document
-T4	Out-of-scope 515 524	marsupial
+#3	AnnotatorNotes T3	Type assigned based on rank of first non-clade ancestor node 40674
+T4	Class 515 524	marsupial
 N4	Reference T4 Taxonomy:9263	Metatheria
-#4	AnnotatorNotes T4	TODO: document
+#4	AnnotatorNotes T4	Type assigned based on rank of first non-clade ancestor node 40674
 T5	Class 146 155	mammalian
 N5	Reference T5 Taxonomy:40674	Mammalia
 T6	Genus 672 682	Dromiciops
@@ -40,8 +40,8 @@ T18	Family 977 989	caenolestids
 N18	Reference T18 Taxonomy:30659	Caenolestidae
 T19	Family 994 1004	didelphids
 N19	Reference T19 Taxonomy:9265	Didelphidae
-T20	Out-of-scope 249 259	marsupials
+T20	Class 249 259	marsupials
 N20	Reference T20 Taxonomy:9263	Metatheria
-#5	AnnotatorNotes T20	TODO: document
+#5	AnnotatorNotes T20	Type assigned based on rank of first non-clade ancestor node 40674
 T21	Class 420 427	mammals
 N21	Reference T21 Taxonomy:40674	Mammalia

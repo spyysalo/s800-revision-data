@@ -4,3 +4,21 @@ T2	Species 389 408	Gryllus bimaculatus
 N2	Reference T2 Taxonomy:6999
 T3	Genus 988 998	Drosophila
 N3	Reference T3 Taxonomy:7215	Drosophila
+T4	Family 117 124	cricket
+N4	Reference T4 Taxonomy:6995	Gryllidae
+T5	Out-of-scope 111 124	field cricket
+#1	AnnotatorNotes T5	TODO check
+T6	Family 265 272	cricket
+N5	Reference T6 Taxonomy:6995	Gryllidae
+T7	Family 314 321	cricket
+N6	Reference T7 Taxonomy:6995	Gryllidae
+T8	Family 381 388	cricket
+N7	Reference T8 Taxonomy:6995	Gryllidae
+T9	Family 667 674	cricket
+N8	Reference T9 Taxonomy:6995	Gryllidae
+T10	Family 1059 1066	cricket
+N9	Reference T10 Taxonomy:6995	Gryllidae
+T11	Family 1244 1251	cricket
+N10	Reference T11 Taxonomy:6995	Gryllidae
+T12	Out-of-scope 375 388	field cricket
+#2	AnnotatorNotes T12	TODO check

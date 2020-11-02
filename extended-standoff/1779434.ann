@@ -30,9 +30,10 @@ T16	Class 1295 1311	flowering plants
 N20	Reference T16 Taxonomy:3398	
 #1	AnnotatorNotes T4	TODO check, norm
 #2	AnnotatorNotes T8	TODO check, norm
-T17	Out-of-scope 186 196	heterokont
+T17	Kingdom 186 196	heterokont
 N4	Reference T17 Taxonomy:33634	Stramenopiles
 T18	Kingdom 789 796	animals
 N5	Reference T18 Taxonomy:33208	Metazoa
 T19	Kingdom 1366 1372	animal
 N6	Reference T19 Taxonomy:33208	Metazoa
+#3	AnnotatorNotes T17	Type assigned based on rank of first non-clade ancestor node 2759

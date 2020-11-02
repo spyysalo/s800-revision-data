@@ -4,9 +4,9 @@ N2	Reference T2 Taxonomy:33208	Metazoa
 T3	Class 255 262	insects
 T4	Class 347 353	insect
 T5	Class 431 438	insects
-T6	Out-of-scope 443 454	vertebrates
+T6	Phylum 443 454	vertebrates
 N6	Reference T6 Taxonomy:7742	Vertebrata
-T7	Out-of-scope 463 473	vertebrate
+T7	Phylum 463 473	vertebrate
 N7	Reference T7 Taxonomy:7742	Vertebrata
 T8	Class 571 578	insects
 T9	Class 746 753	insects
@@ -24,3 +24,5 @@ N8	Reference T8 Taxonomy:50557	Insecta
 N9	Reference T9 Taxonomy:50557	Insecta
 N13	Reference T13 Taxonomy:50557	Insecta
 N12	Reference T12 Taxonomy:50557	Insecta
+#1	AnnotatorNotes T6	Type assigned based on rank of first non-clade ancestor node 89593
+#2	AnnotatorNotes T7	Type assigned based on rank of first non-clade ancestor node 89593

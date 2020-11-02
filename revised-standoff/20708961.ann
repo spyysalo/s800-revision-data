@@ -40,7 +40,9 @@ T15	Class 1336 1350	ichthyosporean
 N11	Reference T15 Taxonomy:127916	
 T16	Kingdom 371 381	eukaryotes
 N12	Reference T16 Taxonomy:2759	Eukaryota
-T17	Out-of-scope 203 214	Opisthokont
-N14	Reference T17 Taxonomy:33154	Opisthokonta
-T18	Out-of-scope 290 302	opisthokonts
+T17	Kingdom 203 214	Opisthokont
+T18	Kingdom 290 302	opisthokonts
 N15	Reference T18 Taxonomy:33154	Opisthokonta
+N14	Reference T17 Taxonomy:33154	Opisthokonta
+#6	AnnotatorNotes T17	Type assigned based on rank of first non-clade ancestor node 2759
+#7	AnnotatorNotes T18	Type assigned based on rank of first non-clade ancestor node 2759

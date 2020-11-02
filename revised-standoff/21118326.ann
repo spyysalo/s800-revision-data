@@ -16,5 +16,6 @@ T8	Family 769 779	mosquitoes
 N8	Reference T8 Taxonomy:7157	Culicidae
 T9	Family 2246 2256	mosquitoes
 N9	Reference T9 Taxonomy:7157	Culicidae
-T10	Out-of-scope 869 879	vertebrate
+T10	Phylum 869 879	vertebrate
 N10	Reference T10 Taxonomy:7742	Vertebrata
+#1	AnnotatorNotes T10	Type assigned based on rank of first non-clade ancestor node 89593

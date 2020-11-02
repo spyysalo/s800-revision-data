@@ -16,9 +16,11 @@ T8	Kingdom 819 825	fungal
 N8	Reference T8 Taxonomy:4751	Fungi
 T9	Kingdom 1136 1142	fungal
 N9	Reference T9 Taxonomy:4751	Fungi
-T10	Out-of-scope 1286 1293	asterid
+T10	Class 1286 1293	asterid
 N10	Reference T10 Taxonomy:71274	asterids
-T11	Out-of-scope 1298 1303	rosid
+T11	Class 1298 1303	rosid
 N11	Reference T11 Taxonomy:71275	rosids
 T12	Kingdom 1342 1348	fungal
 N12	Reference T12 Taxonomy:4751	Fungi
+#1	AnnotatorNotes T11	Type assigned based on rank of first non-clade ancestor node 3398
+#2	AnnotatorNotes T10	Type assigned based on rank of first non-clade ancestor node 3398

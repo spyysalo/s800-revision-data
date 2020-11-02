@@ -10,11 +10,10 @@ N5	Reference T5 Taxonomy:2867
 T6	Class 154 168	dinoflagellate
 N6	Reference T6 Taxonomy:2864	Dinophyceae
 T7	Strain 237 239	V8
-T8	Out-of-scope 1146 1158	higher plant
+T8	Phylum 1146 1158	higher plant
 N7	Reference T8 Taxonomy:3193	Embryophyta
-T9	Kingdom 1153 1158	plant
-N8	Reference T9 Taxonomy:33090	Viridiplantae
 T10	Phylum 1185 1201	blue-green algal
 N9	Reference T10 Taxonomy:1117	Cyanobacteria
 N4	Reference T4 Taxonomy:1280	Staphylococcus aureus
 #1	AnnotatorNotes T7	Not found in NCBI Taxonomy as of 10/2020
+#2	AnnotatorNotes T8	Type assigned based on rank of first non-clade ancestor node 131221

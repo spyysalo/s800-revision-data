@@ -19,3 +19,6 @@ T7	Order 1564 1569	frogs
 N7	Reference T7 Taxonomy:8342	Anura
 T8	Order 65 69	frog
 N8	Reference T8 Taxonomy:8342	Anura
+T9	Phylum 156 167	vertebrates
+N9	Reference T9 Taxonomy:7742	Vertebrata
+#6	AnnotatorNotes T9	Type assigned based on rank of first non-clade ancestor node 89593

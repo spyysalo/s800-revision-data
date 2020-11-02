@@ -18,13 +18,15 @@ T8	Kingdom 163 173	eukaryotes
 N8	Reference T8 Taxonomy:2759	Eukaryota
 T9	Kingdom 697 707	eukaryotes
 N9	Reference T9 Taxonomy:2759	Eukaryota
-T10	Out-of-scope 685 696	opisthokont
+T10	Kingdom 685 696	opisthokont
 N10	Reference T10 Taxonomy:33154	Opisthokonta
 T11	Phylum 829 836	ciliate
 N11	Reference T11 Taxonomy:5878	Ciliophora
-T12	Out-of-scope 791 803	opisthokonts
+T12	Kingdom 791 803	opisthokonts
 N12	Reference T12 Taxonomy:33154	Opisthokonta
 T13	Kingdom 805 810	fungi
 N13	Reference T13 Taxonomy:4751	Fungi
 T14	Kingdom 815 822	animals
 N14	Reference T14 Taxonomy:33208	Metazoa
+#1	AnnotatorNotes T10	Type assigned based on rank of first non-clade ancestor node 2759
+#2	AnnotatorNotes T12	Type assigned based on rank of first non-clade ancestor node 2759

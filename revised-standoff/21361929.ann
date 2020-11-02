@@ -1,2 +1,8 @@
 T1	Species 2583 2588	human
 N1	Reference T1 Taxonomy:9606
+T2	Phylum 1344 1354	vertebrate
+N2	Reference T2 Taxonomy:7742	Vertebrata
+#1	AnnotatorNotes T2	Type assigned based on rank of first non-clade ancestor node 89593
+T3	Phylum 1806 1816	vertebrate
+N3	Reference T3 Taxonomy:7742	Vertebrata
+#2	AnnotatorNotes T3	Type assigned based on rank of first non-clade ancestor node 89593

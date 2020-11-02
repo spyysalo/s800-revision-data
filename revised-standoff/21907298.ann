@@ -60,3 +60,6 @@ N27	Reference T29 Taxonomy:33208	Metazoa
 N28	Reference T19 Taxonomy:59765	Fusarium oxysporum f. sp. lycopersici
 N8	Reference T20 Taxonomy:426428	Fusarium oxysporum f. sp. lycopersici 4287
 N29	Reference T8 Taxonomy:426428	Fusarium oxysporum f. sp. lycopersici 4287
+T30	Phylum 1265 1275	vertebrate
+N30	Reference T30 Taxonomy:7742	Vertebrata
+#1	AnnotatorNotes T30	Type assigned based on rank of first non-clade ancestor node 89593

@@ -4,7 +4,7 @@ T2	Species 238 256	Stylonychia lemnae
 N2	Reference T2 Taxonomy:5949	
 T3	Species 651 669	Stylonychia lemnae
 N3	Reference T3 Taxonomy:5949	
-T4	Out-of-scope 1099 1110	vertebrates
+T4	Phylum 1099 1110	vertebrates
 T5	Phylum 85 92	ciliate
 N5	Reference T5 Taxonomy:5878	Ciliophora
 T6	Class 217 229	hypotrichous
@@ -12,3 +12,4 @@ N6	Reference T6 Taxonomy:5934	Hypotrichia
 T7	Phylum 230 237	ciliate
 N7	Reference T7 Taxonomy:5878	Ciliophora
 N4	Reference T4 Taxonomy:7742	Vertebrata
+#1	AnnotatorNotes T4	Type assigned based on rank of first non-clade ancestor node 89593

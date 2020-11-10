@@ -8,17 +8,21 @@ T4	Kingdom 899 904	plant
 N4	Reference T4 Taxonomy:33090	Viridiplantae
 T5	Kingdom 1109 1114	plant
 N5	Reference T5 Taxonomy:33090	Viridiplantae
-T6	Kingdom 239 242	AMF
-#1	AnnotatorNotes T6	TODO check: abbref head is "fungi"
-T7	Kingdom 293 296	AMF
-#2	AnnotatorNotes T7	TODO check: abbref head is "fungi"
-T8	Kingdom 380 383	AMF
-#3	AnnotatorNotes T8	TODO check: abbref head is "fungi"
-T9	Kingdom 561 564	AMF
-#4	AnnotatorNotes T9	TODO check: abbref head is "fungi"
-T10	Kingdom 810 813	AMF
-#5	AnnotatorNotes T10	TODO check: abbref head is "fungi"
-T11	Kingdom 1148 1151	AMF
-#6	AnnotatorNotes T11	TODO check: abbref head is "fungi"
-T12	Kingdom 1018 1021	AMF
-#7	AnnotatorNotes T12	TODO check: abbref head is "fungi"
+T6	Out-of-scope 239 242	AMF
+#1	AnnotatorNotes T6	non-taxonomic
+T7	Out-of-scope 293 296	AMF
+#2	AnnotatorNotes T7	non-taxonomic
+T8	Out-of-scope 380 383	AMF
+#3	AnnotatorNotes T8	non-taxonomic
+T9	Out-of-scope 561 564	AMF
+#4	AnnotatorNotes T9	non-taxonomic
+T10	Out-of-scope 810 813	AMF
+#5	AnnotatorNotes T10	non-taxonomic
+T11	Out-of-scope 1148 1151	AMF
+#6	AnnotatorNotes T11	non-taxonomic
+T12	Out-of-scope 1018 1021	AMF
+#7	AnnotatorNotes T12	non-taxonomic
+T13	Out-of-scope 209 237	arbuscular mycorrhizal fungi
+#8	AnnotatorNotes T13	non-taxonomic
+T14	Family 710 715	grass
+N6	Reference T14 Taxonomy:4479	Poaceae

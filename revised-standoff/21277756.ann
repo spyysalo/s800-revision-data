@@ -2,3 +2,7 @@ T1	Species 30 49	Paramecium caudatum
 N1	Reference T1 Taxonomy:5885
 T2	Species 617 636	Paramecium caudatum
 N2	Reference T2 Taxonomy:5885
+T3	Out-of-scope 500 508	protozoa
+#1	AnnotatorNotes T3	non-taxonomic
+T4	Out-of-scope 609 616	protist
+#2	AnnotatorNotes T4	non-taxonomic

@@ -9,16 +9,15 @@ T6	Kingdom 691 696	viral
 N6	Reference T6 Taxonomy:10239	Viruses
 T7	Out-of-scope 264 270	virion
 N7	Reference T7 Taxonomy:10239	Viruses
-T8	Kingdom 947 954	viruses
-N8	Reference T8 Taxonomy:10239	Viruses
 T9	Species 1005 1021	Bunyamwera virus
 N10	Reference T9 Taxonomy:1933179	Bunyamwera orthobunyavirus
 T10	Family 1097 1112	influenza virus
 N9	Reference T10 Taxonomy:11308	Orthomyxoviridae
 #1	AnnotatorNotes T7	TODO check
 N3	Reference T1 Taxonomy:12557	Seoul virus 80-39
-#2	AnnotatorNotes T1	TODO check/document type/norm
+#2	AnnotatorNotes T1	TODO confirm type/norm rule documented
 N1	Reference T3 Taxonomy:12557	Seoul virus 80-39
-#3	AnnotatorNotes T3	TODO check/document type/norm
 N4	Reference T4 Taxonomy:12557	Seoul virus 80-39
-#4	AnnotatorNotes T4	TODO check/document type/norm
+T11	Kingdom 943 954	RNA viruses
+N11	Reference T11 Taxonomy:2559587	Riboviria
+#5	AnnotatorNotes T11	Type assigned based on rank of first non-clade ancestor node 10239

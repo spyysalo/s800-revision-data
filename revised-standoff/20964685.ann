@@ -4,8 +4,6 @@ T2	Species 1633 1644	A. arenaria
 N2	Reference T2 Taxonomy:96047
 T3	Kingdom 78 83	plant
 T4	Kingdom 186 192	plants
-T5	Out-of-scope 655 665	dune grass
-#1	AnnotatorNotes T5	TODO confirm OOS
 T6	Kingdom 735 741	plants
 T7	Out-of-scope 1445 1457	invertebrate
 T8	Kingdom 1870 1875	plant
@@ -21,3 +19,5 @@ T12	Kingdom 1485 1490	plant
 N10	Reference T12 Taxonomy:33090	Viridiplantae
 N6	Reference T8 Taxonomy:33090	Viridiplantae
 N8	Reference T10 Taxonomy:33090	Viridiplantae
+T13	Family 660 665	grass
+N11	Reference T13 Taxonomy:4479	Poaceae

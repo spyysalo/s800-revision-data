@@ -8,8 +8,6 @@ T4	Kingdom 369 376	viruses
 N4	Reference T4 Taxonomy:10239	
 T5	Family 384 399	Phycodnaviridae
 N5	Reference T5 Taxonomy:10501	
-T6	Kingdom 707 714	viruses
-N6	Reference T6 Taxonomy:10239	
 T7	Family 821 836	Phycodnaviridae
 N7	Reference T7 Taxonomy:10501	
 T8	Kingdom 878 885	viruses
@@ -44,7 +42,6 @@ T26	Kingdom 2253 2260	viruses
 N26	Reference T26 Taxonomy:10239	
 T27	Kingdom 2283 2290	viruses
 N27	Reference T27 Taxonomy:10239	
-#1	AnnotatorNotes T6	TODO check span ("DNA")
 T29	Class 900 914	prymnesiophyte
 N29	Reference T29 Taxonomy:2608131	Prymnesiophyceae
 T30	Class 946 957	haptophytes
@@ -85,3 +82,18 @@ N32	Reference T42 Taxonomy:10239
 #11	AnnotatorNotes T41	Not found in NCBI Taxonomy as of 10/2020 <http://www.marinespecies.org/aphia.php?p=taxdetails&id=17329>
 #12	AnnotatorNotes T29	Type assigned based on rank of first non-clade ancestor node 2830
 #13	AnnotatorNotes T40	Type assigned based on rank of first non-clade ancestor node 2830
+T43	Kingdom 703 714	DNA viruses
+N33	Reference T43 Taxonomy:2080735	DNA viruses
+#14	AnnotatorNotes T43	Type assigned based on rank of first non-clade ancestor node 10239
+T6	Out-of-scope 130 135	Algal
+#1	AnnotatorNotes T6	non-taxonomic
+T44	Out-of-scope 363 368	algal
+#15	AnnotatorNotes T44	non-taxonomic
+T45	Out-of-scope 1428 1433	algal
+#16	AnnotatorNotes T45	non-taxonomic
+T46	Out-of-scope 1818 1822	alga
+#17	AnnotatorNotes T46	non-taxonomic
+T47	Out-of-scope 2247 2252	algal
+#18	AnnotatorNotes T47	non-taxonomic
+T48	Out-of-scope 2348 2352	alga
+#19	AnnotatorNotes T48	non-taxonomic

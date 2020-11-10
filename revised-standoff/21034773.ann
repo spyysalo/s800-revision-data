@@ -26,9 +26,12 @@ T13	Kingdom 330 338	bacteria
 N13	Reference T13 Taxonomy:2	Bacteria
 T18	Kingdom 379 387	bacteria
 N14	Reference T18 Taxonomy:2	Bacteria
-T14	Kingdom 418 425	viruses
-N15	Reference T14 Taxonomy:10239	Viruses
-T19	Kingdom 454 461	viruses
-N16	Reference T19 Taxonomy:10239	Viruses
-T20	Kingdom 511 518	viruses
-N17	Reference T20 Taxonomy:10239	Viruses
+T15	Kingdom 414 425	DNA viruses
+N18	Reference T15 Taxonomy:2080735	DNA viruses
+#1	AnnotatorNotes T15	Type assigned based on rank of first non-clade ancestor node 10239
+T14	Kingdom 450 461	RNA viruses
+N15	Reference T14 Taxonomy:2559587	Riboviria
+#2	AnnotatorNotes T14	Type assigned based on rank of first non-clade ancestor node 10239
+T16	Kingdom 507 518	RNA viruses
+N16	Reference T16 Taxonomy:2559587	Riboviria
+#3	AnnotatorNotes T16	Type assigned based on rank of first non-clade ancestor node 10239

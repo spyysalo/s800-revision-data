@@ -30,12 +30,12 @@ T1009	Genus 325 338	Neoheteromita
 N1009	Reference T1009 Taxonomy:1938445	
 T1010	Genus 343 357	Paracercomonas
 N1010	Reference T1010 Taxonomy:372085	
-T1011	Out-of-scope 527 534	amoebae
+T1011	Kingdom 527 534	amoebae
 T1012	Genus 880 888	Metopion
 N1012	Reference T1012 Taxonomy:188966	
 T1013	Genus 893 903	Metromonas
 N1013	Reference T1013 Taxonomy:281026	
-T1014	Out-of-scope 1054 1060	amoeba
+T1014	Kingdom 1054 1060	amoeba
 T1015	Order 1081 1097	Thaumatomonadida
 N1015	Reference T1015 Taxonomy:188944	
 T1016	Order 1129 1143	Spongomonadida
@@ -95,3 +95,11 @@ T23	Kingdom 836 845	eukaryote
 N18	Reference T23 Taxonomy:2759	Eukaryota
 T24	Phylum 194 201	filosan
 #5	AnnotatorNotes T7	Not found in NCBI Taxonomy as of 10/2020
+T25	Out-of-scope 15 23	protists
+#6	AnnotatorNotes T25	non-taxonomic
+T26	Out-of-scope 520 534	filose amoebae
+#7	AnnotatorNotes T26	TODO check
+N19	Reference T1014 Taxonomy:554915	Amoebozoa
+#8	AnnotatorNotes T1014	Type assigned based on rank of first non-clade ancestor node 2759
+N20	Reference T1011 Taxonomy:554915	Amoebozoa
+#9	AnnotatorNotes T1011	Type assigned based on rank of first non-clade ancestor node 2759

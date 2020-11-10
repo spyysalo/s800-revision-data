@@ -18,7 +18,8 @@ T9	Species 1245 1249	MCDV
 N9	Reference T9 Taxonomy:932662
 T10	Family 466 479	dicistrovirus
 N10	Reference T10 Taxonomy:232795	Dicistroviridae
-T11	Kingdom 173 178	virus
-N11	Reference T11 Taxonomy:10239	Viruses
 T12	Out-of-scope 144 178	single-stranded positive RNA virus
 #1	AnnotatorNotes T12	descriptive
+T13	Kingdom 169 178	RNA virus
+N12	Reference T13 Taxonomy:2559587	Riboviria
+#2	AnnotatorNotes T13	Type assigned based on rank of first non-clade ancestor node 10239

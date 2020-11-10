@@ -23,3 +23,9 @@ N5	Reference T10 Taxonomy:2759	Eukaryota
 #4	AnnotatorNotes T2	Not found in NCBI Taxonomy as of 10/2020 [genus of uncertain affiliation]
 #5	AnnotatorNotes T3	Not found in NCBI Taxonomy as of 10/2020 [genus of uncertain affiliation]
 #6	AnnotatorNotes T4	Type assigned based on rank of first non-clade ancestor node 2759
+T11	Kingdom 33 39	amoeba
+N6	Reference T11 Taxonomy:554915	Amoebozoa
+#7	AnnotatorNotes T11	Type assigned based on rank of first non-clade ancestor node 2759
+T12	Kingdom 474 480	amoeba
+N7	Reference T12 Taxonomy:554915	Amoebozoa
+#8	AnnotatorNotes T12	Type assigned based on rank of first non-clade ancestor node 2759

@@ -14,35 +14,33 @@ T8	Species 1647 1650	HIV
 N8	Reference T8 Taxonomy:12721	Human immunodeficiency virus
 N1	Reference T1 Taxonomy:11308	Orthomyxoviridae
 N3	Reference T3 Taxonomy:11308	Orthomyxoviridae
-T9	Genus 0 9	Norovirus
-T10	Strain 186 191	GII.4
+T10	Species 186 191	GII.4
 T11	Genus 45 56	Noroviruses
-T12	Strain 460 465	GII.4
-T13	Strain 631 636	GII.4
-T14	Strain 663 668	GII.4
-T15	Strain 675 680	GII.4
-T17	Strain 760 765	GII.4
-T18	Strain 855 860	GII.4
-T19	Strain 870 875	GII.4
-T20	Strain 896 901	GII.4
-T21	Strain 913 918	GII.4
-T22	Strain 968 973	GII.4
-T23	Strain 1108 1113	GII.4
-T24	Strain 1177 1182	GII.4
+T12	Species 460 465	GII.4
+T13	Species 631 636	GII.4
+T14	Species 663 668	GII.4
+T15	Species 675 680	GII.4
+T17	Species 760 765	GII.4
+T18	Species 855 860	GII.4
+T19	Species 870 875	GII.4
+T20	Species 896 901	GII.4
+T21	Species 913 918	GII.4
+T22	Species 968 973	GII.4
+T23	Species 1108 1113	GII.4
+T24	Species 1177 1182	GII.4
 T25	Genus 1537 1548	noroviruses
 T26	Genus 1675 1684	norovirus
 N11	Reference T11 Taxonomy:142786	Norovirus
 N26	Reference T26 Taxonomy:142786	Norovirus
-T27	Strain 10 15	GII.4
-T28	Strain 1531 1536	GII.4
-N9	Reference T9 Taxonomy:142786	Norovirus
+T27	Species 0 15	Norovirus GII.4
+T28	Species 1531 1536	GII.4
 N25	Reference T25 Taxonomy:142786	Norovirus
-T16	Strain 694 699	GII.4
-#1	AnnotatorNotes T16	Note: "anti-" prefix
-#2	AnnotatorNotes T21	Note: "anti-" prefix
+T16	Species 694 699	GII.4
+#1	AnnotatorNotes T16	Normalized according to nearest non-clade ancestor node 11983
+#2	AnnotatorNotes T21	Normalized according to nearest non-clade ancestor node 11983
 T29	Genus 220 229	norovirus
 N16	Reference T29 Taxonomy:142786	Norovirus
-#3	AnnotatorNotes T13	TODO check span (many in abstract)
+#3	AnnotatorNotes T13	Normalized according to nearest non-clade ancestor node 11983
 T30	Kingdom 580 585	virus
 N21	Reference T30 Taxonomy:10239	Viruses
 N27	Reference T27 Taxonomy:489821	Norovirus GII.4
@@ -61,3 +59,16 @@ N22	Reference T22 Taxonomy:489821	Norovirus GII.4
 N23	Reference T23 Taxonomy:489821	Norovirus GII.4
 N24	Reference T24 Taxonomy:489821	Norovirus GII.4
 N32	Reference T28 Taxonomy:489821	Norovirus GII.4
+#4	AnnotatorNotes T27	Normalized according to nearest non-clade ancestor node 11983
+#5	AnnotatorNotes T10	Normalized according to nearest non-clade ancestor node 11983
+#6	AnnotatorNotes T12	Normalized according to nearest non-clade ancestor node 11983
+#7	AnnotatorNotes T14	Normalized according to nearest non-clade ancestor node 11983
+#8	AnnotatorNotes T15	Normalized according to nearest non-clade ancestor node 11983
+#9	AnnotatorNotes T17	Normalized according to nearest non-clade ancestor node 11983
+#10	AnnotatorNotes T18	Normalized according to nearest non-clade ancestor node 11983
+#11	AnnotatorNotes T19	Normalized according to nearest non-clade ancestor node 11983
+#12	AnnotatorNotes T20	Normalized according to nearest non-clade ancestor node 11983
+#13	AnnotatorNotes T22	Normalized according to nearest non-clade ancestor node 11983
+#14	AnnotatorNotes T23	Normalized according to nearest non-clade ancestor node 11983
+#15	AnnotatorNotes T24	Normalized according to nearest non-clade ancestor node 11983
+#16	AnnotatorNotes T28	Normalized according to nearest non-clade ancestor node 11983

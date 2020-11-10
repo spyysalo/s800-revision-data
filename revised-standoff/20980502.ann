@@ -20,8 +20,6 @@ T1002	Class 255 262	mammals
 N1002	Reference T1002 Taxonomy:40674	
 T9	Kingdom 238 244	plants
 N9	Reference T9 Taxonomy:33090	Viridiplantae
-T10	Kingdom 293 300	viruses
-N10	Reference T10 Taxonomy:10239	Viruses
 T11	Kingdom 335 340	viral
 N11	Reference T11 Taxonomy:10239	Viruses
 T12	Kingdom 583 588	viral
@@ -32,3 +30,6 @@ T14	Kingdom 925 930	viral
 N14	Reference T14 Taxonomy:10239	Viruses
 T15	Kingdom 1726 1731	viral
 N15	Reference T15 Taxonomy:10239	Viruses
+T16	Kingdom 289 300	DNA viruses
+N16	Reference T16 Taxonomy:2080735	DNA viruses
+#1	AnnotatorNotes T16	Type assigned based on rank of first non-clade ancestor node 10239

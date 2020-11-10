@@ -17,7 +17,21 @@ N1003	Reference T1003 Taxonomy:173584
 T6	Class 224 230	insect
 N6	Reference T6 Taxonomy:50557	Insecta
 T7	Out-of-scope 1710 1720	leaf miner
-#1	AnnotatorNotes T7	TODO check
+#1	AnnotatorNotes T7	non-taxonomic
 T8	Genus 644 647	oak
 N7	Reference T8 Taxonomy:3511	Quercus
 T9	Out-of-scope 1998 2008	herbivores
+T10	Out-of-scope 766 771	trees
+#2	AnnotatorNotes T10	non-taxonomic
+T11	Out-of-scope 884 889	trees
+#3	AnnotatorNotes T11	non-taxonomic
+T12	Out-of-scope 1634 1639	trees
+#4	AnnotatorNotes T12	non-taxonomic
+T13	Out-of-scope 618 628	leaf miner
+#5	AnnotatorNotes T13	non-taxonomic
+T14	Out-of-scope 731 741	leaf miner
+#6	AnnotatorNotes T14	non-taxonomic
+T15	Out-of-scope 847 857	leaf miner
+#7	AnnotatorNotes T15	non-taxonomic
+T16	Out-of-scope 935 945	leaf miner
+#8	AnnotatorNotes T16	non-taxonomic

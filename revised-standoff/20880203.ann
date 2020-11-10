@@ -1,15 +1,10 @@
 T1	Species 27 35	broccoli
-N1	Reference T1 Taxonomy:3712
 T2	Species 126 134	broccoli
-N2	Reference T2 Taxonomy:3712
 T3	Species 136 153	Brassica oleracea
 N3	Reference T3 Taxonomy:3712
 T4	Species 632 640	broccoli
-N4	Reference T4 Taxonomy:3712
 T5	Species 737 745	broccoli
-N5	Reference T5 Taxonomy:3712
 T6	Species 1346 1354	broccoli
-N6	Reference T6 Taxonomy:3712
 T7	Species 1477 1482	human
 N7	Reference T7 Taxonomy:9606
 T8	Strain 159 166	italica
@@ -29,3 +24,8 @@ N13	Reference T14 Taxonomy:33090	Viridiplantae
 T15	Kingdom 1292 1298	plants
 N14	Reference T15 Taxonomy:33090	Viridiplantae
 N15	Reference T8 Taxonomy:36774	Brassica oleracea var. italica
+N1	Reference T1 Taxonomy:36774	Brassica oleracea var. italica
+N2	Reference T2 Taxonomy:36774	Brassica oleracea var. italica
+N4	Reference T4 Taxonomy:36774	Brassica oleracea var. italica
+N5	Reference T5 Taxonomy:36774	Brassica oleracea var. italica
+N6	Reference T6 Taxonomy:36774	Brassica oleracea var. italica

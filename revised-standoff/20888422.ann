@@ -1,8 +1,7 @@
 T3	Species 1219 1240	Morchella rufobrunnea
 N3	Reference T3 Taxonomy:368404
-T4	Species 1279 1291	black morels
-N4	Reference T4 Taxonomy:39930
-T5	Species 1322 1335	yellow morels
+T4	Species 1285 1291	morels
+T5	Species 1329 1335	morels
 N5	Reference T5 Taxonomy:39407
 T6	Species 1842 1848	Morels
 N6	Reference T6 Taxonomy:39407
@@ -38,3 +37,8 @@ T12	Out-of-scope 335 345	macrofungi
 N10	Reference T8 Taxonomy:385002	Morella esculenta
 N11	Reference T9 Taxonomy:39930	Morchella elata
 #2	AnnotatorNotes T9	TODO check type/norm (clade?)
+N4	Reference T4 Taxonomy:39407	
+T13	Out-of-scope 1279 1291	black morels
+#4	AnnotatorNotes T13	not monophyletic
+T14	Out-of-scope 1322 1335	yellow morels
+#5	AnnotatorNotes T14	not monophyletic

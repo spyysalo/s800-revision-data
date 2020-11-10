@@ -32,34 +32,33 @@ N8	Reference T12 Taxonomy:197905	Haptoria
 T13	Class 1528 1537	haptorian
 N9	Reference T13 Taxonomy:197905	Haptoria
 T14	Class 905 920	Rhynchostomatia
-T15	Genus 41 49	dileptid
-N10	Reference T15 Taxonomy:71587	Dileptus
+T15	Out-of-scope 41 49	dileptid
 T16	Class 54 64	tracheliid
 N11	Reference T16 Taxonomy:5988	Litostomatea
 T17	Phylum 65 73	ciliates
 N12	Reference T17 Taxonomy:5878	Ciliophora
 N13	Reference T3 Taxonomy:5988	Litostomatea
-T18	Genus 157 165	Dileptid
-N14	Reference T18 Taxonomy:71587	Dileptus
+T18	Out-of-scope 157 165	Dileptid
 T19	Class 170 180	tracheliid
 N16	Reference T10 Taxonomy:5988	Litostomatea
 N17	Reference T8 Taxonomy:5988	Litostomatea
 N18	Reference T14 Taxonomy:5988	Litostomatea
-T20	Genus 496 505	dileptids
-N19	Reference T20 Taxonomy:71587	Dileptus
+T20	Out-of-scope 496 505	dileptids
 T21	Class 510 521	tracheliids
 N20	Reference T21 Taxonomy:5988	Litostomatea
 N15	Reference T19 Taxonomy:5988	Litostomatea
 T22	Class 779 790	tracheliids
 N21	Reference T22 Taxonomy:5988	Litostomatea
-T23	Genus 765 774	dileptids
-N22	Reference T23 Taxonomy:71587	Dileptus
+T23	Out-of-scope 765 774	dileptids
 N23	Reference T1006 Taxonomy:1652550	Dileptidae
 #1	AnnotatorNotes T1004	TODO check norm
-#2	AnnotatorNotes T15	TODO check norm and type
+#2	AnnotatorNotes T15	not monophyletic
 T24	Class 419 432	litostomatean
 N24	Reference T24 Taxonomy:5988	
 T25	Phylum 181 189	ciliates
 N25	Reference T25 Taxonomy:5878	Ciliophora
 T26	Out-of-scope 742 747	trees
 #3	AnnotatorNotes T26	non-taxonomic
+#4	AnnotatorNotes T18	not monophyletic
+#5	AnnotatorNotes T20	not monophyletic
+#6	AnnotatorNotes T23	not monophyletic

@@ -23,7 +23,7 @@ N7	Reference T7 Taxonomy:10090	Mus musculus
 T8	Species 1002 1008	murine
 N8	Reference T8 Taxonomy:10090	Mus musculus
 T9	Out-of-scope 688 697	Mycovirus
-#1	AnnotatorNotes T9	TODO confirm OOS
+#1	AnnotatorNotes T9	non-taxonomic
 T10	Kingdom 144 150	fungus
 N9	Reference T10 Taxonomy:4751	Fungi
 T11	Kingdom 609 615	fungus
@@ -45,4 +45,8 @@ N17	Reference T18 Taxonomy:10239	Viruses
 N18	Reference T1002 Taxonomy:11012	Partitiviridae
 N19	Reference T1004 Taxonomy:11012	Partitiviridae
 T19	Out-of-scope 203 214	mycoviruses
-#2	AnnotatorNotes T19	TODO confirm OOS
+#2	AnnotatorNotes T19	non-taxonomic
+T20	Out-of-scope 15 32	dsRNA mycoviruses
+#3	AnnotatorNotes T20	non-taxonomic
+T21	Out-of-scope 250 261	mycoviruses
+#4	AnnotatorNotes T21	non-taxonomic

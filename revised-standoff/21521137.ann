@@ -2,8 +2,7 @@ T1	Species 58 81	Anopheles peditaeniatus
 N1	Reference T1 Taxonomy:206113
 T2	Species 123 146	Anopheles peditaeniatus
 N2	Reference T2 Taxonomy:206113
-T3	Species 235 242	buffalo
-N3	Reference T3 Taxonomy:89462
+T3	Out-of-scope 235 242	buffalo
 T4	Species 935 952	An. peditaeniatus
 N4	Reference T4 Taxonomy:206113
 T1001	Order 158 165	Diptera
@@ -12,3 +11,4 @@ T1002	Family 167 176	Culicidae
 N1002	Reference T1002 Taxonomy:7157	
 T5	Family 48 56	mosquito
 N5	Reference T5 Taxonomy:7157	Culicidae
+#1	AnnotatorNotes T3	not monophyletic

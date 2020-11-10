@@ -26,17 +26,17 @@ N13	Reference T13 Taxonomy:10239
 T14	Family 31 44	rhabdoviruses
 N14	Reference T14 Taxonomy:11270	Rhabdoviridae
 T15	Out-of-scope 130 139	livestock
-#1	AnnotatorNotes T15	TODO check
+#1	AnnotatorNotes T15	not taxonomic
 T16	Species 192 195	CPV
 T17	Species 839 842	CPV
 N16	Reference T17 Taxonomy:1972586	
 T18	Out-of-scope 881 896	dimarhabdovirus
 #2	AnnotatorNotes T18	TODO check
-T19	Species 1041 1048	buffalo
-N17	Reference T19 Taxonomy:9901	Bison bison
+T19	Out-of-scope 1041 1048	buffalo
 T20	Kingdom 437 442	virus
 N18	Reference T20 Taxonomy:10239	
 T21	Kingdom 568 573	viral
 N19	Reference T21 Taxonomy:10239	
 N3	Reference T3 Taxonomy:764599	Coastal Plains virus
 N15	Reference T16 Taxonomy:764599	Coastal Plains virus
+#3	AnnotatorNotes T19	not monophyletic

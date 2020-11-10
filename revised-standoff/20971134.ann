@@ -4,8 +4,7 @@ T2	Species 147 164	hepatitis A virus
 N2	Reference T2 Taxonomy:12092
 T3	Species 166 169	HAV
 N3	Reference T3 Taxonomy:12092
-T4	Species 192 196	hens
-N4	Reference T4 Taxonomy:9031
+T4	Out-of-scope 192 196	hens
 T5	Species 242 245	HAV
 N5	Reference T5 Taxonomy:12092
 T6	Species 258 261	HAV
@@ -21,10 +20,9 @@ N10	Reference T10 Taxonomy:12092
 T11	Species 1118 1121	HAV
 N11	Reference T11 Taxonomy:12092
 T12	Out-of-scope 1131 1135	hens
-N12	Reference T12 Taxonomy:9031
 T13	Species 1300 1317	hepatitis A virus
 N13	Reference T13 Taxonomy:12092
-#1	AnnotatorNotes T4	TODO discuss
+#1	AnnotatorNotes T4	non-taxonomic
 #2	AnnotatorNotes T8	Note: "anti-" prefix
 #3	AnnotatorNotes T10	Note: "anti-" prefix
 #4	AnnotatorNotes T11	Note: "anti-" prefix
@@ -34,4 +32,4 @@ T15	Class 894 899	birds
 N15	Reference T15 Taxonomy:8782	Aves
 T16	Kingdom 1052 1057	Viral
 N16	Reference T16 Taxonomy:10239	Viruses
-#5	AnnotatorNotes T12	TODO check
+#5	AnnotatorNotes T12	non-taxonomic
